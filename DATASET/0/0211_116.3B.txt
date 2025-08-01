@@ -1,0 +1,59 @@
+CONSULTATION DRAFT
+
+
+  The relationship between the investigations performed under this
+characterization program and the issues and programs that require information
+on erosion locations, rates, and processes is shown in Figure 8.3.1.6-1.
+
+Interrelationships of erosion investigations
+
+  Four investigations have been developed to provide the data required by
+the performance and design issues. Many of the necessary parameters have
+been obtained and evaluated as part of the ongoing scientific studies at the
+Nevada Test Site (NTS) in support of the weapons testing program. In most
+instances, data are not site specific and, therefore, not adequate to satisfy
+the performance and design issues. Studies will be carried out during site
+characterization to satisfy these remaining data needs.
+
+  Investigation 8.3.1.6.1 will collect site-specific data on Quaternary
+erosion and stream incision rates, which will be used to calculate average
+erosion rates on Yucca Mountain and to develop a history of the downcutting
+episode(s) of Fortymile Wash. Investigation 8.3.1.6.2 includes studies to
+assess the potential effects of future climatic changes on locations and
+rates of erosion. Previously established regional erosion rates suggest that
+future changes in the climatic regime will not significantly affect upland
+and hillslope erosion rates. Local erosion data on Yucca Mountain and an
+evaluation of the relationship of increased runoff in Fortymile Canyon,
+Fortymile Wash, and their tributaries to localized stream incision rates are
+needed for Information Need 2.7.1 (Section 8.3.2.3.1). Investigation
+8.3.1.6.3 will evaluate the effects of tectonic activity on rates of erosion.
+
+  Investigation 8.3.1.6.4 addresses the potential effects of erosion on
+the baseline hydrologic, geochemical, and rock characteristics at Yucca
+Mountain. Because the effects of erosional processes on the baseline
+conditions are not expected to pose any hazard to waste isolation and are not
+expected to affect the postclosure ground-water travel time, no further
+studies or activities are planned. These topics will be addressed in a
+topical report, which will present the discussion supporting termination of
+the erosion program.
+
+  Other investigations will provide data in the form of input parameters
+to the erosion program. Investigations 8.3.1.5.1 and 8.3.1.8.2 will provide
+data on the nature and extent of future climatic changes and tectonic activ-
+ity, respectively. Data obtained to date on regional tectonic and climatic
+activity during the Quaternary Period suggest that very little change will
+occur in the erosional regime at Yucca Mountain during the postclosure period
+as a result of these processes (Chapters 1 and 5). Limited site-specific
+studies will be completed to determine quantitatively, on the basis of
+Quaternary erosion rates, the extent of potential stream incision that could
+result from future tectonic activity and climatic changes.
+
+  Although the long-term average upland and hillslope erosion rates have
+been established for the southern Great Basin, they may not be representative
+of actual erosion rates on Yucca Mountain or of the short-term episodes of
+stream incision that may occur when a critical process threshold is exceeded.
+Fortymile Canyon, Fortymile Wash, and their tributary channels, that are
+located on the eastern flanks of Yucca Mountain, may be subject to critical
+
+
+8.3.1.6-4

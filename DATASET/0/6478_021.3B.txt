@@ -1,0 +1,49 @@
+the weight gain rate that all the other material had. That is about all the
+information.
+
+DR. JOHNSON: What were the conditions for the autoclaving?
+
+MS. STOKES: Now, that I don't know. One of our customers provided us
+with a sample, a rod, and they said it had been autoclaved. I have tried for
+the whole time that I have been working on the project to find out exactly what
+did happen, what autoclave procedure was used. I don't know. I can't answer
+that at this point. I don't know that I will ever be able to find out what
+autoclaving procedure they used.
+
+DR. JOHNSON: One thing that we have to keep in mind is that the material
+that we are going to put into dry storage will have a film formed in the
+reactor and that, that film could be up to several mils thick, so that we need
+to keep that in mind as we extrapolate results such as this. We are really
+dealing with a fairly thick oxide on the cladding that will be put into dry
+storage. I will mention some more about that tomorrow.
+
+Stan Kass did some work in this same temperature range. Actually, I think
+it was about 225~C to 300~C in water. It would be very interesting to compare
+your results and see--
+
+MS. STOKES: Is that C-a-s-s?
+
+DR. JOHNSON: Stan Kass, K-a-s-s. I can give you the reference to his
+work. But he has published a rate law that would allow you to correlate your
+results and then to see whether moist air is like--it turns out it is high
+pressure. But Zircaloy has a very small pressure effect on oxidation. You may
+find that the results are very similar.
+
+DR. MARKOWITZ: I was going to speak to that same point. Ed Hillner, who
+is a colleague of Kass's, published a few years ago,* I am afraid I can't give
+you the reference, a review of this matter, in which he not only gave all the
+correlations, the equations for oxidation both in steam and in water, but also
+an equation for the occurrence of breakaway as a function of temperature and
+time; that is, the transition between linear and cubic.
+
+MS. STOKES: It depends on the alloy, too.
+
+DR. MARKOWITZ: Yes, it differs for Zircaloy-4 and for Zircaloy-2. I 
+think it would be very valuable to know whether your information correlates
+with that.
+
+DR. KOHLI: There is also a reference by Brian Cox. He wrote a review in 
+1976.
+*~[Note added in proof: The reference is E. Hillner, "An Overview of the
+Corrosion of Zirconium-base Alloys," ASTM STP-633, pp. 211-235 (1977).]
+146

@@ -1,0 +1,57 @@
+VII-8  DOE 6430.1
+
+
+12-12-83
+
+
+	recording annunciator, code call, telautograph and other remote
+	writing systems, master clock, radio remote control, and monitoring
+	circuits of security alarm and supervisory systems. The initial and
+	ultimate circuit requirements for these services shall be included in
+	sizing the telephone cable riser and distribution system.
+
+(2)	Other telecommunications and alarm services require low resistance
+	series circuits, employ high level audio signals or require broadband
+	or radio frequency channels or special wiring which cannot be accom-
+	modated in the regular telephone cables, but which, under proper
+	conditions, may share the same conduit system. These "compatible"
+	services include fire alarm and supervisory; intrusion detection
+	wiring; high-level intercom, paging, music distribution and public
+	address; closed circuit television; radio and TV receiving; warning
+	and evacuation horns or sirens; and highspeed data transmission
+	facilities. Such services will normally require separate riser and
+	feeder distribution conduits, boxes, and terminal cabinets. Joint
+	use of conduits, equipment closets, underfloor ducts and raceway
+	systems by telephone and other communications and signal conductors
+	is permissible if the "other" conductors are shielded, transposed, or
+	otherwise made electrically compatible; classified data or information
+	is not being transmitted; and the working capacity of the conduit
+	system is adequate to accommodate expected circuit requirements of
+	all systems involved. The National Electrical Code contains specific
+	prohibitions on mixing Class 2 or Class 3 power limited circuits in
+	raceways with other circuits. For reference see NEC Articles 725,
+	800, and 810.
+
+g.	Temporary and Special Wiring. Exposed conduit, open cable trays and racks,
+	and surface wireway may be used in areas where concealed wireways are not
+	practicable, except that over-the-floor wireways shall not be used in new
+	construction and their use should be avoided wherever possible in the
+	revision of existing facilities. Where they must be used, suitable
+	protection shall be provided to minimize the risks of personnel injury and
+	damage to the wireways. Open (unprotected) wiring should be permitted
+	only in structures provided for temporary use, such as construction
+	offices or other temporary buildings or in areas requiring telephone
+	service for very occasional and temporary periods.
+
+6.	FIRE ALARM AND SUPERVISORY FACILITIES. Fire alarm systems shall be designed
+	in accordance with NFPA National Fire Code requirements. Supporting facili-
+	ties shall be designed as described in paragraphs 4 and 5, above, and as
+	follows:
+
+	a. Use of Telephone Facilities. For office buildings, administrative areas
+	   and, where applicable, for industrial plants, emergency reporting tele-
+	   phones (meeting NFPA Code requirements and listed by UL or approved by
+	   FM) may be provided instead of manual fire alarm pull boxes. Emergency
+	   telephones for interior use shall be located and marked in accordance with
+	   the rules for manual fire alarm boxes. Wherever practicable, emergency
+

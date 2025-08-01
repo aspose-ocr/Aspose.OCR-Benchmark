@@ -1,0 +1,41 @@
+Diversion Box
+
+An enclosure where inlet and outlet pipes are connected by jumpers, which
+permits a selection of pathways for liquid process streams or effluents.
+
+Enriched Uranium
+
+Uranium containing more than the natural concentration of the 235U iso-
+tope. Natural uranium typically contains 0.7% 235U. Commercial power reactor
+fuel contains uranium enriched to about 2 to 3%.
+
+Fuel Assembly
+
+A grouping of fuel pins bundled together to form a fuel assembly unit in a
+reactor core. This group is not taken apart during the loading and unloading of
+a reactor core.
+
+Half Life
+
+The time in which half the atoms originally present in a given quantity of
+a radioactive element disintegrate to another element.
+
+High Level Liquid Waste
+
+The raffinate from the first cycle solvent extraction step of a spent fuel
+reprocessing plant. Equivalent concentrated wastes from subsequent extraction
+cycles and solvent cleanup sludges are also considered as high level liquid
+waste.
+
+Ion Exchange
+
+A reversible chemical reaction between a solid and a fluid mixture by means
+of which ions may be interchanged. The solid material is usually a plastic or a
+resin. This is used to separate chemicals such as fission products or rare
+earths from solution.
+
+Production Reactor
+
+A nuclear reactor designed primarily for large scale production of pluto-
+nium, tritium or other radionuclides by neutron irradiation.
+129

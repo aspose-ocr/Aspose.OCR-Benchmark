@@ -1,0 +1,53 @@
+Extraction ratio - Ratio of mined area to total area.   
+
+Facility cask - A specially designed container that provides shielding and 
+   containment for waste disposal packages during transfer from the surface 
+   facility to the disposal locations underground.   
+
+Fan-and-filter train - Ventilation system component consisting of a series of 
+   graduated particulate air filters and a fan to compensate for the pressure 
+   drop across the filters.   
+
+Far field - The zone extending from the near field outward in all directions 
+   to a distance equal to the depth of the disposal area.  The far field 
+   includes the rockmass, the groundwater regime, and the shafts, ramps, and 
+   drill holes.   
+
+Fault - A fracture or fracture zone within a rock formation along which 
+   vertical, horizontal, or transverse slippage occurs.   
+
+Fault block - A crustal unit either completely or partly bounded by faults.   
+
+Feeder/breaker - A component of the muck-handling system that is fed by 
+   load-haul-dump (LHD) vehicles and that breaks up the mined rock and feeds 
+   it to the main conveyor.   
+
+Finite element calculations - An approximation method for studying continuous 
+   physical systems; the physical system under study is divided into discrete 
+   elements interconnected at discrete node points.   
+
+Fission (nuclear) - The splitting of a nucleus into two or (rarely) more 
+   fragments; usually limited to heavier nuclei such as isotopes of uranium, 
+   plutonium, and thorium.   
+
+Fission product - Any radioactive or stable nuclide produced by fission, 
+   including both primary fission fragments and their radioactive decay 
+   products.   
+
+Fissionable material - Actinides capable of undergoing fission by interaction 
+   with neutrons of all energies.   
+
+Geohydrology - The science that relates to the character, source, and mode of 
+   occurrence of the water of the earth.   
+
+Geologic setting - The spatially distributed geologic, hydrologic, and geo-
+   chemical systems at and around a geographic site.   
+
+Glove box - A sealed compartment that has a protective liner and holes to 
+   which gloves are attached and sealed for use in handling radioactive 
+   materials inside the compartment.   
+
+Ground support (or control) - Methods by which underground openings are 
+   artificially supported to provide long-term stability; e.g., rockbolts, 
+   steel sets, shotcrete.
+G-5

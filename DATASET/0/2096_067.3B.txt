@@ -1,0 +1,55 @@
+Revision 3		November 1978
+
+
+	Embankment design studies should include an evaluation of the perfor-
+mance of the embankment on the basis of instrumentation monitored during
+construction and during the initial reservoir filling. Information related
+to the evaluation of embankment performance should be provided in the
+FSAR.
+
+	Any significant event such as an earthquake or flood that occurs
+during construction or during the initial reservoir filling should be
+documented in the FSAR together with all information related to the per-
+formance of the embankment and observed behavior within its foundation
+and abutments during the event.
+
+	Photographs showing general views of damsite (before, during, and
+after construction), foundation stripping and treatment (FSAR), construc-
+tion equipment and activities (FSAR), instrumentation devices and instal-
+lation work (FSAR), and special items should be provided.
+
+	Embankment zone placement quantities, a comparison of embankment
+zone design placement requirements with a summary of field control test
+data results (FSAR), and a comparison of embankment shear strength design
+assumptions with a summary of record control shear strength test results
+(FSAR) should be tabulated.
+
+	The following drawings should be provided:
+
+	1. General plan with vicinity map,
+
+	2. Large-scale embankment plan with boring and instrumentation
+locations shown,
+
+	3. Geologic profile embankment axis, control structure axis, and
+spillway axis,
+
+	4. Embankment cross sections with instrumentation shown,
+
+	5. Embankment details,
+
+	6. Embankment foundation excavation plan,
+
+	7. Embankment and foundation design shear strength test data graphic
+summaries with selected design values shown,
+
+	8. Embankment slope stability cross sections with design assumptions,
+critical failure planes, and factors of safety shown,
+
+	9. Embankment slope stability reevaluation, if necessary (FSAR),
+
+	10. Embankment seepage control design with assumptions, section,
+and selected design shown,
+
+
+2-39

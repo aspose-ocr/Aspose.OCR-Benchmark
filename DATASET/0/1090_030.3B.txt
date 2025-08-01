@@ -1,0 +1,12 @@
+			APPENDIX
+
+	This Appendix contains the detailed results of element dissolution rates,
+radioactivity release rates, and concentrations for the saturation-limited
+and diffusion-limited dissolution model calculations. These results are for
+the nominal parameter values listed in Table III. The results are given in
+the following order: (1) spent fuel, saturation-limited model, (2) spent
+fuel, diffusion-limited model, (3) high-level waste, saturation-limited model,
+and (4) high-level waste, diffusion-limited model.
+
+
+26

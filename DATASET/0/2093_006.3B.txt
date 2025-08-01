@@ -1,0 +1,62 @@
+A.  INTRODUCTION
+
+      Appendix I, "Numerical Guides for Design Objectives and Limiting Conditions for Operation 
+to Meet the Criterion 'As Low As Is Reasonably Achievable' for Radioactive Material in Light-
+Water-Cooled Nuclear Power Reactor Effluents," to 10 CFR Part 50 provides numerical guidance for 
+radioactive effluent design objectives and technical specification requirements for limiting 
+conditions of operation for light-water-cooled nuclear power plants.
+
+   To implement Appendix I, the NRC staff has developed a series of guides that provide methods 
+acceptable to the staff for the calculation of preoperational estimates of effluent releases, 
+dispersion of the effluent in the atmosphere and different water bodies, and estimation of the 
+associated radiation doses* to man.   This guide describes basic features of these calculational 
+models and suggests parameters for the estimation of radiation doses to man from effluent releases.   
+The methods used herein are general approaches that the NRC staff has developed for application 
+in lieu of specific parameters for individual sites.   The use of site-specific values by the 
+applicant is encouraged.  However, the assumptions and methods used to obtain these parameters 
+should be fully described and documented.
+
+       Portions of this guide supersede Regulatory Guide 1.42, Revision 1, "Interim Licensing 
+Policy on as Low as Practicable for Gaseous Radioiodine Releases from Light-Water-Cooled Nuclear 
+Power Reactors," which has been withdrawn.
+
+B. DISCUSSION
+
+      Appendix I to 10 CFR Part 50 provides guidance on the doses to members of the general 
+public resulting from effluent releases that may be considered to be as low as is reasonably 
+achievable.   This guide describes basic features of the calculational models and assumptions in 
+use by the NRC staff for the estimation of doses.
+
+       Appendix A of this guide describes suggested models and assumptions for calculating the 
+estimated doses to man from discharges to the hydrosphere.   Appendix B of this guide describes 
+suggested models and assumptions for calculating doses from noble gases discharged to the atmos-
+phere, and Appendix C gives models and assumptions for estimating doses from radioiodines and 
+other radionuclides released to the atmosphere.   Appendix D describes the models and assumptions 
+for calculating population doses (man-rem and man-thyroid-rem) from radionuclide releases to the 
+atmosphere and hydrosphere.   Appendix E presents tabular data pertaining to two or more of the 
+other appendices.  Appendix F provides a discussion of, and derivation for, the I function used 
+in computing gamma doses from elevated noble gas releases.
+
+       In providing guidance for implementing Section II of Appendix I, the NRC staff has made use 
+of the maximum exposed individual approach.  In this approach the numerical design objectives of 
+Section II are compared to the calculated radiation exposures to maximum individuals in each of 
+four age groups.
+
+       The population is considered to be made up of infants (0 to 1 year), children (1 to 11 years), 
+teenagers (11 to 17 years), and adults (17 years and older).   For the purpose of evaluating dose 
+commitment, the maximum infant is assumed to be newborn, the maximum child is taken to be 4 years 
+old, the maximum teenager is taken to be 14 years old, and the maximum adult is taken to be 
+17 years old.
+
+       Maximum individuals are characterized as "maximum" with regard to food consumption, occupancy, 
+and other usage of the region in the vicinity of the plant site and as such represent individuals 
+with habits representing reasonable deviations from the average for the population in general.
+In all physiological and metabolic respects the maximum exposed individuals are assumed to have 
+those characteristics that represent the averages for their corresponding age group in the general  
+*~In this guide, the term "dose," when applied to individuals, is used instead of the more precise 
+term "dose equivalent," as defined by the International Commission on Radiological Units and 
+Measurements (ICRU).   When applied to the evaluation of internal deposition of radioactivity, 
+the term "dose," as used here, includes the prospective dose component arising from retention 
+in the body beyond the period of environmental exposure, i.e., the dose commitment.   The dose 
+commitment is evaluated over a period of 50 years.
+1.109-1

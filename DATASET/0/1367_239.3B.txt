@@ -1,0 +1,51 @@
+DOE 6430.1                                                XVII-15
+12-12-83
+   Venting of drain systems shall be given special attention, and suitable 
+   alternates to normal atmospheric venting adopted where the hazards of the 
+   waste materials and off-gases dictate. All-welded pipe systems should be 
+   utilized to minimize joint leakage of toxic materials. Piping containing 
+   hazardous solutions or gases should not be buried or concealed unless alarm 
+   systems, leak detectors, and means for secondary containment are provided.
+
+6. ELECTRICAL AND TELECOMMUNICATIONS. In addition to the criteria contained in
+   Chapter VI and Chapter VII of the Order, the following criteria shall also be
+   applied in the planning and design of laboratory facilities.
+
+a. Special attention shall be given in the planning and design of electrical 
+   distribution systems in laboratory facilities to assure the needed degree 
+   of flexibility for laboratory and experimental work and for personal 
+   safety. Receptacles shall be located with due consideration to the 
+   location of laboratory benches, fixed and movable equipment, and work 
+   areas. Where practicable, receptacle strips should be utilized. Except 
+   for standard convenience receptacles (e.g., 110-volt, single phase), all 
+   receptacles should be clearly marked as to voltage, number of phases of 
+   power supply, conventional building power or "clean power" (e.g., isolated 
+   power supplies from constant voltage sources), whether alternating current 
+   or direct current, conventional 60 Hz or other alternating current frequen-
+   cies, and so forth. Particular attention shall be given to electrical 
+   safety requirements, and DOE/EV-0051/1, "Electrical Safety Criteria for 
+   Research and Development Activities" (Interim Criteria of August, 1979) 
+   shall be utilized in laboratory facility planning and design to the extent 
+   applicable. In addition, it must be recognized that special electrical 
+   shock and burn hazards can exist in most types of laboratories from such 
+   sources as unique experimental apparatus, laboratory instruments, test 
+   equipment, and those hazards common to wet laboratories. Proper consider-
+   ations shall be given to the use of ground fault circuit interrupter 
+   (GFCI) devices. See paragraph 8, Chapter VI of this Order for additional 
+   personnel protection criteria.
+
+b. Emergency lighting shall be provided where specifically required by the 
+   operations to be performed and where otherwise required for life safety. 
+   These shall be either self-contained emergency lighting units or selected 
+   lighting fixtures that can be served from an emergency power source on loss 
+   of normal power source. When self-contained emergency lighting units are 
+   installed in an area, the source of AC power shall be taken from the same 
+   circuit as the area lighting but ahead of the lighting switch station, or 
+   from the area security light fixture(s) continuous power source that is 
+   not switched.
+
+c. Interior telecommunications, alarm and annunicator systems shall be 
+   provided for fire alarm, evacuation alarm, radiation alarm, intrusion 
+   alarm (as appropriate), paging, public address, or other requirements 
+   for the particular facility. See Chapter VII of this Order for addi-
+   tional criteria. Fan shutdown, smoke control, exhaust fan failure,

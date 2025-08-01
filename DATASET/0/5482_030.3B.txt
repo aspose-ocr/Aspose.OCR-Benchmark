@@ -1,0 +1,29 @@
+possibility of generating pseudoreflectors from more or less random signals--
+and empirical evidence from the displays indicates that artifacts have indeed 
+been produced.   In all five of the COCORP profiles, including those of figure 
+25, the processing has introduced a marked fabric, between about 2 and 5 
+seconds, that is inclined about 30~ in the direction along the one-sided 
+geophone array toward the vibrators--to the right in A, to the left in B.  
+There is a further correlation, a likely indication of further bias, with 
+variation in fold amount, as can be seen by comparing each profile with the 
+fold diagram beneath it.   The inclined fabric is least conspicuous where the 
+amount of fold is steady or irregular; the inclined fabric is most conspicuous 
+as a pervasive feature where it is inclined in the sense opposite to that of 
+decreasing fold; and it is most conspicuous as a more or less linear zone 
+where it is inclined in the same sense as is decreasing fold.  The COCORP 
+group has based its fault interpretations on apparent reflectors of the latter 
+type.  (Tapes of the stacked seismic records available for purchase from 
+COCORP contain both the f-k filtration and increased stacking velocity, so 
+reprocessing without those steps would require starting from the field tapes.)
+  The most conspicuous of the apparent reflectors at issue originates in 
+the center of the profile of figure 25-A at a depth of about 2.3 seconds and 
+inclines downward to the right to about 5 seconds.   This was interpreted by de 
+Voogd et al. (1986) to be a major fault.   It may nevertheless be an 
+artifact.   The apparent reflector was not obvious on displays predating f-k 
+filtration and increase in stacking velocities, according to Serpa and de 
+Voogd; it is parallel to the artifact grain; and it is coincident with the 
+longest smooth decrease in fold (from about 50 to 20 fold, over a horizontal 
+distance of about 15 km) in any of the Death Valley COCORP lines.   De Voogd et 
+al. inferred the apparent reflector at the right end of figure 24-A, reaching 
+the right edge of the profile at 4 seconds, to be another major fault; again,
+30

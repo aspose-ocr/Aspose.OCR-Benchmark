@@ -1,0 +1,28 @@
+REFERENCES CITED  
+
+International Association of Geodesy, 1971, Geodetic reference system 1967:
+    Special Publication no. 3, 116 p.
+Jachens, Robert C. and Roberts, C. W., 1981, Documentation of a FORTRAN 
+    program, 'isocomp' for computing isostatic residual gravity:  U.S. 
+    Geological Survey Open-File Report 81-574, 26 p.  
+Morelli, C., ed., 1974, The International gravity standardization net 1971:  
+    International Association Geodesy Special Publication No. 4, 194 p.  
+Plouff, Donald, 1977, Preliminary documentation for a FORTRAN program to 
+    compute gravity terrain corrections based on topography digitized on a 
+    geographic grid:  U.S. Geological Survey Open-File Report 77-535, 45 p.  
+Ponce, D. A., 1981, Preliminary gravity investigations of the Wahmonie Site, 
+    Nevada Test Site, Nye County, Nevada:  U.S. Geological Survey Open File 
+    Report 81-522, 64 p. + 1 plate.   
+Ponce, D. A., and Oliver, H. W., 1981, The Charleston Peak gravity calibration 
+    loop, Nevada:  U.S. Geological Survey Open-~ile Report 81-985, 20 p.  
+Snyder, D. B., and Carr, W. J., 1982, Preliminary results of gravity 
+    investigations at Yucca Mountain and vicinity, southern Nye County, 
+    Nevada:  U.S. Geological Survey Open-File Report 82-701, 36 p. + 1 plate.   
+Snyder, D. B., and Oliver, H. W., 1981, Preliminary results of gravity 
+    investigations of the Calico Hills, Nevada Test Site, Nye County, 
+    Nevada:  U.S. Geological Survey Open-File Report 81-101, 42 p.  
+Swick, C. A., 1942, Pendulum gravity measurements and isostatic reductions:  
+    U.S. Coast and Geodetic Survey Special Publication 232, 82 p.  
+U.S. Geological Survey, 1978, Aeromagnetic map of Lathrop Wells area, 
+    Nevada:  U.S. Geological Survey Open-File Report 78-1103, scale 1:62,500.  
+7   

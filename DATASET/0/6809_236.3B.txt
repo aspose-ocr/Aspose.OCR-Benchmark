@@ -1,0 +1,9 @@
+A.2.4.2.5  Parameters for Atmospheric Dispersion Calculations
+
+Pending further meteorological data acquisition, parameters used for
+atmospheric dispersion calculations shall be determined using methodologies
+presented in NRC Regulatory Guide 1.111, "Methods for Estimating Atmospheric
+Transport and Dispersion of Gaseous Effluents in Routine Releases from
+Light-Water-Cooled Reactors," and 1.145, "Atmospheric Dispersion Models for
+Potential Accident Consequence Assessments at Nuclear Power Plants."
+P-608     0110A          A-32            02/24/86

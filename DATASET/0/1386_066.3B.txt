@@ -1,0 +1,39 @@
+   13.	The emplacement hardware is operated cold by the emplacement and
+	retrieval of a simulated high level waste package. Sufficient cold
+	runs are executed to ensure proper operation of all system
+	components.
+
+   14.	The emplacement system is certified by a quality control inspector
+	as ready to accept high level waste.
+
+   15.	The waste emplacement officer is notified that the borehole is
+	ready to accept waste packages.
+
+7.1.2.2 Emplacement of Waste in Horizontal Boreholes
+
+   The following procedures will be used to emplace waste disposal
+packages in horizontal boreholes:
+
+   1.	Carrying the waste package in the facility cask, the transporter is
+	driven to the emplacement hole.
+
+   2.	The transporter turns into the alcove opposite the emplacement
+	hole, backs up onto the docking platform, and engages with the
+	automatic alignment system. The driver leaves the transporter,
+	and the transporter is moved back by remote control until it is
+	mated with the emplacement door. The transporter's automatic
+	control system is then activated by making the required electrical
+	connections via the shield door umbilical cord. At this time, all
+	personnel move to the emplacement control station.
+
+   3.	The cask lid is remotely unlocked and transferred to the shield
+	door lifting system. The shield door and lid are raised simul-
+	taneously until the cask-to-emplacement-hole passageway is
+	unrestricted.
+
+   4.	The powered roller system in the facility cask is activated and
+	moves the waste package from the facility cask to a position just
+	inside the shield door.
+
+
+7-6

@@ -1,0 +1,57 @@
+is considered negligible. The range in porosity is represented by the
+mean value plus and minus one standard deviation from the mean.
+
+  Grain density is defined as the grain weight divided by the grain
+volume; bulk density is defined as the sum of the grain plus pore water
+weight divided by the bulk volume. These two parameters are important in
+understanding thermal properties (Sections 2.3.1.5 and 6.4.4), performing
+thermal analyses (Section 6.4.4), and performing mechanical analyses
+(Section 7.1.3). The range represents plus and minus one standard devia-
+tion from the mean. For bulk density, two values are presented for each
+unit: the value of the observed in situ saturation and a value for dry
+rock.
+
+  The corresponding values for in situ saturation presented for
+thermal/mechanical units located above the water table (Table 2-4) were
+obtained from laboratory measurements on cores taken from the site
+(Montazer and Wilson, 1984). A 100% saturation state was assumed for
+thermal/mechanical units located below the water table. Thermal con-
+ductivity for all units and thermal capacitance for the units below the
+water table (Unit PPw and underlying units) are for a nominal saturation
+of 1.0 (100% saturation), whereas thermal capacitance is calculated using
+saturations from Montazer and Wilson (1984) for units above the water
+table (Unit CHn3z and overlying units).
+
+2.3.1.2 Deformability Properties
+
+  Deformability properties are parameters necessary for performing the
+analyses (Section 7.3.2) that determine the mechanical response induced
+by excavation (mechanical) and waste emplacement (thermomechanical). In
+the context of the reference design data base, deformability properties
+are defined as those properties of intact rock, fractures, and rock mass
+that relate stress to strain before the onset of yield (as defined in
+Section 2.3.1.3).
+
+  For intact rock (Table 2-5), the deformability properties of inter-
+est are Young's modulus and Poisson's ratio. The reference value is the
+mean of available laboratory measurements or is determined from empirical
+relationships, and the range is represented by plus and minus one stan-
+dard deviation from the mean. These values were determined from data
+collected on approximately 300 samples deformed under a standard set of
+conditions. Data collected on other samples, which were deformed to in-
+vestigate potential environmental effects, are not significantly different
+from the data presented here, which include data for strain rate, tempera-
+ture, and scale (Price, 1986).
+
+  Other deformability properties required for the analytical tech-
+niques used to determine the mechanical response of fractured rock in
+Section 7.1.3 are the shear and normal stiffness of joints. The shear
+stiffness values and coefficients of friction presented in Table 2-6 are
+derived from limited laboratory measurements of tuff (Olsson, 1987).
+Uncertainty in these data stems from the fact that the data base is small
+and is built on data for artificial saw-cut surfaces. However, the stiff-
+ness and coefficient-of-friction values listed fall within the range of
+measured values for natural fractures in other rocks (Zongqi, 1983).
+
+
+2-28

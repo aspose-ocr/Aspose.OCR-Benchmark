@@ -1,0 +1,54 @@
+                             2. GEOENGINEERING
+
+  In this chapter, the mechanical, thermal, and thermomechanical properties
+of the rock units and the expected parameter ranges that are the basis for the
+conceptual design of the geologic repository should be presented. Each dis-
+cussion should include a brief summary of generic information from similar
+rock units and projects and site-specific information,* if available. The
+information should be in sufficient detail to (1) permit an understanding
+of the geomechanical basis of the proposed conceptual design of a repository
+appropriate to the site (Chapter 6) and (2) support the discussion of design
+issues in Part B. The discussions should include values or ranges of values
+for the design parameters used in the conceptual design and should provide the
+rationale for selecting these preliminary values.
+
+  For each of the properties of the rock units, include a discussion of the
+equipment and procedures used, including their limitations and the errors
+produced by them. (Equipment and procedures should be referenced to the appro-
+priate standards, e.g., ASTM, where available.) Geologic borehole logs, geologic
+cross sections, or photographs accumulated during preliminary site exploration
+activities should be provided when possible to show where tests were conducted
+or samples were taken. Any measures taken to preserve or restore the in situ
+chemical and physical environment during site exploration should be described.
+The anisotropy of the properties should be addressed. If isotropic approxima-
+tions are assumed, justify that assumption.
+
+            2.1 Mechanical Properties of Rock Units - Continua
+
+Present the mechanical properties of the rock units as determined by labo-
+ratory tests on intact samples of the potential host rock and of other rock
+units important for the conceptual design of a repository appropriate to the
+site and its performance if available. Also present available generic data
+from similar rock units. Include site-specific information, when available, on
+elastic and inelastic behavior, time-dependent deformation characteristics,
+compressive and tensile strength, and effects of heating and fluid pressure on
+these properties.
+
+           2.2 Mechanical Properties of Rock Units - Large Scale
+
+  Present the results of any large-scale laboratory and field tests such as
+plate-bearing tests, chamber tests, flat jacks, Goodman jacks, and convergence
+tests. ("Large-scale" here means tests of sufficient size to take into account
+the discontinua (fractures, joints, inhomogeneities, etc.) of the media.)
+Discuss the relationship of the results of the laboratory tests on intact samples
+to the results of the large-scale tests. Provide site-specific data, if avail-
+able, as well as available generic data for similar rock units and environments.
+
+
+*Site-specific information means information gained from tests done in, or
+samples taken from, limited borings, surface outcrops, near-surface test facil-
+ities, pre-existing tunnels or mines, etc., near the site proposed for charac-
+terization. It does not imply that a shaft has been sunk.
+
+
+13

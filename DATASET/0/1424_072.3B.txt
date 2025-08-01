@@ -1,0 +1,41 @@
+66
+
+
+  A special provision is provided, through OUTPUH and OUTPUV, for
+punching the spectral values in the format (8F9.5) for later X-Y
+plotting. Both the acceleration and the velocity spectrum are punched
+when this option is used.
+
+  The computation of spectra is a relatively expensive operation
+which should be used with moderation.
+
+Amplification Functions
+
+  Printer plots of the Fourier amplification functions defined by
+Eq. 10 for the free field or Eq. 15 for nodes not on the rigid base can
+be produced through the input variables NOUT, OUTPUD, OUTPUV or KOUT.
+The plots, one of which is shown in the output for the example problem
+contains all points up to the cut-off frequency ~max = TOTFR. Points
+computed by Gaussian elimination have the signature "C" and interpolated
+points are shown as "*".
+
+  The plots are useful for estimating the important natural frequen-
+cies of the system and the adequacy of the interpolation scheme. They
+also show, in the left margin, the actual frequencies where Gaussian
+elimination was used. These frequencies will usually be somewhat lower
+than the frequencies corresponding to those selected by the user through
+the input variables FRKINT(I) and KINT(I). Allowance should be made for
+this shift when the above input variables are selected.
+
+Bending Moments
+
+  Maximum values of the two bending moments and the maximum shear and
+normal force are always printed in tabular form for all beam elements.
+These values are usually sufficient for design.
+
+  Printer plots of time histories of bending moments and axial force
+can be requested through the input variables MMOUT and NBEMM. Punched
+time histories can be requested but setting IIP = 1. This type of output
+is most conveniently generated on a MODE2 run with a high value of the
+skip paramet~~, NSKIP. All points of the time histories will be punched
+in the format (8E10.3) with the same time step as the control motion.

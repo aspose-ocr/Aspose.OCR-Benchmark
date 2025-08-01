@@ -1,0 +1,39 @@
+43020	Waste-Handling Access (Waste Ramp)
+
+	The cost of backfilling and sealing the waste ramp are contained
+	in this account. Costs are included to remove portal structures
+	and utilities and install concrete seals.
+
+43030	Muck-Handling Access (Tuff Ramp)
+
+	Cost components described in Account 43020 apply to backfilling
+	the tuff ramp. The tuff ramp is filled last because it contains
+	the main conveyors that handle all backfill.
+
+Accounts 43040, 43050, 43060, 43070, 43090, and 43120 do not apply to the
+current underground design.
+
+43080	Confinement Exhaust Access 1 (Emplacement Exhaust Shaft)
+
+	The cost components described in Account 43010 apply to back-
+	filling the emplacement exhaust shaft.
+
+43100	Exploratory Shaft 1 (ES-1)
+
+43110	Exploratory Shaft 2 (ES-2)
+
+	The cost components described in Account 43010 apply to backfilling
+	both exploratory shafts.
+
+43300	Development Areas
+
+	The cost to pneumatically backfill all emplacement drifts, access
+	drifts, ventilation drifts, and common underground support
+	facilities is contained in this account. Accounts 43001 through
+	43304 are not used. The cost to remove ducts, piping, and
+	salvageable equipment is carried in Account 41070, General
+	Maintenance. No credit is taken for any salvage value.
+
+
+B-33
+

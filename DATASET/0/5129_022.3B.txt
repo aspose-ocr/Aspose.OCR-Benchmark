@@ -1,0 +1,34 @@
+22   BRODING, ZIMMERMAN, SOMERS, WILHELM AND STRIPLING
+procedure to calculate the response curves for the logging tool. These steps are:
+ 1. Section the response volume outside the tool case to permit practical use 
+of the calculated results.
+ 2. Select a mathematical model approximating the behavior of the logging
+tool.
+ 3. Calculate the variation of the field vectors in space.
+ 4. Calculate the response values ~R/~~ and ~L/~~m for the selected sections 
+of the volume.
+      Because of the obvious geometry of the borehole, long circular cylindrical
+shells coaxial with the borehole were used to determine the region of influence 
+of the tool. The effect of layering in the rock formation can be derived from the 
+use of circular cylindrical disks.
+      Once the model representing the magnet and its coil is selected, the Hertz
+polarization vector can be calculated and from it the vector and scalar potentials 
+giving rise to the field vectors can be obtained. A simple model, chosen to reduce 
+the numerical computation involved in evaluating equations (10), has provided 
+solutions that check well with the experimental data.
+     The induction tool consists of a solenoid wrapped around a round bar.  Cur-
+rent flowing in the solenoid induces a magnetic polarization in the bar.  If ~~ 
+is the magnetic field in the bar, the magnetic polarization of the bar is described by
+The vector ~~ is determined from the Biot-Savart law, (applied to a statically 
+energized solenoid).  Along the axis of the solenoid of N turns per unit length,
+of length l1, and diameter d, with a current I0, assume
+For a coil of ratio d/l1~~1, from (11) and (12)
+Here, ~~~ is a unit vector along the Z-axis (the axis of the solenoid and bar).
+      The vector ~~ is assumed reasonably to persist from one end of the bar to 
+the other.  It is this magnetic polarization that produces the field outside the
+case of the tool.
+ Since the eddy current in the bar reduces the penetration of the field into the
+bar, the value of ~m in equation (13) can be approximated by assuming it to be 
+equal to the ratio of the inductance values of the coil with and without the 
+core,3  
+3 R. Glasgow, Principles of Radio Engineering, McGraw-Hill (1936), p 51.

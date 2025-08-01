@@ -1,0 +1,35 @@
+The five exploratory shaft sites were identified and an on-site
+evaluation of their surface characteristics was conducted. The
+criteria were then reviewed, subcriteria which could discriminate
+between the sites were defined, and weighting factors were
+developed. Nondiscriminating criteria were omitted. The relative
+performance of each site for each subcriterion was determined and
+a merit value computed. Table 2 shows the merit values for the
+Scientific, Engineering, and Environmental criteria and the
+cumulative Figure of Merit for each.
+
+
+Table 2. Figures of Merit for Exploratory
+Shaft Site Recommendation
+
+
+				MERIT VALUES
+CRITERIA		Max	S1	S2	S3	S4	S5
+1. Scientific		2.75	0.91	1.48	1.81	2.19	2.38
+2. Engineering		1.50	1.00	0.90	1.14	1.26	0.69
+3. Environmental	0.75	0.30	0.21	0.59	0.58	0.29
+
+FIGURES OF MERIT	5.00	2.21	2.59	3.54	4.03	3.36
+
+
+The Figures of Merit show why the Committee unanimously recom-
+mended Site 4, located in Coyote Wash. Site 5 rated slightly
+higher than Site 4 scientifically, but significantly lower in the
+engineering and environmental considerations. Site 3 rated as
+well as Site 4 environmentally and was a close second for
+engineering, but was less valuable scientifically. Sites 1 and
+2, located on the ridge top, were of lower value than the wash-
+bottom sites for all considerations except engineering at Site 5.
+
+
+7

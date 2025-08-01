@@ -1,0 +1,43 @@
+Los Alamos Technical Associates, Inc.
+
+
+   This comparison also indicates the high degree of axisymmetry of
+the thermal field. This fact is important in later sections where
+correlations with an assumed axisymmetric theoretical model are made
+and suggests that thermal conductivity of bedded salt may be isotropic.
+
+2. Comparison of the Corrosion of Stainless Steel and Inconel 600
+   Thermocouple Sheaths in the Heated Salt Block Environment
+
+   After the heater was shut off in the Salt Block I experiment,
+several stainless steel and Inconel 600 sheaths were examined. There
+was no obvious corrosion of either material.
+
+3. Stressmeter Results
+
+   It was found that the initial "preload" of the stressmeters during
+this test could not be maintained. In particular, at 500 W input and
+10 days into the test, all the stressmeters were for all practical
+purposes released due to thermal expansion of the salt. Use of this
+rigid inclusion-type stressmeter is therefore not recommended in future
+experiments of this type. Inclusion of the stressmeters did, however,
+provide temperature behavior of the instrumentation at zero stress
+levels.
+
+E. Corrosion Coupons
+
+   The corrosivity of several metal coupons was tested during the
+Salt Block I experiment as part of the corrosion program for identifying
+suitable materials for use in WIPP environments. One important problem
+in the materials selection process is the definition of the environment,
+and, in particular, the migration of brine inclusions in heated salt.
+
+   Coupons were made from 12 candidate alloys, representing a wide
+range of available materials. Included were the following:
+
+   1. Titanium.
+   2. Titanium-6V-4A1.
+   3. Hastelloy C-276.
+
+
+-21-

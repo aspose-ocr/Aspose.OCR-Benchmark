@@ -1,0 +1,14 @@
+			APPENDIX A
+
+	MANGANESE AND STRONTIUM THERMODYNAMIC DATA
+		FOR THE EQ3/6 COMPUTER PROGRAM
+
+  This appendix contains listings of the data file for manganese and
+strontium thermodynamic data for the EQ3/6 computer program. For each
+element, the MDAQS file lists aqueous species data, the MDSOL file provides
+solid species data, the REAC file gives the chemical reactions involving the
+new species and the other EQ3/6 basis species, and the DFILE file enumerates
+the calculated equilibrium constants for these reactions.
+
+
+77

@@ -1,0 +1,33 @@
+~  For performance assessment uses, refer to specific performance
+   assessment analyses (described in Section 8.3.5 of the SCP) which
+   will use the information produced from the studies described
+   above, and refer to any use of the results for model validation;
+
+~  For design uses, refer to, or describe, where the information
+   from the study described above will be used in construction
+   equipment design and development and engineering system design
+   and development (e.g., waste package, repository engineered
+   barriers, and shafts and borehole seals); and
+
+~  For characterization uses, refer to, or describe, where the
+   information from the study described above will be used in
+   planning other characterization activities.
+
+
+V. Schedule and Milestones:
+
+~  Provide the durations of and interrelationships among the
+   principal activities associated with conducting the study (e.g.,
+   preparation of test procedures, test set-ups, testing, data
+   analyses, preparation of reports), and indicate the key
+   milestones including decision points associated with the study
+   activities;
+
+~  Describe the timing of this study relative to other studies and
+   other program activities that will affect, or will be affected
+   by, the schedule for completion of the subject study; and
+
+~  Dates for activities or milestones, including durations and
+   interrelationships, for the study plans will be provided.  These
+   should reference the master schedules provided in Section 8.5. of
+   the SCP.

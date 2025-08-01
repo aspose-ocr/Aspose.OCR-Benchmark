@@ -1,0 +1,54 @@
+measured in millions of dollars. The specific Ci and Ki values that were
+assessed are given in Table 4-7.
+
+  The factors 121 and -1/200 in Equation 4-1 are necessary to scale the
+utility from 0 to 100, where 100 is chosen to represent a particularly desira-
+ble set of impacts for all performance measures and 0 represents a particularly
+undesirable set of impacts for all performance measures. For this purpose, the
+ranges of the performance measures listed in Table 4-7 were chosen to be broad
+enough to include all possible impacts for the sites being evaluated. The
+utilities of 0 and 100 are assigned by Equation 4-1 to the sets of impacts
+represented by the highest levels and the lowest levels in Table 4-7, respec-
+tively. Because the utility function is additive and because the component
+utility function for repository cost is linear, it is particularly easy to
+interpret units, referred to as "utiles," of the multiattribute utility func-
+tion (Equation 4-1) in terms of equivalent costs. Specifically, one utile is
+equivalent in value to 200 million dollars.
+
+  To get an intuitive feeling for the Ci and the Ki terms in Equation
+4-1, some examples are helpful. The component disutility function C1 for
+worker cancer fatalities from the repository is simply x1, which represents
+the number of such fatalities. For aesthetic impacts, the component disutil-
+ity function C9 represents the percentage of the highest level of aesthetic
+impact described in Table 4-2. The highest level is level 6, so C9(6) = 100.
+Since C9(4) = 33, as shown in Table 4-7, aesthetic impacts of level 4 are
+assessed as being one-third as detrimental as impacts of level 6 (i.e., 33 is
+one-third of 100).
+
+  The value tradeoff K8 is 4, which means that the impact of one statis-
+tical public fatality due to a transportation accident is deemed as undesir-
+able as an additional cost of 4 million dollars. The value tradeoff K9 = 1
+means that the impact of an additional 1 percent of aesthetic degradation is
+deemed as undesirable as an additional cost of 1 million dollars. The value
+tradeoff K14 = 1 means that a million dollars in transportation cost is
+deemed equivalent to a million dollars in repository cost. That K13 = 1 is
+by definition.
+
+  The multiattribute utility function assessed in this problem can be inter-
+preted as follows. In situations where there is uncertainty about the impacts,
+the expected (i.e., average) utility can be used to appraise the relative
+desirability of consequences (i.e., set of impact levels). Higher expected
+utilities indicate preferred alternatives. In addition, the assessment de-
+scribed in Appendix G indicates that the multiattribute utility function is
+also a measurable-value function. Hence, differences in utility have a useful
+interpretation. Namely, the relative differences in desirability between two
+consequences can be measured by the differences in utility between those con-
+sequences. Furthermore, the relative differences in desirability between two
+alternatives can be measured by the differences in expected utilities between
+those alternatives.
+
+  To calculate the utility of a consequence with the utility function (Equa-
+tion 4-1), clearly the only variable term is
+
+
+4-18

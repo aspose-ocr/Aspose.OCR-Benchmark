@@ -1,0 +1,53 @@
+                                    332
+
+
+6 (cont.)
+
+       (i)  Backfill placed in the underground facility shall perform its
+       functions assuming anticipated changes in the geologic setting.
+
+       (ii)  Backfill placed in the underground facility shall serve the
+       following functions:
+
+       (A)  It shall provide a barrier to groundwater movement into and
+       from the underground facility.
+
+       (B)  It shall reduce creep deformation of the host rock that may
+       adversely affect (1) waste package performance or (2) the local
+       hydrological system.
+
+       (C)  It shall reduce and control groundwater movement within the
+       underground facility.
+
+       (D)  It shall retard radionuclide migration.
+
+       (iii)  Backfill placed in the underground facility shall be
+       selected to allow for adequate placement and compaction in under-
+       ground openings.
+
+                                     [~60.132, Additional design require-
+                                     ments for the underground facility,
+                                     (i),(1),(2),(3)]
+
+7.     (ii)  Control of releases.
+
+       (A)  For HLW, the engineered system shall be designed so that, after
+       the first 1,000 years following permanent closure, the annual
+       release rate of any radionuclide from the engineered system into the
+       geologic setting, assuming anticipated processes and events, is at
+       most one part in 100,000 of the maximum amount of that radionuclide
+       calculated to be present in the underground facility (assuming no
+       release from the underground facility) at any time after 1,000 years
+       following permanent closure.  The requirement does not apply to less
+       than 0.1% of the total annual curie release as prescribed by this
+       paragraph.
+
+       (B)  For TRU waste, the engineered system shall be designed so
+       that following permanent closure the annual release rate of any
+       radionuclide from the underground facility into the geologic setting,
+       assuming anticipated processes and events, is at most one part in
+       100,000 of the maximum amount calculated to be presented in the
+       underground facility (assuming no release from the underground
+       facility) at any time following permanent closure.  This requirement
+
+

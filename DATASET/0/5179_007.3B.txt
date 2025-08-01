@@ -1,0 +1,36 @@
+393
+MORPHOMETRIC STUDIES OF FRESH CINDER CONES
+
+     Cinder cone dimensions have been studied systematically only in the last
+8 years.  In this paper the terminology of Porter (1972) is used, with Wco = 
+cone basal diameter; Wcr = crater diameter; Hco = cone height; s = cone slope 
+angle (Fig. 2).  The depth of a crater can be readily modified during or after 
+an eruption (at Paricutin the depth changed from 140 m to 30 m to 100 m 
+over a 26-day period in late 1946; Wilcox, 1947) and often is less than the 
+contour interval of maps used for measurement; therefore, the depth of the 
+crater is not used as a descriptive parameter.  In order to relate cinder cone 
+morphology to eruption conditions, I use only relatively fresh cones in the 
+statistical comparisons.  Fresh cones are generally distinguished by a lack of 
+vegetation and gullying on their flanks, have well-defined circular outlines, 
+and frequently an abrupt change in slope occurs where the cone meets the 
+surrounding ground surface.
+Fig. 2. Schematic diagram illustrating measurements of cinder cones.
+Cone diameter distribution
+
+     The distribution of basal diameters (Wco) for 910 cinder cones in the fol-
+lowing areas: San Francisco volcanic field, Arizona; Mauna Kea, Hawaii;
+Nunivak Island, Alaska; Kilimanjaro, Tanzania; Etna, Italy; and Paricutin,
+Mexico is shown in Fig. 3, compiled from data supplied by Settle (1979, 
+and personal communication).  Although both degraded and fresh cones are 
+included in this sample, the results are considered reasonably representative 
+of the diameter spectrum of terrestrial cinder cones.  Cinder cone diameters 
+range from 0.25 km to about 2.5 km with a mean of about 0.9 km and a me-
+dian of 0.8 km.  By contrast, the few spatter cones whose diameters are re-
+ported in the literature are generally less than 0.1 km across at their bases.  
+Maars are somewhat larger than cinder cones, with Wcr averaging 0.7-~0.8 km 
+(Wood, in preparation), and composite (strato-) volcanoes are much larger, 
+with basal diameters averaging 8 km (Wood, 1978).
+     With a basal diameter of 0.13 km, the Reunion cone Cratere Ducrot is
+smaller than all of the 910 cones in Fig. 3.  The small diameter is consistent 
+with the interpretation that the Reunion cones are more like spatter cones 
+than cinder cones.   The other three cones discussed in the previous section

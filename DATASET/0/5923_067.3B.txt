@@ -1,0 +1,64 @@
+the minimum compressive stress at the borehole wall, which is 3 ~in -
+
+~ax, is -250 psi, which is tension. For this weak material the
+
+borehole has probably broken down just by drilling the borehole.  At
+
+worst it would require another 200-300 psi more to break down the most
+
+competent tuff and this is still below the minimum principal in situ
+
+stress.  Thus, one should not expect to see any breakdown with this
+
+combination of stresses and hole alignment.
+
+	No data is shown from EV6-3 because this hole was drilled upward
+
+into the welded tuff at +7~ and many difficulties were encountered at-
+
+tempting to fracture this rock.  Some data, which were obtained in three
+
+zones, were difficult to interpret and no reasonably accurate measure-
+
+ments could be made.  However, it did appear that the ISIPs or the mini-
+
+mum principal in situ stresses were exceptionally low; they were prob-
+
+ably less than 200 psi and possibly less than 100 psi.
+
+	A detailed study of the vertical distribution of the in situ stres-
+
+ses was made in September 1980.  Two of the exploratory coreholes,
+
+EV6-24 which was drilled 81~ down to a TD of 302 ft and EV6-29, which
+
+was drilled 58~ up to a TD of 150 ft., were fractured in several zones,
+
+each using the standard minifrac technique.  Essentially these measure-
+
+ments were made along the Hole #6 borehole although EV6-29 does deviate
+
+somewhat to the NW.  The ISIP or minimum principal in situ stress data
+
+is shown in Figure 37 and Table 6.  It can be seen that there are large
+
+and quite rapid changes of stresses throughout the 350 ft of section
+
+studied.  Also, the stress in the densely welded tuff is quite low.
+
+	This distribution of stresses can be explained qualitatively if one
+
+considers the mesa in its present condition and forgets for the moment
+
+its geologic history.  Essentially, the mesa consists of tens or even
+
+hundreds of ash-fall tuff layers of varying thickness and properties
+
+with two thin, high-modulus, welded tuff strata at widely separated
+
+locations.  At the present point in geologic time, the layers are stacked,
+
+well-bonded and predominantly gravity-loaded.  This results in a com-
+
+
+65

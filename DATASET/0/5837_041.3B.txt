@@ -1,0 +1,52 @@
+contrast only 1 of the 51 samples would be rejected on the basis of the 10%
+criterion and the calculation method commonly used.
+
+The more stringent criterion for the acceptability of chemical analyses (i.e.,
+< 5 percent error) is probably unwarranted and results in the loss of useful
+data. The loss of useful data is an issue of significance because hydrochem-
+ical data in most groundwater zones at the BWIP site are sparse.
+
+The data summarized in the SCR and that provided at the BWIP hydrogeology work-
+shop include:
+
+o 45 groundwater samples from 21 boreholes in the Saddle Mountains Basalt
+o 27 groundwater samples from six boreholes in the Wanapum Basalt
+o 18 groundwater samples from four boreholes in the Grande Ronde Basalt.
+
+Relative to the number of borehole monitoring sites that are commonly used in
+important studies of hydrogeological systems in which major waste disposal is
+under consideration, the number of boreholes that penetrate the proposed
+disposal zone is small. All of the deep holes are located a considerable
+distance to the east or southeast of the Reference Repository (Figure F-1). For
+statistical data evaluations, the total number of chemical analyses from the
+Grande Ronde is particularly inadequate. The hydrochemical data represent
+groundwater obtained from the most permeable zones in the stratigraphic
+sequence, and they generally cannot be used to ascertain the chemical composi-
+tion of water in the lower permeability zones.
+
+4 HYDROCHEMISTRY
+
+4.1 Major Ion Chemistry
+
+The groundwater in the basalt formations at the Hanford site can be categorized
+according to its major-ion chemical composition. There are three principal
+chemical types characterized by the predominant ions:
+
+o Na - HCO3
+o Na - Cl - HCO3
+o Na - Cl
+
+The vertical distributions of these chemical types in the groundwater in bore-
+holes DB-15, DC-6, DC-12, DC-14, and DC-15 are shown in Figure F-2. The Na-HCO3
+groundwater generally occurs in the Saddle Mountains Basalt, the Na-Cl-HCO3 in
+the Wanapum Basalt, and the Na-Cl groundwater in the Grande Ronde Basalt. In
+borehole DC-12, Na-Cl-HCO3 groundwater occurs in both the Wanapum and Grande
+Ronde Basalt. The progression from Na-HCO3 groundwater in the upper basalt
+formations to Na-Cl groundwater at depth is associated with a moderate increase
+in total dissolved solids concentrations from an average of 400 mg/L in the
+Saddle Mountains to an average of 800 mg/L in the Grande Ronde.
+
+A generalization that is commonly used in regional groundwater studies is that
+the progression from Na-HCO3 through Na-Cl-HCO3 to Na-Cl generally represents
+a long-term hydrochemical evolution in which the Na-Cl groundwater represents
+F-5

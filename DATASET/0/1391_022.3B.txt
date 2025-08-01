@@ -1,0 +1,37 @@
+generation, and element and boundary condition specification.
+Each of the data sets is terminated by an END card. The last
+END card (i.e., the third), ends the setup portion of the program
+and readies the program for the next command card.
+
+Material Data Cards
+
+  The material data cards are of two types corresponding to
+the specification of fluid and matrix (solid) properties, res-
+pectively. For the specification of the fluid properties, the
+data cards are of the following form:
+
+	[Material Name], number, ~f, ~f, cf, ~f,
+	~, g, temperature dependence, Tref
+
+where,
+
+	Material Name: is an optional alphanumeric material name for
+	  user reference.
+	number: is the internal reference number for the material.
+	  For the fluid property card, number must be set to 1.
+
+	~f: is the fluid density.
+	~f: is the fluid dynamic viscosity.
+	cf: is the fluid specific heat.
+	~f: is the fluid thermal conductivity
+	~:  is the fluid volumetric expansion coefficient
+		(= ~[~(1/~)/~T]p = -(1/~)[~~/~T]p).
+	g:  is the gravitational acceleration.
+
+	Temperature dependence <CONSTANT>: prescribes the depen-
+	  dence of the fluid properties on temperature. If all
+	  fluid properties (~, ~, and ~) are independent of
+	  temperature, this parameter is omitted or set equal
+
+
+14

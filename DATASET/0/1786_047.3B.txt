@@ -1,0 +1,36 @@
+migrate. The kinetic diameter of chabazite is 4.3 A and that of mordenite is
+3.9 A (Ref. 33). The kinetic diameter for the zeolite clinoptilolite, which
+is present in the tuff of the Calico Hills of Yucca Mountain tuff G-1-1436,
+is 3.5 A (Ref. 33). The channel opening in a fully hydrated montmorillonite
+clay (the principal adsorbing mineral in G-1-1883 and G-1-1952 tuff) is
+approximately 5.6 A (Ref. 33). Therefore, a larger diffusivity in montmoril-
+lonite is expected. Until more complete crystal size distributions are
+measured in these tuffs, this difference cannot be observed. The estimated
+diffusivities show that the mass transfer rates observed for cesium,
+strontium, and barium sorption on Yucca Mountain tuff are consistent with a
+diffusion-limited ion-exchange mechanism.
+  The sorptive properties of Yucca Mountain tuff for the simple cations of
+strontium, cesium, and barium are consistent with a simple ion-exchange
+mechanism. The uptake of these radionuclides by intact samples of tuff can
+be described by matrix diffusion with a reversible adsorption reaction. The
+mass transfer kinetics is also consistent with diffusion-limited ion
+exchange, where the rate-determining step is diffusion into the channels
+within crystals of zeolites and clays. The sorption ratios for these cations
+on intact tuff are in excellent agreement with the sorption ratios that were
+determined for crushed tuff during batch technique experiments. This agree-
+ment is primarily the result of the small crystal size observed in SEM
+studies; that is, crushing to 100-~m grain size will not break individual
+crystals.
+  The actinides show a change in sorption ratio on the time scale of up to
+12 weeks.11 In addition, the actinides show very little or no dependence of
+the sorption ratio on the mineralogic composition of the tuff, in contrast to
+the strong dependence observed for cesium, strontium, and barium.11 On the
+basis of the above interpretation of the sorption of simple cations, the
+actinides are (1) not sorbed through a cation-exchange mechanism, (2) present
+as a species that is too large to fit into the intracrystalline space in
+clays and zeolites, or (3) both. The apparent rates of sorption are too slow
+to be diffusion limited, and the sorption ratios do not correlate with
+minerals with high cation-exchange capacities.
+
+
+43

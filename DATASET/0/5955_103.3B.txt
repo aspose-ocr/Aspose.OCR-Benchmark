@@ -1,0 +1,54 @@
+NNWSI PROJECT QA PLAN  N-QA-040
+                       1/87
+SECTION XV
+
+CONTROL OF NONCONFORMING ITEMS
+
+1.0 GENERAL REQUIREMENTS
+
+  Measures shall be established to control items that do not conform to
+requirements to prevent their inadvertent installation or use. These measures
+shall include documented procedures for identification, documentation,
+evaluation, segregation (when practical), disposition, and notification to
+affected organizations. All personnel involved in Nevada Nuclear Waste Storage
+Investigations (NNWSI) Project activities are responsible for reporting
+nonconformances in accordance with their established nonconformance control 
+procedures. These procedures shall be consistent with the minimum requirements
+listed below.
+
+1.1 IDENTIFICATION
+
+1.1.1 METHOD OF IDENTIFICATION
+
+  Identification of nonconforming items shall be made by marking, tagging,
+or other methods that shall not adversely affect the end use of the item. The
+identification shall be legible, easily recognizable, and shall contain the
+nonconformance report number. The nonconformance report number shall be a
+sequential number preceded by an organizational acronym (e.g, LLNL-1, USGS-6,
+etc). If tags are used, they shall be securely attached to avoid loss during
+handling.
+
+1.1.2 EXCEPTIONS
+
+  If identification of each nonconforming item is not practical, the
+container, package, or segregated storage area, as appropriate, shall be
+identified.
+
+1.1.3 CONDITIONAL RELEASE
+
+  Work on the nonconforming item shall be stopped until completion of the
+action specified in the Nonconformance Report (NCR) disposition. If only a
+specific portion of the item is in nonconformance, then that specific area
+shall be identified and work may proceed on the remaining areas. If work on a
+nonconforming item must be continued (conditional release) prior to
+implementation of the disposition, the Waste Management Project Office (WMPO)
+shall approve such continuance. Requests for conditional releases on
+nonconforming items shall include documented justification that the following
+conditions are met:
+
+o The nonconforming item can be removed or corrected at a later date
+  without damage to, or contamination of the associated permanent
+  facility equipment or structures.
+REV. NO.      ISSUED            SECTION TITLE                   PAGE NO.
+0                               CONTROL OF NONCONFORMING ITEMS   XV-1
+              ~/~~/~~

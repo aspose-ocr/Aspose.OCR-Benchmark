@@ -1,0 +1,55 @@
+	Figure 8.3.5.16-1 shows the phases of the DOE's performance confirmation
+program relative to the stages of the overall repository program.  The DOE's
+performance confirmation program, as discussed earlier, is divided into base-
+line and confirmation phases, with the submittal of the license application
+serving as a convenient demarcation between phases.  Before the license
+application, site characterization testing provides for baseline data on site
+conditions important to repository design and performance, monitoring of
+changes in those conditions as a result of site characterization, predictions
+of changes in those conditions as a result of construction and operation, and
+predictions of repository performance after closure.
+
+	With the submittal of the license application, the DOE begins the formal
+licensing process with the NRC.  The license application will present the
+performance assessments intended to show that repository performance will
+satisfy the regulatory postclosure performance objectives and will also
+present the data on site conditions upon which the repository design and
+performance assessments are based.  Further data gathering activities after
+the application is submitted are intended to be confirmatory or for other
+purposes, such as design optimization.
+
+	A subset of the testing conducted during site characterization to
+support the resolution of the performance and design issues in the license
+application will provide the baseline data needed to meet the requirements of
+10 CFR 60.140(d) (2), (3).  This includes baseline data on the parameters
+important to design and performance, as well as data on natural processes
+that may be changed by site characterization, construction, and operational
+activities.  All the activities presently required to obtain this baseline
+information are included in the site characterization program, and the
+information needed is identified in two performance allocation tables.  If,
+based on data and other information gathered during site characterization,
+the need for additional baseline information is identified, the baseline
+phase of the performance confirmation program will be appropriately expanded
+or otherwise modified.
+
+	Some of the site charact~rization activities that also meet requirements
+of 10 CFR 60.140(d) (2) and (3) for performance confirmation during the base-
+line phase will be continued past the license application submittal date, if
+continuation of these activities would produce useful data of a confirmatory
+nature.  Such activities fall into two general categories: (1) long-term
+monitoring of natural processes, events, or site conditions (e.g., seismic
+monitoring and monitoring of unsaturated zone hydrologic parameters) and
+(2) long-duration in situ testing to characterize processes and evaluate
+conceptual models (e.g., in situ testing of flow processes in the unsaturated
+zone).  These activities are also consistent with and would support the
+requirements of 10 CFR 60.141 for confirmation of geotechnical and design
+parameters during construction and operation.  Data collected from such
+activities during characterization would be used in licensing assessments.
+
+	Tables 8.3.5.16-1 and -2 list the testing and monitoring activities in
+each of the above categories that have been te~~~~tively identified.  Included
+in the tables are the test titles, locations, purposes, value for performance
+or design confirmation, approximate dates, and the SCP section that provides
+
+
+					8.3.5.16-6

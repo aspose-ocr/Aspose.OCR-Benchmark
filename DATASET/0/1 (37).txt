@@ -1,0 +1,155 @@
+Cemetery Office Expense 65.00 75.00 75.00 
+
+Cemetery Mech. Maint. 300.00 140.79 300.00 
+
+Cemetery Lawn Supplies 150.00 1,544.08 150.00 
+
+Cemetery Flowers 200.00 249.00 250.00 
+
+Cemetery FICA 186.00 107.94 195.00 
+
+Cemetery Medicare 44.00 25.25 46.00 
+
+TOTAL CEMETERIES 4,043.00 3,970.60 4,264.00 
+
+INS. NOT OTHERWISE ALLOC. 
+
+Insurance Misc. 44,000.00 35,109.00 44,000.00 
+
+Insurance Deductible 2.000.00 1.000.00 2.000.00 
+
+TOTAL INS.NOT ALLOCATED 46,000.00 36,109.00 46,000.00 
+
+POLICE DEPARTMENT 
+
+Police Payroll (Full Time) 116,124.00 116,124.00 145,660.00 
+
+Police Payroll (Part Time) 12,126.00 12,109.50 12,620.00 
+
+Police Overtime Pay 10,500.00 8,926.90 11,900.00 
+
+Police Medicare 2,012.00 1,993.46 2,490.00 
+
+Police FICA 900.00 684.58 800.00 
+
+Police Retirement 4,300.00 4,124.81 4,800.00 
+
+Police Schooling 2,500.00 1,500.15 2,500.00 
+
+Police Cruiser Costs 9,000.00 8,992.98 9,000.00 
+
+Police Costs 10.000.00 Q.QQ0.22 10.000.00 
+
+TOTAL POLICE COST 167,462.00 164,446.60 199,770.00 
+
+SVAS Ambulance 21,160.00 21,160.40 22,375.70 
+
+
+
+FIRE DEPARTMENT 
+
+
+
+
+
+
+
+
+Fire Administration 
+
+
+1,900.00 
+
+
+2,260.39 
+
+
+2,200.00 
+
+
+Fire Salaries 
+
+
+6,200.00 
+
+
+6,200.00 
+
+
+6,200.00 
+
+
+Fire Prevention 
+
+
+1,200.00 
+
+
+327.77 
+
+
+1,300.00 
+
+
+Fire Training 
+
+
+2,000.00 
+
+
+2,211.17 
+
+
+2,200.00 
+
+
+Fire Communications 
+
+
+2,900.00 
+
+
+2,924.31 
+
+
+3,100.00 
+
+
+Fire Apparatus 
+
+
+4,000.00 
+
+
+5,815.76 
+
+
+4,600.00 
+
+
+Fire Equipment 
+
+
+6,000.00 
+
+
+6,706.33 
+
+
+6,000.00 
+
+
+Fire Medical 
+
+
+500.00 
+
+
+184.75 
+
+
+500.00 
+
+
+
+33 

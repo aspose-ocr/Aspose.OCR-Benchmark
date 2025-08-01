@@ -1,0 +1,17 @@
+Supplier - Organizations under contract to provide material, components,
+or services.
+
+Procurement documents - Purchase requisitions, or purchase orders, or
+letter of intent, or work authorization letters, and drawings, contracts,
+specifications, instructions, or any document which provides a means to
+acquire possession or ownership of items, or right to the use of services
+3
+by payment.
+
+Technical Review - A documented review to verify the adequacy of site
+investigations to ensure correct field and laboratory data acquisition,
+reduction, and interpretation of results.
+
+
+-41-
+

@@ -1,0 +1,27 @@
+data for pure phases. Data are currently being collected for pure
+zeolite minerals to allow calculation of the thermal expansion behavior
+of zeolitic tuffs.
+  Because of the presence of variable amounts of hydrous phases, such
+as clays, zeolites, glass, and opaline silica, three temperature ranges
+must be defined for the thermal expansion behavior of the tuffs from
+Yucca Mountain: pretransition, transitional, and posttransition. For
+the welded, devitrified Topopah Spring Member, the transitional behavior
+is caused by a mineralogic phase change, while mineral dehydration causes
+the variation in tuffs containing significant quantities of hydrous
+minerals. Transdehydration behavior for samples containing significant
+amounts of the various hydrous phases (e.g., zeolitized tuffs) is likely
+to vary with the amount of expansion or contraction caused by heating and
+the temperature range over which dewatering (dehydration) takes place.
+  The three paragraphs that follow summarize the currently available
+studies of thermal expansion behavior in silicic tuffs from Yucca
+Mountain to document the data used in horizon selection analyses and to
+provide data for evaluation of far field thermomechanical behavior. This
+behavior is also illustrated in Figure 18 to allow comparison of the
+response of the different tuffs.
+  The Bullfrog and Tram Members are devitrified welded tuffs, generally
+found below the static water level. Because of the relatively uniform
+mineralogy involved, expansion behavior of devitrified welded tuffs from
+below the static water level is quite uniform, except for effects of
+small amounts (generally less than five percent) of expandable clays
+(Bish, 1982; Waters and Carroll, 1981). Confined and unconfined results
+-80-

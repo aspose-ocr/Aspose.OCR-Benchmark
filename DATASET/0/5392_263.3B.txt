@@ -1,0 +1,30 @@
+238
+
+
+3.7 Magnitude Variations
+
+  Earthquake magnitudes which are determined directly from seismic wave
+amplitudes on seismograph recordings allow a better understanding and
+interpretation of earthquakes. Richter's (1935) original magnitude scale
+(ML - local magnitude) was developed for use in southern California and
+was limited to earthquakes with epicentral distances of less than 600
+kilometers. Magnitude scales (body wave - mb and surface wave - Ms) were
+later developed for use at greater distances and other regions. Some
+inconsistencies arose in the use of these different scales due primarily
+to the widely fluctuating geologic environments in the earthquake source
+regions, at the recording stations and along the intervening transmission
+paths. Richter's equations for the scales have been modified to fit
+restricted regions in North America by B~~th (1969), Evernden (1967), and
+von Seggern (1970), among others.
+  Magnitude estimates for any one event (earthquake or underground
+explosion) commonly vary by one unit between seismograph stations and
+have been found to vary by as much as three or more units. Magnitude
+determinations are influenced by several factors including (1) instrument
+response, (2) nature of the propagation path, (3) the geology in the source
+region, and (4) the local geology in the vicinity of the seismograph
+station.
+  Gutenberg and Richter (1958) used a term, Log A/T, in their magnitude
+equations because of the "considerable variation in prevailing periods
+determined from instruments of widely different characteristics." A is
+the amplitude of the seismic signal and T is its period. Instrumentation
+variability has been minimized in this report by using only data from

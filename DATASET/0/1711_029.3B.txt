@@ -1,0 +1,49 @@
+     In the repository, the maximum temperature at which leaching 
+could occur will be that of the surface of the glass, i.e. 90~C.  
+Actual maximum temperatures would probably be 2-3~C lower 
+(J. D. Osnes, private communication) because the presence of 
+moisture would raise the thermal conductivity of the backfill.  
+Also, in an actual repository, the canisters might be farther 
+apart, resulting in cooler temperatures. The configuration 
+(Figure 4) used in the calculation, deliberately placed the 
+canisters as close together as practical, for drilling and loading.
+
+     Table 12 also shows the calculated decrease in temperature at 
+long times due to decay of the radionuclides.  At 100 years the 
+leaching temperature has decreased to 55~C.  At 1000 years the 
+estimated temperature is approximately 40~C.17,18
+
+ Ground Water Compositions
+
+     The detailed composition of the ground water that will come in 
+contact with the waste canister in a repository depends on the rock 
+type and on the specific site of the repository.  Thus, an exact 
+ground water composition will not be known until the repository 
+site is chosen and characterized.  However, reasonable compositions 
+based on analyses of the ground waters in salt, granite and other 
+potential repositories are available.  These compositions are given 
+in Table 14.
+
+     Two compositions are suggested for a salt ground water.  
+Composition A resulted from analysis of brine inclusions obtained 
+from a bedded salt formation in New Mexico.16 These inclusions 
+were from a potash zone and thus contained a relatively large 
+amount of potassium.  Similar compositions have been obtained from 
+a salt formation in Kansas.  Brine B was obtained by saturating an 
+aqueous solution with salt obtained from the 820 m level at the 
+Waste Isolation Pilot Plant (WIPP) site near Carlsbad, New Mexico.  
+The appearance of only small amounts of potassium and magnesium in 
+the solution is in agreement with analyses of the rock salt itself.  
+Composition A has been used by more researchers, since this compo-
+sition is recommended in the MCC standard leach tests.19 Because of 
+the presence of potassium and magnesium, this composition is repre-
+sentative of most possible salt repositories.  However, composition 
+B should be used for tests specific to WIPP.
+
+     The granitic ground water composition in Table 14 is from a 
+granite formation in Sweden.20 This sample was obtained at a depth 
+of 900 m.  Comparison with recent analysis of a granitic ground 
+water obtained at 420 m in the United States shows reasonable 
+agreement.21  The major cations are Na, Ca, and Si.  The major 
+anions are SO4~, HCO3~, and Cl~.
+- 31 -

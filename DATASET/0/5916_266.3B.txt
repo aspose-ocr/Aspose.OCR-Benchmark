@@ -1,0 +1,52 @@
+aqueous species was also important. Rai and Serne (1978)
+reported a solubility of 10-14m for pH values in the range 4
+to 8 with the same dominant species as noted above. Linke and 
+Seidell (1965) found a value of 10-10m for Zr solubility in
+pure water with the hydroxide, Zr(OH)4, as the limiting solid
+phase. The discrepancies between the calculated results given
+here and the values of Rai and Serne may be due to the differ-
+ence in thermodynamic data bases used in the calculations.
+
+Technetium
+
+  Tc exhibits behavior similar to Se in the SNLA calcula-
+tions. Under oxidizing conditions a "high" solubility limit
+was found with TcO~~ as the dominant aqueous species. In
+reducing conditions, the solid TcO2 limits the solubility to
+a value below 10-16m. Published data (Leiser and Peschke,
+1982; Wildung and others, 1979; Apps and others, 1983) showed
+similar contrasts between solubilities in reducing and oxidiz-
+ing conditions (10-14m to >100m). Several species, such as 
+TcO2+, TcO(OH)+, and TcO(OH)~~, considered as potentially
+important by other researchers (Apps and others, 1983) were not 
+considered in these calculations. Available thermochemical
+data are not sufficient for the calculation of the 
+concentrations of these species at the present time.
+
+Palladium
+
+  In the SNLA calculations, a solubility limit of 10-5.4m
+was computed for Pd for all four Eh-pH conditions. This con-
+stant value is equal to the ratio of the equilibrium constants
+of the two dominant compounds Pd(OH)2 and Pd(OH)2(s). Other
+researchers have reported the solubility of Pd to be very
+sensitive to redox potential - a trend not detected in this
+study. Apps and others (1983) found a solubility limit of
+10-7m at Eh = +0.4 with PdO as the dominant solid. They
+obtained a solubility equal to 10-22m at Eh = 0 volts with
+Pd as the dominant solid phase. Neither of these two solids
+were included in the data base for the SNLA calculation. This 
+may account for the discrepancy in the reported solubilities.
+
+Tin
+
+  The solubility limits for Sn calculated by SNLA are low
+and dependent only upon pH. At pH = 7 the solubility of Sn was
+found to be 10-13.3m while at pH = 8.5 the solubility was
+reduced to 10-14.8m. SnO(OH)F0 and SnO2 were found to be
+the dominant aqueous species and dominant solid, respectively.
+Previous studies reported a low solubility limit for Sn. For
+example, Apps and others (1983) found a constant solubility of
+10-9.3m over the pH range of 6 to 9. They found the dominant
+aqueous species and solid phase to be Sn(OH)~~ and SnO2,
+-248-

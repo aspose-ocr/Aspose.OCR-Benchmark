@@ -1,0 +1,22 @@
+			PRELIMINARY
+
+
+The techniques that are used to obtain the chlorine-36/chlorine isotope
+ratios from tandem accelerator mass spectrometry measurements are
+documented in a paper by Elmore et al. (1984).  That paper discusses the
+calculation of the ratio of chlorine-36 to chlorine-35 + chlorine-37 in
+the sample, in a National Bureau of Standards (NBS) chlorine-36 standard,
+and in a reagent blank.  The isotope ratios are corrected for mass
+fractionation, for background, and for interferences arising from the
+presence of sulfur-36.  The NBS chlorine-36/chlorine ratios are used to
+normalize the ratios in the samples for inaccuracies introduced by the
+tandem accelerator.  The value of the final chlorine-36/chlorine ratio in
+the sample is calculated as the mean of the correct~~ and normalized
+ratios from a sequence of measurements, weighted ~~ th~ uncertainty of
+each determination, which is taken to be the larg~~ o~ t~~ internal or
+external error.
+
+
+			-15-
+
+

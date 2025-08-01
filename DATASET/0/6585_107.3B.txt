@@ -1,0 +1,56 @@
+Issue
+
+	Some parties suggested that the guidelines should establish procedures
+for determining the end point of site characterization.
+
+Response
+
+	The end point of site characterization will be established by the
+site-characterization plans, which will describe in detail the tests to be
+performed, the data that are needed, and what the data will be used for.  Each
+plan will be specific to a particular site and will be based on the data and
+analyses needed to resolve outstanding issues about the suitability of the
+site.  Because the end of site characterization depends on site-specific
+conditions, it cannot be defined by general siting guidelines.  As already
+mentioned, these plans will be reviewed by the NRC, the affected States and
+Indian Tribes, and the public through a formal hearing process.  The data
+collected during site characterization will be reported to the NRC every 6
+months in progress reports that will also discuss any needed changes in the
+plans for testing.  After site characterization is completed, the NRC may
+request the DOE to collect more data for the confirmation of the results of
+site characterization.
+
+Issue
+
+	One commenter suggested that the potential impact on system performance
+by discrete hydraulic features (joints, faults, fractures, and dissolution
+conduits) be incorporated into the DOE guidelines and the EAs.
+
+Response
+
+	The impact on system performance of discrete hydraulic features is not
+included in the guidelines because the guidelines must be general enough to
+cover all types of host rock.  The impacts of such features, if they are
+present, will be assessed during site characterization.
+
+
+
+C.3.1.1.4	Comments on particular guidelines
+
+Issue
+
+	The guideline concerning the 10,000-year travel time from the repository
+to the accessible environment is not appropriate for radioactive waste that
+will be subject to dispersive and diffusive mixing processes.
+
+Response
+
+	A 10,000-year travel time to the accessible environment is a favorable
+condition in the postclosure guidelines on geohydrology; it was derived from
+the NRC's criteria in 10 CFR Part 60.  The qualifying condition for
+geohydrology says that the present and expected setting of a site shall be
+compatible with waste isolation, taking into account the characteristics of,
+and the processes operating within, the geologic setting.
+
+
+				C.3-7

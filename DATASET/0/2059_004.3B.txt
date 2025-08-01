@@ -1,0 +1,35 @@
+1.  INTRODUCTION
+
+The Lawrence Livermore National Laboratory (LLNL) recently conducted
+geological and geophysical studies of the Mid Valley area at the Nevada Test
+Site (NTS) in an attempt to develop a new underground nuclear testing area for
+LLNL that would ideally accommodate tests up to 150 kt.  The currently used
+Pahute Mesa testing area is located some distance from LLNL's Yucca Flat
+facilities and is subject to winter weather conditions that sometimes delay
+tests.  The Laboratory's Test Program felt that it could economically benefit
+by developing a new site without these drawbacks.
+
+First, the Laboratory assessed any potentially suitable locations at NTS,
+relying heavily on the real estate availability study published by the United
+States Geological Survey (USGS, Fernald, 1977).  Based on these data, we
+determined that Mid Valley held the most promise as a potential alternative
+testing area, but we found several important, unanswered questions concerning
+its geological setting.  To answer these questions, we began an integrated
+study of the Mid Valley area, including detailed analyses of the existing
+geological and geophysical data, a seismic reflection program, an exploratory
+drilling program, geologic field investigations, and geochemical analyses of
+cuttings and surface outcrop samples.  This report documents the results of
+the study.
+
+Mid Valley is a basin approximately 6 km west of the Control Point (CP) at
+the NTS.  It is about 10 km long, and its width varies from 3 to 7 km.  The
+elevation of the valley ranges from 1260 m in the southeast to 1580 m in the
+northwest.  It is surrounded by mountains whose elevations range up to
+2100 m.  The Mid Valley area can be divided into a northern and a southern
+region.  Based primarily on surface gravity data, we selected the southern
+portion of Mid Valley as the most suitable for exploration because the
+predicted depth to the Paleozoic rocks was the greatest.  Subsequent
+discoveries indicate that the northern portion of the valley is probably deep
+enough to be a testing area, but the study described here is mainly concerned
+with the southern portion.
+- 3 -

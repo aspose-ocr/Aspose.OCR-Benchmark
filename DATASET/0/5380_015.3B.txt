@@ -1,0 +1,38 @@
+intermediate-yield data set for Buckboard Mesa where the yield limit is
+about 700 kt, and a Yucca Flat data set where the upper limit would be
+about 250 kt. The latter limit would also apply to events in the Frenchman
+Flat region. For security reasons, the data have been scaled to the one of
+the above three yields associated with the data set.
+
+  When the work has been completed there will be prediction equations
+for acceleration, velocity, and displacement. Because acceleration is the
+primary parameter, we have chosen to prepare equations for it first. Only
+work done on acceleration is reported herein, although for many of the
+events the 3-component vector sums for velocity and displacement are com-
+pleted also. When the decision was reached to discontinue work at the
+Eleana site, it was decided to concentrate first on the Pahute Mesa and
+Buckboard Mesa data sets and to work on the Yucca Flat data set at a lower
+priority.
+
+  Tables 2 and 3 list the events in each of the three data sets. It
+should be noted that the Buckboard Mesa data set is not made up of events
+fired in the Buckboard Mesa area, but rather of those fired on Pahute Mesa
+judged to be most appropriate for estimating ground motion in the event
+future shots are to be detonated in the Buckboard Mesa area.
+
+  The tables show also the source of the data, the number of stations
+for which three components of motion are available from each source, and
+the number of stations for which processing of acceleration data is com-
+plete. The last two columns summarize the number of stations for which
+acceleration processing has been completed and the number remaining to be
+done.
+
+  The question marks in the LASL data column of Table III merely
+indicate that the number of stations providing usable data has not been
+determined. The uncompleted Sandia data are from relatively recent events
+or from earlier events where the data require special treatment which
+takes additional time. There is a backlog of USGS data from their analog
+tapes for which digitizing was not completed during the fiscal year.
+
+
+15

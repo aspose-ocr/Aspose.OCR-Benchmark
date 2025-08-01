@@ -1,0 +1,36 @@
+130
+
+
+(2) the internal logic of the submodels, and
+(3) the various parameters throughout the model which control logic
+    flow and output
+  The model contains built-in error protection required to support
+branching options and meaningful model output. Thus, barrier thicknesses are
+reset at zero after being reduced to negative quantities, areal degradation
+values are not permitted to exceed unity, and variables used in logarithmic
+expressions or as divisors cannot be assigned values of zero. This logic,
+which eliminates the need for error reporting in the Corrosion Model, can be
+verified by the tests described below.
+
+6.3.2 Definition of a Set of Necessary and Sufficient Tests
+
+6.3.2.1 Stand-Alone Verification Tests
+
+  A total of seven separate tests are required in order to verify
+completely all sections and logic of the model, as described below. These
+tests include the following five situations (termed cases):
+  (A)	An ideal case, in which localized corrosion does not apply: Under
+	these conditions, General Corrosion and Dry Oxidation will
+	gradually thin the barriers after barrier resaturation time), and
+	general corrosion is activated for all wetted barriers. The dry
+	oxidation calculations should be stopped for each barrier as it
+	becomes wetted.
+  (B)	Cases in which localized corrosion occurs: The model contains
+	three separate mechanisms of localized corrosion. Pitting, Crevice
+	Corrosion, and Stress Corrosion Cracking sections of the model must
+	each be invoked to test logic patterns, branching, and calculations
+	of breached areas when applicable. In addition, the Stress
+	Corrosion submodel contains three separate logic routings which
+	must be tested. This testing may be accomplished in a single test
+	involving multiple metal barriers (e.g., 5 or 6 metallic barriers
+	of which three or more would be susceptible to localized

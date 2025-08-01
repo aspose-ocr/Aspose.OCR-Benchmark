@@ -1,0 +1,32 @@
+discussed in this report to a depth of 2500 ft principally for geologic
+information on subsurface lithologies within the proposed site.
+  Elevation changes within the site are about 1000 ft giving significant
+problems with both the acquisition and interpretation of electrical data. It
+was also because of this that heavy emphasis was placed on the dipole-dipole
+work for acquisition of data throughout the site. Dipole-dipole data can be
+acquired in rugged terrain and recent two-dimensional interpretive methods
+which include the effect of topography are better developed than for other
+electrical methods.
+  In this report C. Smith and H. Ross of the University of Utah Research
+Institute (UURI) discuss their 2-D modeling of all the dipole-dipole IP lines
+which were measured across Drill-Hole Wash. In order to make the report
+clearer to readers not familiar with the local geology figures 2, 3, and 4 and
+plate A have been included in the introduction to supplement the original
+report.
+
+			Geologic Setting
+
+  The Yucca Mountain area is located in the extreme southwest corner of the
+Nevada Test Site (NTS). The generalized geology is shown in plate A adapted
+from Lipman and McKay (1965) and Christiansen and Lipman (1965). The oldest
+rocks exposed in the mapped area are Miocene rhyolites and tuffs. Principal
+exposures in the survey area are various members of the Paintbrush tuff which
+attains thicknesses over 1000 ft (305 meters). Here the Paintbrush tuff
+consists of four principal ash-flow members; Tiva Canyon, Yucca mountain, Pah
+Canyon, and the lowermost Topopah Spring member separated by thin ash-fall
+tuff beds. The approximate geologic section is shown in fig. 3 taken in part
+from lithologies encountered in hole UE25A1 drilled to 2500 ft in Drill-Hole
+wash, Spengler and others (1979). The Tiva Canyon and Topopah Spring members
+
+
+3

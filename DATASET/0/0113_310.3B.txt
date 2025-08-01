@@ -1,0 +1,51 @@
+   Of course, in the Bayesian, or subjectivist, framework it is sufficient 
+to give a probability distribution on the parameter value in order to ex-
+press confidence. This has been a popular way of representing uncertainty 
+since the Reactor Safety Study (USNRC, 1975).  The Zion study used this 
+approach throughout. The use of distributions on input and output param-
+eters is appealing because of the ease with which they can be manipulated. 
+However, the provision of distributions for all parameters is not an easy 
+task.
+
+12.4.2 INPUT UNCERTAINTIES
+
+12.4.2.1 Quantifiability
+
+     Each separate part of the PRA has its own particular input uncertain-
+ties. These may be as follows:
+
+     1. Uncertainties in the values of input parameters unique to that part  
+        of the PRA. An example is the deposition velocity in the conse-
+        quence model.
+
+     2. Uncertainties in inputs that are outputs from another part of the    
+        PRA. An example is the frequency of an accident sequence and its 
+        input to the consequence model for risk evaluation.
+
+     3. Uncertainties due to modeling or completeness issues.
+
+Whether these uncertainties are regarded as quantifiable depends on the 
+level of analysis, and the degree of quantifiability that is necessary de-
+pends on the method of propagation. For example, if the overall uncertain-
+ties were to be treated only as bounds with no probability assignment, then 
+it might be felt that it would be adequate to provide bounds on the input 
+variables, and thus all parameter uncertainties should be quantifiable in 
+the sense of constructing bounds. Some effort involving sensitivity anal-
+yses would be needed in defining bounds for models, and completeness uncer-
+tainties would need special treatment. Such an approach to uncertainty anal-
+ysis would not, however, provide sufficient detail for some applications of 
+PRA.
+
+     Uncertainties on input parameters, whether they are parameters of the 
+model or inputs from another part of the PRA, may be quantifiable by one of 
+the measures described in the preceding section. However, uncertainty in a 
+parameter that is the output of another analysis is only as quantifiable as 
+the methods of that analysis allow.
+
+     The treatment of modeling uncertainties is really part of the propaga-
+tion task. The only input would be to decide on some weighting to be ap-
+plied to different models that might be used. Since a model is an expres-
+sion of the analyst's understanding of the phenomena being modeled, it is 
+possible to interpret the weighting in a Bayesian sense as a degree of 
+belief in the particular model.
+12-16

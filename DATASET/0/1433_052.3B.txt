@@ -1,0 +1,36 @@
+inclusion of COUPLEFLO in Benchmark II was considered desirable
+for two reasons. One reason was completeness. All the other
+codes used in Benchmark I [2] were to participate in Bench-
+mark II so the inclusion of COUPLEFLO seemed appropriate. The
+other reason for including COUPLEFLO was that the results of
+Benchmark I indicated that COUPLEFLO had the potential for per-
+forming drift response calculations much more cheaply than the
+other codes. However, COUPLEFLO did not have the slide line
+capability required for Benchmark II so the development of a
+slide line algorithm for COUPLEFLO was considered necessary.
+Unfortunately, due to contractual difficulties and delays, the
+slide line development was not completed in time to include
+COUPLEFLO calculations in the Benchmark II comparisons.
+
+  One potential participant had to be excluded from the com-
+parisons because the calculations were not performed according
+to specifications. The BGR of the FRG performed the heated
+drift calculations with the ABAQUS code [20] in addition to
+using the ANSALT code [18]. However, in the ABAQUS calculations
+they decided to omit the anhydrite layer running through the
+middle of the heated drift. Unfortunately this decision changed
+the problem so significantly that the ABAQUS results could not
+be quantitatively compared with the results of other partici-
+pants. As a result, the ABAQUS calculations are not included
+in this report.
+
+  Several other potential participants also expressed inter-
+est in performing the Benchmark II calculations but were not
+able to do so because of time and/or funding limitations. They
+included analysts at Sandia National Laboratories, Livermore,
+who proposed to use the GNATS code [21], analysts at Lawrence
+Livermore National Laboratories who proposed to use the NIKE-2D
+code [22], and analysts at Los Alamos National Laboratories who
+
+
+34

@@ -1,0 +1,27 @@
+PN	Pinar, Nuriye, 1956, Le seisme du 18 mars 1953 de Yenice-Gonen (Anatolie
+	NW) en relation avec les ~~l~~ments tectoniques: Internat. Geod. and
+	Geophys. Union, Assoc. Seismology, Travaux Scientifiques, S~~rie A,
+	v. 19, p. 297-306.
+PG	Plafker, George, 1965, Tectonic deformation associated with the 1964
+	Alaska earthquake: Science, v. 148, no. 3678, p. 1675-1687.
+PGM	1967, Surface faults on Montague Island associated with the 1964
+	Alaska earthquake: U.S. Geol. Survey Prof. Paper 543-G, p. G1-G42.
+QS 	Qureshi, I. R., and Sadig, A. A., 1967, Earthquakes and associated
+	faulting in Central Sudan: Nature, v. 215, no. 5098, p. 263-265.
+RC	Richter, C. F., 1958, Elementary seismology: San Francisco, W. H.
+	Freeman and Co., 768 p.
+RCD	Romney, C. F., 1957, Seismic waves from the Dixie Valley-Fairview Peak
+	earthquakes [Nevada]: Seismol. Soc. America Bull., v. 47, no. 4,
+	p. 301-319.
+SJ	Schmidt, J. F. J., 1881, Studien ~~~ber Vulkane und Erdbeben, vol. 2:
+	Leipzig, Alwin Georgi, 360 p.
+SSA	Seismological Society America Bulletin, 1970, Seismological notes:
+	Seismol. Soc. America Bull., v. 60, no. 2, p. 688-689.
+SR	Shor, G. G., Jr., and Roberts, E. E., 1958, San Miguel, Baja California
+	Norte [Mexico], earthquakes of February, 1956--a field report:
+	Seismol. Soc. America Bull., v. 48, no. 2, p. 101-116.
+SE	Silgado F., Enrique, 1951, The Ancash, Peru, earthquake of Nov. 10,
+	1946: Seismol. Soc. America Bull., v. 41, no. 2, p. 83-100.
+
+
+30

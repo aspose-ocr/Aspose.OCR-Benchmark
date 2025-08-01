@@ -1,0 +1,50 @@
+
+4.7.35
+
+
+
+
+  The cement storage tank, fabricated from mild steel, has a capacity of 28 m3 (1000 ft3); it
+is 4.4 m (14.5 ft) tall and requires 14 m2 (150 ft2) of floor space. The tank fluidizes the
+cement in an air stream and includes a rotary undercut type of shutoff and flow rate regulatory
+valve at the outlet. Air for fluidizing the cement is furnished by a 5-hp cast-iron positive
+displacement rotary blower equipped with a pressure relief valve with intake and exhaust air
+silencers. A bucket elevator lifts cement from the storage tank into a small (about 2 to 3 m3)
+feed tank that discharges into the drum feed screw conveyor.
+
+  The drum loading system consists of a drum conveyor, a control cabinet, and a fixed-height
+fill nozzle surrounded by a dust control plenum. The drum loading system control cabinet is
+equipped with an elevating mechanism to lift the drum into the load position and an electronic
+scale to weigh the amount of cement added.
+
+  Waste Feed System. The waste feed system is a compact assembly of components designed
+to remotely decant waste slurries and to pump slurries and concentrated waste solutions to the
+drums for immobilization. The equipment is mounted on both sides of a machined-steel shield
+wall approximately 1.5 ~ 3 ~ 0.3 m (5 ~ 10 ~ 1 ft) thick for personnel protection during
+operation and maintenance. The shielding wall bolts to machined inserts in the concrete shield
+walls of the radioactive waste processing area.
+
+  The waste feed system contains the decanting tank, decanting pump, slurry metering pump,
+concentrated waste metering pump and associated controls and piping mounted on a shield wall.
+The stainless steel decanting tank is 1.4 m (4.5 ft) in diameter by 1.5 m (5 ft) tall. It has
+a working capacity of 1.9 m3 (500 gal). It includes a moveable decanting nozzle, sensors, and
+a mechanical mixer. An emergency overflow at the top of the tank connects to the plant drain
+line. The decant tank is vented to the radioactive process vent treatment system. A water
+spray manifold at the top of the tank provides for internal decontamination for maintenance
+operations. The motors and actuators are located on the "cold" side of the shield wall.
+
+  Dry, particulate wastes require special handling to introduce them into the FRP CIF.
+Two options appear feasible. For dense solids, a dry weighing system similar to the cement
+filling station could be used. Light solids, such as incinerator ashes, could be pneumatically
+transferred to the decant tank or a special mixing station where they would be blended with
+water or a suitable waste solution. Both systems are conceptual and require specific engineer-
+ing design.
+
+  Drumming Station. The drumming station is designed to immobilize radioactive slurries
+and solutions in cement in 55-gal drums. It is mounted on both sides of a machined-steel
+shield wall approximately 1.5 ~ 3 ~ 0.3 m (5 ~ 10 ~ 1 ft) thick. All motors and as much
+support equipment as practical are mounted on the cold side of the wall. The shield wall bolts
+to machined steel inserts that fit into the concrete shield walls of the radioactive waste pro-
+cessing areas.
+
+ 

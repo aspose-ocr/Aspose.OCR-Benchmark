@@ -1,0 +1,56 @@
+Revision 3		November 1978
+
+
+during and after a postulated seismic occurrence. The following informa-
+tion should be provided in the PSAR:
+
+	1. The criteria for seismic qualification, such as the deciding
+factors for choosing test and/or analysis, considerations in defining
+the input motion at the equipment monitoring locations, and the process
+to demonstrate adequacy of the seismic qualification program.
+
+	2. The methods and procedures used to test Seismic Category I
+mechanical equipment operation during and after the Safe Shutdown Earth-
+quake (SSE) and to ensure structural and functional integrity of the equip-
+ment after several occurrences of the Operating Basis Earthquake (OBE)
+in combination with normal operating loads. Included are mechanical equip-
+ment such as fans, pump drives, heat exchanger tube bundles, valve actuators,
+battery and instrument racks, control consoles, cabinets, panels, and
+cable trays. Broad-band seismic excitation, dynamic coupling, and multi-
+directional loading effects should be considered in the development of
+the seismic qualification program.
+
+	3. The methods and procedures of analysis and for testing of the
+supports for the above Seismic Category I mechanical equipment, and the
+verification procedures used to account for the possible amplification
+of design loads (amplitude and frequency content) under seismic
+conditions.
+
+	There should be provided in the FSAR the results of tests and
+analyses to ensure the proper implementation of the criteria accepted in
+the construction permit (CP) review and to demonstrate adequate seismic
+qualification.
+
+	3.9.2.3	Dynamic Response Analysis of Reactor Internals Under
+Operational Flow Transients and Steady-State Conditions. A description
+of the dynamic system analysis of structural components within the reactor
+vessel caused by the operational flow transients and steady-state condi-
+tions should be provided in the PSAR. The purpose of this analysis is
+to demonstrate the acceptability of the reactor internals design for
+normal operating conditions and to predict the input forcing functions
+and the vibratory response of the reactor internals prior to conducting
+the preoperational vibration test of a prototype reactor. Information
+concerning the method of analysis, the specific locations for response
+calculation, the considerations to define the mathematical model, and
+the acceptance criteria should be provided in the PSAR.
+
+	3.9.2.4 Preoperational Flow-Induced Vibration Testing of Reactor
+Internals. Information should be provided in the PSAR describing the
+extent to which the recommendations of preoperational flow-induced vibra-
+tion testing of reactor internals during the startup functional test pro-
+gram, as delineated in Regulatory Guide 1.20, "Comprehensive Vibration
+Assessment Program for Reactor Internals During Preoperational and Initial
+Startup Testing," will be implemented. The purpose of this test is to
+
+
+3-38

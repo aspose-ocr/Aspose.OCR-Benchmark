@@ -1,0 +1,34 @@
+
+71
+
+
+
+
+rate of dissolution for Rainier Mesa rock was found to be
+6.87 ~ 10-3 mg m-2 hr-1.
+
+Determination of the Equation for Silica
+Mass Transfer in Rainier Mesa
+
+	Experiment 3 established that the rate of mass trans-
+fer of the constituents from Rainier Mesa glass is dependent
+on the reactive surface area to water volume ratio, ~, in
+addition to temperature. The average total surface area of
+the glass samples used to determine the kinetic rate was
+93.6 square meters. If this value, along with the rate
+constant obtained for the temperature of the rock and the
+value of b given in Table 4 are used in equation 8, the
+equation of mass transfer of silica into the groundwater of
+Rainier Mesa is obtained:
+
+
+
+
+The Time, Surface Area, Silica Concentration
+Relationship for Rainier Mesa Groundwaters
+
+	If Rainier Mesa precipitation is assumed void of all
+silica (Freeze and Cherry, 1979) Qo equals 0.0, and equa-
+tion 16 becomes:
+
+

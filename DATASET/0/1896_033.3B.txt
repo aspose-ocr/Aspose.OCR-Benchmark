@@ -1,0 +1,53 @@
+     The selection of multiattribute-utility theory for analyzing the site-
+recommendation problem is based on three advantages of the theory. First, it 
+has an explicitly stated philosophical and logical basis for the methodology 
+that is appropriate for the site-recommendation problem (see Merkhofer, 
+1986).  Second, it separates the factual information and judgments about the 
+performance and impacts of a repository at the various sites from value judg-
+ments about the desirability of those possible impacts.  And third, both of 
+these sets of information and judgments are made explicit for peer review and 
+public review.
+ 
+     Crucial to multiattribute utility analysis are the sensitivity analyses 
+that are conducted.  The sensitivity analyses vary over reasonable ranges any 
+of the inputs that could substantially affect the relative desirability, and 
+hence the initial order of preference, of the nominated sites.  Their purpose 
+is to ascertain whether specific judgments or data are crucial to the conclu-
+sions drawn from the analysis.  They thus suggest where further attention and 
+effort should be focused.  
+
+     In spite of its advantages, a formal analysis cannot address every aspect 
+of the complex siting decision faced here.  Excluded from the analysis, for 
+example, is consideration of the advantages of a diversity of rock types.  Be-
+cause this or any methodology is capable of providing only a partial ac-
+counting of the many factors important to the site-recommendation decision, 
+its results will not form the sole basis for that decision.
+
+     Regarding the design of the methodology, one additional point should be 
+made; it is related to the concept of the diversity of rock types.   The method 
+of analysis used here evaluates the overall desirability of each nominated 
+site, not the desirability of combinations of sites.  The evaluation of all 
+possible combinations of sites, each of the possible combinations being con-
+sidered as an alternative, would require an extended, more-difficult form of 
+analysis known as a "portfolio analysis."  As explained by Edwards and Newman 
+(1982), such sophistication is rarely used in portfolio problems.  Instead, 
+the more-common procedure is to evaluate the options (i.e., sites) by methods 
+similar to the one described here and then to examine the resulting set of 
+choices to determine their acceptability as a portfolio.  This is exactly the 
+procedure outlined in Section 1.2.4.       
+
+     The sections that follow present a brief overview of the methodology 
+(Section 2.2), explain the process by which it was implemented (Section 2.3), 
+and discuss the relationship of the methodology to the DOE's siting guidelines 
+(Section 2.4). 
+
+                         2.2 OVERVIEW OF THE ANALYSIS 
+
+     The logic underlying multiattribute utility analysis is relatively  
+straightforward, although the specific steps and the nomenclature may be un-
+familiar to some readers.  (A glossary is provided at the end of the report.)  
+The basic premise is that the relative desirability of a site is measured by 
+the extent to which siting objectives are achieved.  The siting objectives are 
+derived directly from the DOE's siting guidelines (see Section 2.4).  The 
+degree to which siting objectives are achieved is indicated by the performance 
+2-2

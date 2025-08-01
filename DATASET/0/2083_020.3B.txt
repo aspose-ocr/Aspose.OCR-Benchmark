@@ -1,0 +1,52 @@
+    ~  estimated exposure time required to complete the tasks and the
+       estimated doses anticipated
+
+    ~  special instructions and equipment to minimize the exposure of   
+       personnel to radiation and contamination  
+
+    ~  protective clothing and equipment requirements  
+
+    ~  authorization to perform the tasks  
+
+    ~  exposure time, doses, and other information obtained during the  
+       operation.   
+
+Radiation Protection
+
+       Procedures should be developed to provide guidance for activities 
+specifically associated with radiation protection and ALARA.   These 
+procedures should be carefully evaluated to ensure that appropriate 
+radiation exposure control techniques are included.
+
+       Procedures for control of radiation protection activities may be 
+overlooked in exposure reduction efforts because of the functional 
+expertise of the personnel to whom they are directed.   However, 
+radiation exposures of the radiation protection personnel may constitute 
+a significant portion of the total exposure received from an activity 
+and may provide opportunities for exposure reduction to ALARA.   All 
+procedures, the performance of which may involve receiving radiation 
+exposure, should be evaluated for ALARA.   Radiation protection 
+activities that should be evaluated include, but are not limited to:   
+
+1.  routine surveys to determine radiation, contamination, and airborne 
+    radioactivity status   
+
+2.  surveys in high dose rate areas   
+
+3.  any activity for which continuous radiological surveillance is 
+    required   
+
+4.  calibration of radiation protection instruments   
+
+5.  personnel decontamination   
+
+6.  sample collection and evaluation. 
+
+      In some operations that use an SWP - RWP system for procedural 
+control of work in radiation areas, the SWP or RWP for the radiation 
+protection activities may be a general permit authorizing entry with 
+few, if any, guidelines provided.   The specific activity authorized by 
+the SWP or RWP should be identified, an ALARA review performed, and 
+guidance provided in the procedure, if warranted, to ensure maintaining 
+radiation exposures ALARA.   Personnel exposure to perform surveys of
+15

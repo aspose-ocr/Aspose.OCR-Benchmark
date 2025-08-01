@@ -1,0 +1,31 @@
+3
+
+
+1.1 PREVIOUS INVESTIGATIONS
+
+  Observations made in the Colorado Plateau area of southcentral Utah
+indicate that the planimetric morphology of headcuts may be divided into
+three classes as previously defined by Philbrick (1970): notched, hori-
+zontal (called straight in this report), and arcuate ( FIGURE 1). These
+three morphological classes are thought by Giampaoli (1984) to represent
+an evolutionary trend related to knickpoint migration based on a flume
+study of knickpoint migration in homogeneous material under conditions
+of ephemeral flow.
+  Brush and Wolman (1960) used a flume to study migration of knick-
+points in non-cohesive sediments. They found that non-cohesive sedi-
+ments do not allow the knickpoint to maintain a stable vertical configu-
+ration. The knickpoint will `rotate' to extinction (i.e., erode until a
+channel without a knickpoint is formed) as shown in FIGURE 2.
+  Leopold et al. (1964) stated that the style of headcut migration in
+homogeneous material is related to a ratio of the height (H) of the free
+fall of water over the headcut to the depth (D) of the flow in the chan-
+nel. According to their results, if H/D is greater than unity, the
+migration will proceed in a vertical style, and if H/D is less than uni-
+ty the migrational style will be rotational. These results were based
+on flume studies which were apparently done under conditions designed to
+simulate perennial flow. This idea is appealing and appears to have
+merit, but they never published the data from their experiments or any
+additional information regarding experimental laboratory procedure. It
+appears that a constant flow depth is assumed in their model. This
+assumption would not be true for most natural streams and especially for
+ephemeral and intermittent streams where flow is often varied.

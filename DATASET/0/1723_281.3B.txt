@@ -1,0 +1,50 @@
+coaxially in a filtrate collection shell. The material to be
+filtered is pumped into the heads of the shell and passed through
+the inside of the porous tube. A filter cake is developed on the
+inner wall until an arbitrary pressure differential is reached. A
+60 psi cake differential was used during the testing. The filter
+contained 0.5 micron pores and a 0.3 sq ft filter area.
+
+  Two tests were run with the standard filtration arrangement.
+Both filter cake were about 50% solids and discharged easily from
+the filter tube. A second setup used a centrifugal pump recircula-
+tion loop within the feed loop. Filtration rates were comparable
+although a slightly lower pressure drop was observed across the
+filter cake. The discharged cake was still 50 wt % but was much
+smoother and less viscous. The average filtrate rate was
+0.14 gpm/sq ft of filter area.
+
+	Oberlin APF
+
+  The APF is a low maintenance filter. The upper platten is
+lowered by an air cylinder and seated firmly by an air diaphragm.
+The material to be filtered is metered into the space between the
+upper platten and the filter media. Air pressure is applied until
+a "dry" filter cake is achieved. The filter media is indexed and
+the cake releases to a catch bin.
+
+  Several filter media were tested with a small laboratory
+pressure filter. All media consisted of a textile woven at various
+weights. Four materials were tested, Tyvek~~ (Du Pont), a broken
+twill weave, rayon, and a Teflon~~ coated polyester. Filter cakes
+between 31 and 42 wt % were produced.
+
+  After initial laboratory filter tests a 2.4 ft2 APF was tested
+using a polypropylene filter media. Filter pressure differential
+was set at 30 psi after cake development. A filtrate flow rate of
+about 1 gpm was attained. Cake thickness was about 8 millimeters
+and 35-37% solids were attained with the 30 psi differential.
+
+  Although the APF appears to be a reliable machine, significant
+modification would be needed to allow remote operation. The heavy
+dependance of the APF on elastomeric materials for seals, pressure
+diaphragms, etc. raises questions as to service life in the high
+beta-gamma environment.
+
+	Sharples Centrifuge
+
+  Four different operating conditions were tested with a
+Sharples centrifuge as shown in Table 73.
+
+
+- 279 -

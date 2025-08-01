@@ -1,0 +1,39 @@
+     The relation between pH and total carbonate shown in Fig. 7, and the
+relations between PMC and total carbonate and between ~13C and total carbonate
+shown in Figs. 14(b) and 15(b), imply a relation between pH and the isotopic
+variables. Figure 16(a) shows a plot of pH as a function of PMC and Fig. 16(b)
+shows a plot of pH as a function of ~13C for water from Yucca Mountain and
+vicinity. Both plots show some trends in the data for the tuffaceous waters,
+but the UE-25p#1 samples do not follow these trends. This disparity between
+the UE-25p#1 data and the tuffaceous water data was also evident in plots of
+pH and carbon dioxide pressure as a function of total carbonate (Figs. 7 and
+9), and calcite log10(Q/K) as a function of pH (Fig. 10). This behavior
+contrasts with the apparent continuity between the UE-25p#1 data and
+tuffaceous data in plots of calcium content and carbon dioxide pressure as a
+function of pH (Figs. 6 and 8(b)) and of PMC and ~13C as a function of total
+carbonate (Figs. 14(b) and 15(b)). Although some data point to a connection
+between the tuffaceous and carbonate waters at Yucca Mountain, it is far from
+clear that an actual physical or chemical connection exists (see Section
+VII(B)).
+     Stable hydrogen and oxygen isotopic data can also provide information
+about the origins of water or some of the physical and chemical processes that
+the water has undergone (Craig 1961; Faure 1977; Dansgaard 1964; Fritz and
+Fontes 1980). Figure 17(a) shows a plot of the relative deuterium/hydrogen
+content (~D) of water from Yucca Mountain, NTS, and vicinity as a function of
+the relative 18O/16O content (~18O). The straight line represents a relation
+obtained by Craig (1961) for meteoric water. Claassen (1985) shows a similar
+plot (with only some of the data) and interprets the distribution of the data
+along the meteoric water line as a temperature effect, with more negative ~D
+and ~18O originating as precipitation at lower temperatures. Claassen (1985)
+also shows relations between ~D and ~18O, and apparent age, with older waters
+(lower PMC) showing more negative ~D and ~18O. He relates this to colder
+temperatures 10,000 to 15,000 years ago (see also the following paragraph).
+White and Chuma (1986) reported the data from Pahute Mesa and Oasis Valley in
+Fig. 17(a). They interpreted the spread in Oasis Valley as caused by a mixing
+of Pahute Mesa water (~D = ~-114~/~~ and ~18O = ~-14.5 to -14.7~/~~) with
+water from the Bullfrog Hills in Oasis Valley (~D = ~-102~/~~ and ~18O =
+~-13.4~/~~). They also cite the difference between Pahute Mesa water and
+water from Fortymile Wash and the portion of the Amargosa Desert that drains
+
+
+36

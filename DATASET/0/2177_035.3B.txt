@@ -1,0 +1,37 @@
+2.1.9 Diagenesis
+
+      Because the repository is located in consolidated volcanic rocks, 
+diagenetic processes as such are unlikely to be significant.   However, a 
+closely related geochemical process, the alteration of volcanic glass to 
+a series of clay minerals, may be important.   This is discussed in 
+Section 2.1.12.
+
+2.1.10 Diapirism 
+
+     Diapirism generally refers to the flow of salt rocks.   No salt 
+formations are present in the subsurface at Yucca Mountain, nor are there 
+shales, which have also been known to flow.   Diapirism is therefore 
+impossible at this site.
+
+2.1.11 Faulting and Seismicity 
+
+     The IAEA lists "faulting/seismicity" as a single phenomenon.  
+However, movement along a fault within the repository could affect waste 
+isolation in ways fundamentally different from events elsewhere that only 
+send seismic waves through the repository.   Since underground structures 
+are generally resistant to earthquake effects [EA, Section 6.3.1.7.5], 
+the waste package is designed to withstand a 20-foot drop onto an 
+unyielding surface [Gregg and 0'Neal, 1983], which would accelerate it 
+far more than the 0.4 g expected from a maximum earthquake (EA, 
+Section 6.3.1.7.5), and since the rocks of Yucca Mountain have already 
+been subjected to earthquake stresses for millions of years, it is 
+difficult to see how seismic waves from earthquakes centered outside the 
+site could impair long-term waste isolation.  (The report edited by Tsang 
+and Mangold [1984, pp. 58-59] suggests otherwise, but in such general 
+terms that it is difficult to derive any specific scenarios from it.)
+The discussion here will therefore focus on fault movement in or near the 
+repository.
+
+       Even after movement stops, a new fault might perturb the 
+ground-water flow system.   The effects of a new fault on which movement
+-28-

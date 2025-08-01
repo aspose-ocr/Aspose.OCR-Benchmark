@@ -1,0 +1,36 @@
+thorium is purified from any residual lanthanum and uranium by solvent
+extraction, following dissolution in 0.3 ml of 0.08F nitric acid and removal
+from the beaker. Approximately 0.15 ml of TTA (thenoyl trifluoro acetone) is
+added to the solution in a 7 ml centrifuge tube, agitated thoroughly, and
+thorium is extracted into the organic phase. The organic phase is removed
+from the aqueous phase with a micropipette and slowly evaporated on a
+stainless steel disc under a heat lamp. The disc is flame dried and the TTA
+extraction/evaporation procedure is repeated. The disc is flame dried again
+and placed in the alpha spectrometer for counting.
+
+Isotopic Measurements and Counting Error
+  Uranium and thorium separates are measured, individually, in high-
+resolution alpha spectrometer units and a large-capacity multichannel analyzer
+with multiple input capability. Partially depleted silicon surface barrier
+detectors are used in the spectrometer units. A block diagram of a typical
+alpha-particle spectroscopy system is shown by Chanda and Deal (1970);
+however, liquid nitrogen-cooled cryostat units are not required for our
+detectors. A typical alpha-particle spectrum for each of these separates is
+shown in Figure 7.
+  A minimum of 10,000 counts in the integrated portion of each alpha-energy
+peak normally is accumulated for each measurement. For defining linear
+trends, a uranium sample is counted four separate times and averaged, and a
+thorium sample is counted three separate times and averaged. The 238U/236U
+activity ratio is used to determine the uranium concentration by radioisotope
+dilution using a 236U spike calibrated with a standard uraninite sample
+solution (Rosholt, 1984). The 232Th/229Th activity ratio is used to determine
+thorium concentration. The 230Th/229Th activity ratio is used to determine
+230Th content by radioisotope dilution with a 229Th spike calibrated with a
+standard uraninite sample solution. The concentrations of 238U and 230Th in
+the standard uraninite solution are calibrated with NBS 950 standard
+uranium. Activity ratios of 234U/238U and 230Th/232Th are measured directly
+from the spectra; activity ratios of 230Th/238U and 238U/232Th are calculated
+from data obtained in both spectra where
+
+
+17

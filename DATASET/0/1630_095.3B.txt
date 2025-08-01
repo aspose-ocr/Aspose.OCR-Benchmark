@@ -1,0 +1,43 @@
+Enstatite, forsterite, talc, anthophyllite, chrysotile, and antigorite 89
+
+
+II. The values of ~G~f and ~H~f given in table 8 for calcite and ara-
+gonite fall within the uncertainties in the corresponding values reported
+by Robie and Waldbaum (1968). The fact that they are consistent with
+both low-temperature solubility measurements and high pressure/tem-
+perature phase equilibrium data reinforce the reliability of the thermo-
+dynamic data given in table 8 for aragonite and calcite.
+
+
+  Although equilibrium phase relations in this system have received
+considerable geologic, experimental, and theoretical attention over the
+years, many ambiguities and uncertainties in the thermodynamic proper-
+ties of magnesian silicates have yet to be resolved. Owing to the high
+sensitivity of calculated equilibrium temperatures and pressures to small
+errors in the thermodynamic properties of minerals in the system MgO-
+SiO2-H2O, relative uncertainties in the values of ~G~f and ~H~f for
+these minerals must be of the order of a few tens of cal mole-1 or less
+to reproduce all the various experimental observations. This require-
+ment served as an implicit constraint in the retrieval calculations re-
+ported below.
+  Enstatite, forsterite, talc, anthophyllite, chrysotile, and antigorite.-~
+Simultaneous consideration of high pressure/temperature experimental
+data shown in figures 24 through 28 for
+
+
+and
+
+
+generated the values of ~G~f and ~H~f in table 8 for the minerals ap-
+pearing in these reactions. The calculations were carried out using the
+standard molal volumes, entropies, and heat capacity coefficients given
+in the table for the minerals in reactions (116) through (121), together
+with the thermodynamic data and equations of state for H2O and
+SiO2(aq) summarized by Helgeson and Kirkham (1974a) and Walther and
+Helgeson (1977). Wherever appropriate, provision was incorporated in
+the calculations for the thermodynamic consequences of the clinoensta-
+tite/enstatite phase transition.
+  The Clapeyron slope of the univariant curve in figure 22 was used
+to calculate the standard molal entropy of the clinoenstatite/enstatite
+transition from density data reported by Stephenson, Sclar, and Smith
+(1966). Similarly, the value of ~S~Pr,Tt given in table 8 for the enstatite/

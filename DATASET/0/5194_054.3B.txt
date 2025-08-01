@@ -1,0 +1,30 @@
+would seriously degrade the capabilities of a reposi-
+tory at Yucca Mountain to isolate nuclear wastes. In
+particular, assumptions about waste-package per-
+formance, retardation processes along fractures, and
+flow and transport through the saturated zone would
+all become more significant if fracture flow were to
+occur. To illustrate the effects of each of these items
+on performance, the fracture-flow baseline case
+represented by Figures 26 through 28 will be varied
+
+
+independently for each of these items in the follow-
+ing sections.
+
+4.3.3 Effects of Waste-Package Containment on
+	Fracture-Flow Releases
+  Figure 29 shows total releases at the water table
+caused by a flux of 5 mm/yr for 300- and 1000-yr
+containment periods and for a progressively failing
+containment period. If fracture flow occurs, a 300-yr
+
+
+Figure 29. Comparative ratios to the EPA limits of total curies remaining below the water table for 100,000 yr based on 300- and
+1000-yr waste packages and waste packages with exponentially increasing loss of containment; total flux assumed to be 5 mm/yr;
+interacting water assumed to be 2.5% of the total flux; asterisk shows coincident (at the scale of this graph) cumulative releases at
+10,000 yr for the 300- and 1000-yr waste packages; solid triangle shows cumulative releases at 10,000 yr for the exponentially
+decaying waste packages.
+
+
+46

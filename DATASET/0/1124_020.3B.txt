@@ -1,0 +1,39 @@
+  The pumping test was set up in a similar manner to the test in Well
+UE-25b#1.5 A Lynes Inflata-Plug was first set in the Well at ~835 m in depth
+and a Lynes Pip Packer at ~750 m. Groundwater could then be pumped from
+between these two packers to the surface for analysis. The pump was set at
+a 610-m depth, much deeper than normal for pumping wells. This depth was
+chosen so that the height of the water column inside the casing at the pump
+locations would be large, thus eliminating any possibility of pump-cavitation
+and reducing the diffusion of air down through the column of water to the
+water being pumped out of the packed-off zone. In addition, 20 ~ of diffu-
+sion pump oil were added to the water column over the pump to act as a
+floating air seal.
+  During the pumping process, a portion of the well's total flow was
+continuously directed through a 1-in. Tygon hose into the mobile laboratory
+at the well site. There the water flow could be directed into the anaerobic
+filtration equipment and/or through the electrode cell, where measurements of
+oxygen, pH, oxidation-reduction (Eh) potential, conductance, and sulfide
+could be made without exposing the water to the atmosphere.
+  The anaerobic filtration unit5 consists of two Nuclepore 1-~ stainless
+steel filtration units, appropriate stainless steel valves and tubing, and
+1-~ Pyrex receiver vessels with pressure stopcocks. The filtration unit is
+mounted on wheels so that the unit is portable and can be taken out of our
+large mobile laboratory to any well site. Two filtration units are provided
+in series so that even very dirty water can be filtered in stages, ending
+with a 0.05-~m Nuclepore membrane. In the pumping of Well USW H-6, only the
+top filtration unit with a 0.05-~m Nuclepore membrane was used. The 1-~
+Pyrex containers were kept full of filtered water (unexposed to air) to be
+used for reference water and possible future analyses for concentration of
+14C, carbon-dioxide, and gas content and composition. In addition, daily
+samples were filtered in air through a 0.05-~m Nuclepore membrane, acidified
+with 100 ~~ of Ultrex nitric acid and sent in Nalgene bottles to Los Alamos
+for cation analyses.
+  The anion concentration of the groundwater usually was determined twice
+a day, by using a Dionex Model 16 Ion Chromatograph in the mobile laboratory
+at the well site. This instrument proved to be extremely durable and depend-
+able for such a field operation. Samples of anaerobically filtered water,
+water taken directly from the well, and water exiting the mobile laboratory
+
+
+14

@@ -1,0 +1,35 @@
+6
+1.4 PROTECTING AGAINST HUMAN INTERFERENCE
+
+      The protection afforded by the repository design, the waste package, and 
+the repository site is expected to adequately mitigate the consequences of the 
+release of radionuclides to ground water, whether the ground-water/waste 
+contact is due to natural or human induced causes.   Insofar as analyses of 
+hypothetical systems show the likelihood of human interference to be greater 
+than the likelihood of natural events or processes breaching a repository 
+system, however, prudence dictates that methods directed at reducing the 
+likelihood of such interference be evaluated.
+       The general societal trend of continuous technical advancement makes it 
+unlikely that human interference could be precluded by design measures; i.e., 
+technical advances are likely to render protective systems put in place by one 
+generation vulnerable to the technology of subsequent generations.   If future 
+generations elect to apply their technology to gaining access to the waste 
+repository, they are likely to succeed with reasonable planning and at con-
+siderable cost (see Section 2, ground rule 2).  The U.S. Department of Energy 
+has taken the position that:  ". . . although this generation bears the 
+responsibility for protecting future societies from the waste that it creates, 
+future societies must assume the responsibility for any risks which arise from 
+deliberate and informed acts which they choose to perform" (DOE, 1980, 
+p. II-189).   However, at the heart of the human interference issue is the 
+concept of releases from the repository taking place because those societies 
+that caused or could be affected by the releases were uninformed.
+       This task force endorses the Department's position and, therefore, adopts
+as its main focus the reduction of the likelihood of uninformed human inter-
+ference with repository systems.   There are three primary mechanisms for 
+reducing the likelihood of human interference.   These are (1) reducing the 
+incentive for human interference, (2) designing the repository to increase the 
+difficulty of interference, and (3) communicating the existence of the reposi-
+tory to generations far into the future.   For the reasons discussed in this 
+report, the task force focused on the third mechanism.   The approach and the 
+logic used by the task force to analyze the problem and to arrive at its 
+recommendations are discussed in Section 2 of this report.

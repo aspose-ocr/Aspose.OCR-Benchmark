@@ -1,0 +1,42 @@
+    Two sets of linear features, probably fractures, were identified in the 
+Tram Member from the acoustic-televiewer log.  In the interval from 821 to 
+929 m, lineations dipping about 60~ to 80~ to the southwest were common.  At a 
+greater depth--the interval from 1,029 to 1,107 m--lineations dipping 70~ to 
+85~ to the northeast and east were logged.  Because the principal conductive 
+zone for the well is from 809 to 840.9 m (table 3), most of these probable 
+fractures do not conduct significant amounts of ground water.
+
+        Beneath the Tram Member and the thin, underlying bedded tuff, the well 
+penetrated 110 m of Lithic Ridge Tuff.  It is a partially welded, relatively 
+porous ash-flow tuff (table 1).  A thin interval from 1,120.1 to 1,120.4 m was 
+more conductive than the remainder of the unit (table 3).
+
+        All the saturated rocks have very small apparent, average horizontal 
+hydraulic conductivity (table 3).  The order of magnitude of hydraulic conduc-
+tivity generally ranges from 10-2 to 10-4 m/d.  The calculated values of 
+storage coefficient are very small also, ranging from 4x10-6 to 7x10-6 for 
+four tests (table 2).   Transmissivity of the penetrated part of the saturated 
+zone, mostly rocks of the Tram Member, is no greater than about 1 m2/d.
+
+             CONCLUSIONS
+
+       At the site of this well, results of hydraulic tests, hydrologic monitor-
+ing, and geophysical log interpretations indicate that:
+
+     1. The Bullfrog Member and the overlying stratigraphic units commonly 
+have intervals that are intensively fractured and relatively porous.  They 
+generally are unsaturated and are permeable to downward percolating water 
+recharging the ground-water system from precipitation and runoff.  However, 
+the quantity of recharge from precipitation and runoff is very small because 
+of the water-availability limits imposed by the desert climate.
+     2. The water table is at a depth of 750.7 m in the bedded tuff underly-
+ing the Bullfrog Member.  In the 2-m-thick interval at the base of the Bull-
+frog Member, perched water or drilling fluids may be present.  All saturated 
+strata to the total depth of the well have very small permeability.
+     3. The most transmissive part of the saturated zone is in the upper part 
+of the Tram Member, the interval from 809 to 840.9 m. The penetrated part of 
+the saturated zone has an apparent horizontal transmissivity of about 1 m2/d 
+or less.
+     4. The conceptual model presented in this report is a reasonable repre-
+sentation of the actual fracture-flow system near the test well.
+36

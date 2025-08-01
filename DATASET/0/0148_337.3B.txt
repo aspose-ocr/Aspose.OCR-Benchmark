@@ -1,0 +1,44 @@
+5.7.60
+~ Canisters containing failed fuel are placed in a second container called an overpack.    
+~ No more than 0.2% of the fuel assemblies are expected to contain failed fuel rods.   How-
+  ever the facility is designed for a 2% failure rate.    
+~ Steel overpacks and canisters are fabricated offsite.    
+~ The facility has air locks and a controlled air leakage into the facility; effluent air 
+  is filtered.    
+~ Air conditioning, other than heating in the winter, is not required in process
+  areas.    
+~ The facility has an area for receiving, handling, inspecting, and repairing empty 
+  canisters, and for storing a 2-month inventory of empty canisters and overpacks.
+
+Safety.   The primary design considerations of the spent fuel packaging facility are to 
+protect the integrity of the fuel cladding and to safely transfer fuel assemblies into indi-
+vidual containers, for extended storage or transfer to a geologic repository.   The facility 
+will be designed to preclude the following as credible accidents:   
+~ criticality   
+~ dropping of heavy loads on fuel   
+~ multiple massive ruptures of fuel assemblies by missiles   
+~ loss of shielding   
+~ complete loss of cooling.   
+
+Spent fuel handling structures and systems are designed to prevent excessive release of 
+radioactivity while maintaining their functional integrity following any credible natural 
+phenomena (earthquake, tornado, hurricane, flood, drought, etc.), any accidents (power loss, 
+equipment failure, etc.), or any credibly related combinations of phenomena and accidents.  
+
+Use of Single Assembly Square Canister.   Heat transfer calculations for the 6-1/2 year old 
+fuel assemblies indicate that multiassembly packaging of BWR assemblies (four assemblies per 
+package) is possible and that multiassembly packaging for PWR assemblies may be possible.  How-
+ever, the single-assembly/square canister is used here because it uses an evaluated critically 
+safe configuration.  Square canisters also allow placement of more packaged fuel in a shipping 
+cask cavity for transportation, which results in significant transportation cost savings when
+moving the fuel to terminal storage in a canister.   In an industrial facility, after additional 
+analyses have been performed, round canisters and overpacks are an attractive alternative.   
+Round canisters, of standard pipe size and structurally stronger, would be somewhat cheaper 
+than square canisters.  
+
+5.7.3.3  Spent Fuel Packaging Facility Operations 
+
+The SFPF receives fuel assemblies into its heavily shielded air environment through the 
+unpackaged spent fuel storage facility's water-filled transfer canal.   After entry into the
+SFPF, the assemblies, which are handled only in a vertical position, are dried and sealed in 
+helium-filled canisters.   Packaged assemblies are then temporarily stored for about 2 days

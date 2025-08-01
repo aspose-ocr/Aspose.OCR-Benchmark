@@ -1,0 +1,51 @@
+Appendix D. Crystallography and Chemistry
+of Dachiardite Produced at 250~C
+(Experiments DB7 and DB9)
+
+
+Introduction
+
+  Scanning electron microscope observations of the surface of the reacted wafers from experiments DB7
+and DB8 indicated that the secondary minerals present were large enough to be plucked from the surface
+of the wafer for more detailed characterization. This was performed by using a binocular microscope and a
+dissecting needle dabbed with alcohol. One crystal mass was mounted on the end of a glass fiber and
+prepared for XRD analysis using a Gandolfi camera. Many other crystal masses were plucked from the
+surface of the wafer and used to prepare an epoxy grain mount. The crystals were confined within a
+stainless steel nut that was floated in the partially set epoxy. By carefully polishing the grain mount, we
+were able to remove the overlying epoxy and expose the crystals at the surface. This polished grain mount
+was suitable for quantitative analyses using WDS techniques on the EMP.
+  The dominant secondary mineral formed as a result of the hydrothermal interaction of this densely
+welded, devitrified ashflow tuff (compositionally a high-silica rhyolite) with a dilute (Na + HCO3)
+ground water at 250~C was the rare zeolite dachiardite. Dachiardite is a mordenite-group, high-silica
+zeolite with a cation content similar to that of mordenite, with which it is commonly associated (Wise and
+Tschernich, 1978). The type locality for dachiardite is a hydrothermally altered zone in a pegmatite near
+San Piero di Campo, Elba, Italy (Bonardi, 1979). Its generalized compositon is given as
+
+
+  The type locality mineral was rich in calcium (Ca/Na + K = 1.23). Since its original reporting by
+D'Archiardi in 1906, this mineral has only been observed in a few other localities, but almost always as a
+sodium-rich endmember. Sodium-rich daciardite has been reported in Alpe di Siusi, Italy (Alberti, 1975);
+in Tsugawa, Japan (Yoshimura and Nakabayushi, 1977); in Washington and Oregon (Wise and
+Tschernich, 1978); in Chichijima, Japan (Nishido et al., 1979); and in the Francon Quarry, Montreal,
+Quebec (Bonardi et al., 1981). The only other locality with reportedly calcium-rich dachiardite is at Yellow-
+stone National Park (Barger and Beeson, 1981; Barger et al., 1981; Barger, 1984), where dachiardite occurs
+in hydrothermally altered, rhyolitic, pumiceous tuff and lava.
+  The dachiardite structure has been studied by Gellens et al. (1982), but little is known about its cation
+exchange properties, thermal stability (only the sodium-rich variety has been studied in any detail), etc.
+There are no known reports of its synthesis from oxides, nor has it been reported as a run product of
+hydrothermal rock-water interaction in any published laboratory experiments.
+
+X-Ray Diffraction Identification and Calculation of Cell Constants Using
+the Gandolfi Camera
+
+  We plucked a rosette of crystals from the surface of the reacted wafer and mounted it on a glass rod
+for exposure to CuK~ radiation within a Gandolfi camera. This camera rotates samples approximately 45~
+during exposure, as well as rotating the film on the focal plane. The d-spacings of lines recorded on the
+exposed film from the Gandolfi camera are listed in Table D1. As can be seen, the match to the type
+locality dachiardite was excellent. A linear regression of the XRD data allowed the calculation of cell
+constants (Appleman, 1963). The refined cell constants for the dachiardite produced in experiments DB7
+and DB9 and those of the type locality were as follows.
+
+
+28
+

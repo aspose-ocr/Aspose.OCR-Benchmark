@@ -1,0 +1,26 @@
+Conclusions
+
+The significance of the work to date can be illustrated by plotting
+some of the results shown in Table 4 on an NTS map. Let us assume that
+Calico Hills is a potential candidate site for a repository. Figure 18
+shows a portion of NTS with Calico Hills in the lower left corner. A short
+dashed line shows the southern portion of the Buckboard Area as defined by
+USGS, indicating the closest points to Calico Hills at which 700 kt could
+be detonated. For a facility at Calico Hills designed to withstand 0.7 g,
+circles have been drawn about that point using the results of Eqs. (1) and
+(3) from Table 4. The solid circles are for Eq. (1) and the dashed circles
+are for the old ERC criteria from Eq. (3). Circles are shown for mean, 1~,
+2~, 3~, and 4~ (Eq. (1) only). These correspond to probabilities of 50%,
+31.7%, 4.6%, 0.3%, and 0.005% that the 0.7-g level will be exceeded. Thus,
+the probability of a 700-kt explosion at the southern edge of the
+Buckboard Mesa Area producing more than 0.7 g at Calico Hills is
+considerably less than 0.3% based on the more recent analysis. This
+indicates that Calico Hills is a suitable site for a waste facility from
+the standpoint of compatibility with nuclear weapons testing if the
+facility is designed to withstand 0.7 g and licensing does not require
+more than a 3~ probability of exceeding the design acceleration. The
+corresponding level for the older ERC equations would be slightly above
+the 2~ probability. Clearly, the newer analysis presents a more optimistic
+estimate of the compatibility of a waste facility at the NTS with the
+nuclear weapons testing program.
+20

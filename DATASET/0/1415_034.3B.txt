@@ -1,0 +1,39 @@
+Spent Fuel
+
+The following assumptions have been made in this scenario:
+
+~	A shipping cask containing a single PWR fuel assembly is delivered
+	to the surface facility according to the procedures described in a
+	reference truck transportation model (Shirley, 1983).
+
+~	The vehicle is involved in a severe accident and diesel fuel fire at
+	the loading dock of the waste-handling building.
+
+~	The fire exposes the cask and the fuel assembly to a temperature
+	of 800~C (1,500~F) (Dennis et al., 1978) for 30 min, the tempera-
+	ture and time standards set in 10 CFR 71 (NRC, 1983) (DOE,
+	1979). These standards for temperature and time are conserva-
+	tive, and the probability that these standards will be exceeded is
+	extremely low. The probability that a truck accident on the open
+	road will exceed these standards ranges between 10-10 and 10-11
+	accident/mi (McClure, 1981).
+
+~	The cask and the cladding of the fuel assembly are breached,
+	releasing fission gases and other volatilized radionuclides.
+
+~	Workers at the loading dock are exposed to the radioactive plume
+	before the concentration of radionuclides has been reduced by
+	dilution and dispersion.
+
+~	Other workers onsite are also exposed to radiation during site
+	evacuation, which is estimated conservatively in this preliminary
+	assessment to require 1 hr.
+
+Mitigation
+
+  Low speed limits (5 to 10 mph) for tractor trucks in waste-handling
+areas should be required. Thus, if an accident should occur, the conse-
+quences would be lessened because the probability of a cask breach at low
+
+
+20

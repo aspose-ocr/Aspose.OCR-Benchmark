@@ -1,0 +1,38 @@
+strength values reported are averages of the two samples from each original
+unless otherwise stated.
+
+REFERENCE
+
+1.	Z. T. Bieniawski and M. J. Berneale, Int. J. Rock Mech. and Mining Sci.
+	16, 137 (1979).
+
+				APPENDIX E
+
+		PROCEDURE FOR DENSITY AND POROSITY DETERMINATIONS
+
+I.	PURPOSE
+	The purpose of these tests is to measure the bulk density and connected
+porosity of rock samples.
+
+II.	EQUIPMENT AND PROCEDURE
+	Equipment consists of an analytical balance (Metler model H31AR). This
+balance shall be calibrated in accordance with the requirements of QMI 9-1 of
+the Quality Assurance Manual.
+	Porosity and bulk density measurements will be performed as follows:
+	Evacuate specimen under fore-pump vacuum for at least 24 h.
+	Weigh in air (WDD).
+	Evaculate in bell jar fitted with H2O access. Use fore-pump vacuum.
+	Cover with deionized H2O and release to atmospheric pressure.
+	Without removing sample from water, weigh submerged. Take tare and
+	buoyance of any supports into account (WSS).
+	Measure temperature of water.
+	Remove sample from water and gently blot the surface with paper
+	towel.
+	Weigh in air (WSD).
+
+III.	DATA ANALYSIS
+	Data will be analyzed as follows:
+		Calculate "grain density,"
+
+
+22

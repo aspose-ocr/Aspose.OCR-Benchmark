@@ -1,0 +1,37 @@
+
+the U.S. Geological Survey. The plot for well 2 (fig. 23b) suggests
+a possible increase in late 1971. Although the data are sparse and
+inconclusive, they demand  further consideration. The following 
+paragraphs provide a discussion and evaluation of the significance 
+of the reported values and the degree of confidence with which the 
+increasing trend may be viewed.
+     The first consideration concerns sample collection and analysis
+procedures.
+     (1) Although analytical procedures have changed somewhat during 
+1957-71, the same basic planchet preparation procedure and instrument
+calibration procedure have remained in use, wherein the same planchet
+is used to count both alpha and beta activities. 
+     (2) In 1965, collection and field treatment of samples for 
+radiochemical analysis were changed (see page 7). The major effect
+of this change was to go from collection of unfiltered (or filtered
+through paper of unknown pore diameter) samples which had acetic 
+acid and chloroform added, to collection of samples filtered through 
+a 0.45-micrometer membrane with hydrochloric or nitric acid added.
+The effects of these collection procedures on the alpha and beta
+values might logically be as follows.
+     Unfiltered samples may contain sediment with sorbed alpha or
+beta activity. Addition of acid would tend to de-sorb this activity
+from the solid phase and thus increase the total activity in solution.
+The filtered samples would contain only particulates smaller than the 
+maximum pore size of the filter.  For the 0.45-micrometer membrane,
+only particles smaller than an average bacterium would pass through.  
+
+
+
+
+135
+
+
+
+
+

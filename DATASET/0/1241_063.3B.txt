@@ -1,0 +1,43 @@
+PRE-PLEISTOCENE PALEOCLIMATES           97
+3. For snapshot simulations of, e.g., 50 or 100 m.y. ago, the paleogeogra-
+phy and SST boundary conditions and the paleoclimatic data used for com-
+parison with the simulated results are averaged over a 1- to 5-m.y. period.  
+Therefore, the distribution of solar radiation with latitude and season should 
+be an average calculated over many cycles of orbital periodicities.
+
+   5.4.5.  Atmospheric Aerosol Content.  It is well known from both observa-
+tions and climate modeling (Toon and Pollack, 1980; Turco et al., 1982) that 
+atmospheric aerosols can affect climate.  This is because they scatter and 
+absorb shortwave radiation and absorb and emit infrared radiation (IR) 
+(Prospero et al., 1983).  Observations of surface temperature anomalies 
+following major volcanic eruptions and the results of climate modeling 
+indicate that stratospheric aerosols increase the temperature in the lower 
+stratosphere and reduce surface temperature.  This is because the effect due 
+to the increase in planetary albedo is greater than that due to the absorption 
+and emission of IR (Pollack et al., 1976).
+   Stratospheric aerosol content is closely related to one source, explosive 
+volcanic eruptions that periodically inject silicate dust particles and sulfur 
+gases (H2S, SO2) into the stratosphere.  The sulfur gases are converted 
+through photochemical reactions to sulfuric acid particles.  After major 
+eruptions, stratospheric aerosols decline to background levels after 1-2 yr 
+(Castleman et al., 1974).  While the mean global atmospheric optical depth 
+(~) due to aerosol is in the range 0.05 to 0.2 (Deirmendjian, 1971; Pollack et 
+al., 1976), and major eruptions can increase this to 0.4-0.5 for several 
+months, the mean volcanic contribution over the last few centuries to total 
+atmospheric aerosol ~ has been ~0.02, constituting about 80% of the total 
+stratospheric aerosol ~ (Pollack et al., 1976).  Therefore, periods of en-
+hanced volcanic activity in the geological past could have had climatic effects 
+through increased ~.  Approximate estimates of the variation of strato-
+spheric aerosol content can be made, given a knowledge of changes in the 
+global rate of volcanism through time.  This could be achieved by the follow-
+ing methods.
+
+   1. Major volcanic episodes (lasting maybe a few million years) can be 
+recognized in the geologic record from widespread and thick ash horizons 
+(Axelrod, 1981).  However, there is insufficient data to document changes 
+in the global rate of volcanism with any confidence.
+   2. The global average ocean floor spreading rate slowly varies over tens of 
+millions of years.  This must affect mean rates of volcanism at midocean 
+ridges and in island arcs and Andean mountain belts along destructive plate 
+margins.  Hays and Pitman (1973) argued that the mean ocean floor spread-
+ing rate between 110 and 85 m.y. ago was double the present value [although

@@ -1,0 +1,38 @@
+in real operating times (~~ 40 yr) at temperature in BWRs because of the domination of the low-
+activation energy process at temperatures less than approximately 350~C. However, as
+discussed in the paper by Smith, 1975 on diffusion in 316 stainless steel, the grain boundary
+diffusion mechanism operates only over a limited area so that the absolute amount of material
+moved by this mechanism is small and becomes smaller as the temperature decreases. This is in
+accord with the decreasing degree of sensitization measured at the lower temperatures.
+Another consideration for the vanishing amount of low temperature sensitization at BWR
+operating temperatures (288~C) and lower is that the growth rate of the carbide becomes
+controlled by the reaction kinetics forming the carbide at the austenite/carbide interface, and
+this is presumably a slow process at low temperatures (<250~C). Thus, arguments can be made
+that would hasten the sensitization effect at low temperatures with respect to extrapolations
+made from higher temperature data (diffusion along grain boundaries and along dislocation
+pipes in very heavily strained material), and arguments can be made that would retard the
+effect (interface control vs. diffusion control). Figure 5 indicates that if sensitization were to
+occur at all, it would be evident in a few to several years at temperatures in the range 200-
+300~C. This time period lies within the realm of experimental practicality.
+
+6.4 Environmental Effects on IGSCC Susceptibility
+
+  In analysis of IGSCC, a sensitized microstructure is considered necessary for the
+phenomenon to occur in the absence of crevices. The chemical environmental conditions are also
+important. The phenomenon has been studied mostly under the thermal and chemical
+environmental conditions relevant to BWR coolant (250-300~C high-purity water on the order
+of 1 Mohm-cm resistivity, under pressure, with varying oxygen contents, usually ranging from 2
+to 8 ppm). The general conclusion from this work is that the stronger the oxidizing potential of
+the environment, the greater the susceptibility for IGSCC in sensitized materials. The work of
+Fujita et al. (1981) indicated that gamma radiation (4.5 ~ 104 rads/hr) further increased the
+stress corrosion susceptibility of sensitized AISI 304 in high-purity water. They used the slow
+strain rate test to determine the SCC susceptibility and found that the fractures were all
+intergranular.
+
+  Unlike other corrosion degradation modes on stainless steel, susceptibility toward
+IGSCC is probably not so strongly affected by just the chloride ion. (Sulfate ions and heavy
+metal cations in small concentrations, as well as chloride ion, appear to favor IGSCC on
+susceptible materials in BWR environments.) Many theories of SCC consider a surface pit or
+
+
+43

@@ -1,0 +1,57 @@
+Revision 3		November 1978
+
+
+6.2.3 Secondary Containment Functional Design
+
+	The secondary containment system includes the secondary containment
+structure and the safety-related systems provided to control the ventila-
+tion and cleanup of potentially contaminated volumes (exclusive of the
+primary containment) following a design basis accident. This section
+will discuss the secondary containment functional design. The ventilation
+systems (i.e., systems used to depressurize and clear the secondary con-
+tainment atmosphere) should be discussed in Section 6.5.3, "Fission Product
+Control Systems," and Chapter 15, "Accident Analyses."
+
+	6.2.3.1 Design Bases. This section should discuss the design bases
+(i.e., the functional design requirements) of the secondary containment
+system, including the following considerations:
+
+	1. The conditions that establish the need for controlling the
+leakage from the primary containment structure to the secondary contain-
+ment structure;
+
+	2. The functional capability of the secondary containment system
+to depressurize and/or maintain a negative pressure throughout the
+secondary containment structure and to resist the maximum potential for
+exfiltration under all wind loading conditions characteristic of the site;
+
+	3. The seismic design, leak tightness, and internal and external
+design pressures of the secondary containment structure;
+
+	4. The capability for periodic inspection and functional testing
+of the secondary containment structure.
+
+	6.2.3.2 System Design. Describe the design features of the secondary
+containment structure and provide plan and elevation drawings of the plant
+showing the boundary of the structure.
+
+	Provide a tabulation of the design and performance data for the
+secondary containment structure. Provide the types of information indi-
+cated in Table 6-17.
+
+	Discuss the performance objectives of the secondary containment struc-
+ture. Identify the codes, standards, and guides applied in the design
+of the secondary containment structure.
+
+	Describe the valve isolation features used in support of the secondary
+containment. Specify the plant protection system signals that isolate
+and/or activate the secondary containment isolation systems or reference
+the section in the SAR where this information can be found.
+
+	Discuss the design provisions that prevent primary containment leakage
+from bypassing the secondary containment filtration systems and escaping
+directly to the environment. Include a tabulation of potential bypass
+leakage paths, including the types of information indicated in Table 6-18.
+
+
+6-28

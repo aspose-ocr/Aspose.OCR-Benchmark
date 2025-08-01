@@ -1,0 +1,18 @@
+Narrative for Module BAS1FM
+
+    This module initializes the arrays in which the right hand side (RHS) 
+and the h-coefficient (HCOF) are accumulated.
+
+    Recall that the equation for cell i,j,k contains a term RHSi,j,k on the 
+right hand side and a coefficient HCOFi,j,k (h-coefficient) which multiplies 
+hi,j,k on the left hand side of the equation.  The right-hand-side term and 
+the h-coefficient are the sum of terms related to many of the flow components.  
+They are calculated every time the equations are formulated.
+
+    Module BAS1FM performs its functions in the following order:
+
+    1.   For each cell, initialize (set equal to zero) the HCOF and RHS 
+accumulators.
+
+    2.   RETURN.
+97

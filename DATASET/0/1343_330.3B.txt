@@ -1,0 +1,45 @@
+310			THE EFFECTS OF IONIZING RADIATION
+
+
+Thus far, after exposure periods of 4-5 yr and cumulative doses of more
+than 11,000 WLM, seven dogs among the groups exposed to radon and
+uranium have developed lung cancer: three bronchoalveolar cancers
+(without cigarette-smoking), three epidermoid cancers (smoking status
+not stated, but one evidently nonsmoking), and one fibrosarcoma of the
+peripheral lung (nonsmoking). In animals of these groups that were
+sacrificed after 40 mo or more, extensive adenomatosis was found at
+the bronchoalveolar junction, as well as granulomas and bullous emphy-
+sema.47 Three dogs have had squamous carcinomas of the nasal mucosa
+(two nonsmoking and one smoking). No cancer at any site has appeared
+among the smoking dogs not exposed to radon and uranium, and at 4-5 yr
+pulmonary changes have been minimal in this group.
+  The Hanford group has exposed hamsters and rats to radon daughters
+(900 and 1,200 WL) with and without uranium-ore dust (15 mg/m3) for
+5 mo, with total cumulative doses of about 10,000-12,000 WLM.14,48
+Squamous metaplasia of the nasopharynx was a very common observation
+in both hamsters and rats exposed to radon daughters only, and there
+were a few squamous-cell cancers of the nasal epithelium. The groups ex-
+posed to dust and radon daughters had changes in the deep lung, instead
+of nasal mucosal metaplasia. Hamsters thus exposed had no lung neo-
+plasia, but did have fibrosis, emphysema, and adenomatosis. However,
+rats exposed to radon daughters and dust had a high proportion of bron-
+choalveolar squamous carcinomas and occasional adenocarcinomas. It is
+evident that hamsters were more resistant than rats to development of
+lower respiratory tract neoplasia. Moreover, the contrast in results be-
+tween those exposed and not exposed to dust indicates that radiation ex-
+posure without dust was chiefly to the upper airway, presumably owing to
+absorption there of the free-ion fraction of radon daughters.
+  Little and colleagues have demonstrated bronchoalveolar cancer induc-
+tion from polonium-210 instilled intratracheally in hamsters at mean
+doses as low as 15 rads.27 A single dose of 100 nCi in 0.2 ml of saline pro-
+duced tumors in fewer animals (two of 31) than a slightly lower cumulative
+dose given in 15 instillations each of 5.6 nCi each (14 of 59 animals).25
+A most important observation in these experiments has been that instilla-
+tion of salt solution alone increased the effects of polonium instillation.
+For example, if, under the same conditions of exposure, the single instilla-
+tion (100 nCi) was followed by 14 weekly intratracheal instillations of 0.2
+ml of normal saline, the proportion of animals with tumors was approxi-
+mately the same as in the group given 15 instillations of 5.6 nCi. A num-
+ber of such experiments have shown the enhancement of lung-cancer
+production in hamsters from alpha-radiation exposure by this potential
+stimulus to bronchial cell proliferation.28 Saline alone was as effective in

@@ -1,0 +1,7 @@
+1.2.2.5.3 Subsurface Area (Cont'd)    1.2.2.5.3-2
+D. Subsurface ventilation shall provide for separate systems and
+   circuits for underground development and waste handling areas. Waste
+   handling areas shall always be maintained at a lower pressure
+   compared to the non-waste handling facilities, such that potentially
+   contaminated air from waste handling areas does not flow into
+   non-waste handling areas (10 CFR 60.133(g)(3)).

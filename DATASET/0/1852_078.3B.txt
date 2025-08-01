@@ -1,0 +1,39 @@
+2. 6 Sample Calculations of External Mode Probabilities
+
+  A computer code has been written to implement the competing risk formalism and the failure
+rate models described in Section 2. 5. The purpose of the code is simply to illustrate the feasibility
+of numerical calculations with the formalism at this stage of development.
+
+  Results of a sample calculation with the code are plotted in Figure 2. 5. 4, which gives the
+logarithms (base 10) of the probabilities of release by way of the external release modes versus
+the logarithm of elapsed time since site closure. The failure rates derived in Subsections 2. 5. 4. 1
+through 2. 5. 4. 7 were used in the sample calculation: the values used for the appropriate parame-
+ters in the sample calculation are also the nominal parameter values quoted in the subsection
+treating each failure rate. A cut-off probability of 10-6 was used to delimit the ordinate of
+Figure 2. 5. 4. Thus any mode that does not achieve a computed probability greater than 10-6
+within 106.2 years is not represented on the plot. This was the case for erosion and meteorite
+impact.
+
+  No particular conclusions concerning long-term repository stability should be drawn from
+the results that appear in Figure 2. 5. 4. Note that these estimates of probability are highly sen-
+sitive to changes in certain of the parameter values. In turn, the ranges of the parameter values
+are uncertain and may be large. These example calculations do, however, point out certain in-
+consistencies between the geological assumptions made about the reference site and our choice of
+parameters used to illustrate the models. The relatively high probabilities achieved for modes (1),
+(2) and (4) (respectively: boreholes, voids and fractures, faulting) after 104 years are consequences
+of a high rate of salt solutioning that is implicit in our choice of aquifer discharge rate and areas
+for the several kinds of penetrations of the shale barriers. If such a high rate of solutioning had
+prevailed at the reference site in the past, then the hypothetical salt lens in which the repository
+is placed would probably not be present. The inconsistency serves to emphasize the point that we
+are dealing with models that require real data to test their validity.
+
+  The most sensitive parameters in the present model appear to be the ones specifying a
+volumetric removal rate of salt from solution cavities initiated through undiscovered boreholes,
+undiscovered voids, explosions and faulting. The rates of salt removal were thought to be con-
+servative (overestimates) when assigned. However, this presumption may be wrong. In addition,
+the conceptual assumptions made in the models of salt solutioning may be incorrect (see Section
+2. 5. 3 for a discussion of the salt solution models).
+
+
+82
+

@@ -1,0 +1,57 @@
+3.6.4	Steering Controls and Guidance System
+
+  The outer housing, which is a machined casting, also serves as
+foundation for the four cutterhead supports. These supports consist
+of a curved shoe welded to two double acting machined wedge
+slides. A hydraulic cylinder moves the shoe up or down a similarly
+machined pair of inclined planes that are cast integral with the
+outer housing (see D32909).
+
+  Integral with the bell housing are similarly machined
+inclined-plane wedges, located at 45~ on either side of the vertical
+centerline. A hydraulically actuated shoe, similar to the
+cutterhead support shoes, is attached to each wedge.
+
+  The purpose of the top supports is to stabilize the cutterhead
+and reduce head vibration by pressing through windows in the shield,
+directly against the hole wall. Together with the lower supports,
+the top supports provide a fulcrum plane about which the rear
+steering jacks, operating against the inside of the shield in
+various combinations, can pivot the cutterhead relative to the
+shield. This pivoting action provides the ability to correct
+drilling direction and is similar to the steering action of TBMs.
+
+  The cylinders operating the various support shoes receive
+filtered hydraulic oil under pressure from the multiaxial piston
+pump driven by a gear reducer via solenoid-actuated directional
+control valves. The electrical signals to the solenoids originate
+from the operator at the control console and through a multicored
+control cable attached to the boring machine.
+
+  To enable the operator to know which way to correct the drill, a
+ZED Instruments, Ltd., series TG 26E (modified) guidance system is
+incorporated. The target for this system is mounted in-hole on the
+right side of the outer muck plate housing, and the laser is mounted
+on a steel bracket at the entrance to the bored hole. When the
+laser beam strikes the photo-diode array target, a signal is
+transmitted to a monitor unit located on the operating console.
+Numbers, in millimeters, appear on the screen in the zone of the
+offset. For example, if a 4 appears on the uppper part of the
+screen, the drill head is 4 mm high. Additional data on the system
+are contained in SAND83-7085.
+
+  The cutterhead support principle is standard on Robbins TBMs.
+
+  Using four remotely controlled steering jacks operating on the
+wedge principle is a new application for a drill. However, similar
+cylinder-actuated wedges are used to operate the side cutterhead
+supports on TBMs according to proven principle. The success of this
+steering concept will be dependent upon the reliability and
+sensitivity of the hydraulic components, namely, the pump and the
+directional control valves, and the severity of steering corrections
+needed to keep the drill on course. The valves, pump, and laser
+guidance system have been selected on the basis of proven
+performance and reliability.
+
+
+-20-

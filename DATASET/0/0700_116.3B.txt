@@ -1,0 +1,37 @@
+100
+
+
+utilized, with velocity, frequency and amplitude recorded. Cross-hole
+methods have been used extensively in rock engineering and the technique
+is relatively well developed. Extensive instrument development was
+carried out for tests at Stripa (Nelson et al, 1979; Paulsson & King,
+1980).
+
+Seismic velocity is influenced by a number of rock mass characteristics
+including the density and porosity of the rock material, weathering and
+alteration, joint spacing and joint opening. In an unaltered rock mass
+of locally uniform lithology (such as a repository formation), velocity
+will vary according to joint spacing and opening. Laboratory tests by
+Stacy (1976) show that other seismic parameters, such as frequency and
+amplitude of both compressional and shear waves, are in many cases more
+sensitive indicators of fracture characteristics than velocities. Of
+particular interest is the effect of confining stress on various para-
+meters, for example shear wave frequency (Figure 5-4). At low
+confining stress, shear wave frequency is highly sensitive to stress,
+whereas at higher stress levels the frequency is relatively constant
+approaching that of the intact rock. Similar results have been reported
+by New & West (1980) showing that the stress level at which joints
+become "acoustically closed" depends on rock type and the nature of the
+joint surface.
+
+The relationship between stress and seismic parameters is very similar
+in form to the relationship between stress and permeability presented in
+Section 3.1.3.1 (Figure 3-4). In the case of Stacy's laboratory tests
+on marble there is a seismic contrast at a stress of about 2 MPa. In
+the case of the predicted permeability of basalt, permeability increases
+rapidly at stresses less than 3 to 4 MPa. It appears promising, there-
+fore, that good correlations between permeability and seismic parameters
+can be established for a particular rock type, and that seismic surveys
+can be used to estimate disturbed zone permeability. An advantage of
+seismic methods is that a relatively large volume of the rock mass can
+be sampled.

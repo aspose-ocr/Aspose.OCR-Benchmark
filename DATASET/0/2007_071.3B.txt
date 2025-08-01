@@ -1,0 +1,52 @@
+STATEMENT FROM THE 1983 MEETING OF THE ICRP	69
+
+
+complex interplay of rates of biological uptake and loss, together with radioactive decay in the
+many organs and tissues that might determine an ALI, and it would be prudent to consider
+carefully each separate case. In fact, relevant data are scarce but the following examples will
+serve to illustrate the nature of the problem.
+  From considerations of water balance, the mean life of water in the body is about 14 days
+for adults and 6 days for infants aged 6 months (ICRP, 1975) and that of the long-lived
+radionuclide tritium in the form of tritiated water will have similar values. In consequence, the
+committed dose equivalent to body tissues from unit intake of tritium as tritiated water will be
+only about four times greater for such infants than for adults, rather than the ten times greater
+factor derived above that would be expected on the basis of their differences in mass alone.
+Similarly, as a consequence of the more rapid turnover of the long-lived caesium-137 in people
+of smaller mass (Cryer and Baverstock, 1972), the committed dose equivalent in body tissues
+from unit intake of the radionuclide is only about 1.5 times greater for the 6-month infant than it
+is for adults (Medical Research Council, 1975).
+  The mean life of iodine in the thyroid also increases with age, but this may be accompanied by
+a small decrease in the uptake into the gland from the blood, (Medical Research Council, 1975;
+UNSCEAR, 1977; Dunning and Schwarz, 1981; Stather and Greenhalgh, 1983). For the
+relatively short-lived radionuclide iodine-131, differences in biological turnover are of little
+consequence because its rate of loss from the thyroid is dominated by radioactive decay and its
+mean life in that organ is therefore about the same at all ages. In consequence, the committed
+dose equivalent to the thyroid per unit intake of iodine-131 is about ten times greater for the
+infant aged 6 months than it is for adults (Medical Research Council, 1975), reflecting their
+approximately 10-fold difference in thyroid mass. However, for the very long-lived iodine-129,
+the more rapid biological turnover in young people tends to offset their smaller mass, and the
+committed dose equivalent to the thyroid per unit intake of iodine-129 for the 6-month child is
+only about twice that for adults (UNSCEAR, 1977).
+  Papworth and Vennart (1973) and Leggett et al. (1982) have described how the uptake of
+strontium into bone and its retention therein varies with age. The former authors have given
+values for the committed dose equivalent in red bone marrow and on bone surfaces from unit
+intake of dietary strontium-90 and strontium-89. For the long-lived strontium-90, the value for
+a 6-month infant is about five times the adult value, but for the much shorter-lived strontium-89
+the corresponding ratio lies in the range 20-40, the actual value depending on the model used for
+the dosimetry of the radionuclide in bone. There may be additional contributions to the
+committed effective dose equivalent from other organs and tissues for which the factors might be
+different.
+
+Chemical Form
+
+  Values of ALI given in ICRP Publication 30 are usually appropriate to those chemical
+compounds of a radionuclide that are most likely to be encountered at a place of work.
+Compounds of the same radionuclide found in the environment or in food may be metabolized
+differently. The consequent changes in values of committed effective dose equivalent have to be
+considered very carefully. For example, increased absorption of a radionuclide from the
+gastrointestinal tract into the blood will decrease the committed dose equivalent to the lower
+part of the tract, but increase the doses in other tissues of the body; such increases are most
+marked when radioactive decay is small during the time taken for transfer from the
+gastrointestinal system to the other organs and tissues.
+  It is known that absorption of some elements from the gastrointestinal system is increased in
+new-born animals of several species by factors up to 100 for compounds that are very poorly

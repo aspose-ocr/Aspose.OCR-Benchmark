@@ -1,0 +1,63 @@
+CITED REFERENCES
+
+1.  G. H. Jirka, G. Abraham, and D. R. F. Harleman, Massachusetts Institute of Technology, "An 
+Assessment of Techniques for Hydrothermal Prediction," U.S. Nuclear Regulatory Commission, 
+NUREG-0044, 1976.  (Copies may be obtained from the National Technical Information Service, 
+Springfield, Va.)   
+
+2.  W. E. Dunn, A. J. Policastro, and R. A. Paddock, "Surface Thermal Plumes: Evaluation of 
+Mathematical Models for the Near and Complete Field," Parts One and Two, Argonne National 
+Laboratory, Energy and Environmental Systems Division, ANL/WR-75-3, 1975.    
+
+3.  K. D. Stolzenbach and D. R. F. Harleman, "An Analytical and Experimental Investigation of 
+Surface Discharges of Heated Water," Ralph M. Parsons Laboratory for Water Resources and 
+Hydrodynamics, Massachusetts Institute of Technology, Rep. No. 135, 1971.    
+
+4.  K. D. Stolzenbach, E. E. Adams, and D. R. F. Harleman, "A User's Manual for Three-Dimensional 
+Heated Surface Discharge Conditions," Ralph M. Parsons Laboratory for Water Resources and 
+Hydrodynamics, Massachusetts Institute of Technology, Rep. No. 156, 1972. 
+
+5.  E. A. Prych, "A Warm Water Effluent Analyzed as a Buoyant Surface Jet," Sveriges 
+Meteorologiska och Hydrologiska Institut, Serie Hydrologi, nr 21, Stockholm, Sweden, 1972.    
+
+6.  M. A. Shirazi and L. R. Davis, "Workbook of Thermal Plume Prediction Vol. 2 - Surface 
+Discharge," U.S. Environmental Protection Agency, National Environmental Research Center, 
+Environmental Protection Technology Series, Rep. No. EPA-R2-72-005b, Corvallis, Ore., 1974.    
+
+7.  D. W. Pritchard, "Design and Siting Criteria for Once-Through Cooling Systems," presented 
+at American Institute of Chemical Engineers, 68th Annual Meeting, Houston, Tex., 1971.    
+
+8.  D. W. Pritchard, "Fate of and Effect of Excess Heat Discharged into Lake Michigan with 
+Specific Application to the Condenser Cooling Water Discharge from the Zion Nuclear Power 
+Station," Testimony at the AEC Licensing Hearings for the Zion Nuclear Power Station 
+Operating Permit, Chicago, Ill., 1973.    
+
+9.  G. H. Jirka and D. R. F. Harleman, "The Mechanics of Submerged Multiport Diffusers for 
+Buoyant Discharges in Shallow Water," Ralph M. Parsons Laboratory for Water Resources and 
+Hydrodynamics, Massachusetts Institute of Technology, Rep. No. 169, 1973.   
+
+10.   J. H. W. Lee, G. H. Jirka, and D. R. F. Harleman, "Stability and Mixing of a Vertical Round 
+Buoyant Jet in Shallow Water," Ralph M. Parsons Laboratory for Water Resources and Hydro-
+dynamics, Massachusetts Institute of Technology, Rep. No. 195, 1974.   
+
+11.   R. C. Y. Koh and L. N. Fan, "Mathematical Models for the Prediction of Temperature Distri-
+butions Resulting from the Discharge of Heated Water in Large Bodies of Water," Water 
+Pollution Control Research Series, Rep. No. 16130DW010/70, 1970.   
+
+12.   E. Hirst, "Analysis of Round, Turbulent, Buoyant Jet Discharged to Flowing Stratified
+Ambients," Oak Ridge National Laboratory, Rep. No. 4685, 1971.   
+
+13.   W. W. Sayre and F. M. Chang, "A Laboratory Investigation of Open-Channel Dispersion 
+Processes for Dissolved, Suspended, and Floating Dispersants," U.S. Geological Survey, 
+Professional Paper 433-E, 1968.   
+
+14.   N. Yotsukura and E. D. Cobb, "Transverse Diffusion of Solutes in Natural Streams," U.S. 
+Geological Survey, Professional Paper 582-C, 1972.   
+
+15.   N. Yotsukura, "A Two-Dimensional Temperature Model for a Thermally Loaded River with Steady 
+Discharge," Proceedings, 11th Annual Environmental and Water Resources Engineering Confer-
+ence, Vanderbilt University, Nashville, Tenn., 1972.   
+
+16.   N. Yotsukura and W. W. Sayre, "Transverse Mixing in Natural Channels," Water Resources 
+Research, Vol. 12, No. 4, August 1976.
+1.113-49

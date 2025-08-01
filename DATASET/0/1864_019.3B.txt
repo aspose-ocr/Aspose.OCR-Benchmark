@@ -1,0 +1,36 @@
+Formulation of well-defined meaningful benchmark problems is a difficult proc-
+ess that is benefited when preliminary testing is done by those not originally 
+involved with formulation.  Ambiguities can be discovered and resolved early by 
+this preliminary testing, which allows the problem definition to be improved 
+before all project teams spend time devising their own, typically different, 
+resolutions.
+
+    The seven Level One cases that were presented and discussed at the first 
+workshop follow.  A brief description of their status after the workshop is 
+also given.
+
+  Case 1 -- transient flow from a borehole in a fractured permeable
+            medium.  Eight project teams including BWIP and SRP presented 
+            preliminary results that indicated the problem was well formu-
+            lated.  Some variations were suggested (e.g., considering flux 
+            into the matrix and fractures; additional permeability con-
+            trasts).
+
+  Case 2 -- steady-state flow in a rock mass intersected by fracture
+            zones.  Eleven project teams, including BWIP and SRP, pre-
+            sented preliminary results.  There were some discrepancies 
+            probably related to the interpretation scheme (quadratic vs. 
+            linear) used.  Some variations were suggested as desirable 
+            (e.g., considering potential plots, streamlines and travel 
+            times, flows, mass balance and/or error analysis, and param-
+            eter variations to differentiate the split between matrix and 
+            fracture dominance).  The secretariat was charged with speci-
+            fying streamline starting locations and mass balance measures.
+
+  Case 3 -- saturated-unsaturated flow in a layered sequence of rocks. 
+            Five project teams presented preliminary results.  This 
+            problem posed difficulties for all project teams because of
+            ambiguities concerning initial and boundary conditions and
+            unrealistic characteristic curves for relative permeability
+            and capillary pressure versus saturation.  The NNWSI project
+6

@@ -1,0 +1,19 @@
+124	NEVADA TEST SITE
+
+
+bedded ash-fall tuffs have the lowest apparent resistivities, ash-flow tuff
+apparent resistivities increase as welding increases, and rhyolitic lava flows
+with very little porosity have high apparent resistivities.
+  As alteration (devitrification, zeolitization, and argillization) increases,
+apparent resistivities decrease in any of the volcanic rocks.
+  Caliper logs often discriminate between different lithologies. Soft, vitric ash-
+fall tuffs and vitric flow rocks tend to cave as do highly fractured flow rocks.
+Well-indurated, altered, ash-fall tuffs and slightly fractured devitrified flow
+rocks tend not to cave. The geologist must have drill cuttings and core before
+he finally decides as to the lithology, but electric logs and caliper logs can
+augment rock identification which may be based on sketchy cutting returns.
+
+		REFERENCES CITED
+
+Smith, R. L., 1960, Zones and zonal variations in welded ash flows: U.S. Geol.
+	Survey Prof. Paper 354-F, p. 149-159.

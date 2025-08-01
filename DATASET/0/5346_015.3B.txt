@@ -1,0 +1,30 @@
+HISTORICAL REVIEW OF SEISMIC REFLECTION SURVEYS DONE AT THE NEVADA TEST SITE
+
+
+  Table 1 displays the field acquisition parameters used in gathering
+seismic reflection surveys from the years 1972-1982 in the Nevada Test Site.
+It also shows the survey location areas, geologic setting and estimate of the
+reflection data quality. Table 1 indicates that most seismic reflection
+surveys at the Nevada Test Site were acquired as two dimensional profiles
+employing numerous input sources (Vibroseis1, Primacord2, Dynamite) and source
+array patterns. Many different receiver arrays were also utilized. These
+arrays were both short and long (up to 440 ft) and employed from 1 to 144
+geophones. Our visual examination of the processed data revealed that the
+profiles from areas usually characterized by complex faulting, volcanics and
+paleozoic outcroppings (Yucca Mountain, Wahmonie, Calico Hills, and Syncline
+Ridge) (Christiansen and Lipman, 1965, Lipman and McKay, 1965, Hoover, 1982,
+Synder and Carr, 1982, and Pankratz, 1982) did not produce any accurate
+reflection information. However, reflection data acquired in the flat lying
+alluvial plain (Yucca Flat) which is not quite as complex geologically
+appeared of much better quality.
+  In 1982, a three dimensional seismic reflection survey was conducted at
+Yucca Mountain utilizing a field technique that produced stack fold ranging
+between 192 and 384. This report will illustrate that this very powerful
+field technique also did not produce any interpretable reflection events.
+
+
+1 Registered trademark, Continental Oil Co.
+2 Registered trademark, Ensign Bickford, Co.
+
+
+3

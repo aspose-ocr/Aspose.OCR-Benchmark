@@ -1,0 +1,34 @@
+    For the stratigraphic units cases modeled with the microscopic approach, a 
+fracture aperture value of 25 micrometers was chosen as the mean aperture.  
+The average, equivalent hydraulic apertures in Table 1 are in the range of 
+4-27 micrometers.   However, these values take into account the tortuosity of 
+the fractures, both microscopic (surface topology) and macroscopic.   Barton 
+et al. (1983) noted that in this range of apertures, the physical aperture 
+dimension is on the order of 2-7 times the equivalent, hydraulic aperture.  
+Because the effects of tortuosity of the pores are included in the calculation 
+of the relative conductivity curve for the composite pore-size distribution, 
+the tortuosity effect inherent in the equivalent, hydraulic aperture was 
+removed.   Thus, an average value of 25 micrometers was used for the mean 
+physical aperture as an approximation.   A variance of 0.3 was arbitrarily 
+chosen, because it seemed to approximate the variance of the fracture relative 
+permeability curve assumed in the previous macroscopic approach.   No 
+information is currently available to determine the variance of the 
+distribution of fracture apertures in the various stratigraphic units at Yucca 
+Mountain.
+       The information on the aperture and pore-size distributions was combined 
+with estimates of fracture porosities to yield a rock mass, "pore"-size 
+distribution that includes both the matrix and fracture structural 
+characteristics.   The individual distributions were linearly weighted with 
+their respective matrix and fracture porosities to create the cumulative, 
+normalized volume distribution as a function of pore diameter (or radii).   For 
+example, for a fracture porosity of 10%, the pores with apertures in the range 
+of 1-100 micrometers compose 10% of the total rock mass volume.   The term 
+"pore" refers here to either a matrix interstitial opening or a fracture 
+opening.   As explained below, tortuosity distributions for the resulting 
+pore-size distributions were assumed, with the tortuosity of a pore decreasing 
+with increasing pore aperture or radius.
+       With a composite pore-size distribution available for the rock mass, 
+saturation values as a function of pressure head and one-dimensional relative 
+hydraulic conductivity values as a function of pressure head were calculated.  
+The adjustment to calculate water saturation as a function of pressure head
+-36-

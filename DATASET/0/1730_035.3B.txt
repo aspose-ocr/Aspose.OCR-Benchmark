@@ -1,0 +1,38 @@
+chemical interaction could play a considerable role in the way the
+cladding will behave with respect to stress corrosion cracking by creating
+inhomogeneous stress distributions on the outer surface of the cladding,
+etc.(39a) In fact, these features will be included in the experiments
+since actual spent fuel cladding materials will make up the experimental
+samples as discussed under Experiment Design.
+
+F. CONCLUDING SUMMARY
+
+Of the three environments that were described in the previous section, the
+two aqueous corrosion environments are given the highest priority for
+experimental investigation because they last much longer (an order of
+magnitude or more), and because there are many more potential corrosion
+mechanisms which can operate in a water environment. In addition, data
+from dry storage studies indicate that a high temperature gas environment
+should cause very little degradation of the fuel rods. As was pointed
+out, however, this initial high temperature gas exposure of the cladding
+may affect its response to subsequent corrosion environments. This
+possibility will be investigated further.
+
+Zirconium and its alloys resist corrosion by forming a protective oxide
+film. Chemical environments in which the film is attacked cause
+corrosion, and, conversely, when the film can form, little or no corrosion
+is observed. In general, high temperature waters and ground waters with pH
+and Eh values typical of tuff environments are not very corrosive to
+zirconium or its alloys. However, the fluoride ion that is present in
+typical tuff ground waters, or certain chloride salts that could form
+there, are potentially corrosive to spent fuel cladding, particularly if
+they become concentrated by some mechanism. This conclusion highlights
+the importance of using tuff-equilibrated J-13 well water which contains
+some fluoride and chloride ions to simulate the ground water that will
+eventually infiltrate a breached canister in the tuff repository. In
+addition, an experiment investigating the resistance of cladding to a
+concentrated ground water is recommended for inclusion into the present
+program.
+
+
+30

@@ -1,0 +1,44 @@
+  For a surface characterized by a spatially variable resistance to slip, there may be
+many local extrema in |~~(~) - ~~(~)| = ~(~) over any interval of interest. Under these
+circumstances, a more appropriate measure of the distance between the two functions,
+or the size of ~, is the mean square norm, ||~||, defined as
+
+
+Now, the size of the mean square norm, when it can be calculated, will be a predictor of
+the rate of onset of sliding, or the sharpness of the torque-twist (stress-displacement)
+curve. In other words, the magnitude of ~(~) is a measure of the propensity of the
+interface for unrestrained sliding.
+
+Normal stress change during constant velocity slip
+
+  It is apparent from the structure of (1.6) that the search for normal stress history
+effects parallels that described in the previous section on velocity history effects. That
+is, the putative effect of past normal stress history should be most simply found by
+subjecting the surface to a normal stress step while maintaining constant sliding ve-
+locity. Figures 14 and 15 show some results of this procedure. In test RFT064 (Fig.
+14), run on a surface that had been ground and run-in, the normal stress was suddenly
+increased by 0.7 MPa while the sliding velocity was maintained constant at 10-6 m/s.
+This sample had a slip gauge mounted across the joint, verifying that the velocity of
+sliding remained constant during the normal stress increases. The result that the shear
+stress is a square-wave function of the slip, just as is the normal stress, shows a lack of
+significant effect of normal stress change.
+
+  A marked effect of normal stress history was found, however, in test RFT077 (Fig.
+15). This test surface was ground and run-in, also. No slip gauge was mounted on this
+specimen so the slip velocity was calculated from the rotation rate as 10-5 m/s. The
+finite initial slope of the shear stress-slip curve at the point of normal stress increase
+indicates that the slip must have momentarily stopped. The onset of nonlinearity
+marks the resumption of slip. The shear stress then evolves to a new higher level over
+a slip distance of order 2 mm. It is thought that this brief (not more than a few
+seconds) period of stationary contact does not alter the conclusion that a true effect
+of normal stress history is shown. In any case, if some time-dependent strengthening
+occurred during this period of no slip, it should have the effect of increasing the amount
+of observed instantaneous shear stress increase. The test record for RFT077 gives
+(~~/~~)state = 0.31, d~ss/d~ = 0.8, and a slip distance, LV, for the transient increase
+of about 1.85 mm.
+
+  The data from this type of test is not yet systematic enough to determine why some
+tests show a fading memory effect and others do not. The differences between the two
+
+
+33

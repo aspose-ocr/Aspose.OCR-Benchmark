@@ -1,0 +1,68 @@
+                          NNWSI PROJECT QA PLAN          N-QA-040    
+							 1/87
+
+
+                              SECTION VIII
+         IDENTIFICATION AND CONTROL OF ITEMS, SAMPLES AND DATA
+
+                              INTRODUCTION
+
+   This section provides the requirements for the identification and control
+of items, samples and data and consists of three separate parts. The
+requirements for items are stated in part A; in part B for samples; and, part C
+for data resulting from scientific investigations. Part A applies to
+activities related to the engineered items and does not apply to scientific
+investigations. Parts B and C apply to scientific investigation activities and
+do not apply to engineered items.
+
+              PART A - IDENTIFICATION AND CONTROL OF ITEMS
+
+                           1.0 IDENTIFICATION
+
+   Items shall be identified to assure that only correct and accepted items
+are used or installed. The identification shall be verified prior to
+installation or use. Identification shall be maintained either on the item,
+their containers, or in documents traceable to the item from receipt until
+installed.
+
+                               1.1 GENERAL
+
+   Items of production (batch, lot, component, part) shall be identified from
+the initial receipt and fabrication of the items up to and including
+installation and use. This identification shall relate an item to an
+applicable design or other pertinent specifying document.
+
+1.1.1 Physical identification shall be used to the maximum extent possible.
+Where physical identification on the item is either impracticable or
+insufficient, physical separation, procedural control, or other appropriate
+means shall be employed.
+
+1.1.2 Identification markings, when used, shall be applied using materials and
+methods which provide a clear and legible identification and do not
+detrimentally affect the function or service life of the item. Markings shall
+be transferred to each part of an identified item when subdivided and shall not
+be obliterated or hidden by surface treatment or coatings unless other means of
+identification are substituted.
+
+1.1.3 When specified by codes, standards or specification that include
+specific identification or traceability requirements (such as identification or
+traceability of the item to applicable specification and grade of material;
+heat, batch, lot, part or serial number; or specified inspection, test or other
+records) the program shall be designed to provide such identification and
+traceability control.
+
+
+~EV. NO.
+0
+
+
+ISSUED
+5/19/88
+
+
+SECTION TITLE
+IDENTIFICATION & CONTROL OF ITEMS
+
+
+PAGE NO.
+VIII-1

@@ -1,0 +1,39 @@
+3.	An equivalent amount of hydrogen ions would be produced in the solution,
+	tending to lower the pH against the buffering action of the dissolved
+	bicarbonate as well as that of the rock and glass, where present.
+4.	Colloidal Fe(III) iron-containing substances would become suspended in
+	the solution as a result of vessel wall reactions.
+
+3.4 GAS PHASE
+
+	If we use the gas composition at 90~C in Table 7 and assume that the
+gamma rays would interact with the species listed in proportion to their
+fractions of the total electron density (a valid assumption for Compton
+interactions, which are dominant here), we find that the energy should be
+absorbed in about the following proportions:
+	N2 - 57%, H2O - 26%, and O2 - 17%, other gases negligible.
+	The production rates of the initial radiolytic products (ions, free
+radicals, excited molecules, and electrons) can be determined by weighting the
+yields, G, for the pure gases by these proportions. The yield (in radiation
+chemistry) is defined as the number of molecules of a particular species that
+are created or destroyed when 100 eV of energy is absorbed from radiation. GX
+represents the primary yield of species X, i.e., the yield evaluated before
+any subsequent reactions take place. G(X) represents the final or observed
+yield of species X in an experiment in which reactions may have occurred after
+the initial production of the species. G(X) is measured, and GX is inferred
+or measured in experiments designed such that GX will be equal to G(X).
+	Willis and Boyd have summarized available data to evaluate the yields for
+the various species formed in irradiation of inorganic gases.25 For the gases
+that are important here, the species include N~~, N+, N, N~~, O~~, O+, O,
+O~~, H2O+, H+, OH+, H, OH, H2O*, H2, and e-. Some of these species are
+produced in more than one energy state, so the total description of the system
+becomes quite complex.
+	The ionic species produced in the irradiation would undergo a series of
+reactions with other species present.27,28 The results would be additional
+free radical and molecular species. The free radicals in turn would interact
+with each other and with other species to produce HNO3, N2O, and O3, as
+observed by Jones.6 Intermediate species in this process are thought to
+include NO, NO2, and possibly N2O4. (NO3 and N2O5 are believed to be formed
+
+
+19

@@ -1,0 +1,31 @@
+  Barton et al. (1983) used empirical methods to estimate the joint
+slip properties for the field scale as defined in Equation 2-2. This
+empirically determined relationship is compared with results from field
+testing in the heated block experiment (Zimmerman et al., 1986) in Figure
+4.2. The joint shear strengths were determined in the heated block by
+subjecting multiple joints contained in two major sets, to unequal
+biaxial stresses. The unequal stresses caused joint slips, which were
+monitored by deformation measurements on the surface of the block.
+
+  Figure 4.2 shows the joint slip relationships as a function of the
+normal stress. The figure shows that there is reasonable agreement
+between the empirical relationship and measured quantities. Also, a line
+representing a Mohr-Coulomb (Equation 4-1) coefficient of friction of
+0.65, as measured in some of the laboratory measurements, is added to the
+figure. The comparison indicates that the field joint strength can be
+predicted from data obtained in the laboratory using either the Barton et
+al. approach or the Mohr-Coulomb criterion. Based on this limited amount
+of data, there is no strong evidence that there is a scale factor
+associated with field-scale joint slip applications.
+
+4.4 Tensile Strengths
+
+  Tensile stresses can theoretically be developed around underground
+openings when there are large stress differences in orthogonal
+directions. Tensile strengths are used in describing failure criteria
+for numerical models and for use in interpretation of hydrofracturing
+data. Table 4.3 lists the values and identifies the type of measurement,
+since this has not been standardized.
+
+
+4-7

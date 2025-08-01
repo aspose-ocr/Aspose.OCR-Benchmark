@@ -1,0 +1,51 @@
+3. Evidence that the results, at least when calculated for a flat ter-
+   rain, do not differ sufficiently from those of simpler models to
+   make their use worthwhile in consequence analyses that require
+   repeated use of the meteorological model.
+
+Hitherto, most authors of consequence codes have found these arguments com-
+pelling, and it will be assumed that most readers of this report have at
+their disposal some version of the basic Gaussian plume model, which is de-
+scribed in Section 9.3. There is no implication, however, that more compli-
+cated models should not be used if the reader has sufficient funds and en-
+ergy. These are the models of the future, and there are already consequence
+codes that are beginning to take advantage of numerical models; examples are
+ARANO (Northlund et al., 1979) and CRACIT (Commonwealth Edison Company,
+1981; Woodard and Potter, 1979).
+
+D1.2 ACCURACY OF THE GAUSSIAN MODEL
+
+No definitive statement of the accuracy of the Gaussian model is appli-
+cable to all circumstances. The American Meteorological Society (1977) has
+published a brief note on the "Accuracy of Dispersion Models." The question
+has also been discussed by Clarke et al. (1979). The text that follows
+addresses three questions:
+
+1. Given the weather conditions, what accuracy can be expected from
+   the Gaussian model?
+
+2. Up to what height is the Gaussian model valid?
+
+3. What sort of accuracy can be expected for quantities that are aver-
+   aged or cumulated over many uses of the Gaussian model in different
+   weather conditions?
+
+D1.2.1 Gaussian Model in Given Weather Conditions
+
+The discussion that follows relies heavily on the 1977 position paper
+of the American Meteorological Society. Models used for calculating the
+near-field (distances of less than 1 km) dispersion of inert pollutants for
+short averaging times (minutes to hours) have been developed with the aid of
+various definitive sets of dispersion experiments carried out during the
+1950s and 1960s under idealized conditions of uniform terrain, steady
+weather conditions, and known source terms measured by research-grade in-
+struments. These experiments played an important role in the development of
+the Pasquill-Gifford dispersion curves. In these ideal circumstances, if
+the user estimates a certain concentration by these modeling techniques, the
+observed maximum downwind concentration value should be expected to be
+within 10 to 20 percent of the calculated value for a surface-level source
+and within 20 to 40 percent for an elevated source, such as a tall stack.
+
+When dispersion modeling is applied in circumstances that are differ-
+ent from the carefully controlled, idealized situation described above
+D-3

@@ -1,0 +1,56 @@
+Revision 3		November 1978
+
+
+6.5.4 Ice Condenser as a Fission Product Cleanup System
+
+	The fission product cleanup function of the ice condenser system
+should be considered separately from its heat removal aspects; it should
+be described in this section only if credit is taken for this function
+in the accident analyses of Chapter 15.
+
+	6.5.4.1 Design Bases. Provide the design bases for the fission
+product removal function of the ice condenser system, including the
+following, for example:
+
+	1. The postulated accident conditions and the extent of simultaneous
+occurrences that determine the design requirements for fission, and
+
+	2. A list of the fission products (including the species of iodine)
+that the system is designed to remove and the extent to which credit is
+taken for the cleanup function in the analyses of the radiological con-
+sequences of the accidents discussed in Chapter 15 of the SAR.
+
+	6.5.4.2 System Design (for the Fission Product Removal). This section
+should describe those aspects of the ice condenser design that significantly
+affect the fission product removal function of the ice condenser system.
+The information provided should include, for example:
+
+	1. The steam and air flow rates through the ice condenser as a
+function of time following the accident,
+
+	2. The concentrations of all additives to the ice and the pH of
+the ice melt and the containment sump solution following an accident,
+and
+
+	3. A description of the methods and equipment to be used to produce
+the ice with the proper additive content.
+
+	6.5.4.3 Design Evaluation. Provide an evaluation of the fission
+product removal function of the ice condenser system. The system should
+be evaluated for fully effective and minimum safeguards operation, includ-
+ing the condition of a single failure of any active component. If the
+calculation of the effectiveness is performed for a single set of post-
+accident conditions, attention should be given to the effects of such
+parameters as recirculation fan flow rate, temperature, pressure, and
+sump pH (and the resulting change in iodine partition) in order to
+ascertain that the evaluation has been performed for a conservative set
+of these parameters.
+
+	6.5.4.4 Tests and Inspections. Provide a description of provisions
+made for testing all essential functions required for the iodine-removal
+effectiveness of the ice condenser system and for surveillance of the
+system. In particular, this section should describe the provisions made
+for sampling the ice to verify the proper additive content.
+
+
+6-55

@@ -1,0 +1,51 @@
+THE CHEMICAL ENVIRONMENT OF PITCHBLENDE		523
+
+
+  Although early work had been done on the composition of uranium ions
+most of the recent work has been carried on by various Atomic Energy
+Commission research projects. Pisani (25) did the early work on the car-
+bonate complexes and Wilder (31) has done recent work on the composition
+of the uranyl carbonate complex. Pascal (27) investigated the stability of
+uranium hydrophosphate and uranium pyrophosphate. Kunin (20) de-
+termined the stability of the uranyl ion as a function of pH. Harned (11)
+worked on mixtures of uranium IV and uranium VI.
+  Most of the stability investigations to date are of little use to the geol-
+ogist. This results because concentrations of uranium ions above neutral-
+ization amounts have not been obtained and the stability of the uranium
+ions at elevated temperatures have not been investigated.
+  Since the writing of this report Garrels (8) has published additional data
+on the thermodynamic relations of uranium oxides and Gruner (9) has
+published the results of his recent geochemical experiments.
+  Acknowledgments.-~The writer is greatly indebted to Professor Paul F.
+Kerr, Department of Geology, Columbia University, for his guidance and
+constructive criticism on the overall program. Professor T. Ivan Taylor,
+Department of Chemistry, Columbia University, supervised the chemical
+program and gave much assistance in chemical procedure and construction
+of experimental apparatus. William Croft of Columbia University made
+the determinations of crystallite size. The Raw Materials Branch of the
+Atomic Energy Commission provided the funds for the research, and
+published a preliminary paper as RME-~3110 (Pt. 1) 1955.
+
+		METHODS OF URANIUM ANALYSES
+
+  Two analytical procedures were used for the determination of uranium
+in solution, each depending on the concentration of the sample. The Jones
+reductor with a potassium permanganate titration was used for the analyses
+of solutions with a uranium concentration of 10-3 M or greater. Solutions
+with uranium concentrations between 10-4 M and 10-6 M were analyzed by
+colorimetric methods. All precipitates were analyzed by x-ray diffraction
+methods.
+  The Jones Reductor Method.-~This method of analysis depends upon the
+quantitative oxidation-reduction of uranium. In the Jones reductor,
+uranium is quantitatively reduced to uranium (IV) and uranium (III),
+then aerated completely to uranium (IV), and finally titrated to uranium
+(VI) by means of a suitable oxidant.
+  The Jones reductor used in these experiments was a 6-inch column of
+amalgamated zinc in a cylindrical reduction tube. Solutions of uranium,
+in 4N sulfuric acid, were allowed to pass through the zinc column at a rate
+of 15 ml per minute. The column was then washed thoroughly with 4N
+sulfuric acid and finally by water. The resulting mixture of uranium (IV)
+and (III) was aerated by rapid agitation with a magnetic stirrer to insure
+oxidation of red uranium (III) to green uranium (IV). Quadravalent
+uranium is stable in the presence of air for a few hours but over a period of
+days is completely oxidized to uranium (IV). The solution of uranium

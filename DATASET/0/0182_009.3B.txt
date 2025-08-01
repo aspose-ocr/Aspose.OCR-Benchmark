@@ -1,0 +1,56 @@
+preliminary draft of the Mission Plan. 10 CFR ~60.113(b) gives DOE flexi-
+bility, on a case-by-case basis, to propose tradeoffs among system components
+(natural and engineered). At least tentative identification of component per-
+formance goals by DOE is a necessary prerequisite to establishing what is a
+necessary and sufficient level of testing during site characterization and
+engineered component design phases. This could have a major impact on the DOE
+schedule. For example, whether site characterization can be completed within
+the 49 months assumed in the reference schedule (Case 2-B) or the 133 months
+described in alternate scenarios (Case 2-D) depends primarily upon how these
+performance goals are established and what is needed in terms of testing to
+demonstrate that these performance goals are being met (see, for example,
+Enclosure 2, Comment #3).
+
+  "In both volumes (Volume I, page 3-A-15; Volume II, pages 2-38 and 2-39)
+the Mission Plan generally addresses this matter. In Volume II, Section 2.6,
+the systems engineering and performance assessment components of the DOE tech-
+nology development activity are described. The description of the systems
+engineering task (2.6.1) states that top-level program documents on the mined
+geologic disposal system (MGDS) will be prepared for use in controlling tech-
+nical requirements and in assuring uniformity of design efforts. Generic MGDS
+documents are to be issued in FY84 and site specific MGDS documents will be
+issued during FY84 and 85. The description of these documents suggests that
+they will be used to determine `whether the individual parts of the system
+will successfully work together' and to assure the system is optimized in
+terms of `technical and cost performance.' These are necessary goals.
+However, the discussion of these documents does not indicate that specific
+performance goals for each repository system component will be established for
+the purpose of establishing test needs, in Site Characterization Plans or
+other DOE program documents referenced therein.
+
+  "The performance assessment task description indicates that preliminary
+assessments of site performance will be performed to determine what the sub-
+system performance objectives will be (Figure 2-6), and that the preliminary
+assessments will be used to evaluate data needs (Section 2.6.2). On its face,
+this appears to be logical. Early and ongoing performance assessment is
+needed to help identify data needs as indicated in the Mission Plan. However,
+we believe that assessments of site performance at the present stage of the
+repository program are likely to be premature for this purpose, given the
+uncertainties that exist before site characterization.
+
+  "Hence, we believe it would be prudent to make an early technical manage-
+ment decision guided by the performance criteria of 10 CFR Part 60 as to what
+the performance goals for individual components should be, and how much redun-
+dancy among system components will be included. As indicated previously, the
+earlier these goals are set the better, because of the long lead times
+involved in repository design, development, and testing. Failure to do so
+could preclude the collection of necessary information in time for licensing
+and delay the program, as well as hinder NRC's ability to give timely guidance
+to DOE on licensing needs. Until at least tentative decisions have been made
+about intended component performance goals by DOE, the repository investi-
+gation programs may be misdirected. As discussed in Enclosure 2, Comment #3,
+the practical consequence of not having such goals is to preclude resolution
+of uncertainties in the duration of in-situ testing.
+
+
+-23-

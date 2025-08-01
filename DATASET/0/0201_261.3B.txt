@@ -1,0 +1,60 @@
+CONSULTATION DRAFT
+
+
+	quality, grade, and quantity, they will be reclassified as
+	identified resources.
+
+     b.	Speculative resources: Undiscovered resources that may occur
+	either in known types of deposits in favorable geologic set-
+	tings where mineral discoveries have not been made, or in types
+	of deposits as yet unrecognized for their economic potential.
+	If exploration confirms their existence and reveals enough
+	information about their quantity, grade, and quality, they will
+	be reclassified as identified resources.
+
+  USBM/USGS (1980) further states that "materials that are too low grade
+or for other reasons not considered to be economic may be recognized and
+their magnitude estimated, but they are not classified as resources." A
+separate category, labeled "other occurrences," is included in Figure 1-74
+for materials of this nature. Further details on this classification system
+are given in USBM/USGS (1980).
+
+  A mineral or energy reserve is that part of the total resource that can
+be economically extracted or produced at the present time, or at the time the
+resource evaluation is conducted (USBM/USGS, 1980). Current economic condi-
+tions define the difference between a resource and a reserve. As economic
+conditions change, production of a mineral reserve could become subeconomic
+and the mineral would be reclassified as a resource. A commodity classified
+as a resource could be reclassified as a reserve as the value of the
+commodity increases.
+
+Methods of mineral-energy-resource assessment
+
+  Mineral-energy-resource assessments are conducted for a variety of
+reasons, such as establishing a national policy, location of a company's
+future exploration target, or projecting future availability of a commodity.
+Methods used in resource assessments vary widely (Singer and Mosier, 1981)
+due to several factors, including varied goals, scale or size of the area
+considered, time available, the acceptable level of uncertainty, and the
+particular user of an assessment.
+
+  The methods of resource assessment used in this section are varied and
+depend upon a number of factors, including (1) the abundance of the resource
+at Yucca Mountain, in the vicinity of Yucca Mountain, and in the surrounding
+region; (2) the present technological procedures of resource assessment for a
+particular resource; (3) the type of resource involved (the resource assess-
+ment for gold has many characteristics different from an assessment of geo-
+thermal energy); and (4) the type and amount of data available to perform the
+assessment. For instances in which the amount of data or information are
+insufficient to perform the assessment, the need for additional studies will
+be specified.
+
+  Resource assessments make wide use of two broad overlapping categories
+of methods: extrapolation and analogy (Singer and Mosier, 1981). These two
+methods will be used to a large extent in this section, although specific
+details of the two methods may vary. A quantitative approach to resource
+assessment is very desirable, but the immense and varied data base required
+for statistical treatment or other quantitative and analytical methods is
+
+
+1-259

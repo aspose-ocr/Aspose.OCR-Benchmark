@@ -1,0 +1,27 @@
+
+Figure 13. Mixed stress and displacement boundary condition where the node
+remains free to move in a direction parallel to a line with inclination ~.
+
+
+
+
+SLIDE,[master,slave,cf1,cf2,cf3]
+
+  This card specifies the master/slave connection for any slidelines in
+the analysis. A maximum of 12 slidelines is allowed.
+
+master-	Number of the boundary flag i.d. for the slideline master side
+slave-	Number of the boundary flag i.d. for the slideline slave side
+cf1-	Value of the friction coefficient. if fully fixed use -1.
+	Otherwise insert the proper value here. {0.}
+cf2-	Value of slideline overlap tolerance to determine when contact of
+	surfaces does occur.{2% of the Master element side length}
+cf3-	Value of stress for release of slave node from master surface.
+	Value is set to no release,a non-zero value is required to activate
+	this option. {0.}
+
+
+
+
+72
+ 

@@ -1,0 +1,53 @@
+6
+percents of major minerals by comparing diagnostic peak intensities with 
+appropriate standards.
+
+Step 3. Calculate modal analyses for the two samples of Topopah Spring
+tuff by apportioning measured values of weight percent oxides among the 
+phases detected by XRD and petrographic examination.
+
+Step 4. Use the XRD data and modal mineralogies obtained in steps 2-3
+to obtain: (1) X-ray absorption coefficients for the "pure" constituent 
+minerals, and (2) "average" X-ray absorption coefficients for the bulk 
+samples.
+
+Step 5. Use calculated "pure" mineral peak intensities to prepare
+determinative curves (peak intensity vs. weight percent of a mineral)
+for tuffs with various "average" X-ray absorption coefficients.
+
+Step 6. Using the determinative curves developed in step 5, the XRD
+data obtained in step 2, and petrographic data, determine approximate
+mineral percentages for the samples that were not analyzed chemically
+[viz., Topopah Spring tuff (non-lithophysal zone), Calico Hills tuff,
+and Bullfrog tuff].
+
+As discussed in the Appendix, it is difficult to assign appropriate
+uncertainties to the weight percents of minerals derived from X-ray
+absorption calibration curves.  For smectite and alkali feldspar, the
+estimated error is believed to be approximately 6-10% when the phase is 
+abundant (~50 modal percent), but much greater, approximately 33%, when 
+the phase is present in only minor amounts (~3 modal percent).  For 
+reasons explained in the report, estimated errors in calculated weight 
+percents of zeolites are believed to be somewhat larger than corre-
+sponding values for smectite and alkali feldspar.
+
+3.1.3 Major Results
+
+1. Topopah Spring tuff from Busted Butte is similar texturally to the
+samples of Topopah Spring tuff from borehole USWG1, but the outcrop
+material and core material differ somewhat mineralogically.  For
+example, the two core samples were found to have lower
+quartz/cristobalite ratios. More importantly, however, the core
+samples contain significant quantities of smectite (approximately 10%
+by weight), whereas the outcrop material from Busted Butte contains
+only trace amounts of smectite.
+
+2. No major differences in bulk or clay mineralogy were detected among
+the five size fractions of Busted Butte outcrop material. In fact, the
+samples exhibited only one minor mineralogic variation: an apparent
+decrease in quartz and a concomitant increase in alkali feldspar with
+decreasing mesh size.
+
+3.2 GROUNDWATER
+
+Fifteen liters (4 gal) of J-13 well water were received from the U.S.

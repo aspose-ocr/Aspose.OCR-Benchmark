@@ -1,0 +1,38 @@
+Vertical Boreholes
+
+~    The boreholes will be drilled plumb within 5~ to the appropriate
+     depth (see Subsection 5.1.5). The diameter of the boreholes will
+     depend on the container and the closure methods used. The upper
+     portion of the borehole may be enlarged to accommodate a protective
+     liner.
+
+~    The equipment will be designed to operate in a space no greater than
+     that required for waste emplacement.
+
+A more detailed description of the preliminary concept for the system,
+equipment, and procedures for vertical emplacement and retrieval are provided
+by Stinebaugh (1985). A detailed description of the drilling equipment is
+provided by Robbins (1984).
+
+Horizontal Boreholes
+
+~   The boreholes will be drilled to a length that is consistent with
+    retrieval, with the capabilities of the horizontal drilling machine
+    and with other engineering considerations (see Subsection 5.1.5).
+
+~   The boreholes will be lined to prevent loosened rock from falling
+    into the borehole and to facilitate emplacement and retrieval.
+
+~   The maximum deviation of the borehole will be 6 in. per 100 ft or no
+    more than 12 in. over the entire length of the borehole.
+
+~   It will be necessary to enlarge the borehole near the drift. The 
+    details of this enlargement depend on the emplacement configuration
+    and shielding method used.
+
+10.1.6 Underground Development and Operations
+
+In the current concepts, three main entries lead from the two ramps and
+the men and materials shaft to the emplacement panels. The waste main, a
+0014s         10-11          02/24/86
+                                        P-539

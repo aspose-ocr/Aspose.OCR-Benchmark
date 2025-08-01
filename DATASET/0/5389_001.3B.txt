@@ -1,0 +1,61 @@
+Bulletin of the Seismological Society of America, Vol. 73, No. 2, pp. 593-613, April 1983
+
+
+EVIDENCE OF TECTONIC RELEASE FROM UNDERGROUND NUCLEAR
+EXPLOSIONS IN LONG-PERIOD P WAVES
+
+BY TERRY C. WALLACE, DONALD V. HELMBERGER, AND GLADYS R. ENGEN
+
+		ABSTRACT
+
+  In this paper, we study the long-period body waves at regional and upper
+mantle distances from large underground nuclear explosions at Pahute Mesa,
+Nevada Test Site. A comparison of the seismic records from neighboring explo-
+sions shows that the more recent events have much simpler waveforms than
+those of the earlier events. In fact, many of the early events produced waveforms
+which are very similar to those produced by shallow, moderate-size, strike-slip
+earthquakes; the phase sP is particularly obvious. The waveforms of these
+explosions can be modeled by assuming that the explosion is accompanied by
+tectonic release represented by a double couple. A clear example of this
+phenomenon is provided by a comparison of GREELEY (1966) and KASSERI
+(1975). These events are of similar yields and were detonated within 2 km of
+each other. The GREELEY records can be matched by simply adding synthetic
+waveforms appropriate for a shallow strike-slip earthquake to the KASSERI
+observations. The tectonic release for GREELEY has a moment of 5 ~ 1024 dyne-
+cm and is striking approximately 340~. The identification of the sP phase at
+upper mantle distances indicates that the source depth is 4 km or less. The
+tectonic release time function has a short duration (less than 1 sec). A compar-
+ison of these results with well-studied strike-slip earthquakes on the west coast
+and eastern Nevada indicate that, if tectonic release is triggered fault motion,
+then the tectonic release is relatively high stress drop, on the order of several
+hundred bars. It is possible to reduce these stress drops by a factor of 2 if the
+tectonic release is a driven fault; i.e., rupturing with the P velocity. The region in
+which the stress is released for a megaton event has a radius of about 4 km.
+Pahute Mesa events which are detonated within this radius of a previous
+explosion have a substantially reduced tectonic release.
+
+			INTRODUCTION
+
+  It is well documented that certain underground nuclear explosions require sources
+
+
+~which have substantial nonisotropic components (Press and Archambeau, 1962;
+~oks~~z et. al., 1964; Toks~~z and Kehrer, 1971; among others). The surface-wave
+~bservations provide the evidence which is most commonly cited for this source
+asymmetry. For example, for the explosion GREELEY, the observed ratio of the
+Love to Rayleigh wave excitation is much larger than would be predicted for a pure
+explosion source and scattering in a simple layered earth. In addition, the Rayleigh
+waves display a radiation pattern (Toks~~z and Kehrer, 1972). In the case of the
+Shagan river region of the Eastern Kazakh Test site, explosions which are only
+kilometers apart produce Rayleigh waves which are 180~ out of phase (North and
+Fitch, 1981; Goforth, 1982). As for body waves, SH waves at teleseismic distances
+are a fairly common observation (Nuttli, 1969). Similarly, in the near field, there are
+tangential accelerograms which are much too large to be explained by simple
+scattering (Aki et al., 1969).
+  A widely accepted explanation for the phenomenon of SH-type seismic wave
+generation by explosions is the release of tectonic strain. Considering the abundance
+of examples for the influence of tectonic release on SH and surface waves, it is
+somewhat surprising that there is very little documentation of its influence on P
+
+
+593

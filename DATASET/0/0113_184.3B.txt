@@ -1,0 +1,46 @@
+P, Q	nonexceedence-probability levels
+
+pi, qi	probability assigned to hazard or fragility curve
+
+R0	response at a component location due to wind speed V0
+
+Sj	accident sequence j = 1,...,J
+
+Sj,c	core melt sequence jc = 1,...,Jc
+
+V	wind speed
+
+V0	specific wind speed
+
+Vd	design wind speed
+
+~~	a vector of hazard intensity parameters
+
+~~	a vector of responses
+
+z 	damage level of consequence type k
+
+~	logarithmic standard deviation
+
+~C,R	logarithmic standard deviation reflecting the inherent random-
+	ness in the variable C
+
+~C,U	logarithmic standard deviation reflecting the uncertainty in C
+
+~	release category ~ = 1,...,~
+
+~	domain of ~~
+
+~W,R	random variable reflecting the inherent randomness in the wind
+	pressure
+
+~W,U	random variable reflecting the uncertainty in the calculation
+	of ~~W
+
+~(~)	standard Gaussian cumulative distribution function
+
+~-1(~)	inverse of the standard Gaussian cumulative distribution
+	function
+
+
+10-30

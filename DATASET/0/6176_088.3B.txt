@@ -1,0 +1,57 @@
+8.3.5.5  Analytical Techniques Requiring Significant Development
+
+     This section will present, in the text and in a matrix chart, a
+description of those analytical techniques that are expected to be important
+for evaluating the performance of the site but that still require significant
+additional developmental work at the time the SCP is prepared.  Site-specific
+and generic models and computer codes will be included.  The programs
+formulated for undertaking the developmental work during site characterization
+will be described, including plans for documentation, verification, and
+validation of models and codes.
+
+     This section will specifically discuss plans for the development of the
+following:
+
+     ~   Approach to selection and characterization of scenarios for long-term
+         release from system and subsystems
+
+     ~   Model development and the control and certification of computer
+         codes.  This section will discuss the certification process, using
+         the definitions in NUREG-0856, including the numerical model, code
+         documentation, verification, benchmarking, and validation.  The
+         section will categorize these plans according to the two major
+         applications of performance assessment (performance objectives and
+         EPA standards)
+
+     ~   Approach to uncertainty analyses.  This section will explain the
+         plans for using uncertainty analyses to understand basic phenomena,
+         resolve uncertainties in data (e.g., by krieging) resolve
+         uncertainties in model parameters, and resolve uncertainties in
+         models.
+
+     ~   Approach to sensitivity analyses.  This section will describe the
+         plans for sensitivity analyses.  The objectives of these analyses are
+         to assign priorities to the data needs and to reduce the needs for 
+         data, models, and tests.  The analyses will identify critical
+         parameters and boundary conditions.  The section will discuss the
+         techniques to be used (e.g., Latin hypercube)
+
+     ~   Approach to utilizing professional judgment.  This section will
+         explain the plans for using professional judgment in performance
+         assessment
+
+     ~   Approach to construction and use of complementary cummulative
+         distribution functions (CCDFs).  This section will explain how the
+         performance assessment task expects to construct complementary
+         cumulative distribution functions (CCDFs).
+
+8.4  PLANNED SITE PREPARATION ACTIVITIES
+
+     Plans for surface and subsurface excavations and construction related to
+site characterization will be presented in this section.
+
+
+SCP 22                              -66-                      01/18/85
+
+
+

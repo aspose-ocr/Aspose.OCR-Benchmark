@@ -1,0 +1,54 @@
+OGR/B-5
+~ Before subsurface excavation
+
+~ Post subsurface excavation (i.e., reflecting rock stress as a result
+  of rock excavation)
+
+~ Post waste emplacement.
+
+The objective of these investigations will be the measurement of those
+geologic/geotechnical properties necessary to model the repository design.
+
+8.3.2.3 Coupled Interaction Investigations
+
+Thermal-hydrological-mechanical-geochemical interaction investigations
+will be described in this section.
+
+The test plans will either provide for direct testing of the coupled
+behavior or demonstrate that tests of the coupled behavior is unnecessary.
+The need for coupled tests will be based on site-specific conditions. The
+following guidance will be useful in deciding when direct testing of coupled
+behavior may not be required:
+
+1. The component of the natural system (far-field geology) for which
+   performance credit is taken is characterized adequately for
+   evaluation of overall repository performance.
+
+2. In evaluating overall MGDS performance, no credit is taken for the
+   near-field host rock that cannot be characterized adequately.
+
+3. Components of the engineered system such as the waste package are
+   designed with adequate conservatism with respect to the coupled
+   thermal conditions that will be encountered. Examples of
+   conservatism in design include limiting the host rock thermal loading
+   and thickening container walls.
+
+4. The tests that support the design of the engineered system are
+   carried out under a much wider range of conditions than the
+   anticipated repository conditions. This means that the design of the
+   tests takes into account conditions above and beyond the full range
+   of coupled thermal behavior that is expected to be encountered.
+
+The test plans will specify the scale and the duration of the planned
+tests and will describe how this scale and duration will be adequate to assess
+compliance with 10 CFR Part 60.
+
+8.3.2.4 Design Optimization Investigations
+
+The design optimization investigations that require site characterization
+data will be described. Typical topics which may be discussed include the
+refinement of design data needed to resolve design alternatives, decisions,
+construction feasibility issues, and design performance verification for such
+activities as rock excavation and mining techniques, waste package
+emplacement, and retrieval issues.
+-69-  Revision 1

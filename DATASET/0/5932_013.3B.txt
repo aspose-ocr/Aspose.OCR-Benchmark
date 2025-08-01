@@ -1,0 +1,40 @@
+10
+
+
+regions to homogenize the sodium temperature and shield the reactor
+structure from neutrons, and (3) a nose piece and handling socket to
+facilitate assembly insertion/removal. The distance between two of the
+flat sides of the hexagonal assembly is ~13.8 cm (5.4 in.).
+
+   The core/axial blanket assembly contains 271 elements, each with a
+diameter about the size of a pencil. The oxide pellets are contained in
+stainless steel 316 cladding and have a small amount of sodium sealed
+inside the element to facilitate heat transfer through the gap between
+the pellet and the cladding. The elements have a stainless steel wire
+wrapped around them in a spiral fashion to separate them from each other
+and provide the space for the coolant to flow. Cross sections of simulated
+LMFBR fuel assemblies are shown in Fig. 2. The LMFBR assembly is encased
+in a stainless steel fuel channel similar to that in a BWR assembly. The
+total assembly weight is ~260 kg (570 lb), of which ~50% is the fuel
+material and 50% the stainless steel fuel-assembly structure.
+
+   The radial blanket assembly, which has the same overall size as the
+core/axial blanket assembly, contains 91 elements. The radial blanket
+elements, which are also wire-wrapped, stainless-steel-clad, and sodium-
+bonded, are almost twice the diameter of the core/axial blanket elements.
+The radial blanket assembly also has a stainless steel fuel channel. The
+assembly weighs ~300 kg (660 lb), of which ~66% is fuel material. The low
+power-generation rate allows the larger fuel element diameters, which
+results in a greater amount of uranium in the assembly and, consequently,
+a somewhat higher plutonium breeding rate.
+
+          3. DESCRIPTION OF SPENT FUEL AND WASTE PRODUCTS
+
+                             3.1 Spent Fuel
+
+   The physical description of the spent fuel assemblies for each of the
+reactors is the same as that given in Sect. 2 for the fresh fuel. With
+one exception, all of the material that is present in the fresh fuel or
+generated during irradiation is contained in the spent fuel assembly. The
+exception is that only 10% of the tritium produced within the LMFBR fuel
+is assumed to be in the spent fuel. The remainder diffuses through the

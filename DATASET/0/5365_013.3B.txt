@@ -1,0 +1,53 @@
+For the inversion experiment, we selected 50 of the best-recorded and
+geographically most widely distributed earthquakes. A Yucca Flat nuclear
+event was also included with fixed hypocenter, but free origin time, because
+it was determined that fixing the nuclear explosion origin time resulted in
+strong negative bias in the station terms. This result using the present
+crustal model is likely due to relatively shallower Paleozoic rocks beneath
+Yucca Flat, especially on the west side of Yucca fault, compared to the region
+as a whole. Traveltimes from nuclear events also show fair correlation with
+the shotpoint velocity (Taylor, 1983) indicating that near-surface velocity
+structure produces some of the bias in nuclear event traveltimes. Accord-
+ingly, the inversion was performed with minimal constraint from nuclear shot
+data. The station terms resulting from the final inversion are shown in
+figure 5. The mean delay at each station is the result of traveltime differ-
+ences along diverse ray paths from a wide range of azimuths (the program
+corrects for station elevation). It is likely, therefore, that the delays
+reflect mostly near surface velocity changes. For this reason we employ the
+delays as station corrections to help improve the earthquake locations in a
+relocation of the entire data catalog (1978-81). Using these station terms to
+correct arrival times has resulted in a tightening of seismicity trends and
+clusters and a reduction of the RMS residuals and standard errors.
+
+Velocity variations were strongly damped during the inversion, forcing
+their effect to be absorbed in the mean station residuals. This procedure was
+required because, when velocity variations were not strongly damped, geologi-
+cally implausible velocities resulted and the average RMS errors in the
+hypocenter solutions were not significantly improved compared to the highly
+damped velocity model.  It is surmised that lateral velocity variations
+introduce first-order perturbations of traveltimes that are not accommodated
+by a one-dimensional model; therefore, freeing the velocities in the inversion
+does not lead to an improvement in the model or the locations. The solution
+to this problem will involve a three-dimensional velocity inversion, which is
+currently under study.
+
+Employing the above P-wave crustal velocity model and station correction
+terms, we derived the corresponding S-wave velocity model from P- and S-wave
+station times using Wadati diagrams (Kisslinger and Engdahl, 1973) for six
+well recorded earthquakes. As shown in figure 6, a Vp/Vs ratio of 1.71 was
+obtained having a low-standard error. The linearity of the data and the low
+data scatter are good support for our assumption that Poisson's ratio does not
+vary significantly within the crust in the SGB.
+
+DESCRIPTION OF EARTHQUAKE LOCATIONS, FOCAL MECHANISMS AND THEIR
+RELATION TO MAPPED SURFACE FAULTING
+
+Seismicity maps showing the relation between tectonic features, focal
+mechanisms and epicenters are shown in figures 7-12, and plate 1. Figure 7
+also shows the regions of the detailed figures 8-12. The focal mechanism data
+are shown in figures 16-18. The revised crustal model and relocated earth-
+quake hypocenters provided the impetus to reevaluate the focal mechanisms
+presented in a previous report (Rogers and others, 1981), leading to
+modification of some mechanisms and rejection of others. Both the earthquake
+locations and focal mechanisms presented in this report should take precedence
+9

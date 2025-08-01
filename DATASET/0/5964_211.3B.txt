@@ -1,0 +1,44 @@
+OGR/B-2
+D-13
+retrieval may be necessary. This period of prototypical equipment development
+could continue, if needed, until the time the license to receive and possess
+is granted by the NRC.
+
+  The purpose of this prototypical equipment development program shall be
+to establish confidence in the overall retrieval capability under geotechnical
+conditions which approximate those identified in and during the design of the
+retrieval method. This does not mean that the combined, worst-case effects of
+all geotechnical conditions need to be simulated in order to prove
+retrievability. However, if significant questions remain unanswered after the
+proof-of-principle demonstration, prototypical equipment shall be constructed
+to operate under geotechnical conditions which simulate the pertinent
+retrieval environment necessary to resolve major uncertainties.
+
+  The development, construction, and demonstration of prototypical 
+equipment need not necessarily occur underground at the site of the proposed
+repository. It will be necessary, however, to choose a location(s) which
+simulate(s) geotechnical conditions, stresses, and opening geometries as may
+reasonably be expected to exist at the proposed repository location. It is
+not necessary to find a surrogate location(s) for prototypical development
+which identically matches the geotechnical conditions of the repository - as
+long as the simulated retrieval conditions reasonably approximate those
+affecting the question of retrieval.
+
+  The documentation, data, analyses, and results obtained from the
+development and demonstration of prototypical retrieval equipment shall be
+provided to the Commission in accordance with 10 CFR Part 60.
+
+  The waste configuration (package, container, canister, etc.) used in the
+retrieval demonstration shall be of a size and weight approximating that
+actually planned for the disposal of waste at the repository. Any potential
+change in the shape, orientation, or other physical condition of the waste
+package which may credibly have an impact on retrieval shall be simulated
+during the prototypical equipment demonstration.
+
+  The use of radioactive material is not required in either the
+proof-of-principle demonstration or the prototypical development of retrieval
+equipment. Furthermore, proof-of-principle demonstration(s) need not be
+conducted with all radiation-safety measures in place. Prototypical equipment
+shall incorporate radiation-safety equipment, as necessary, to test the
+mechanical systems.
+Revision 3

@@ -1,0 +1,31 @@
+  For emplacement scheme 3 the location of the maximum
+temperatures are shown in Figure 26. In this case the
+maximum temperatures do exceed 100~C. Moreover, three-
+dimensional thermal analysis [11] has shown that the two-
+dimensional calculations presented here underestimate the
+volume enclosed by the 100~C isotherm. We note that the
+temperatures calculated using SAGUARO are higher than those
+calculated in two-dimensions using COYOTE in reference [11].
+This is due to the fact that the heat of vaporization of
+water cannot be accounted for in SAGUARO.
+  Because of the proximity of the canister to the drift
+in emplacement scheme 2, the greatest change in the tempera-
+ture profiles was caused by assuming that the temperature at
+the drift was 25~C (to simulate ventilation), as shown in
+Table 3. The fluid flow caused by the saturation boundary
+condition at the drift influenced the temperature profiles
+less. In emplacement scheme 3, however, water passing the
+canisters had a pronounced cooling effect, as shown in
+Table 4.
+
+  b. HEAT FLUX CALCULATIONS
+
+     Heat fluxes at the drift wall were calculated using
+SAGUARO for both emplacement schemes 2 and 3. It is difficult
+to directly compare results for the two emplacement schemes;
+however, we have provided the results in two forms. We have
+computed the amount of heat removed from the drift per canister
+and per unit length of drift and plotted the values as functions
+
+
+-13-

@@ -1,0 +1,58 @@
+~ The similarity of the inelastic responses and surface uplifts of
+  two different APDs (57 kW/acre for spent fuel and 100 kW/acre
+  for commercial high-level waste) show that these responses are
+  not sensitive to the selected value of APD. This effect is prob-
+  ably attributable to the fact that the two fuel types (spent
+  fuel and commercial high-level waste) delivered similar magni-
+  tudes of total energy to the rock.
+
+~ The effects of emplacing waste types having different initial
+  APDs and decay characteristics in separate parts of the reposi-
+  tory were insignificant in the far field.
+
+7.2.2.4.3 Determination of Maximum Temperature as a Function of Distance
+	  from a Repository
+
+  Blanford (1985) used a simplified analytic three-dimensional thermal
+model of a repository to construct profiles of the maximum temperatures
+in the far field. The rock mass was modeled as a homogeneous half space.
+The heat-transfer mechanism was assumed to be linear heat conduction.
+The thermal properties were representative of the Topopah Spring Member
+of Yucca Mountain. Two generic repository configurations were consid-
+ered: 1,260 acres of spent fuel at 57 kW/acre and 645 acres of commer-
+cial high-level waste at 100 kW/acre. The repository was simulated as a
+heat-generating rectangular plate embedded in a semi-infinite half-space
+representing the rock mass. Figure 7-3 shows the maximum far-field tem-
+peratures of the host rock for spent fuel emplaced at 57 kW/acre. These
+analyses provided the following information.
+
+~ The APD is the design parameter that most significantly influ-
+  ences the maximum temperatures in the far field.
+
+~ Most of the heat is transferred vertically rather than laterally.
+  The volume of rock above the emplacement area reaches and sus-
+  tains higher temperatures for longer periods of time than the
+  volume of rock peripheral to the emplacement area.
+
+7.2.3 Near-Field Effects
+
+  Section 6.4.4 provides a discussion of the approach being taken to
+select the thermal loading of the underground facility. That approach
+involves performing thermal and thermomechanical analyses to determine
+whether near-field postclosure design criteria are satisfied. The near-
+field criteria are tentatively identified in SCP Section 8.3.2.2 as
+
+~ a borehole wall temperature of less than 275~C,
+~ a rock-mass temperature at 1 m from the borehole wall of less
+  than 200~C,
+~ the majority of borehole wall temperatures above boiling for
+  more than 300 yr,
+~ no unacceptable loads on the container, and
+~ no deleterious movements of host rock around underground open-
+  ings.
+
+To date, near-field analyses of the proposed underground facility have
+largely focused on its behavior during the preclosure period. Many of
+
+
+7-30

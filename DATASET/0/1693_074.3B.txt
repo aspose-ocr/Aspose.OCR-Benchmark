@@ -1,0 +1,37 @@
+- 68 -
+
+
+	The cost of the Ti-0.2% Pd alloy is about twice that of C.P.
+titanium for comparable mechanical properties, while Ticode-12 offers a
+significant strength advantage at a cost only moderately greater than
+C.P. titanium.
+
+	Considering the copper-base alloys, only the aluminum bronzes
+have strength and ductility comparable to the 300 series stainless
+steels and a similar cost. The aluminum bronzes generally are readily
+weldable, but can be susceptible to cracking in the weld and parent
+metal. The fairly low strength of most of the remaining copper-base
+alloys would necessitate section thicknesses 50 - 100% greater than for
+aluminum bronze, resulting in higher costs and increased fabrication
+difficulties.
+
+	In summary, on the basis of the properties considered in
+Part I, three alloy groups can be identified as meriting further con-
+sideration for use as containers for fuel immobilization:
+
+1. AISI 300 series austenitic stainless steels.
+2. High nickel-base alloys containing molybdenum.
+3. C.P. titanium and very dilute titanium alloys.
+
+	Within group 1, 316 L stainless steel is suggested as being
+the optimum choice, whilst of the group 2 materials, Inconel 625 would
+be favoured, since it is the cheapest and strongest and has no serious
+disadvantages compared with other materials in this group. From group 3,
+ASTM grades 2 and 12 titanium are recommended on the basis of cost,
+strength and weldability, with the rider that the apparent absence of
+susceptibility to embrittlement due to hydrogen effects and SCC must be
+more completely established and understood.
+
+	Of these specific alloys, 316 L stainless steel is the cheapest
+material for a container design based on yield stress, but would result
+in the greatest wall thickness and weight. This alloy is also by far

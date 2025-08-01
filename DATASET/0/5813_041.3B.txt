@@ -1,0 +1,46 @@
+38             OUTLINE OF GROUND-WATER HYDROLOGY.
+
+
+  The piezometric surface of an aquifer is an imaginary surface that
+everywhere coincides with the static level of the water in the aquifer.
+It is the surface to which the water from a given aquifer will rise under
+its full head (figs. 11 and 12). If at any given place the water from
+different depths in the aquifer will rise to different levels the aquifer
+has more than one piezometric surface. 
+  An isopiestic line of an aquifer is a contour of the piezometric surface
+of the aquifer. It is an imaginary line all points along which have
+the same static level. Its position may be described in any con-
+venient unit and with reference to any convenient datum, but is
+most commonly expressed in feet or meters above mean sea level.
+A piestic interval is the difference in static level between two isopiestic
+lines. (See fig. 12.)
+
+
+  The hydraulic gradient, or pressure gradient, of an aquifer at a given
+place in a given direction is the rate of change of pressure head per
+unit of distance at that place and in that direction.  If the direction
+is not mentioned it is generally understood that the direction of
+maximum rate of change is meant. If the rate of change is uniform
+between two points the hydraulic gradient between these points is
+the ratio of the difference in the static level between the points to the
+horizontal distance between them. The hydraulic gradient can be
+expressed in percentage, in feet per mile, or in other ways.
+  A hydraulic profile of an aquifer is a vertical section of its piezo-
+metric surface.
+  Ground water may be said to have artesian, normal, or subnormal
+pressure or pressure head, according as its static level is above the
+upper surface of the zone of saturation, at this surface, or below this
+surface (fig. 11).
+
+
+FIGURE 11.-~Sections showing hydrostatic pressure in aquifers and wells. In A the lower aquifer has
+subnormal head, its piezometric surface is below the upper surface of the zone of saturation, the resultant
+hydrostatic pressure on the confining bed is downward, and the bed may be called a negative confining
+bed. Both wells are nonartesian. The water in the upper aquifer is semiperched-~it belongs to the
+same zone of saturation as the lower aquifer. In B the lower aquifer has artesian head, its piezometric
+surface is above the upper surface of the zone of saturation and in some places above the land surface,
+the resultant hydrostatic pressure on the confining bed is upward, and the bed may be called a positive
+confining bed.  No. 1 is a nonartesian well, No. 2 a subartesian well, and No. 3 a flowing well. The
+static level of the water in the lower aquifer at the intake of well No. 3 is at l, and its pressure head
+with reference to the land surface is the vertical distance ~. aa' is an area of artesian flow.
+

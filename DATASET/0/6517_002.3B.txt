@@ -1,0 +1,57 @@
+selected, including options for type of test, instrumentation,
+data collection and recording, and alternative analytical
+approaches.  Describe the advantages and limitations of the
+various options; and
+
+~  Describe the constraints that exist for the study, and explain
+   how these constraints affect selection of test methods and
+   analytical approaches.  Factors to be considered include:
+
+	-  Potential impacts on the site from testing;
+
+	-  Whether the study needs to simulate repository
+	   conditions;
+
+	-  Required accuracy and precision of parameters to be
+	   measured with test instrumentation;
+
+	-  Limits of analytical methods that will use the
+	   information from the tests;
+
+	-  Capability of analytical mothods to support the
+	   study; and
+
+	-  Time required versus time available to complete the
+	   study.
+
+III.	Description of Tests and Analyses:
+
+   ~   Since studies are comprised of tests and analyses, provide for
+       each type of test:
+
+	-  Describe the general approach that will be used in
+	   the test.  Describe key parameters that will be
+	   measured in the test and the experimental conditions
+	   under which the test will be conducted.  Indicate the
+	   number of tests and their locations (e.g. spatial
+	   location relative to the site, exploratory shaft
+	   facility elements, repository layout, stratigraphic
+	   units, depth, and test location);
+
+	-  Summarize the test methods.  Reference any standard
+	   procedures (e.g., ASTM, API) to be used.  If any of the
+	   procedures to be used are not standard, or if a
+	   standard procedure will be modified, summarize the
+	   steps of the test, how it will be modified, and
+	   reference the technical procedures that will be
+	   followed during the test.  If procedures are not yet
+	   available, indicate when they will be available.
+	   Indicate the level of quality assurance and reference
+	   the applicable specific QA requirements that will be
+	   applied to the test;
+
+	-  Specify the tolerance, accuracy, and precision
+	   required in the test, where appropriate;
+
+
+

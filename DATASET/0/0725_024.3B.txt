@@ -1,0 +1,30 @@
+Flash Flooding
+
+Suggested Favorability Rationale (Neal, 1984):
+
+5 - Low potential for surface flooding.
+    Sites virtually out of 500-year and 
+    regional maximum flood areas
+3 - Intermediate potential
+1 - Potential exists for surface flooding.
+    Sites occupy predicted 500-year and
+    regional maximum flood areas or areas
+    predicted by Hoover as flood-susceptible
+
+3.2.2   Operating Safety--(0.298)
+
+	This major topic is not specifically included in the DOE Siting 
+Guidelines but was added to the NNWSI factors when it was realized 
+that radiological safety was involved.  That is, each subcategory 
+has potential for accident scenarios that could lead to radiological 
+releases.  Further, it was evident that the candidate sites could be 
+distinguished from one another in these subcategories.  Two factors 
+were identified: inclination of ramps for waste delivery, and 
+tectonic factors that cannot be reasonably circumvented by 
+engineering (added cost), e.g., fault displacement.
+
+	Two different target ramp locations were considered because the
+underground design is incomplete at this time.  One is to the
+centroid of a potential "central block" repository, and the other is
+to the Exploratory Shaft (ES) vicinity.  The possibility of
+-19-

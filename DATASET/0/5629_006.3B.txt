@@ -1,0 +1,32 @@
+1.
+STATEMENT OF WORK
+
+Task One: Editing and verifying existing GEOTHERM1 data file for Nevada
+          springs and wells.
+
+  The existing GEOTHERM file contained 544 separate entries for the State
+of Nevada. Of those, 340 were in the regular file and an additional 204 were
+in the USGS WATSTOR file. Because of the poor quality of the WATSTOR data,
+the inability on our part to trace the original references, and on the recom-
+mendation of J. Swanson, the WATSTOR file was eliminated from further consider-
+ation. The remaining 340 entries were edited and verified on the basis of a
+format suggested by GEOTHERM file supervisor Swanson. The editorial work con-
+sisted of corrections, additions, and deletions for the following items: source
+name; source location, including State, County, digitized latitude and longi-
+tude, Township, Range, and section; temperature (in degrees centigrade); flow
+rate; aqueous geochemistry; and miscellaneous information. All corrections,
+additions, and recommended deletions were forwarded to the GEOTHERM file
+supervisor in November, 1978.
+  Problems involving changes in location accounted for almost 70 percent of
+the total of 330 corrections. The remaining 30 percent involved changes in
+the literature reference, temperature, spelling, source name, maps, and
+scientific units.
+
+Task Two: Supplementing the USGS data file GEOTHERM with NBMG data.
+
+  The NBMG compiles and collects data on geothermal springs and wells and
+has approximately 1100 individual data sheets on file. These sheets contain
+1) GEOTHERM is the name of a U. S. Geological Survey computer file which
+   contains data on physical, chemical, and geological aspects of geo-
+   thermal springs and wells throughout the United States.
+   Mr. J. Swanson, USGS, Menlo Park, CA, is the GEOTHERM file supervisor.

@@ -1,0 +1,22 @@
+CARROLL-~INHOLE GEOPHYSICAL LOGS           127
+  Figure 1. Comparison of sensitivity of several geophysical logs at contact of
+zeolitized tuff and rhyolitic lava flow.
+                         FULL-WAVE ACOUSTIC LOG 
+
+  The log on the left of Figure 1 illustrates one of the more recent geophysical
+logs to be offered by the commercial logging companies. It is a full-wave 
+acoustic log. The log shown is a Birdwell log which this company offers under 
+the commercial name 3-D (Bird, 1965). In essence it is a recording of the 
+sonic wave train for a period of time displayed as a variable intensity record-
+ing. Whereas the sonic log shown in Figure 1 is essentially a recording of the 
+time of first arrival of a sonic pulse through the rock at some fixed sender-to-
+receiver distance (which is displayed as the time through the rock divided by 
+the distance of travel or the reciprocal velocity), the 3-D log is a record of 
+the wave train for some time after the first arrival. The dynamic elastic moduli
+of the medium can be calculated from this log when used in conjunction with 
+a density log. These moduli are Young's modulus, shear modulus, bulk mod-
+ulus, and Poisson's ratio.
+  The full-wave recording logs offer the first opportunity to obtain dynamic 
+elastic moduli on a sufficiently small scale to allow comparisons to be made 
+with core data. Such comparisons indicate that significant relationships exist 
+among the acoustic properties of volcanic rocks.

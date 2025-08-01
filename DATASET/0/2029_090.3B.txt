@@ -1,0 +1,39 @@
+assembled by adding the contributions of each subdomain in turn to the
+equation for a given cell. The primary reason for introducing the concepts of
+elements and zones for assigning porous-medium properties is so that
+porous-medium properties can be defined easily at the cell boundaries without
+the need for harmonic-mean calculations.
+
+  A numbering scheme local to the cell is used during coefficient cal-
+culation and assembly. Figure 3.3 shows the subdomain local numbering from
+one to eight. The six faces are numbered as shown in figure 3.3 and each face
+is subdivided into four subdomain faces with numbers for the visible faces as
+shown. For the cylindrical system, the corresponding volumes and faces are
+numbered in figure 3.4.
+
+  A common alternative method for constructing the mesh is to specify the
+locations of the planes that form the cell walls. Their intersections form
+the cells; then the node points are located in the center of each cell. This
+is called a cell-centered or block-centered grid. One advantage of this grid
+is that fewer cells are required to span a given simulation region, because
+fractional cells do not appear at the boundaries.
+
+  The point-distributed grid was selected for this simulator, because the
+finite-difference spatial approximations to the dispersive terms in the flow
+and transport equations are consistent and convergent for the point-
+distributed grid under conditions of variable-grid spacing; whereas, these
+approximations are not necessarily consistent and convergent for the cell-
+centered grid. As shown by Settari and Aziz (1972, 1974), the local trunca-
+tion error for the cell-centered grid has a term that does not necessarily
+vanish as the grid spacing is refined. A second reason for selecting the
+point-distributed grid is that the presence of nodes on the boundary surfaces
+simplifies the treatment of certain boundary conditions. It is common to
+approximate spatially distributed, aquifer properties as uniform zones. A
+disadvantage of the point-distributed grid is that it is difficult to locate
+the cell boundaries, so that they coincide with the zoned-property boundaries.
+This difficulty can be avoided by making the properties uniform over an
+element rather than a cell. This will be described in the parameter-
+discretization section.
+
+
+81

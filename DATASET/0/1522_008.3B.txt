@@ -1,0 +1,27 @@
+These experiments were conducted so that field-scale data and information 
+would be available early in repository evaluations and the results could be 
+used to guide later model validation efforts essential to predictive efforts 
+for repository developments.  A focus for the testing was to conduct relatively 
+short time experiments ( 36 days) on the very near field scale (0.3 m3) to    
+evaluate thermal models that could be used in long time repository       
+applications.
+
+A single heater (10.2-cm-dia) was used in all three experiments in holes    
+12.7 cm in dia.  Steady-state power was applied over a 1.2-m length in holes 
+ranging from 2.4 to 3.2 m deep.  Power levels were set to scale heat fluxes 
+representative of commercial high-level waste canisters.  Actual power levels 
+selected ranged from 400 to 1200 W.  The heater was oriented vertically for 
+two experiments and horizontally for the third.  Experiments with the vertical 
+orientation were conducted in fractured welded tuff and unfractured nonwelded 
+tuff; the experiment with horizontal orientation was conducted in the fractured 
+welded tuff.  (Fractures in welded tuff in G-Tunnel have a predominate vertical 
+dip.)
+
+The major focus of the experiments was on evaluating applications of 
+numerical models emphasizing thermal properties.  A thermal model was compared 
+with the results of three experiments in tuffs; the welded and nonwelded tuffs 
+had porosities ranging from 15% to 46%.  The essential conclusion was:
+
+(1) a thermal model based on empirical heat transfer quantities (thermal
+    conductivity, volumetric heat capacity, thermal radiation) derived
+vi

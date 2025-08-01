@@ -1,0 +1,40 @@
+notably, the generation of hydrogen peroxide produces positive corrosion
+potential shifts for austenitic stainless steels. To compare the results
+obtained for copper, it will be necessary to briefly discuss representative
+results of irradiation on the corrosion behavior of 316L stainless steel. All
+experiments reported below were performed at 30~C and at a gamma dose rate of
+approximately 3 ~ 106 rad/h.
+  The more oxidizing environment produced under gamma irradiation shifts the
+corrosion potentials of austenitic stainless steels in the positive direction,
+as shown in Fig. 24 in concentrated J-13 water. The "on" in this figure
+refers to lowering of the cell into the center of the gamma sources (pencils
+of cobalt-60), and "off" refers to raising the cell 1.3 to 1.5 m above the
+sources, where the cell was shielded by intervening water. Several "on/off"
+cycles are shown. We observed similar positive potential shifts upon
+imposition of the gamma field for AISI 316L in more highly concentrated
+groundwater (100X) and in the unaltered J-13 well water. Similar effects were
+noted on irradiated specimens of 304L in these environments. The corrosion
+potential shifts under all of these conditions were typically 150-200 mV for
+both materials.
+  In the previous study, several experiments were performed that indicated
+that H2O2 was responsible for the corrosion potential shifts shown in
+Fig. 25. In one test, successive additions of a 30% H2O2 solution were
+made to an unirradiated J-13 solution in which a freshly prepared AISI 316L
+electrode was immersed. In this figure, a one-drop addition to the solution
+represents a concentration increase of approximately 0.5 mM, which is near the
+0.14-mM concentration we measured for hydrogen peroxide in irradiated solution
+after 3.5 h of exposure, using the titanium oxalate method (Sellers, 1980).
+It can be seen that the potential shift observed following the addition of the
+first drop is near the bottom end of the range of potential shifts observed
+under radiolysis (150-200 mV). Successive additions of hydrogen peroxide (at
+breaks in the curve) yield smaller potential jumps than the initial addition
+on a per-drop basis, indicating the tendency toward an eventual saturation
+point. These results support the theory that the production of hydrogen
+peroxide under radiolysis leads to the long-term potential shifts seen in
+austenitic stainless steels.
+  Although some of the general features (e.g., positive corrosion potential
+shifts) are similar, the behavior of copper in gamma-irradiated environments
+differs from that of stainless steel. Figure 26 shows the corrosion potential
+
+
+- 73 -

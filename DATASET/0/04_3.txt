@@ -1,0 +1,66 @@
+
+CONSULTATION DRAFT
+
+
+
+
+The samples are placed in sterile bottles and immediately returned to the
+laboratory for analysis. A mineral salts medium is used to culture these
+microorganisms. A controlled amount of drilling fluid is added as the only
+energy source for microorganism growth. Solid media are inoculated with
+washings of the soil samples. After aerobic or anaerobic incubation at room
+temperature, isolated bacterial colonies growing on the medium are transfer-
+red to fresh media and incubated to obtain pure colonies. Colony morphology
+and microscopic characteristics and viscosity can then be determined. The
+growth of microorganisms indigenous to tuff from Yucca Mountain will also be
+studied utilizing exploratory shaft samples.
+
+  This study will determine the sorption ratio of radionuclides on
+bacteria. A steady-state sorption ratio for the bacteria and radionuclides
+will be determined. This is necessary to affix a value to bacterial sorption
+of radionuclides. The cellular location (internal versus external) of
+actinide sorption will be investigated to determine the stability of sorp-
+tion. Furthermore, this study will determine if microorganisms preferen-
+tially sorb different oxidation states of a radionuclide. Sorption testing
+will be done primarily with plutonium, americium, and neptunium, on core
+samples from USW G-4 (1,501 ft) using well J-13 water. Samples from the
+exploratory shaft will be used when they become available.
+
+  The previously unstudied effects of microorganisms on the movement of
+actinides through fractured and unfractured tuff will be examined by deter-
+mining the movement of plutonium, americium, and neptunium sorbed to bac-
+teria. This work will determine if the movement is a function of the bio-
+logical mobility or the colloidal dispersion of the bacteria. Furthermore,
+the movement of radionuclides chelated by bacterial metabolites (i.e., sider-
+ophores) through fractured and unfractured tuff will be determined.
+
+Methods and technical procedures
+
+  Standard microbiological laboratory equipment and supplies will be used.
+Furthermore, standard microbiological laboratory procedures will be used
+using methods from the following references:
+
+  1.	Manual of Methods for General Bacteriology. American Society for
+	Microbiology (Gerhardt, 1981).
+
+  2.	Standard Methods for Examination of Water and Waste Water. American
+	Public Health Association, American Water Works Association, Water
+	Pollution Control Federation (APHA, AWWA, WPCF, 1985).
+
+  3.	Bergey's Manual of Systematic Bacteriology. Holt (1984).
+
+  Each of these references has been subjected to extensive peer review
+before publication; therefore, they are widely accepted among microbiologists
+as containing methods that will give consistent and reproducible results.
+Established procedures for sorption testing should be easily adapted to
+laboratory testing using microorganisms.
+
+  Procedures to be written include:
+
+  1.	Isolation of microorganisms.
+
+
+
+
+8.3.1.3-72
+

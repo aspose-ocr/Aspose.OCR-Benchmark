@@ -1,0 +1,39 @@
+~ausing release is presently uncertain: they are energetically weak phenomena in the context of
+the reference site, but they may contribute indirectly to conditions favoring release. Events listed
+under Class B are quite different: only items (20) and (22), inadvertent intrusion (by drilling, mining,
+or hydrofracture) and explosions, respectively, would be capable of initiating release. In the latter
+event, a nuclear explosion of extremely large yield would be required and to exhume the waste would
+require a direct hit over a repository located at depths less than those currently being considered.
+Hydraulic stresses caused by man's activity (21) may only accelerate (or inhibit) other conditions
+that would directly lead to release of radionuclides from the repository.
+
+  Finally, the only features among the Category IV list that are associated directly with a
+release are Items (23) and (26): undiscovered voids and hydraulically interconnected fracture systems
+and undiscovered, man-made penetrations. The other features (24), (25), and (27) are only factors
+to be considered in assessing conditions that favor release.
+
+  Thus, there appear to be 12 potential causes of failure (underlined in preceding paragraphs)
+and 15 events, processes, or features that may influence or catalyze the potential causes of release,
+but may not initiate release when acting alone.
+
+  The 12 potential causes of release can be further organized into two groups:
+  1. Those events and processes that are initiated by the excavation of the repository
+     and the placing of heat-producing radioactive waste within it.
+
+  2. Those events, processes, or features that could initiate or contribute to release
+     of radionuclides (by excavation or solution) in ways that are independent of the
+     presence of the repository.
+
+Only solutioning (7) and subsidence/caving (14) are common to the two groups. Group 1 can
+reasonably be called a self-induced release because the processes within it are initiated by the
+creation of the facility and because they also contribute to a failure of the facility. On the other
+hand, the processes and events in group 2 are potential release modes that are, in first approxima-
+tion, indifferent to the presence of the repository.
+
+  An appeal to physical and geological causality gives the most obvious release mechanisms
+in groups 1 and 2. A summary of the processes that contribute to self-induced release are shown
+in Table 2. 4. 1; release mechanisms that are roughly independent of the repository are listed in
+Table 2. 4. 2.
+
+
+47

@@ -1,0 +1,41 @@
+  Each item and activity during site characterization is assigned a level
+of quality assurance, which determines what requirements for control and doc-
+umentation need to be followed. The level of quality assurance is consistent
+with the relative importance of the item and activity to public health and
+safety.
+
+5.4 ENVIRONMENTAL AND SOCIOECONOMIC IMPACTS
+
+  In conducting the site-characterization program, care will be taken to
+minimize adverse environmental and socioeconomic impacts. As reported in the
+environmental assessment for the Yucca Mountain site, no significant adverse
+impacts are expected to result from site characterization. Nonetheless, the
+DOE will monitor site-characterization activities that might have significant
+environmental and socioeconomic impacts and, to the extent practicable, will
+implement mitigation measures if necessary. Plans to monitor and mitigate
+those impacts will be developed in consultation with the State of Nevada
+before starting the particular site-characterization activities.
+
+5.5 DECOMMISSIONING
+
+  If Yucca Mountain is found to be unsuitable as a repository, the
+exploratory-shaft facility will be decommissioned. If no alternative use for
+the exploratory-shaft facility is identified by the responsible State and
+Federal agencies, the decommissioning of the surface and underground facil-
+ities will begin as soon as possible. The surface facilities will be removed,
+and the land will be stabilized and rehabilitated. Equipment will be removed
+from the shaft stations, underground drifts, and test rooms. The shaft liners 
+will be left in place. The underground excavations and shafts will be back-
+filled with the rock removed during excavation.
+
+  Trenches will be backfilled with the material that was originally
+excavated, and drillholes will be sealed with a ground-matching grout of a 
+density that corresponds to that of the surrounding rock.
+
+  Since no radioactive materials will be used at the site during site char-
+acterization, no decontamination will be required after site characterization.
+The radioactive materials in the geophysical tools used to investigate the
+movement of ground water during exploratory drilling are fully contained and
+retrievable; they are routinely used in geologic investigations and do not
+require any decontamination.
+-90-

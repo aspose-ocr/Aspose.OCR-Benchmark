@@ -1,0 +1,33 @@
+				OUTLINE OF PRESENTATION
+
+
+	This presentation has three purposes, one for each section
+
+Section I.	Background Information
+
+		Purpose:  to explain the concepts behind performance allocation
+
+		~	Why are we doing it?
+
+		~	What do the terms mean?
+
+		~	What role does it have in issue resolution?
+
+Section II.	Technical framework for performance allocation
+
+	       Purpose:  to present the procedure we propose to follow
+
+	       ~	What are we going to do?
+
+Section III.   Performance allocation in the SCP
+
+	       Purpose:  to explain how the performance allocation will fit
+			 into the SCP
+
+	       ~	Where will the performance allocation-results be inserted?
+
+	       ~	How will they be communicated?
+
+
+
+

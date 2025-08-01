@@ -1,0 +1,53 @@
+Purpose, Applicability, and Use of This Standard Format
+
+The purpose of this Standard Format is to suggest the types of information
+to be provided in the SCP in accordance with 10 CFR Part 60 and to establish a
+uniform format for presenting the information. Use of this format will help
+ensure the completeness of the information provided, will assist the NRC staff
+and others in locating the information, and will aid in shortening the time
+needed for the review process. This Standard Format represents a format that
+is acceptable to the NRC staff. However, conformance with the Standard Format
+is not required.  SCPs with differing formats will be acceptable if they
+provide an adequate presentation of the information required by 10 CFR Part 60.
+
+Any information collection requirements mentioned in this regulatory
+guide are exempt from the Paperwork Reduction Act (44 U.S.C. 3518(c)(1)).
+
+The Standard Format is divided into two parts:
+
+1. Part A provides guidance on the types of information needed to describe
+the site and the conceptual design (including the waste form and waste package
+and its emplacement environment) of a repository appropriate to the site. There
+is no threshold amount of data to be accumulated during the preliminary site
+exploration activities required prior to the submittal of an SCP. Rather, Part
+A provides guidance on how to submit information that is currently available.
+
+2. Part B provides guidance on the presentation of the site characteriza-
+tion program, on the identification of unresolved issues, and on the plans to
+resolve these issues during site characterization.
+
+In its review of Part B, the NRC will look for answers to the following
+questions:
+
+a. Have the important information needs and unresolved issues been
+   identified?
+
+b. Does the SCP specifically address these information needs and present
+   program plans to obtain the needed information?
+
+c. Are the methods of testing and analysis proposed for the planned site
+   characterization program appropriate?
+
+d. Have alternative methods of testing and analysis been identified and 
+   evaluated, and has an adequate basis been provided for the selection
+   of the methods to be used?
+
+e. Will the data to be collected and the reliability of the collection
+   methods and analyses be of adequate quality to support a future
+   construction authorization application?
+
+f. Have the testing plans been based on the performance requirements for
+   the repository system and its components, and are the tests adequate
+   to enable evaluation of whether or not the repository system and its 
+   components will satisfy the regulatory performance requirements?
+vii

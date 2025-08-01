@@ -1,0 +1,51 @@
+166
+      o  A geothermal temperature gradient of about 42~C/km, 
+considerably above the continental average, resulting in an ambient 
+repository temperature of 57~C or higher at the 1.1-km depth of the 
+reference repository location (RRL).
+
+       Because of these problems the Umtanum host rock considered for the 
+BWIP project is physically much less favorable than some other 
+repository rock types discussed in this report.   There remains 
+uncertainty in the response of the Umtanum basalt to repository 
+excavation, particularly with regard to the possibility of rock 
+fractures from excavation communicating directly with adjacent permeable 
+aquifers.
+
+7.7.2.  Hydrology  
+
+Hydrologically, the Columbia River basalts of the Pasco Basin are, in 
+general, less permeable with depth.   The central zones of Grande Ronde 
+lava flows have hydraulic conductivities of 10-10 to 10-12 m/s; 
+brecciated flow tops, i.e., interflows, typically range from 10-5 to 
+10-8 m/s, or about one to two orders of magnitude lower than in 
+interflows and interbeds of the shallower basalts.   Hydrologic and 
+hydrochemical evidence, some of which appears in Figures 7-2, 7-3, 7-4, 
+and 7-5, supports the concept of significant vertical upflow in the 
+general area favored by Rockwell for the repository.   Note that flow is 
+most rapid from the reference repository level to the east and southeast 
+(Figure 7-2), but salinities are highest near RRL (Figure 7-5).   This is 
+most reasonably explained by upflow of deep saline water near RRL.  
+Table 7-3 and Figure 7-4 show the "normal" compositional differences.  
+Distances to discharge areas along the Columbia River probably range 
+from 10 to 35 km (the range from RRL to drill hole DC-6 and to Richland 
+with a mean distance of about 20 km) along the Columbia River, according 
+to most estimates.   Somewhat greater estimates, 60 to 80 km, have been 
+made by hydrologists.
+       Flow rates from recharge to discharge can be approximated from data 
+on ages of deep waters from well DC-15 (Figure 7-4).   These "apparent" 
+ages, based on carbon-14, may be too old due to loss of early upstream 
+carbonates precipitated as recharge waters reacted with rocks and pH 
+increased; ages may also be too old due to cross-formational upflow of 
+deeper water low or lacking in carbon-14.   The apparent ages may also be 
+too young from downward mixing with younger waters.   In spite of these 
+uncertainties, a relatively long age of 10,000 years or more for the 
+Grande Ronde pore waters seems most probable, not only because of the 
+apparent ages of DC-15 waters, but also from chemical evidence (Figure 
+7-4).   Both the sulfate content and changes in deuterium-to-hydrogen 
+ratio of Grande Ronde waters indicate their relative isolation, with 
+less cross-formational flow than in the younger basalts.   If an average 
+water travel time of 10,000 years is assumed from RRL to the mean of the 
+most probable zone of discharge (a distance of about 20 km), the 
+indicated pore velocity is on the order of 2 m/yr, probably ranging from 
+less than 0.4 to 4 m/yr.

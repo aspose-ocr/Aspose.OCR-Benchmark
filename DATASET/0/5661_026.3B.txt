@@ -1,0 +1,39 @@
+RESULTS OF CALCULATIONS
+
+
+   The six steady-state problems listed in Table 2 have been solved 
+using TOSPAC. The results concerning a particular variable (e.g., the
+pressure-head profile) will be discussed for cases where unit CHn is
+vitric and the percolation rate is varied. These results will then be
+compared to those where unit CHn is zeolitized to illustrate the effect
+of changing the composition of one unit.
+
+Pressure-Head Solutions 
+
+      The solutions to Eq. 7 for the six different cases are shown in
+Figures 8 and 9. Figure 8 shows the unit CHnv pressure-head profiles for
+three different percolation rates and Figure 9 shows the CHnz 
+pressure-head profiles. The first matter to be considered is the 
+accuracy of these solutions. This was checked by calculating the 
+percolation rate at each node point using the pressure-head solution, the
+physical properties, and Eq. 7. Very slight errors in the pressure-head
+solution can cause major errors in the calculated percolation rate,
+especially if the water movement is primarily in the fractures. Thus,
+the calculated percolation rate is a very sensitive measure of the
+accuracy of the pressure-head solution. The calculated percolation rate 
+(Figures 10 and 11) is plotted as relative percolation rate, which is the 
+percolation rate at a point divided by the imposed percolation rate.
+Figure 10 indicates that the solutions are accurate in terms of this
+sensitive measure. The relative percolation rates for the cases where 
+unit CHn is zeolitized (Figure 11) also show that good solutions were 
+obtained.
+   The steady-state pressure-head solution is a function of the
+percolation rate, the conductivity and the pressure head boundary
+conditions. In general, the pressure head decreases to large negative
+values as the percolation rate is decreased. If the matrix conductivity
+of a unit is small when compared to the percolation rate (e.g., the case
+where a percolation rate of 4.0 mm/yr passes through unit TSw2-3, which
+has a saturated matrix conductivity of about 0.6 mm/yr), then the
+
+
+-18- 

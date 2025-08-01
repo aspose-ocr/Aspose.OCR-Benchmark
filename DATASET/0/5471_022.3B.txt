@@ -1,0 +1,46 @@
+430   EATON
+place at a relatively high strain rate and locally produced strong stratal rota-
+tions and closely spaced normal faults, the faults themselves being rotated to 
+relatively low dips. In those areas where extreme regional erosion, coupled 
+with continuous isostatic rise, has been at play for 5 to 10 m.y. (as in the 
+Sonoran Desert section), these structures (as noted above) are found to termi-
+nate downward at large-scale, subhorizontal detachment surfaces or zones of 
+extreme cataclasis and/or ductile shear, some of which developed prior to the 
+onset of extension (Compton et al 1977, Coney 1979, Davis &Coney 1979, 
+Davis et al 1979, Rehrig et al 1980). While the ductile flow of these rocks in 
+some places clearly predated the initiation of extension, temperatures during 
+the extensional episode were sufficiently high to reset radiometric clocks and, 
+in other places, apparently remained high from the time of compression to the 
+time of extension.
+
+Role and Origin of Large-Scale Detachment Surfaces 
+
+Initiation and maintenance of horizontal shear at the level of such detachments 
+probably stemmed from increased shear stress, owing to reduction in lateral 
+support in the shallow crust-~the result of thermal expansion, uplift (and the 
+related increase in surface area that such uplift brings because of a local, 
+incremental increase in earth radius), and lithospheric extension at depth. It 
+was further served by a lowered shear strength, stemming from (a) the pres-
+ence of zones of strong anisotrophy, inhomogeneity, and stress concentration 
+that were created by earlier episodes of compressional thrusting and decol-
+lement, as well as by mechanical layering, particularly the presence of ductile 
+layers within, at the base of, and below the sedimentary pile that thins against
+the massive buttress of the North American craton to the east; and (b) high 
+pore pressure at the base of the brittle faulted column, its presence reflected 
+in a compressional wave velocity inversion and elevated electrical conduc-
+tivity (Eaton 1980).  At deeper levels, beneath the reheated mylonites or 
+metamorphic rocks that underlie the normal faults (and across which a strong, 
+shear stress gradient existed), extension is believed to have taken place by 
+inhomogeneously distributed, uniform flow, the result of thermal pre-
+weakening of the lithosphere by repeated magmatic invasion.  Known zones of 
+inherited compressional decollement originated in pre-Tertiary time and early 
+Tertiary time, but crustal temperatures high enough for extensional flow at 
+natural strain rates, even at shallow lithospheric levels, apparently were main-
+tained from the time of compression until at least mid-Cenozoic time when 
+brittle extension, basaltic volcanism, regional uplift, and, locally, erosion and 
+rapid cooling began.
+
+Rheological Considerations 
+
+The intracrustal boundary between a surface zone of elastic-brittle behavior 
+and one of possible remobilized uniform flow by steady-state creep at depth,

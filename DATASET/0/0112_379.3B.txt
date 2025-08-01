@@ -1,0 +1,57 @@
+  KITT-2 assumes that the primary events have exponentially distributed
+times to failure and repair (if repairability is applicable). The param-
+eters in these distributions (failure and repair rates) can be changed at
+times specified by the user. Primary events can also be assigned probabili-
+ties of being failed initially if the assumption is not made that they are
+working at time zero. Inhibit conditions have a constant probability.
+
+  Required input consists of control information, primary-event infor-
+mation (failure rates, repair times, and optional names), time points at
+which the characteristics are calculated, and the list of minimal cut sets.
+The control parameters control the bracketing options and allow multiple-
+parameter runs to be performed. Each parameter run uses the same minimal
+sets, but if one or more of the primary-event failure rates or repair times
+are changed, the reliability characteristics are recalculated. The output
+from KITT-1 and KITT-2 consists of unavailability, unreliability, and the
+expected number of occurrences for primary events, minimal cut sets, and the
+top event; failure rates for minimal cut sets and the top event; and impor-
+tance for primary events and minimal cut sets.
+
+  KITT-1 and KITT-2 are written in Fortran IV for the IBM 360/370 and
+the CDC 7600 computers. Some input-error checking is available. The cut
+sets can be input directly from PREP or MOCUS. However, for large fault
+trees the use of the KITT codes would be very limited. No external routine
+is required for running these codes.
+
+RALLY
+
+  The code package RALLY, developed by the Gesellschaft fuer Reaktor-
+sicherheit (1978), is capable of evaluating fault trees with up to 1500
+primary events and 2000 gates, including AND, OR, NOT, and K-of-N gates.
+
+  RALLY consists of the codes TREBIL, TIMBER, CRESSEX, FESIVAR, CRESSC,
+CRESSCN, SLAP-MP, KARI, and STREUSL. TREBIL was based on the PREP pre-
+processor for fault-tree synthesis, optimization, and data acquisition for
+the other programs of the RALLY package. TIMBER plots the fault tree.
+CRESSEX calculates the average unavailability and failure frequency by means
+of Monte Carlo simulation. FESIVAR is similar to CRESSEX except that it is
+capable of performing importance calculations. Minimal cut sets are cal-
+culated by either a simulation method with CRESSC (or CRESSCN if the fault
+tree contains NOT gates) or an analytical method with the programs SLAP-MP
+and KARI. STREUSL performs a time-dependent fault-tree quantification based
+on the minimal cut sets of the tree. The average unavailability and failure
+rate are calculated by the AVAGS code, which is used in conjunction with
+STREUSL. For uncertainty calculations the following distributions are
+handled by AVAGS: normal, lognormal, Johnson-SL, extreme value 1, Weibull,
+gamma, and exponential. RALLY was used in the German Risk Study and is
+written in Fortran IV for the IBM 360/370.
+
+RAS
+
+  RAS (Reliability Analysis System) is an integrated package of computer
+codes for the quantification of fault trees (Rasmuson et al., 1977). It is
+based on MOCUS, POCUS, KITT-1, SRTPAN, and COMCAN. The package can be used
+for an entire system analysis with up to five system phases, or it can be
+
+
+6-49

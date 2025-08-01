@@ -1,0 +1,53 @@
+information from the safety analysis report is used, its conservative bias
+must be taken into account. It is important to apply the most realistic
+information available in terms of the pressure, temperature, flow rates,
+and timing characteristics associated with systems designed to respond to
+accident-initiating events. Such information can be derived from analyses
+of transients by the utility or vendor-supplied thermal-hydraulics calcula-
+tions that can be justified and referenced.
+
+It should be noted that in some PRAs a formally documented evaluation
+of plant responses was omitted, and system event trees were developed
+directly from the information described in the preceding sections. This
+usually can be done only by analysts who are very familiar with plant design
+and responses to accident-initiating events. Such engineering judgment is
+very valuable to the risk-assessment process, but a typical PRA would bene-
+fit from a formally documented approach, as described in the sections that
+follow.
+
+3.4.3.1 Analysis of Function Event Trees
+
+The use of function event trees to evaluate plant responses requires
+the development of an event tree that orders and depicts safety functions
+according to the mitigating requirements of each group of initiating
+events. The headings of the function event tree are statements of safety
+functions that can be translated in terms of the systems performing each
+function. Success criteria are then defined for each of these systems.
+This stepwise process provides the information needed for preparing the more
+detailed system event trees that delineate the system accident sequences.
+
+Function event trees are developed for each group of initiators because
+each group generates a distinctly different plant response. The function
+event tree is not an end product; it is an intermediate step that provides a
+baseline of information and permits a stepwise approach to sorting out the
+complex relationships between potential initiating events and the response
+of mitigating features. It is the initial step in structuring plant respon-
+ses to accident conditions in a temporal format. The top events of function
+event trees are eventually decomposed into statements of system operation or
+unavailability that can be quantitatively measured.
+
+In constructing the event tree, the analyst considers the functions re-
+quired to prevent core damage, potential consequences, and the relationships
+between safety functions. For example, if the RCS inventory is not main-
+tained, then RCS heat removal cannot be accomplished. This could result in
+eliminating the choice for RCS heat-removal sequences where the RCS inven-
+tory is not successfully maintained.
+
+Figure 3-6 shows a typical function event tree for a large LOCA. The
+functions considered in developing this event tree are as follows:
+
+1. Reactor subcritical (RS): termination of the fission process.
+
+2. Containment overpressure (COI): initial suppression of blowdown by
+   steam condensation only.
+3-24

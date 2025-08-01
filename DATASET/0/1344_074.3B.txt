@@ -1,0 +1,41 @@
+64
+
+
+9. COUPLING JOINT WATER FLOW WITH DILATION AND CLOSURE
+
+  The mechanical and hydraulic behavior of rock joints when subject to stress
+change cannot be accurately modelled, unless an accurate method can be derived
+for measuring real joint apertures in situ, prior to stress perturbation. The
+unknown stress history of joints in situ means that the techniques developed
+in Section 8 would only provide a crude approximation to apertures in situ,
+even if the present stress distribution was known. An alternative method for
+estimating apertures in situ is presented by water flow tests.
+  The flow of water through rock joints can be represented by adopting the
+analogy of laminar flow between smooth parallel plates. The equivalent smooth
+wall aperture (e) and permeability (e2/12) can be derived from the following
+modified form of Darcy's law relating flow rate (q) and gradient (dP/dy):
+
+
+			where w = width of flow path (lateral dimension)
+			      ~ = absolute viscosity (1.2 ~ 10-5gm.sec/cm2 at 10~C)
+Analysis of linear and radial flow tests through artificial tension fractures
+in granite, basalt and marble led Witherspoon et al. (1979) to conclude that
+this so-called "cubic" law was valid whether the fracture surfaces were open
+to 250 m, or closed to 4 m by application of normal stresses as high as 20 MPa.
+However, they did note slight deviations (reduced flow) and indicated that (q)
+ranged from 60 - 96% of the above theoretical flow rate due to roughness effects.
+  However, analysis of Witherspoon et al. (1979) indicates that the absolute
+apertures of the fractures were not recorded, only changes in aperture (~e).
+The reported analyses were based on estimates of the residual apertures - the
+apertures remaining when the normal stress was as high as 20 MPa.
+  Analysis of other data reported in the literature suggests that tortuosity
+and roughness causes much larger flow losses than indicated above. In fact,
+Kranz et al. (1979) and Walsh (1981) went so far as to suggest that the law of
+effective stress may not apply to flow through jointed rocks.
+
+9.1 REAL APERTURE AND CONDUCTING APERTURE
+
+  In a recent article, Tsang and Witherspoon (1981) have also questioned
+the exactness of equation 9.1, and have proposed that the roughness of the
+fracture walls be taken into account to modify the true aperture. In fact,
+the concept of discrete values of real aperture (E) and conducting aperture (e)

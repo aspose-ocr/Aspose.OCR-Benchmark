@@ -1,0 +1,29 @@
+24
+
+
+Glassley, W., Reference Waste Package Environment Report, Lawrence Livermore
+	National Laboratory, UCRL-53726, in press, 1986.
+
+Helgeson, H. C., "Chemical Interaction of Feldspars and Aqueous Solutions," in
+	The Feldspars, W. S. MacKinzie and J. Zussman eds., Manchester Univ.
+	Press, pp. 184-217, 1974.
+
+Herman, G. T. (Ed.), "Image Reconstruction from Projections: Implementation
+	and Applications," Topics in Applied Physics, 32, Springer-Verlag,
+	Berlin, 1979.
+
+Knauss, K. G., Petrologic and Geochemical Characterization of the Topopah
+	Spring Member of the Paintbrush Tuff: Outcrop Samples Used in Waste
+	Package Experiments, Lawrence Livermore National Laboratory, Livermore,
+	CA, UCRL-53558, 1984.
+
+Lin, W., Measuring the Permeability of Eleana Argillite From Area 17, Nevada
+	Test Site, Using the Transient Method, Lawrence Livermore National
+	Laboratory, Livermore, CA, UCRL-52604, 1978.
+
+Lin, W. and W. Daily, Transport Properties of Topopah Spring Tuff, Lawrence
+	Livermore National Laboratory, UCRL-53602, 1984.
+
+Montazer, P. and W. E. Wilson, Conceptual Hydrologic Model of Flow in the
+	Unsaturated Zone, Yucca Mountain, Nevada, U.S. Geol. Survey, Water-
+	Resources Report 84-4345, 1984.

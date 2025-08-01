@@ -1,0 +1,50 @@
+2.1.1.2 Horizontal Configuration  
+
+The horizontal waste emplacement configuration uses long boreholes
+drilled horizontally into the ribs (sides) of the emplacement drifts, as 
+shown in Figure 5. The current concept for waste storage in this 
+orientation is shown in Figure 6. The emplacement boreholes are currently 
+planned to be 350 feet long, and each will contain 15 waste packages.  The 
+holes are lined with a steel liner to facilitate waste emplacement and 
+retrieval.  In this configuration, there will be no waste packages stored in 
+the first 100 feet of the borehole.  This is done to delay the temperature 
+increase in the emplacement drifts and thereby provide a less severe 
+environment for retrieval operations.  This 100 foot dimension is referred 
+to as standoff.  The standoff dimension is currently being analyzed, and it 
+may be shortened as analyses are completed and the trade-off between 
+repository cost and emplacement drift temperatures are further compared.  A 
+fabricated plug is used after emplacement to provide the shielding required 
+to protect personnel working in the drift.   
+
+Figures 7 and 8 illustrate a typical waste emplacement operational 
+cycle for the horizontal configuration. With this configuration, each waste 
+container is carried on its side on a dolly.  After transfering a single 
+waste container and dolly from the surface facility storage vault into the 
+transporter cask, the transporter is driven underground to the emplacement 
+borehole and positioned at a temporary shielding closure.  The cask is then 
+rotated 90~, and the shield doors are opened.  The waste container and dolly 
+are pushed into the borehole with the emplacement/retrieval (E/R) mechanism, 
+and the E/R mechanism is disconnected from the dolly and retracted back into 
+the cask.  The shield doors are then closed, the cask is rotated to its 
+transport position, and the transporter is returned to the surface facility.  
+The procedure is repeated until the borehole has been filled to design 
+capacity.   
+
+Achieving standoff to delay the onset of elevated temperatures in the 
+emplacement drift can be accomplished at least three ways.  The first way is 
+to use dummy containers or empty dollies that are emplaced in the same 
+manner as a conventional waste package.  The second method is to use a 
+pusher mechanism employing hydraulic cylinders and coupled tubing to push 
+the waste packages to the desired position.  Finally, the last few packages 
+emplaced in each borehole could be filled with defense high-level waste 
+(DHLW), which has very low thermal output.   
+
+After all waste containers for a given borehole have been emplaced and 
+standoff operations have been completed, final borehole closure is 
+accomplished by replacing the temporary shielding enclosure with a shield 
+plug and borehole cover.  This allows the shielding closure to be used for 
+waste emplacement operations at other boreholes.  Closure is accomplished 
+using a shielded plug installer transported with a special forklift, as 
+shown in Figure 8. 
+- 14 -
+E-18

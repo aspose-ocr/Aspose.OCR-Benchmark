@@ -1,0 +1,58 @@
+position of the disturbed zone is 50 meters (164 feet) below the centerline
+of the repository, and it is thought to be unlikely that repository-induced
+changes beyond these distances could significantly affect repository
+performance.  In the calculations of travel time and in computer simulations
+of travel times, the possibility for rapid water velocities during fracture
+flow is explicitly considered.  On the question of additive uncertainties,
+the final EA discussions of travel time clearly describe uncertainties in the
+calculations.  However, it should be noted that extreme application of this
+philosophy can lead to totally unrealistic predictions that are far removed
+from the expected conditions and processes.
+
+	Heat effects on rock properties that might influence postclosure travel
+times will be studied during site characterization through performance
+assessment scenario analysis.  The disqualifier for geohydrology is for
+pre-emplacement travel time and heat is not appropriately considered for that
+calculation.
+
+	Isotope ages of ground-water.  Commenters questioned the absence of data
+from established isotope techniques for dating water and determining travel
+times.  It was suggested that tritium levels could be used to estimate the
+period of time that water had been out of contact with the atmosphere.  Using
+this approach, one commenter suggested that several wells in Fortymile Wash
+may contain water components as young as 30 years old.  It was further
+suggested that carbon-14 ages may indicate rapid ground-water movement or
+substantial recharge through Yucca Mountain.  One commenter suggested that
+travel velocities in fractures within the Rainier Mesa vadose zone have been
+estimated at meters per day, and further stated that the presence of
+10,000-year-old ground waters at Yucca Mountain indicates that either the
+carbon-14 ages are wrong or the travel-time estimates are off by about a
+factor of 2.  Another commenter combined a question of ground-water age
+estimates with a statement that no evidence was offered to support the
+conservatism of placing the disturbed zone at the base of the Topopah Spring
+welded unit.
+
+	Response.  Isotope ages for ground water are reported by Claassen
+(1983); Benson et al. (1983); and Waddell et al. (1984).  Tritium data
+mentioned in the comments may indicate a "soil-water" contribution, although
+obtaining uncontaminated samples has been difficult in the past and results
+are not definitive.  Claassen (1983) suggests that a major recharge event
+between 9,000 and 17,000 years ago can be detected by use of carbon-14 ages.
+The comment regarding the possibility of rapid recharge at Yucca Mountain
+does not consider the fact that a 10,000-year-old carbon-14 age represents a
+minimum age for the water.  The possibility of mixing of water of different
+ages, and of the occurrence of local recharge events beneath intermittent
+streams, makes the isotope age-dating technique an inexact science.  Use of
+corrected carbon-14 ages must contain specification of the correction method
+used, because no unique solution is possible.  A lack of agreement between
+hydraulically computed velocities and geochemically computed velocities is
+not surprising.  The assumptions are different, and it may be erroneous to
+assume that water sampled down the hydraulic gradient from another sampling
+locality is necessarily derived solely from the up-gradient sample.  As a
+result 10,000-year-old water at Well J-13 and a calculated 20,000-year travel
+time from the repository to the water table are not necessarily contra-
+dictory.
+
+
+				C.5-7
+

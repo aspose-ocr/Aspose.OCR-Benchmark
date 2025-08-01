@@ -1,0 +1,46 @@
+6.3.7  Design of Surface Facilities
+
+     This section will describe tests to confirm properties of surface
+materials and foundation-soil or rock considered in the design of structural
+foundations for surface facilities, including known or inferred foundation
+problems.  It will also discuss or reference the sources of water for
+construction and operation of the proposed facilities.
+
+6.3.8  Repository System Component Performance Requirements
+
+     [This section will reference a discussion of repository system component
+performance requirements presented in Section 8.3.5.]
+
+     Preliminary numerical values for the performance goals design criteria
+for the repository systems will be provided to assure that the repository as a
+whole meets the overall regulatory requirements.  As the design evolves, these
+goals will be subdivided to the component level and will evolve into system
+and component requirements.
+
+     Early assignment of numerical goals for systems and components cannot be
+accomplished with a high degree of accuracy.
+
+     The general nature of the design and performance assessment will
+establish what site data need to be obtained.  The specific analytic tools
+used in the design process and performance assessment will establish the
+accuracy requirements on the data collection and analysis systems.  Tentative
+values for acceptable ranges of site properties can be established using an
+assumed design.  If the measured site falls within the initially assumed
+values only modest design changes are required.  If the measured site values
+fall outside the initially assumed values more extensive design changes may be
+required to continue to meet the overall performance requirements.
+
+6.4  SUMMARY OF DESIGN ISSUES AND DATA NEEDS
+
+     This section will provide a summary of design issues and related data
+needs, and will be cross-referenced to appropriate sections of Chapter 6.3 and
+Chapter 8.
+
+REFERENCES
+
+     A list of all pertinent references will be provided.
+
+
+SCP 30                 -45-             02/13/85
+
+

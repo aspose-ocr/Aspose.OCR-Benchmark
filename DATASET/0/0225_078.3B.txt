@@ -1,0 +1,56 @@
+8.3.6 ISSUE 4.2: NONRADIOLOGICAL HEALTH AND SAFETY
+
+8.3.6.1 Introduction
+
+  The question asked by Issue 4.2 is
+
+	Are the repository design and operating procedures developed to
+	ensure nonradiological health and safety of workers adequately
+	established for the resolution of the performance issue?
+
+  The complete discussion of the proposed strategy for the resolution
+of this issue is presented in SCP Section 8.3.2.4 (nonradiological health
+and safety). Readers unfamiliar with the issue resolution strategy for
+this issue should review the contents of SCP Section 8.3.2.4 before con-
+tinuing.
+
+  Issue 4.2 has been subdivided into three information needs, and the
+completed work has been identified under the associated information need.
+The completed work is numbered in a manner that corresponds with the in-
+formation need numbering system. For example, 4.2.3-1 is the first com-
+pleted work identified under the third information need of Issue 4.2.
+The information needs are the following:
+
+Information Need 4.2.1 Site and performance information needed for design
+
+  This informaion need consists of (1) compiling the site characteri-
+  zation and performance assessment information identified in the other
+  information needs under Issue 4.2 into a single integrated list and
+  (2) reviewing the proposed site characterization program and per-
+  formance assessment program to ensure that the actions required to
+  obtain the site characterization information and to provide the
+  required performance assessment information are incorporated in
+  these programs. Work completed to date has focused on the safety
+  aspects of excavation stability. The site characterization and
+  performance assessment information needed for design is identified
+  in SCP Section 8.3.2.4.1.
+
+Information Need 4.2.2 Potential nonradiological hazards to personnel
+
+  The repository design and operating procedures will be reviewed to
+  determine nonradiological hazards to personnel. The risk to person-
+  nel from a given nonradiological hazard then will be determined by
+  (1) calculating the probability of occurrence of the event identified
+  as a personnel hazard, (2) determining the consequences of the event,
+  and (3) multiplying the probability of an event occurrence and the
+  consequences of the event. If the risk is determined to be unaccept-
+  able, a change will be incorporated in the repository design and the
+  repository operating procedures. The work completed to date for
+  this informaton need has focused primarily on the identification of
+  events that could have hazards associated with excavation stability.
+
+Information Need 4.2.3 Design measures for avoiding or mitigating hazards
+to personnel
+
+
+8-78

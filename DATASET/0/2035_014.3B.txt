@@ -1,0 +1,13 @@
+xiv
+
+
+	Diffusion was modeled using a three-dimensional, continuous
+point source, transient-state, analytical model which allowed estimation
+of the effective diffusion coefficient of the porous media, and an
+independent assessment of the media's sorptive effects on the tracer
+gas. The model was calibrated using least squares and curve matching
+techniques, the latter of which enables a field technician to quickly
+interpret observed field data.
+	Field values obtained for effective diffusion coefficient ranged
+from 0.026 to 0.037 cm2/sec. The average tortuosity factor observed for
+test site was 0.705.

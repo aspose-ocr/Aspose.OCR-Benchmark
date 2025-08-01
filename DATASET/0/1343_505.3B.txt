@@ -1,0 +1,45 @@
+Somatic Effects: Effects Other Than Cancer				485
+
+
+certainty a dose below which teratologic effects in man are not induced by
+exposure at sensitive stages in development. As discussed above, such
+thresholds do, however, probably exist, and they may be higher for pro-
+tracted or fractionated radiation than for acute single exposures.19,24,138
+
+Radionuclides Administered During Pregnancy
+
+The effects of various radioisotopes administered to pregnant mammals
+have been less extensively studied than the effects of externally ad-
+ministered radiation. Furthermore, one cannot generalize on the effects of
+administered radionuclides, because, depending on the chemical form and
+the type and energy of the emitted radiation, they may or may not cross
+the placenta, they may have specific target organs, the distribution of
+radiation may be nonrandom, the metabolism of radioactive elements or
+compounds may vary greatly from person to person because of individual
+biologic variations or because of the disease state of a given subject, and
+the change in dose rate with time may be difficult to evaluate.35
+Radioisotopes administered to the mother may also affect the newborn if
+they are administered shortly before birth, because many are excreted in
+the breast milk.10,178
+  In any event, before one can estimate the potential hazard of ad-
+ministering a radioactive nuclide or compound to a pregnant woman, one
+must determine with some accuracy the total dose to the fetus or a par-
+ticular fetal tissue, the dose rate and how it varies with time, and the
+stages of gestation during which the radiation is received.
+  Until recently,151 the radioactive isotopes of iodine were the radionu-
+clides most commonly used in nuclear medicine. The two most important
+ones are iodine-131 and iodine-125. Although inorganic iodide readily
+crosses the placenta, iodine attached to proteins, hormones, and even
+radioactive rose bengal is less likely to cross. However, a significant
+amount of iodine usually is released from the labeled compounds and
+becomes available to the fetus. There is probably no radioactively labeled
+iodine compound that does not release some iodine to the circulation after
+administration.
+  The human fetal thyroid does not take up iodine before the twelfth
+week;32,51 thereafter, however, its uptake increases, and it comes to a peak
+in the sixth month.51 In the mouse, there is some evidence that the fetal
+thyroid has a greater avidity for iodine than does the maternal thyroid.82
+Because the human fetal thyroid accumulates considerably more
+iodine-131 per gram than do other fetal tissues, an inadvertent
+therapeutic dose to the mother of 5 mCi would deliver 6,500 rads to this
+organ and thereby ablate it.50 If the dose of radioactive iodine is high

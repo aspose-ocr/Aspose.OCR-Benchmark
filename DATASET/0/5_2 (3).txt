@@ -1,0 +1,51 @@
+
+Earthquake Occurring During Emplacement Operations
+
+  This combination of events may impose significant loads on the
+interface between the transporter cask and the emplacement borehole. This
+loading will be independent of other factors such as borehole filling,
+radiation, and temperature. To accomodate the load, it will be necessary to
+design the interface with strength sufficient to withstand the imposed
+loads. It will also be necessary to design the transporter with reaction
+supports adequate to ensure that the waste transporter moves in harmony with
+the ground motion. In addition, the E/R system will be designed so that any
+adverse effects resulting from ground movement during emplacement or
+retrieval can be rapidly mitigated.
+
+Water Intrusion into a Filled Borehole
+
+  It is currently planned that waste will not be emplaced in boreholes
+where water inflow is detected. Water inflow after emplacement could
+possibly occur, however, if a perched reservoir is replenished by
+precipitation and subsequently recreates a dripping fracture that intersects
+the emplacement borehole. If such a combination of circumstances occurs, it
+will present no significant hazard during retrieval because the water will
+be vaporized as it encounters the boiling temperature isotherm around the
+borehole and will subsequently be driven into the rock or down the annulus
+between the liner and the borehole wall until it cools and condenses. This
+does not alter the design basis for the liner environment because the design
+basis already includes the presence of water vapor.
+
+Conclusion
+
+  Two points should be made regarding this discussion. The first is that
+this discussion is not intended to lend credibility to the synergistic
+scenarios presented. The second point is that the synergistic effects are
+not unique to horizontal emplacement; they are also present for vertical
+emplacement and must be considered in design for either emplacement
+configuration.
+
+  In summary, it is concluded that no significant adverse conditions will
+develop with the horizontal emplacement configuration due to synergistic
+effects.
+
+
+
+
+- 84 -
+
+
+
+
+E-88
+

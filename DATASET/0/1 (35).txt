@@ -1,0 +1,36 @@
+Town Clerk Telephone 500.00 419.60 500.00
+Town Clerk Printing 100.00 80.30 100.00
+ER Clerk Dues/Conventions 480.00 342.00 480.00
+ER Clerk Gen'l Suppl/Safety 300.00 64.68 300.00
+ER Clerk Office Supplies 400.00 410.21 400.00
+ER Clerk Postage 50.00 15.94 50.00
+ER Clerk Mileage Reimburs. 75.00 99.75 30.00
+ER Other Election Employees 240.00 270.00 60.00
+ER Ballot Clerks 900.00 1.255.00 240.00
+ER Supervisor of Checklist 1.560.00 1,530.00 360.00
+ER Election Printing 375.00 308.45 375.00
+ER Voter Reg. Printing 280.00 170.60 100.00
+ER Election Supplies 150.00 243.93 150.00
+TOTAL ELEC.&REG 19.688.00 20,134.81 17.580.50
+FINANCIAL ADMINISTRATION
+Fin Bookkeeper 9,500.00 8,900.71 10,008.00
+Fin Bookkeeper Temp 1.740.00 1.224.04 1.500.00
+Fin Bookkeeper Overtime 200.00 56.46 624.00
+Fin FICA 2,035.00 1.957.42 2,035.00
+Fin Medicare 476.00 457.79 476.00
+Fin Audit 5.080.00 7.350.00 5.600.00
+Fin M.M.C. 3.000.00 1,678.01 3,000.00
+Fin TC Deputy Tax Collector 1.890.00 1.890.00 2.003.40
+Fin Tax Collector Salary 17,100.00 17.100.20 17.613.00
+Fin TX Fees County/State 1,000.00 1,739.42 1.000.00
+Fin TC Telephone 500.00 644.41 500.00
+Fin TC Printing 500.00 905.26 900.00
+Fin TC Dues/Conventions 425.00 515.50 425.00
+Fin TC Mileage 130.00 147.25 65.00
+Fin TC General Supplies 382.00 297.88 300.00
+Fin TC Supplies 400.00 229.12 400.00
+Fin TC Postage 2,000.00 1.833.00 2,000.00
+Fin Treasurers Salary 2.400.00 2,399.98 2,400.00
+Town Office Recording Fees 150.00 52.32 150.00
+Fin Tax Lien Research 3,000.00 1,888.00 2,500.00
+31

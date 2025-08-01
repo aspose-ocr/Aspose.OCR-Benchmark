@@ -1,0 +1,57 @@
+                                 94  
+
+
+and Koch, 1969); thus the neutral complex, TcO(OH)2~, is likely to be
+the dominant solution species.
+
+     Figure 2.8 shows the results of calculations for technetium.  Calcul-
+ations were made for three redox conditions, Eh = +0.2, 0.0, and -0.2 V.
+The symbols (S) and (A) denote the calculated controlling solid phase and
+major solution species, respectively.  It was not possible to calculate
+the contribution of reduced aqueous species, i.e., TcO2+, TcO(OH)+, and
+TcO(OH)2~ to the solubility, since the necessary data are not available.
+
+     (3) Palladium.  Palladium normally exists only in the divalent and
+tetravalent states in solution, but Pd4+ is much less stable than Pd2+,
+and the divalent ion dominates its solution chemistry.  The element is
+found with the other platinum metals in nature as alloys, as well as
+special minerals like braggite (mixture of Pt, Pd, and Ni sulfides).  The
+chloride, nitrate, and sulfate of Pd2+ are soluble and the fluoride
+sparingly soluble.  The oxide, hydroxide, and sulfide of Pd2+ are quite
+insoluble, with solubility products of 10-32.4, 10-28.5, and ~ 10-25,
+respectively.  There is no information on the phosphates, silicates, or
+carbonates; however, NiCO3 (Ni is in the same chemical group as Pd) is
+sparingly soluble.  If the behavior of Ni is indicative, Pd would be
+expected to form only weak complexes with SO4-, F-, NO3-, and HPO~~~.
+Palladium forms strong complexes with OH- and Cl-.  Values of 1013.0 and
+1025.0 have been reported for the first and second hydrolysis constants,
+respectively, of Pd2+ and 10-5.4 for the reaction Pd(OH)2(c) = Pd(OH)2~(aq).
+The values for ~1, ~2, ~3, and ~4 of the chloride complexes were reported
+as 106.1, 1010.7, 1013.1, and 1015.4.
+
+     Figure 2.9 shows the results of calculations for palladium.  The
+symbols (S) and (A) denote the calculated controlling solid phase and major
+solution species, respectively.  Calculations were made for Eh values: 0.0,
++0.2, and +0.4 V.
+
+     (4)  Tin.  The 2+ and 4+ oxidation states are the important ones for
+tin in aqueous solution.  The 4+ state is particularly stable in the
+natural environment, and cassiterite (SnO2), which usually occurs in low-
+grade ores, is the major source of the element.
+
+     Tin dioxide is quite insoluble, but little quantitative data exists
+on its solubility.  The solubility product has been estimate to be 10-64.4.
+SnO (Ksp = 10-26.2) is more soluble than SnO2 but is unstable toward
+oxidation by water to SnO2 and would not be important in natural systems.
+The fluorides, chlorides, nitrates, and sulfates of both stannous and
+stannic are soluble, but the stannous (Ksp = 10-25.9) and stannic sulfides
+are not.  There is no good value for the solubility product of SnS2,
+although stannite (Cu2S~FeS~SnS2), canfieldite (4Ag2S~SnS2), and
+teallite (Pbs~SnS2) have been found with the other metal sulfide deposits
+in nature.  There is no information on the phosphates, carbonates, or silicates,
+but none occur naturally.  One might expect the oxide or sulfide as the
+controlling solid phase for Sn4+.
+
+
+
+

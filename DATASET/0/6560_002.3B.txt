@@ -1,0 +1,31 @@
+PERFORMANCE ISSUES
+
+OLD
+
+ISSUE 1.16: Will the projected range of radionuclide releases to the
+            accessible environment meet the system performance objective?
+NEW
+
+ISSUE 1.1:  Will the mined geologic disposal system meet the system
+            performance objective for radionuclide releases to the
+            accessible environment as required by 10 CFR 60.112 and
+            40 CFR 191.13?
+
+ISSUE 1.2:  Will the mined geologic disposal system meet the requirements
+            for doses to individuals in the accessible enviroment as
+            required by 40 CFR 191.15?
+
+ISSUE 1.3:  Will the mined geologic disposal system meet the requirements
+            for the protection of special sources of ground water as
+            required by 40 CFR 191.16?
+
+OLD
+
+ISSUE 1.12: What are the magnitudes and the extent of the effects of the
+            repository on site characteristics?
+
+NEW
+
+ISSUE 1.7   Have the effects of repository construction and waste emplacement
+            on site characteristics been adequately assessed to define the
+            extent of the disturbed zone?

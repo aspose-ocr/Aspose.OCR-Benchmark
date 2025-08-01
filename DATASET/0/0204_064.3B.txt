@@ -1,0 +1,58 @@
+CONSULTATION DRAFT
+
+
+sulfate remain unchanged; and the pH (8.1 to 8.4) increases slightly. The
+changes, however, do not greatly affect sorption.
+
+  The spiked-feed solutions for each tuff sample were prepared by adding
+measured concentrations of radionuclide tracers to the pretreated water.
+Spiked-feed solutions are prepared as described by Daniels et al. (1982) for
+separate radionuclides. The final concentrations of the feed solutions
+generally range from 10-6 to 10-9 M; plutonium concentrations as low as 10-11
+M have been studied.
+
+4.1.3.2.2  Batch sorption methods
+
+  In batch measurements of sorptive properties, the distribution of a
+radionuclide is measured between ground water and crushed tuff as a function
+of contact time, the concentration of sorbing species, particle size, temper-
+ature, oxidation-reduction conditions, ground-water components, and lithol-
+ogy. In the batch procedure, a 1-g sample of crushed tuff is pretreated by
+contact with 20 ml of well J-13 ground water for at least 2 wk. The ground
+water used to prepare the solution containing radionuclides (spiked-feed sol-
+ution) is also pretreated by contact for at least 2 wk with a crushed-tuff
+sample from the same section of core. The solids are separated from the
+liquid by centrifuging after the pretreatment period.
+
+  A sorption measurement starts when 20 ml of spiked-feed solution is
+added to the 1-g sample of tuff treated with ground water. The concentra-
+tion of the spiked element ranges from 10-6 to 10-13 M, except in isotherm
+measurements where concentrations approaching the solubility limit are
+investigated. Care is taken to ensure that the spike concentration is well
+below predicted solubility limits in standard experiments. Except for the
+highest concentrations used in the isotherm studies (generally greater than
+10-4 M), no significant change in sorption ratio has been observed with
+changing spike concentrations covering six to seven orders of magnitude
+(Wolfsberg et al., 1981; Daniels et al., 1982; Rundberg et al., 1985). Next,
+the two phases are thoroughly mixed and the sample is placed in a shaker to
+be agitated at about 200 rpm for selected times. At the end of the sorption
+period, the sample is removed from the shaker and the solids are separated by
+centrifuge. Tracer (spike) activity in the separated solid and liquid phases
+then is determined and the pH of the liquid is measured. The analytical
+techniques for each element are discussed by Daniels et al. (1982), who also
+discussed the technique used to completely separate the solids from the
+aqueous phase and to calculate the sorption ratios. The standard sorption
+and desorption times were 6 wk each. The data in Appendix A of Daniels et
+al. (1982) show that sorption either increases with time or remains
+unchanged. The choice of 6 weeks (or a total of 12 wk for both sorption and
+desorption measurements) was a compromise between reaching equilibrium, if
+that were even possible, and completing the measurements within a reasonable
+amount of time.
+
+  After the radioactivity of a solid phase has been measured, a desorption
+measurement is started. Tuff-pretreated ground water (20 ml) without tracer
+is added to the remaining solid phase. The sample is agitated again to
+ensure a thorough mixing of the two phases. The rock sample is separated
+
+
+4-62

@@ -1,0 +1,41 @@
+         FTP  - Fluid Transport Properties (relative to hydrology,
+                radionuclide distributions influenced by distribution
+                coefficients, etc.).
+
+         AW   - Aquifer Water (hydrologic factors in aquifer flows).
+
+         SW   - Surface Water (hydrologic factors in surface flows).
+Inspection will show that this is not a comprehensive list of the Rate Equations and variables.  
+It is given to indicate the general idea and to stimulate searches for the relevant variables and 
+their interdependencies.
+
+         Closer inspection of Figure 2A.2 will disclose various types of potential Feedback 
+Loops.  Possibly, the most conspicuous type of feedback is of the sort already described (e.g., 
+mechanical work-heat cycles).  Another fundamental kind is the effect of a Level quantity on the 
+rate of change of that quantity.  In one way or another this form of feedback affects every Level.  
+For example, the amount of heat stored in the reference system affects the rate of heat loss and 
+hence the subsequent heat quantity.  The amount of mechanical deformation (relative to some 
+initial reference configuration) performed on a system influences the mechanical states and 
+properties of the rocks of the system, hence the future mechanical work rates.  Similar statements 
+are true of fracturing and production of rock openings.  Groundwater quantities influence future 
+Level states via consequent hydrologic flow rates.  Radionuclide quantities in solution influence 
+future rates of incorporation by depletion of the finite source, and so on.
+
+         Many types of indirect Feedback Loops can be found by careful study of diagrams 
+like Figure 2A.2.  Formally, all closed circuits in the directions of Information Arrows represent 
+Feedback Loops.  There is virtually an infinity of involutions and convolutions of these possible 
+connections.  The problem forced on us by questions of radioactive waste containment in geological 
+media is to find the dominant loops and to understand their magnitude-time relations as regards 
+geological stability.  Diligent and repetitive construction of such Systems Diagrams, Information 
+Lines, and Feedback Loops assists these hierarchical sorting processes.
+
+         Only two indirect Feedback Loops will be mentioned as type examples.  The first of 
+these is very simple to understand, but it is the most indirect and is quantitatively contingent 
+on some form of numerical solution of all system variables which has not been accomplished to 
+this date.  Starting with the Heat Level on the lower right of the diagram, Information Lines can 
+be traced through the entire diagram and back to the Heat Level.  That is, the amount and distri-
+bution of heat generation by radioactivity simply depends on what happens to the radionuclides other 
+than simple decay in their original configurations. From the standpoint of the overall system 
+this represents a Negative Feedback Loop tending toward thermal equilibrium.  This conclusion, 
+however, should not encourage complacency concerning other forms of potential thermal feedback.
+100

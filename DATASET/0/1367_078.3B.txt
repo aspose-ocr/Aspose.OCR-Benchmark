@@ -1,0 +1,54 @@
+IV-16      DOE 6430.1
+
+
+12-12-83
+
+
+(b)	Each roofing penetration is a potential source of water entry,
+	as with penetrations of any waterproofing system. The use of
+	roof-mounted solar collectors, and other roof-mounted equipment,
+	on new or existing roofs can, for example, be a significant
+	contributing factor to accelerated roof failure if not properly
+	installed. Where direct rooftop installations of equipment are
+	unavoidable, the supporting frames should have legs or posts of
+	sufficient height above the roof membrane to facilitate roof
+	maintenance, and total roof replacement without requiring
+	equipment removal or structural support alterations. In
+	general, the bottom of equipment stands should be at least 3
+	feet above the top of the finished roof membrane. For equipment
+	setting on curbs, one foot above the finished roof should
+	generally be adequate.
+
+(c)	The method of flashing supporting-legs or posts to the roof
+	requires special attention. The use of improved methods, in
+	lieu of conventional pitch pans (or pitch pockets) that have not
+	always been satisfactory, should be investigated and the current
+	recommendations of the National Roofing Contractors Association
+	(NRCA) followed.
+
+(d)	Equipment placement on roofs generate other potential roof, or
+	roof support, damage problems related to roof traffic during
+	placement and during subsequent servicing, or replacement. In
+	many cases, the weight of mechanical equipment or other equip-
+	ment can be such as to require specific placement in accordance
+	with the structural design loading of the roofing support
+	system. The movement of heavy equipment across a roof will
+	often cause structural deflection of the roof deck sufficient
+	to break the bond of the roof, as well as cracking the felts.
+	Crane or helicopter placement is sometimes necessary in lieu of
+	dragging or skidding the equipment across the roof. For
+	equipment installation and later servicing, it is necessary to
+	provide suitable roof protection not only for personnel access
+	to the equipment but also around the equipment, itself.
+	Generally, the most roof damage can result from work efforts in
+	the immediate equipment area.
+
+(e)	An effective roof management and maintenance program is an
+	important element of the overall facility or site maintenance
+	program. Integral to the program is a system of control that
+	not only limits building roof access to authorized personnel but
+	also provides a mechanism for review and approval of proposed
+	additions of roof mounted equipment. This review of equipment
+	additions should include an analysis of the building structure,
+	placement method, roof protection provided, and flashing
+	provisions.

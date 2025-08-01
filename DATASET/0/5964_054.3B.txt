@@ -1,0 +1,47 @@
+OGR/B-2
+1.2.1.1-1
+1.2.1.1 EXCAVATION
+Preclosure
+
+DEFINITION:
+
+The system for providing adequately supported repository horizon openings
+and the shafts or declines for accessing the horizon.
+
+FUNCTIONAL REQUIREMENTS:
+
+1. To provide entry/egress opening(s) between surface and underground
+   portions of the repository for transferring radioactive waste,
+   personnel, equipment, materials, utilities, ventilation air, and
+   excavated rock.
+
+2. To provide underground openings for waste handling and emplacement.
+
+3. To provide underground openings for operation and support facilities.
+
+4. To provide ground support where required.
+
+PERFORMANCE CRITERIA:
+
+1. a. Number and size of access openings shall be sufficient to meet
+      the repository needs in terms of handling radioactive waste,
+      personnel, materials, equipment, utilities, and broken rock.
+
+   b. Size, shape, and construction of access openings shall be
+      adequate to supply and exhaust required volumes of air for
+      subsurface operations.
+
+   c. The necessary access openings shall be available for use of their
+      specific purposes within the time frame specified in the
+      repository schedule.
+
+2. a. Size and layout of openings excavated shall be adequate to handle
+      and emplace radioactive waste at a rate of up to 3000 MTU spent
+      fuel and up to 400 MTU equivalent solidified high level waste.
+
+   b. Excavation techniques shall ensure minimum overbreak of rock and
+      minimum disturbance to the integrity of adjoining rock mass, and
+      efforts shall be made to maintain as smooth a wall surface as
+      practicable during excavation in order to assist ventilation by
+      minimizing losses due to frictional resistance.
+Revision 3

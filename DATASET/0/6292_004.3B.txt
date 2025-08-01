@@ -1,0 +1,30 @@
+				ISSUE 1.16
+
+			       EXPECTED CASE
+
+
+Steps 2 and 3
+
+	Rely on Calico Hills for release via groundwater pathway.
+
+	Rely on EBS for gas/vapor Release
+
+Step 3
+
+	In Calico Hills Emphasize
+
+	- Limitation of linear water velocity,
+	- Physical retardation (matrix diffusion)
+	- Chemical retardation.
+
+Step 4
+
+	Performance Measures
+
+	A.  For Calico Hills
+
+		1) Radionuclide transport times, T
+
+		2) Radionuclide retardation factors, R (sorbing species)
+
+		3) Radionuclide release over 10,000 years

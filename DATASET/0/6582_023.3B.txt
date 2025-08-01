@@ -1,0 +1,49 @@
+	The host rock at the Hanford site consists of basalt and a number of
+sorptive secondary minerals (e.g., clays, zeolites).  Laboratory tests suggest
+that repository conditions may result in the formation of a mineral assemblage
+similar to the secondary minerals formed naturally in basalt as a result of
+hydrothermal alteration.  Although the hydrothermal conditions near the
+repository could adversely affect the sorptive capacity of some of these
+minerals, there is abundant evidence that hydrothermal conditions could alter
+the volcanic materials to more sorptive materials (e.g., clays and zeolites).
+In general, the effects of the repository on rock strength are expected to be
+negligible.
+
+	At the Richton site, the mineral assemblage consists mainly of halite
+with some anhydrite.  Because of the stability of the minerals at this site,
+it is expected that no geochemical alteration or reduction in rock strength
+would affect the transport of radionuclides.
+
+	The mineral assemblage in the host rock of the Yucca Mountain site
+consists of 98 percent quartz, feldspar, and cristobalite, with small amounts
+of secondary clays and zeolites.  The sorptive capacity of the host rock is
+likely to be slightly reduced by the dehydration of clays and zeolites in the
+disturbed zone and remain unaffected in the surrounding rocks.  Only very
+small amounts of volcanic glass are likely to be present.  Rock strength is
+not expected to be affected by the geochemical conditions in the repository.
+
+Summary of comparative evaluations
+
+	Hanford and Yucca Mountain are the most favorable sites for the
+geochemistry guideline.  These two sites are expected to have the most
+favorable geochemical conditions with respect to the waste package and
+radionuclide retardation.  The basalt at Hanford should respond favorably to
+geochemical conditions in the repository by creating additional sorptive
+capacity.  Hanford also has more favorable redox conditions.  Yucca Mountain
+has unsaturated conditions as well as the additional radionuclide-retardation
+effects of matrix diffusion.
+
+	The Davis Canyon, the Deaf Smith, and the Richton sites are favorable for
+all major considerations and are essentially equivalent with respect to the
+geochemistry guideline.  They are less favorable than the nonsalt sites
+because the sorptive capacity of salt is very limited and the brines at these
+three sites could reduce the lifetime of the waste package.  Moreover, the
+geochemical conditions in the salt sites are not expected to enhance the
+retardation of radionuclides through the alteration of the host rock to the
+degree that is expected at Hanford.  The amount of brine, however, will
+probably be small, and the transport of radionuclides by this brine is likely
+to be quite limited.  Therefore retardation due to geochemical effects may be
+of limited importance.
+
+
+				7-23

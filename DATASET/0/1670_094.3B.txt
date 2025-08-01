@@ -1,0 +1,38 @@
+Centrifugal casting foundries can be found in most parts of the country,
+but many of them cast ferrous parts (water mains, etc.) and are not equipped
+to cast copper alloys. Wisconsin Centrifugal Inc. (Waukesha, WI) regularly
+casts steels and copper alloys in about equal quantities. Two of their most
+frequently called for alloys are aluminum bronze and copper-nickel. The inner
+surfaces of such castings need not be cylindrical (although most centrifugal
+castings are) but may be cast to net and near-net shape through use of cores.
+This process could be used to produce containers with integrally cast internal
+structures such as racks, spacers, stiffeners or partitions to separate fuel
+assemblies.
+  Centrifugal casting appears well suited to the manufacture of container
+shells in copper alloys. High-purity copper would be difficult to cast, but
+dilute alloys such as CDA 815 (1% chromium) could be produced. Potential
+disadvantages of the process involve soundness or mechanical property
+requirements placed on the products, although it should be noted that the
+mechanical properties of quality centrifugal castings closely approach those
+of wrought products. Some subsequent forging or HIPping may be required to
+ensure gas tightness; however, this point must be addressed by experiment. If
+the slight taper necessary on all centrifugal castings is objectionable,
+removing it will require incremental added expense.
+
+7.1.3 Extrusion
+
+  Extrusion of tubular products is a standard industrial process; great
+quantities of small-to-medium-diameter extruded pipe and tube are produced
+throughout the world. The proposed container designs are essentially
+large-diameter closed-end pipes, and extrusion is therefore also a potential
+method for their production.
+  Extruded hollows as large as the conceptual design containers are not
+common since the equipment needed to produce them is very large and
+specialized. However, such equipment is available in the U.S. and has been
+used to manufacture large-diameter copper alloy piping. An example is the
+32,000-metric-ton extrusion press located at the Cameron Iron Works plant in
+Cypress, ~X. Cameron's extrusion press can extrude tubes of the diameters,
+lengths, and thicknesses proposed in the NNWSI conceptual designs.
+
+
+- 90 -

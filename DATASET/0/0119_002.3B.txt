@@ -1,0 +1,53 @@
+55
+
+
+E~Q6 (3) is a reaction-path code, which calculates models of changes in
+aqueous systems as they proceed toward a state of overall chemical
+equilibrium. These models are divisible into three types: 1) "instant"
+equilibration of a system not at equilibrium, such as a water that is
+supersaturated with respect to several solids, 2) reaction-path calcula-
+tions using arbitrary kinetics to describe mass transfer for reactions
+that do not follow instantaneous equilibrium (these calculations essen-
+tially represent titrations), and 3) reaction-path calculations using
+actual kinetic rate laws. EQ6 runs are initialized by entering a
+description of the starting aqueous fluid (from EQ3NR) and defining the
+constraints for the reaction path (i.e., identifying the irreversibly
+reacting materials and specifying the controls on their rate of
+reaction; temperature/pressure changes may also be included).
+
+At the present time, EQ6 models correspond to two physical scenarios: 1)
+a closed system, which best approximates a rocking autoclave, and 2) a
+flow-through open system, which follows the progress of a single packet
+of water as it traverses a reacting medium (this is a pseudo-one-
+dimensional model). There are tentative plans to add a third model,
+which would deal with a flow-through open system approximating a
+leaching cell (also pseudo-one-dimensional). A full one-dimensional
+model, in which the code would keep track of reaction in a series of
+boxes, appears feasible, but is not currently planned for EQ3/6
+development.
+
+			RECENT IMPROVEMENTS
+
+With the adoption of EQ3/6 by the NNWSI and ONWI, development has
+accelerated in the period FY83-84, and several major steps have been
+made to improve the adequacy of the code package for use by the waste
+programs. One major step forward is that a series of detailed user's
+guides (2-5) has been produced. This documentation has been produced
+specifically to satisfy NRC software requirements (6).
+
+EQ3/6 prior to FY83 had no capability for modeling brines, because the
+approximations for calculating the thermodynamic activity of water and
+the activity coefficients of the solute species w~re restricted to low
+ionic strengths (~~1.0 molal). Under ONWI sponsorship, we have added
+an option (4,7) to use Pitzer's equations (8-11) for such calculations.
+These equations, based on a semi-empirical approach using virial coeffi-
+cients, represent a proven methodology for modeling the thermodynamics
+of brines. Fig. 1 shows an example of this option, in which Pitzer's
+equations have been used to calculate the solubility of gypsum as a
+function of NaCl concentration in the system CaSO4-NaCl-H2O at 25~C.
+
+At present, EQ3/6 contains two alternate Pitzer coefficient data bases.
+The first, drawn largely from sources other than solublity data (largely
+Ref. 10), contains sufficient species to account for acid-base equilib-
+ria, but does not include any ion-pairs as component species. The
+second is taken from a source (11) which has been partially optimized to

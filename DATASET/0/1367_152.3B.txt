@@ -1,0 +1,51 @@
+VIII-4                                             DOE 6430.1
+                                                   12-12-83
+        requirements for several circuits and connections in a rela-
+        tively small area or where service reliability is a prime 
+        consideration, cable in duct shall be used. Underground duct 
+        envelopes should be color-coded to facilitate identification, 
+        and electrical manholes shall be appropriately labeled.
+
+    (b) Direct buried cable should be used for single circuit 
+        installations through areas not likely to be disturbed by 
+        excavation and where service reliability is not of critical 
+        importance. Where the hazards exist, direct burial cable shall 
+        be protected from damage from burrowing animals by the use of 
+        cable with steel armor, or cables shall otherwise be installed 
+        in duct. Where direct burial cables are connected to above-
+        surface junction or terminating boxes, they shall be encased in 
+        rigid steel conduit from the box to below ground level. Protec-
+        tive treated planks or precast reinforced concrete slabs should 
+        be placed above direct-buried cables. See Chapter I of this 
+        Order for additional criteria on underground services.
+
+(5) Circuits, either overhead or underground, shall be arranged so 
+    that relatively unimportant circuits will not jeopardize important 
+    loads. Protective devices shall be provided and coordinated for 
+    sequential operation from the load to the source. However, the use 
+    of unnecessarily elaborate protection schemes shall be avoided.
+
+(6) Industry "Preferred Standard" voltages shall be used, with a single 
+    voltage in any classification in order to minimize stocks of spare 
+    equipment required and to standardize operating and maintenance 
+    practices and procedures.
+
+b. Switching Stations and Substations.
+
+(1) Design shall be in accordance with established utility industry 
+    practices. When switching is the main function, circuit routings will 
+    dictate the station location. When transformation is the main func-
+    tion, the substations shall be located so that the lengths of second-
+    ary feederlines are kept to a practical minimum. Stations should 
+    generally be utilitarian in their design and construction. However, 
+    when necessary to conform with local beautification programs, 
+    consideration should be given to the use of low-profile switching 
+    station and substation structures and the provision of visual barriers 
+    at the perimeters.
+
+(2) Where not otherwise provided for billing purposes by a supplying 
+    utility company, electric energy metering (kWH metering) should be 
+    provided at each substation of 500 kVA or larger capacity. In 
+    addition, when not required by the utility company, demand metering 
+    (kW metering) may also be provided for site or area load management 
+    purposes.

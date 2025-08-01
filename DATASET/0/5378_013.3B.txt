@@ -1,0 +1,37 @@
+are taken to be two-thirds the horizontals for DE-2 and DE-1, modeled as 
+near-regional events, and equal to the horizontal for the PCE, modeled as a 
+near-field event. Subsurface amplitudes at repository depth are provision-
+ally taken to be half those at the surface.
+
+UNE Ground Motion 
+
+A UNE occurrence model was established from historic NTS testing prior to 
+the Threshold Test Ban Treaty and the foregoing accelerated test schedule. 
+Testing was assumed to occur in the Buckboard Mesa area located north of 
+the site, an area as yet unused for UNE detonations. Assumed yield limits 
+were those established on the basis of off-site damage potential. While 
+current testing under the Threshold Test Ban Treaty produces negligible 
+ground motion hazard at the site, significant hazard is calculated for the 
+hypothetical occurrence model, based on an expansion of testing in terms of 
+geography and yield. The principal hazard stems from postulated testing in 
+the Buckboard Mesa area, which has a yield limit of 700 kt. Yucca Mountain 
+recordings of Pahute Mesa UNE events were analyzed to determine site-
+specific adjustments to attenuation functions obtained by Vortman (1984a).
+
+Peak horizontal accelerations for DUNE-2 and DUNE-1 were determined to be 
+0.125 g and 0.15 g, respectively, and accelerations for the vertical compo-
+nent were 0.15 g and 0.18 g. It is the nature of UNE-generated ground 
+motion that peak vertical accelerations are greater than peak horizontal 
+accelerations at the distances being considered here. UNE response spec-
+tral shapes were obtained from statistical analysis of Yucca Mountain 
+recordings of Pahute Mesa UNE events scaled to a yield of 700 kt. The 700-
+kt spectral shapes were developed in lieu of UNE uniform-hazard spectra, 
+for which requisite attenuation functions are not available. Both horizon-
+tal and vertical components of subsurface ground motions recorded at repos-
+itory depth at Yucca Mountain are significantly less than surface motions 
+for frequencies from 1 Hz to the data band limit of 25 Hz. In the case of 
+horizontal components, the subsurface ground motions are also less for fre-
+quencies less than 1 Hz. Pending the development of a satisfactory model 
+for the surface and downhole data, it is recommended that subsurface mo-
+tions be taken as half those at the surface for interim design purposes.
+- xi -

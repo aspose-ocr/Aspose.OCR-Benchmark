@@ -1,0 +1,51 @@
+driven by a 150 HP electric motor with belt drive. The pump produces a
+dry vacuum of 12 in. of mercury at 2,400 cfm, at 1,400 rpm. Immediately 
+ahead of the blower and located in the same skid is a secondary filter 
+unit. This serves the dual purpose of polishing the already filtered air 
+and acts as a safety filter in case a cartridge in the primary unit 
+ruptures. This final system protects the blowers and assures that 
+discharge air is respirable. Actually, the primary filter unit alone is 
+probably efficient enough to assure that the discharged air is of 
+respirable quality.
+
+The secondary filter employs the same type of cartridges as in the primary 
+unit, but a purging system is not used. Since little dust should be 
+collected, removal is effected manually, after opening a cover plate.
+
+A water injection unit, which is located just ahead of the pump intake, 
+can be used if necessary to decrease the internal leakage of the pump and 
+thus increase the working vacuum. The vacuum pump unit discharges into a 
+plenum chamber and then to atmosphere via an air silencer unit.
+
+3.5 Liner, Ref. Drawing D36514
+
+The liner is an 8 ft. long pipe section (reference Figure 7). As a
+structure, it must withstand the maximum thrust and torque reaction loads 
+without buckling or compression failure. An analysis (Attachment 4) 
+showed that either a .38 in. thick wall in 52 ksi material or .5 in. wall 
+in 35 ksi material would be suitable.
+
+The ends of each pipe section are bevelled to permit a full penetration 
+weld. Because a shallow angle is desirable at the jacking collar to avoid 
+excessive wedge loads while providing sufficient opening at the joint for 
+root penetration, the bevels at each end are at different angles. 
+Tentatively, a 45~ angle is shown in front and 15~ at the rear, or thrust 
+end, of the liner pipe. The selection of the exact angles should be 
+determined in conjunction with the automatic welding machine manufacturer.
+
+The manufacturing tolerances on the straightness of pipe, ovality, and 
+squareness of the ends must be held to tolerances tighter than generally 
+held on commercial tubing. Alternately, weld preparation on the pipe ends 
+could include sizing or counterboring. Each liner section joint must be 
+carefully aligned to avoid hang up of the liner in the bore or hang up of 
+system units on misalignment ridges inside the liner.
+
+3.6 Derrick Power Unit, Ref. Drawing D35925
+
+The power unit (Pack B shown in Figure 7) provides the hydraulic supply 
+for the derrick and crawler functions. A double-ended electric motor 
+drives two variable displacement pumps. The largest pump has 72 gpm 
+capacity and, at maximum stroke, will supply low-pressure fluid for 
+rapidly traversing the derrick and for driving the crawler. The pump has 
+a horsepower limit control which, when sensing increased pressure, will
+35

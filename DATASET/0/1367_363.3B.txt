@@ -1,0 +1,48 @@
+DOE 6430.1
+
+
+12-12-83
+
+
+XXVI-33 (and XXVI-34)
+
+
+b. Poles.
+
+   (1)	The length and class of pole to be used shall be determined on
+	the basis or required antenna height, depth of pole setting ( for
+	guidance, see Department of the Army Technical Manual TM 11-485-5),
+	and the transverse load under maximum wind, snow, and ice loadings
+	when supporting the ultimate weight of antenna(s) and equipment. The
+	class of pole shall be determined by translating this maximum trans-
+	verse load to an equivalent resistive moment based on loading 2 feet
+	below pole top. Guys shall be installed, if necessary, for increased
+	strength or margin of safety.
+
+   (2)	Physical clearances, safety features, and grounding requirements
+	shall be in accordance with the criteria described herein for
+	towers.
+
+c. Masts.
+
+   (1)	Masts shall be designed in accordance with the criteria described
+	herein for towers and poles, as applicable.
+
+   (2)	Masts shall be mounted in a manner to permit installation,
+	maintenance, and removal of antennas and fittings without undue
+	hazard. Whenever practicable, masts should be so mounted as to
+	permit lowering or tilting for maintenance.
+
+   (3)	Reference drawings and specifications for a typical antenna mast
+	suitable for supporting a VHF or UHF (of various types) and
+	with mounting details are available on request from the Headquarters'
+	Office of Computer Services and Telecommunications Management.
+
+d. Hardened Antenna Facilities. Reference drawings and specifications for
+   underground, hardened, and remotely controlled telescoping ("pushup")
+   antenna structures and facilities for high frequency (HF) applications
+   are available on request from the Headquarters' Office of Computer
+   Services and Telecommunications Management.
+
+
+*U.S. GOVERNMENT PRINTING OFFICE:  1984-0-421-060/150

@@ -1,0 +1,24 @@
+                                SORPTION
+
+      RESTRICTION OF NUCLIDE MIGRATION IS PROVIDED BY SORPTION AND
+THE SORPTIVE PROPERTIES OF THE HOST ROCK/BACKFILL WILL NOT BE DEGRADED BY
+            HEAT PRODUCED BY THE WASTE MATERIAL. (SCR, 1982)
+
+                  THERE IS CONSIDERABLE UNCERTAINTY IN:
+
+                      O  SOURCE TERM
+                      O  CHEMICAL SPECIATION
+                      O  REDOX CONDITIONS
+                      O  USE OF HYDRAZINE
+                      O  HOST-ROCK ALONG FLOW PATH
+                      O  USE OF SORPTION DATA
+
+             
+                   DOE SHOULD CONSIDER THE FOLLOWING:
+
+                      O  USE OF REPRESENTATIVE HOST-ROCK MATERIALS
+                      O  DETERMINE SORPTION ISOTHERMS
+                      O  CONTROL OF REDOX CONDITIONS
+                      O  DETERMINE EFFECTS OF SPECIATION
+                      O  PUBLISH FOR PEER REVIEW
+

@@ -1,0 +1,45 @@
+C.	Personnel shall be selected, trained, and indoctrinated
+	in accordance with subsection 5.2.10.
+
+D.	Copies of process requirements, procedures or instruc-
+	tions, and documentation of personnel qualifications
+	shall be collected and maintained as quality records.
+
+5.2.7 Product Certification
+
+	The waste form producers are to develop and provide for
+	retention, the records necessary to provide evidence of the
+	acceptability of the canister and waste form which includes
+	the canistered waste form. The WCP and/or WQR are to identify
+	the types of records that will be developed during the waste
+	form production process. The WQR is to identify the quality
+	records required to be a permanent part of the overall
+	canistered waste form product certification package. These
+	documents are to be identified, collected, managed and deliv-
+	ered in accordance with the requirements of subsection
+	5.2.12.
+
+5.2.8 Readiness Review
+
+	Readiness reviews are to be planned, scheduled and conducted
+	at significant transitional events in Waste Acceptance Process
+	Activities leading up to and during high-level waste form pro-
+	duction to assure that all necessary activities and actions
+	have been satisfactorily completed before subsequent activity
+	initiation is authorized. Readiness reviews shall be per-
+	formed in accordance with DOE Guidelines for Application of
+	Readiness Reviews to Department of Energy Activities, dated
+	January, 1987.
+
+5.2.9 Selective Application of Program Activities (Quality Levels)
+
+	A systematic method by which quality assurance activities are
+	selected and applied to Waste Acceptance Process Activities of
+	high-level waste form production is to be established and
+	implemented.
+
+	The selective application method implemented shall be
+	described in the WCP.
+
+
+- 13 -

@@ -1,0 +1,38 @@
+SUMMARY 
+The U.S. Department of Energy, Nevada Operations Office, is currently
+directing a program to determine whether a nuclear waste storage repository
+can be established at the Nevada Test Site.  A part of this effort requires
+the development of appropriate seismic design criteria.  These criteria,
+which are intended to be generic in nature and applicable to any site, will
+provide standards and guides for an engineering design that will mitigate
+the effects of earthquake shaking and underground nuclear explosions.
+
+This report summarizes the considerations for developing seismic design
+criteria for repositories as of September 1979.  Its purpose is to determine 
+what research is necessary to develop acceptable seismic design criteria.
+
+Repository Design Concept 
+
+A conceptual design was assumed for a prototype waste repository that would
+be adaptable to a variety of sites with different geologic conditions.  The
+facility consists of a large number of excavated storage rooms and intercon-
+necting tunnels located two or more thousand feet below the ground surface.  
+Receiving and handling facilities for canisters that contain waste or spent 
+fuel are located on the surface.  Vertical shafts connect the surface- 
+receiving facilities to the underground facility, where the waste canisters 
+are delivered to a transporter vehicle that moves the canisters to their 
+final storage location.  There, the canisters are emplaced into holes in the 
+floor or walls of the underground storage rooms.  The holes are then back-
+filled and plugged for radiation shielding.
+
+Typical Support Systems for Underground Excavations 
+
+It was assumed that two types of rock support systems may be used in a
+repository: (1) rock bolt system and (2) steel set system.  A rock bolt
+system is preferred on the basis of cost and design considerations.  A steel 
+set system is useful in poorer rocks that require heavy support.  From the 
+point of view of engineering design and cost, it is preferable to excavate 
+a repository in ground that requires minimal reinforcement and support.  
+Current underground support system philosophy is to use support systems 
+that make maximum use of the inherent strength of the rock mass itself.
+- vii -

@@ -1,0 +1,54 @@
+5. REFERENCES
+
+Bateman, H., 1910, "The Solution of a System of Differential Equations
+Occurring in the Theory of Radioactive Transformations," Proc. Cambridge Phil.
+Soc., 15, pp. 423-427.
+
+Burkholder, H. C., 1976, "Methods and Data for Predicting Nuclide Migration in
+Geologic Media, Proc. Intern. Symp. Management of Wastes from LWR Fuel Cycle,
+CONF-76-0701, pp. 658-666, Oak Ridge National Laboratory, Oak Ridge, TN.
+
+Chambr~~, P. L., T. H. Pigford, A. Fujita, T. Kanki, A. Kobayashi, H. Lung, D.
+Ting, Y. Sato, and S. J. Zavosky, October 1982, "Analytical Performance Models
+for Geologic Repositories," Rpt. LBL-14842, Lawrence Berkeley Laboratory,
+Berkeley, CA.
+
+Daniels, W. R., et al., 1982, "Summary Report on the Geochemistry of Yucca
+Mountain and Environs," Rpt. LA 9328-MS, 364 pp., Los Alamos National
+Laboratory, Los Alamos, NM.
+
+Daniels, W. R., et al., 1983, "Research and Development Related to the Nevada
+Nuclear Waste Storage Investigations July 1 - September 30, 1983," Rpt.
+LA-9755-PR, Los Alamos National Laboratory, Los Alamos, NM.
+
+DOE (U.S. Department of Energy), 1979, "Technology for Commercial Radioactive
+Waste Management," Rpt. DOE/ET-0028, Vol. 1, U.S. Department of Energy,
+Washington D.C.
+
+DOE (U.S. Department of Energy), 1984, "Draft Environmental Assessment, Yucca
+Mountain Site, Nevada Research and Development Area, Nevada, DOE/RW-0012, U.S.
+Department of Energy, Washington D.C.
+
+EPA (U.S. Environmental Protection Agency), April 17, 1984, "Environmental
+Radiation Protection Standards for Management and Disposal of Spent Nuclear
+Fuel, High-Level and Transuranic Radioactive Wastes," Proposed Rule 40 CFR
+191, Working Draft 4, 21 pp., U.S. Environmental Protection Agency, Washington
+D.C.
+
+Freeze, R. A. and J. A. Cherry, 1973, Groundwater, 604 pp., Prentice-Hall,
+Englewood Cliffs, NJ.
+
+Harada, M., P. L. Cambr~~, M. Foglia, K. Higashi, F. Iwamoto, D. Leung, T. H.
+Pigford and D. Ting, February 1980, "Migration of Radionuclides Through
+Sorbing Media Analytical Solutions-I," Rpt. LBL-10500, Lawrence Berkeley
+Laboratory, Berkeley, CA.
+
+Kajiwara, S., 1985, "Comparison of Calculation Results Among Different
+UCB NE-10 Codes," Lawrence Berkeley Laboratory, Berkeley, CA.
+
+National Research Council, 1983, "A Study of the Isolation System for Geologic
+Disposal of Radioactive Wastes," 345 pp., Waste Isolation Systems Panel (T. H.
+Pigford, Chm.), National Academy Press, Washington D.C.
+
+
+-34-

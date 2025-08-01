@@ -1,0 +1,58 @@
+CONSULTATION DRAFT
+
+
+the percolation of precipitation into the unsaturated zone. The chlorine-36
+in the unsaturated zone occurs from atmospheric fallout of chlorine-36
+produced by cosmic-ray secondaries reacting with argon-40 and, to a lesser
+extent, with argon-36 and as global fallout from high-yield nuclear weapons
+tests conducted at the Pacific Proving Grounds between 1952 and 1963. When
+chloride ions at the surface are washed underground by precipitation, the
+radioactive decay of the chlorine-36 in the chloride can be used to time the
+rate of water movement. The chlorine-36 half-life of 301,000 yr permits the
+detection of water movement in the range of approximately 50,000 to 2 million
+years. These data are part of the input for developing numerical models of
+ground-water flow at this site.
+
+  Measurements of technetium-99, when combined with some of the chlorine
+isotopic distributions, will provide data about the in situ sorption
+characteristics of technetium. The in situ data will be correlated with
+laboratory measurements of technetium sorption to help assess the reliability
+of using sorption data from laboratory experiments in modeling radionuclide
+transport under field conditions.
+
+8.3.1.2.2.2.1  Activity: Chloride and chlorine-36 measurements of
+	       percolation at Yucca Mountain
+
+Objectives
+
+  The purpose of this activity is to help quantify the amount of percola-
+tion from precipitation into the unsaturated zone at Yucca Mountain. The
+data will be used as part of the input to characterize the movement of water
+through the unsaturated zone at Yucca Mountain.
+
+Parameters
+
+	Data needed is for the following parameters:
+
+	1. Precipitation measurements.
+	2. Dry chloride fallout.
+	3. Fracture morphology in Paintbrush Tuff.
+	4. Site hydrology and hydrochemistry.
+
+	Data has been gathered for the following parameters:
+
+	1. Depth of each sample from the surface.
+	2. Chloride in soil and tuff samples.
+	3. Chlorine-36 to chlorine ratios in soil and tuff samples.
+	4. Chlorine-35 to chlorine-37 ratios in soil and tuff samples.
+
+Description
+
+	Previous work in this subactivity has resulted in the measurement of
+chlorine-36 as a function of depth in soils from two locations at Yucca
+Mountain. The data permitted the calculation of infiltration during the past
+quarter century at one location, trench YW-6. The small quantity of chlor-
+ine-36 observed at the second location, the exploratory shaft site in Coyote
+
+
+8.3.1.2-137

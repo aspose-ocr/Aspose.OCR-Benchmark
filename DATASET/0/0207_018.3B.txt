@@ -1,0 +1,51 @@
+CONSULTATION DRAFT
+physical, and nuclear properties are being quantified and evaluated for their 
+effects on the long-term performance of the waste package and the repository. 
+The research and development accomplished to date are described in Sec-
+tion 7.4; future plans for work associated with quantification and evaluation 
+of these interactions are outlined in Sections 8.3.4, 8.3.5.9, and 8.3.5.10.
+
+7.2.1.3.2 Technical feasibility
+
+	A waste package design requirement derives from the preclosure siting 
+guidelines (10 CFR 960.5-1(a)(3)).  This guideline requires that the reposi-
+tory (and therefore the waste packages produced and emplaced therein) shall 
+be demonstrated to be technically feasible on the basis of reasonably avail-
+able technology and that the associated costs be reasonable.  The specific 
+criteria that follow from these requirements are
+
+1.	Processes specified for the fabrication, assembly, closure, and 
+	inspection of waste packages shall be based on reasonably available 
+	technology.  These processes need not be reduced to commercial 
+	practice in all applicable details but shall not require significant 
+	extensions of the technology.
+
+2.	Waste package designs shall not impose requirements on the reposi-
+	tory packaging, handling, and emplacement facilities, equipment, or 
+	operations that are beyond reasonably available technology.
+
+3.	In evaluation of design concepts, materials, and process alterna-
+	tives, consideration shall be given to cost effectiveness.  This 
+	consideration shall be secondary to realization of designs that will 
+	be technically conservative and meet the regulatory performance 
+	objectives.
+
+7.2.1.3.3 Waste form temperature limitation criteria
+
+	Maximum temperature of the waste forms must be maintained below limits 
+established for them.  These limits are 500~C for West Valley (WV) and 
+Defense High-Level Waste (DHLW) glass and 350~C for spent fuel cladding.  
+These values are considered conservative for the following reasons.  For 
+spent fuel, the spent fuel storage program report (Einziger, 1986) indicates 
+a 380~C temperature limit for the cladding.  A more conservative value of 
+350~C has been selected to account for uncertainties in source character-
+istics as well as heat transfer calculations.  For the glass waste forms, the 
+NNWSI Project has the responsibility to maintain the peak temperature below 
+the transition temperature.  The NNWSI Project has established a 500~C 
+temperature limitation for this reason.
+
+	These limitations have been established by the NNWSI Project to reduce 
+the potential for degradation of the waste forms.  The limit for high-level 
+waste glass has been determined to prevent devitrification, which might 
+degrade the properties that are important in limiting radionuclide release.
+7-16

@@ -1,0 +1,44 @@
+8.3.1.15.1.7.2 Activity: Rock-mass response experiment
+Objectives
+The objective of this activity is to evaluate the mechanical behavior of
+the rock mass or its components. Experiments will be performed to obtain
+information with regards to the mechanical response of single joints and
+multiply jointed volumes of rock. It is envisaged that this experiment will
+be conducted in several areas that are representative of the range of condi-
+tions encountered in the exploratory shaft facility (ESF). The information
+will be used to evaluate potential scale effects between laboratory and in
+situ conditions, to provide data to evaluate empirical design criteria, and
+to provide data to evaluate and validate jointed-rock models.
+Parameters
+The following parameters will be obtained during this experiment: joint
+characteristics (including joint shear strength, joint wall compressive
+strength, and joint roughness coefficient), joint normal and joint shear
+deformation response, and rock mass deformation modulus.
+
+Description
+
+Rock-mass response experiments will be conducted in several areas of the
+ESF. These areas have not yet been determined, but they will be chosen to be
+representative of the range of geologic conditions expected in the reposi-
+tory. Joint shear response will be measured on individual joints of a size
+of 70 by 70 cm as suggested in the International Society of Rock Mechanics
+Suggested Methods (ISRM, 1981). The shear response experiments will provide
+data on the in situ joint shear strength as well as the normal and shear
+displacement response on in situ joints. This information will be used to
+evaluate jointed-rock models. The rock-mass response portion of this experi-
+ment will measure the uniaxial load-bearing capacity of large blocks (up to 1
+by 1 by 2 m) of rock that include multiple joints. This will provide data on
+the behavior of multiple joints to compressive loads and will be used to
+evaluate jointed-rock models and to evaluate empirical rock-mass strength
+relationships such as those developed by Hoek and Brown (1980). The rock-
+mass response portion of this experiment will be similar to other large-scale
+in situ compression tests (Jahns, 1966; Bieniawski, 1968; Pratt et al., 1972;
+Wagner, 1975). The block of rock will be cut using hydraulic chain saws
+(Zimmerman et al., 1987) and the compressive loads will be applied through
+high-pressure flatjacks being developed at Sandia National Laboratories.
+
+Methods and technical procedures
+
+The methods and technical procedures for Activity 8.3.1.15.1.7.2 are
+given in the following table.
+8.3.1.15-68

@@ -1,0 +1,55 @@
+Vine and others (1981) speculated that the formation of sulfate
+radiocolloids might explain the behavior of europium and cerium
+in these experiments. In general, cesium and strontium have
+higher Rd values in solutions with lower pH and ionic
+strength, whereas the behavior of barium depends both on
+solution composition and sample mineralogy.
+
+Q.1.3 Effect of Particle Size
+
+  The data in Table Q-3 demonstrate the effect of particle
+size on Rd values for several size fractions of nonzeoli-
+tized tuffs (G1-2363, G1-1893) and zeolitized tuffs (G1-2289
+and YM-38). Data in Table Q-1 illustrate the combined effects
+of solution:solid ratio and particle size on the Rd values
+for sample YM-38. The available data (Wolfsberg and others,
+1982a) suggest that for zeolitized tuffs particle size has no
+systematic effect on Rd values. For nonzeolitized samples,
+sorption ratio for the <38 ~m size fraction are 2 to 4 times
+higher than those of the larger sizes. X-ray diffraction
+studies of these samples showed very little difference in the
+mineralogy of the different size fractions. At present, no
+satisfactory explanation for the contrasting behavior of the
+zeolitized and nonzeolitized tuffs is available.
+
+Q.1.4 Effect of Mineralogy on Rd Values
+
+  Ranges of Rd for 12 radionuclides and 6 chemical homo-
+logs are summarized for the three dominant tuff lithologies in
+Table 2-16. Rd values for several other lithologies are
+presented in Table Q-4. These data should be used with cau-
+tion for two reasons: 1) they are based on few measurements
+and 2) some of the data represent early sorption studies and
+may be superseded by more recent unpublished determinations.
+
+Q.1.5 Effect of Temperature
+
+  The data in Table Q-5 illustrate the effect of tempera-
+ture on sorption and desorption ratios. Rd values at 70~C
+for strontium, barium, cerium, europium, and cesium are gener-
+ally 2-5 times higher than values at 22~C. Americium has
+higher sorption ratios at lower temperatures for the majority
+of its experiments.
+
+Q.1.6 Effect of Redox Potential
+
+  Ranges of Rd values in oxidizing and reducing atmo-
+spheres can be compared in Tables Q-5, 2-16 and 2-17. Gener-
+ally, Rd values for technetium, plutonium, and neptunium are
+higher in the controlled atmosphere (nitrogen atmosphere,
+(O2) ~~ 0.2 ppm, (CO2) ~~ 20 ppm) than under ambient atmo-
+spheric conditions (Wolfsberg and others, 1981, 1982a). Rd
+values for uranium for zeolitized tuff are higher in the con-
+trolled atmosphere. Barium, cesium, and europium sorption
+ratios are higher under atmospheric conditions.
+-300-

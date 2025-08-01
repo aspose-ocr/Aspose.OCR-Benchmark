@@ -1,0 +1,29 @@
+3.3 Average Annual Operating Cost Methodology
+
+The operating costs of permanently installed equipment and facilities
+including hoists, conveyances, and conveyors have been estimated. These 
+costs include labor, materials, and equipment for maintenance and 
+operations. The estimates have been prepared on a cost-per-operating-day 
+basis. Only the direct costs have been considered; overhead costs (such as 
+staff supervision and accounting) are not included. The detailed operating 
+cost estimates on a daily basis for each case studied are presented in 
+Tables 3.14 to 3.22.
+
+Categories of directly associated operating costs were determined for each 
+case to make the estimates comparable. These categories include hoist 
+operations, inspection and maintenance, work force travel time, supply 
+transport, and conveyor operations. Each of these cost catagories was 
+subdivided into the functional areas of labor, supplies, and equipment 
+operation; then a separate estimate was prepared for each detailed area. 
+The estimating procedure is as follows:
+
+Labor--The operating and maintenance personnel requirements were determined 
+on a daily basis for each operating cost area for each case. These manpower 
+requirements were based on Dravo experience for that particular operating 
+cost category.
+
+Labor rates were obtained from Reference 1. These labor rates are based on 
+contractors' union rates currently being paid at the Nevada Test Site. 
+Forty percent was added to the base rate for fringe benefits, including 
+vacation, sick leave, insurance costs, and workmen's compensation.
+-46-

@@ -1,0 +1,38 @@
+solenoid valves in the control system.  The switch module also contains the 
+power supply necessary to operate the solenoids.
+   The unit that controls the motor speed also controls the direction and 
+speed of the confining pressure intensifier.  The unit can be operated locally 
+or automatically by the computer.  Two channels of the valve-switch module are 
+used by the computer to control the direction and time that the intensifier is 
+actuated.
+   An analog temperature controller is used to control band heaters mounted 
+on the pressure vessel.  Feedback is obtained from platinum RTD temperature 
+sensors, and their values are acquired by the computer for postprocessing.
+   Software for the system is stored on a separate floppy disk.  A flow 
+diagram of the control and data acquisition program is shown in Fig. 6, and a 
+Fortran listing is provided in the Appendix.
+
+E. Results of Preliminary Experiments
+  A few room-temperature, uniaxial creep tests were performed primarily to 
+check out the operation of the differential stress system and the computer 
+control and data acquisition programs.  We selected samples of Grouse Canyon 
+welded tuff from G-tunnel that were reputed to be from the same block tested 
+by Olsson and Jones5 of Sandia National Laboratories (SNL).  According to the 
+SNL data, this tuff should have a uniaxial compressive strength of 180 MPa.  
+Consequently, the first test was planned for a differential stress of 100 MPa 
+and ambient confining pressure and temperature.  Under these conditions, creep 
+deformation lasting at least 6 weeks was anticipated.  However, the sample 
+failed catastrophically as soon as the stress was applied.
+   Before a second test on this tuff, some uniaxial, constant-displacement-
+rate tests were performed to verify the expected failure strength.  At a 
+strain rate of about 10-4 s-1, samples with diameters of 1.25 and 2.5 cm 
+failed at stresses ranging from 65 to 180 MPa (Fig. 7).  The weakest sample 
+contained a fragment of pumice that apparently also acted as a weak zone in 
+the 5.4-cm-diam creep test sample.  Consequently, the sample selected for the 
+second creep test did not contain any pumice fragments visible at the surface.
+   In the second test, a differential stress of 75 MPa was applied and held 
+for 5 days (Fig. 8).  The load control system worked well.  Some minor prob-
+lems in the data acquisition systems were identified and subsequently cor-
+rected.  As can be seen in Fig. 8, there was a very low rate of creep in the 
+axial direction.  In the last few days of the test, the average strain rate
+11

@@ -1,0 +1,28 @@
+APPENDIX A
+Description of the Theoretical Basis
+for Transport Calculations
+
+
+  A repository contains M(t) metric tons of heavy metal radioactive waste in
+a planar horizon distributed over an area expressed in square meters. The
+repository is assumed to be a height, H, in meters above the water table. The
+volume of groundwater moving vertically downward through a unit area at the
+repository horizon per unit time is called the flux and is assumed to be a
+parameter, F, given in meters per year. Flow in the unsaturated zone is
+assumed to obey Darcy's law. The boundary of the accessible environment is
+assumed to occur in the saturated zone a distance 2 to 10 km downgradient from
+eastern edge of repository. Water flow time through the saturated zone is
+treated as a constant, TS.
+
+A.1 Water Flow
+
+  Let j, a subscript, identify two components of the medium (porous matrix
+and fractures) with j=1 denoting the matrix and j=2 denoting the fractures.
+Darcy's law for flow in both the matrix and fractures is expressed by
+
+
+where hj is hydraulic head, ~~~~~~ is the hydraulic gradient, Kj is the
+hydraulic conductivity, and Fj is called Darcy velocity or Darcy
+
+
+61

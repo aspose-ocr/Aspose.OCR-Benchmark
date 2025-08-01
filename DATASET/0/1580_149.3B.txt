@@ -1,0 +1,33 @@
+Equation 3.5.7 is actually made up of three subfunctions for the shear
+modulus, yield stress, and a post-yield flow rule. All functions can be
+expressed in one of several standard forms including constant values,
+polynomial, exponential, and trigonometric forms, as defined by the
+user.
+
+For a thermal-mechanical fully coupled analysis, which is a capability
+of STEALTH, Equation 3.5.4 is expanded to:
+
+
+where
+
+
+Numerical Approximations - Lagrange explicit finite-difference equations
+are used to solve separate meshes, a displacement mesh and a stress
+mesh. The displacement mesh is made up of grid points that define geo-
+metric quantities such as shapes, interfaces, and boundaries. Conserva-
+tion of momentum is used in the displacement mesh to solve for accelera-
+tion, velocity, and position at specific points in the mesh. The stress
+is evaluated in zones. Scalars and tensors such as stress, internal
+energy, and pressure are evaluated as averages over zone volumes and
+surface areas using conservation of energy along with constitutive equations.
+
+The most significant numerical approximation associated with an explicit
+finite-difference scheme is the discretization of time and space.
+
+Probabilistic and Statistical Aspects - None.
+
+Assumptions and Simplifications - The principal simplification is the
+reduction of the differential equations for momentum, mass, and energy
+
+
+141

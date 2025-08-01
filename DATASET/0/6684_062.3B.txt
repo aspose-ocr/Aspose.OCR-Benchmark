@@ -1,0 +1,51 @@
+						57
+
+
+vicinity of Shay graben and the Lockhart basin in Section 3.2.5.1.  The final
+EA also contains a new discussion on jointing (Section 3.2.5.7).  The data
+presented are based largely on air photo analysis and, as the final EA states,
+"air photo analysis does not provide adequate information to evaluate the age
+of jointing, its sequence, or its vertical continuity" (page 3-79).  Given
+these limitations, the NRC staff considers that reliance on air photo analysis
+as partial support for the observation that "there is no evidence at the
+surface or in well logs of two boreholes located at the crest of the (Gibson)
+dome that joints have acted as conduits for groundwater to reach the salt,
+causing dissolution" (page 3-73) does not reflect the uncertainty or the data
+base.
+
+The third concern expressed by NRC involved the apparent lack of recognition of
+the Imperial fault zone and northwest-trending structures in the area of
+Chesler Canyon, and the lack of an evaluation of these features with respect to
+the tectonic regime.  As suggested in the NRC comment 1 on the draft EA, the
+final EA addressed the following structural features:  the Meander anticline
+(Section 3.2.5.5), the Needles fault zone (Section 3.2.5.1), the
+north-northwest-trending salt anticlines and smaller parallel structures
+including Gibson dome, Rustler dome, and the Indian Creek syncline (Section
+3.2.5.5), the valley anticlines (Section 3.2.5.4), the northwest-trending
+faults that run parallel to or within the core of salt anticlines (Section
+3.2.5.1) and the northeast-trending faults (Section 3.2.5.1).  Regarding the
+Imperial Fault zone and Chesler Canyon, however, the NRC staff was not able to
+locate any discussion of these features in the final EA.  The Imperial Fault
+zone may be of special significance because the swarm of microearthquakes
+recently observed southwest of the site, and referred to above, is located at
+the eastern extension of this zone, thus suggesting the possibility of recent
+fault movement in this zone.
+
+
+Comment 2
+
+Dissolution - (Draft EA Major Comment 2)
+
+Guideline on Dissolution 10CFR960.4-2-6 (a) and (b)
+
+In the NRC staff major comments on the draft EA for Davis Canyon, NRC raised
+the following concerns related to dissolution:
+
+	1)  ~~~~~ed seismic reflection coverage coupled with discontinuous salt
+	    reflector data in the site vicinity;
+	2)  ~ossibi~~ty tha~ faul~in~ has disrupted the evaporite sequence
+	    ~ringing the water-bearing Mississippian strata ~n contact with
+	    ~~e sa~~ sequence;
+	3)  aeromagnetic anomalies coincident with anoma~ous areas on ~~~~~~~otos
+	    and Landsat imagery near fault R and near Lavender Canyon;
+	4)  data not presented on ~~~~ts and ~ra~~ures ~~~~~ could provide

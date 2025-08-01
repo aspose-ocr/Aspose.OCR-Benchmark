@@ -1,0 +1,40 @@
+of water of hydration varies from 4 to 10. Chen's method predicts no effect
+for log10 K, but the modified Tardy and Garrels' method and Nriagu's method
+predict opposite effects.
+
+	e. Discussion of Estimated Data. The estimated values of ~G~f for the
+three zeolites (clinoptilolite, heulandite, and mordenite) are in relatively
+good agreement. There is less than 1% difference between the results from the
+modified Tardy and Garrel's method, Nriagu's method, and Chen's method
+(Table LXVIII). In most cases, Nriagu's and Chen's methods agree within 0.1%.
+However, in terms of log10 K for the aqueous reaction, large relative differences
+exist (Table LXIX). The only gauges of accuracy for these estimates are the
+comparisons for analcime, wairakite, and laumontite. Even these comparisons
+may not carry much weight because the silicon/aluminum ratio and water of
+hydration for clinoptilolite, heulandite, and mordenite are generally quite
+different than for analcime, wairakite, and laumontite. Any inherent errors
+in the methods that are associated with these variables could lead to inaccurate
+estimates.
+	Another problem with these methods is that they estimate the same free
+energy for polymorphs. Wairakite and laumontite have different structures, as
+well as having a different number of waters of hydration.83 The only difference
+in the ~G~f or log10 K estimates, however, is from the water of hydration.
+The difference in the experimental values of log10 K of wairakite and laumontite
+is ~4; Chen's method shows no difference in the estimates of the two values,
+and Nriagu's method shows only ~0.5. Another method of estimating ~G~f,
+developed by Slaughter, can account for the structure of the mineral, but at
+the expense of considerable complexity in the calculations.93-95
+	4. Summary and Conclusions. A preliminary search has been conducted for
+free-energy data at 25~C for some of the mineral phases found during exploratory
+drilling at or near Yucca Mountain. Data were found for silica (quartz,
+cristobalite, and amorphous silica), alkali feldspars, some clays, and one
+zeolite (analcime). Data were estimated for three other zeolites (clinoptilo-
+lite, heulandite, and mordenite).
+	When data are available from the SUPCRT compilation,87 they should be
+used because they provide a reliable and internally consistent data set.
+However, there are no data for any clays of interest in SUPCRT and for only
+one zeolite; resorting to estimation techniques to obtain data for three
+zeolites adds uncertainty to those data. Differences in log10 K for aqueous
+
+
+223

@@ -1,0 +1,30 @@
+thick) directly below the HU was changed from 0.74 to 1.50 W/m-~C at t = 0.175
+days and then back to 0.74 at 1.0 day. Thermal conductivities were assumed
+for the crushed tuff for dry and wet conditions. This was a simulation of
+water filling the crushed tuff for this period and changing the thermal
+conductivity from dry to saturated and then back to dry. Heat capacities were
+not changed from the original computer run to simplify the calculations.
+Changing of the heat capacity of the crushed tuff would tend to depress any
+temperature changes further. Figure 8.1.3 shows that the predicted tempera-
+ture at the bottom of the heater dropped significantly during these changes
+and then returned to its original pattern soon afterwards. This pattern is
+very similar to the heater surface measurements shown in Figure 8.1.2. This
+calculation shows that the HU surface temperature was very sensitive to the
+conductivity of the nearby tuff and appears to explain the behavior observed
+in the temperature history analyses.
+
+8.2 Phase I -- Nonwelded Tuff
+
+8.2.1 Objectives of Section
+
+  Section 8.2 provides information and data for the water level sensors for
+the phase I testing  in nonwelded tuff. The objectives of this section are to
+(1) present the measurement details and (2) provide sensor histories.
+
+8.2.2 Measurement Details
+
+  Only the bottom seven water level sensors were activated for this
+experiment. Experience in testing in welded tuff indicated that the sensors
+
+
+8-6

@@ -1,0 +1,36 @@
+2. PHYSICAL ADSORPTION OF GASES BY NON-POROUS SOLIDS 49
+deviation between the two quantities becomes progressively greater till at
+c = 2 the point of inflection is coincident with the origin of the isotherm.
+  When c falls between 1 and 2, the point of inflection actually occurs at a
+negative value of P, and so no longer corresponds to a point on the experi-
+mental isotherm: the isotherm is then no longer of Type II but has become a 
+clear Type III. If c lies between 0 and 1, the value of P at the point of 
+inflection is imaginary; again, the isotherm is of Type III.
+
+2.4 Application of the BET Equation to Type II Isotherms
+
+The form of the BET equation most often applied to experimental data is 
+that given in (2.37), viz.
+According to this, when p/x(p0-p) is plotted against p/p0 a straight line
+should result, with slope s = (c-1)/xmc and intercept i = 1/xmc. Solution
+of the two simultaneous equations immediately gives xm and c:
+  A few representative BET plots of Type II isotherms are given in Figs.
+2.6-2.9. Those in Fig. 2.6 for nitrogen adsorption at -193~C on various
+catalysts, taken from the original paper of Brunauer, Emmett and Teller(2),
+are linear between relative pressures of about 0~05 and 0~35. On extra-
+polation they pass close to the origin (a feature which is typical of nitro-
+gen adsorption on oxides and hydrated oxides) and this indicates a
+relatively large value of c, which is associated with the presence of a distinct
+knee in the adsorption isotherm (p. 57). The isotherms and BET plots in
+Fig. 2.7, obtained by Davis, DeWitt and Emmett(16), illustrate a case
+where c is small (e.g. for n-C4H10, c = 5~4 at 0~ and c = 11~6 at -78~C).
+The isotherm is much more rounded at the low pressure end and corre-
+spondingly the intercept on the p/x(p0-p)-axis is further away from the
+origin; the range of linearity is roughly the same as before, however.
+  Contrary to what had at one time been supposed, the range of validity of
+the BET equation does not always extend to relative pressures as high as
+0~30 or 0~35. In Fig. 2.8 and 2.9 there are examples of BET plots which
+begin to depart from linearity when the relative pressure exceeds 0~1. The
+plots of Fig. 2.8 are taken from the recent work of Isirikyan and Kiselev(17)
+on graphitized carbon black. The range of relative pressures over
+which the BET plots were linear was 0~0003 to 0~09 for N2 at -195~; 0~04

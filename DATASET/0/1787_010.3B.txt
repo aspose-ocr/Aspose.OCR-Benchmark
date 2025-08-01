@@ -1,0 +1,23 @@
+		II. INTRODUCTION
+
+Because light water reactor (LWR) spent fuel cannot be accumulated indefi-
+nitely in reactor or other storage basins, it will eventually become neces-
+sary either to reprocess the fuel or to dispose of it in geologic reposito-
+ries. Engineered barriers will be utilized in geologic repositories to
+prevent interaction of the fuel with the repository environment and, subse-
+quently, transmission through the geology, and possible escape of fission
+products and actinides into the biosphere. It is assumed that the protective
+barriers will eventually fail and air and/or groundwater will contact the
+fuel rods. If the fuel rod cladding is defective or fails, oxidation and/or
+leaching/dissolution of the fuel could release certain long-lived fission
+products and actinides into the repository. To estimate the magnitude of
+these releases, a knowledge of spent fuel characteristics that affect its
+interactions with the waste package and the repository environment is
+required. This information will be used to establish repository acceptance
+criteria, spent fuel handling procedures, and package design requirements.
+
+With these considerations in mind, the present report provides data, where
+available, on the pertinent characteristics of spent LWR fuel.
+
+
+3

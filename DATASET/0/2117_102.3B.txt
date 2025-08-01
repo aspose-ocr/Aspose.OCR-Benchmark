@@ -1,0 +1,53 @@
+90
+
+
+	5.10.4. Evaluation of the Performance of Waste-Package Designs
+
+The present waste-package design studies (Westinghouse Electric
+Corporation 1981, 1982a,b) reflect engineering analysis of the
+mechanical and structural integrity of the waste package when subjected
+to stresses in fabrication, shipping, and emplacement and under the
+thermal, hydraulic, and lithostatic stresses imposed by the heated
+repository. The overpack materials are selected and specified on the
+basis of their ability to resist corrosion for 1,000 years. Radiation
+shielding is also considered.
+  The present design studies apparently do not yet include analyses of
+the ability of the waste package, or of the waste-package and associated
+backfill, to meet some release rate requirement, such as the numerical
+criterion of less than 10-5/yr after 1,000 years that has been
+proposed by NRC. As noted in Chapters 8 and 9, the panel has
+reservations about both the need and the sufficiency of the NRC
+criterion when applied uniformly to all of the radionuclides identified
+as important by EPA and NRC, and the panel has reservations about the
+ability of the present waste-package designs to meet this proposed
+criterion for some of these radionuclides. Comments on the ability of
+backfill to help meet the NRC's proposed release rate criterion appear
+in Section 5.11.4. However, based on the performance analyses in
+Chapter 9 and the assumptions therein, these waste-package designs seem
+adequate to meet the overall performance criterion of 10-4 Sv/yr
+individual dose adopted for the purpose of this study.
+  Regardless of whether or not the NRC's presently proposed release
+rate criterion is adopted, it is important that the performance of the
+waste package and backfill to aid in achieving some overall performance
+criterion of the geologic waste-disposal system be carefully analyzed as
+part of the process of designing the waste package.
+  We do not yet find any substantive analyses of the failure modes of
+the waste packages, including considerations of the local stresses and
+"metalline" corrosion that seem possible when a hot waste package, in an
+initially dry environment, is subjected to the influx of groundwater
+during water intrusion and resaturation after the emplacement region is
+sealed.
+
+	5.10.5. Waste Packages for a Granite Repository in Sweden
+
+A comprehensive study of waste packages for disposal in granite was done
+in Sweden to fulfill the Swedish government's requirement for a
+demonstration of how "absolutely safe" disposal of high-level waste can
+be effected. The designs for spent fuel and reprocessing waste were
+reviewed within Sweden and internationally (National Research Council
+1980) and were found to meet the government's requirements. The
+following description of the package designs is from a summary by
+Ahlstrom (1979).
+  The waste packages were designed for borehole emplacement, with
+waste loading per package less than half that in the U.S. designs. It
+was assumed that the wastes were stored at the surface for 40 years,

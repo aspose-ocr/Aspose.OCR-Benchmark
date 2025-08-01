@@ -1,0 +1,32 @@
+is enough larger than that at the surface that a relatively rapid change
+in acceleration ratio appears to be taking place in the first 60 metres
+of depth. Velocity and displacement ratios (Figures 2-2 and 2-3) are
+only slightly larger than those at the surface. Acceleration peaks are
+usually those in the p-wave, whereas those for displacement are in the
+surface wave. Peaks for velocity can be in either. Scatter in the
+ratios from shot to shot for any station is greatest for acceleration
+and least for displacement.
+
+The surface intercept of the ELS fit to all three parameters is larger
+than 1 because of the rapid change at shallow depth, as noted above.
+It is in order to review station characteristics which account for these
+differences.
+
+Station 10 Prime has both the surface and bottom stations in
+alluvium. The bottom station, at 61m, is well above the alluvium/
+basalt interface at 312 m and the water table at 316 m.
+
+Station 4 is in alluvium throughout the length of the hole. The
+bottom, at 130.5 m, is 333 m above the alluvium/tuff interface,
+and about 338 m above the water table. Thus, it is not clear why
+there should be such a large difference in top/bottom ratios
+between Stations 4 and 10 Prime.
+
+Station 10 has the bottom canister at 342.6 m. This is 30.6 m
+below the alluvium/basalt interface and 26.6 m below the water table.
+Thus, it would be expected that the basalt around the bottom canister
+would offer restraint which would cause the top/bottom ratio to
+be large. This does not appear to be so, especially when compared
+
+
+10

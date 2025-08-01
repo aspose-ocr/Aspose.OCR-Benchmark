@@ -1,0 +1,33 @@
+data may be stored and read from separate external files. Variable formatting
+allows input data arrays to be read in any format without modification to
+the program. The type of output that is available has also been generalized
+so that the user may select various model output options to suit a particular
+need. The program, which is written in FORTRAN '66, has been successfully
+run without modification on computers manufactured by IBM, Control Data,
+Prime, Amdahl, Digital Equipment, and Cray corporations.1/
+
+  The major options that are presently available include procedures to
+simulate the effects of wells, recharge, rivers, drains, evapotranspiration,
+and general-head boundaries. The solution algorithms available include two
+iteration techniques, the Strongly Implicit Procedure (SIP) and the Slice-
+Successive Overrelaxation method (SSOR).
+
+	Organization of This Report
+
+  The purpose of this report is to describe the mathematical concepts used
+in this program, the design of the program, and the input needed to use the
+program. The program has been divided into a main program and a series of
+highly independent subroutines called modules. The modules, in turn, have
+been grouped into "packages." A package is a group of modules that deals
+with a single aspect of the simulation. For example, the Well Package
+simulates the effect of wells, the River Package simulates the effect of
+rivers, and the SIP Package solves a system of equations using the Strongly
+Implicit Procedure. Most of the packages are options which the user may
+
+
+1"Use of IBM, Control Data, Prime, Amdahl, Digital Equipment, and Cray
+corporations in this report is for identification purposes only and does
+not constitute endorsement by the U.S. Geological Survey."
+
+
+3

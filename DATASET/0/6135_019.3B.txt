@@ -1,0 +1,47 @@
+4.4  UNDERGROUND FACILITIES
+
+     (5 to 10 pages of text; 5 to 10 drawings)
+
+
+     Supported by general underground layout drawings, the narrative will
+
+define the design concepts for the underground facilities.  It will explain
+
+the relationship of the exploratory shaft (ES) facilities to the repository
+
+layout and how the ES facilities will be used both during the development of
+
+the repository and during each stage of repository operation.  The description
+
+of the layout will include the shaft stations, maintenance areas, storage
+
+areas, muck-handling facilities, administrative and support areas, main access
+
+ways, ventilation return drifts, cross cuts, drainage system, emplacement
+
+rooms, waste-emplacement openings, and the required utilities.
+
+     Included in the narrative should be (1) the design rationale for the
+
+underground layout; (2) the design of openings, including the parameters
+
+considered in developing the design; (3) the rock-support systems to be used;
+
+and (4) the sequence of development for the various phases of the project.  If
+
+alternative concepts are being considered, they will be discussed to the level
+
+of detail provided for the primary concept.
+
+
+
+     The underground-layout drawings will include the following:
+
+     ~   General arrangement drawings depicting the operational arrangement
+         for each phase of development.
+
+     ~   Shaft-pillar arrangement.
+
+
+DRAFT  Repdev 139                16            4/9/85
+

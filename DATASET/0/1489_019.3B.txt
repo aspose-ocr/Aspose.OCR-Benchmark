@@ -1,0 +1,47 @@
+4.4  Effect of Joint Orientation
+
+In the previous sections all factor of safety plots were prepared for the 
+case of joints that were vertical and parallel to the drift axis.  These plots 
+revealed that the most joint activation was observed around the twin drifts 
+between adjacent panels and that differences between the two alternative initial
+stress states were relatively minor.  This investigation of the effect of joint 
+orientation is, therefore, restricted to the twin drifts between the two panels,
+under the gravity induced initial stress state.
+
+Figures 17 through 19 illustrate the effect that the strike of vertical         
+joints relative to the drift axis has on the predicted region of potential joint
+activation.  These figures show that the region of potential joint activation 
+decreases as the joints are rotated from parallel to drift axis, to perpendicular   
+to it.  This may be attributed to the fact that the normal stresses on joints 
+parallel to and close to the drift wall must be low, whereas the normal stresses
+on joints perpendicular to the drift axis will be high as a result of the initial     
+and any thermally induced horizontal stresses (Table 7).  Also, the shear 
+stresses vanish on planes perpendicular to the drift axis because the out-of- 
+plane stress is a principal stress.  Accordingly, the factor of safety against 
+joint activation is very high in the case of joints in that direction (lower 
+right plot in Figures 17, 18, and 19).
+
+In view of the fact that the largest regions of potential joint activa-     
+tion were predicted for joints parallel to the drift axis, investigation of the 
+effect of joint dip was restricted to joints with that strike.  Joint activation
+plots for joints of various dips are reproduced in Figure 20.  These indicate   
+that the effect of the joint dip is to shift the region of joint activation and 
+that much larger regions of potential activation may be anticipated for joints 
+that are not vertical.  The reason for the shift can be deduced from the   
+principal stress plots for these cases (Figures 10-12). For example, the effect 
+of rotating the joint plane counterclockwise by 15 degrees is to increase the 
+normal stresses on the joints in to the upper left and lower right of the drift,
+increasing the factor of safety in those regions.  Similarly, such a joint rota-
+tion causes the normal stresses and joint safety factors to decrease in the upper 
+right and lower left.  The effect is even more marked in the case of joints with
+dips of 45 degrees and lower,  for which more extensive regions of joint activa-
+tion are observed.
+
+The occurrence of large regions of potential activation along joints or 
+other discontinuities that have shallow dips raises questions regarding the 
+stability of the rock mass and the pillar between panels.  The first concern can
+be addressed by using the data for a repository without access drifts that was 
+presented in Table 3.  In Figure 21 the Mohr circles for the various drift loca-
+tions are plotted along with the strength criteria for the matrix and the joints
+for 50 years after waste emplacement, with gravity induced initial stresses. 
+-11-

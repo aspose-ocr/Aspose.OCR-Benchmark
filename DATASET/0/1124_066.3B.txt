@@ -1,0 +1,38 @@
+been used successfully in many fields to model particulate systems.44-62
+These are just a few of the numerous references to the population balance.
+  The application of the population balance to nuclear waste colloids,
+though new, is a straightforward extension of this well-established modeling
+technique. The population balance and its applications are discussed in the
+following sections.
+  3. Population Balance. In 1962 and 1964, Randolph42 and Hulburt and
+Katz43 derived the general form of the population balance. These very formal
+and complete derivations of the population balance in the early 1960s set the
+foundation for the subsequent mathematical analysis of many particulate
+system studies ranging in fields from engineering to biology. The population
+balance is a well-established transport equation that is commonly used to
+model systems of countable entities.42-62 Randolph and Larson45 in their
+book make reference to the diverse and numerous applications of the popula-
+tion balance. Included are processes such as crystallization, grinding, air
+pollution, and biological systems just to name a few. The population balance
+is an important addition to the common mass transport and energy transport
+equations.
+  Using a size distribution, the population balance permits a full
+treatment of the colloid problem from the birth of colloids to their capture
+on the surrounding matrix as well as modeling the gradual effects of colloid
+growth or dissolution. Radioactive decay of specific nuclides within the
+colloids is treated by assigning within the population balance a concen-
+tration property axis to each species we wish to track. The addition of
+these property axes allows correct treatment of the decay chain problem with
+full accounting of the daughter product concentrations. Also, we can model
+the adsorption of multiple nuclides on the same colloid (heterogeneous
+colloids).
+  Randolph and Larson45 discuss in detail an example of using the
+concentration property axis within in the population balance. For each
+nuclide, there is a separate concentration property axis that defines the
+number of colloids (at a point in time/space and at a size) that have a
+particular concentration of, for example, plutonium. Integrating over the
+plutonium property axis and the size axis gives the amount of colloidal
+plutonium at a point in time/space.
+
+
+60

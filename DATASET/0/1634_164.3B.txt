@@ -1,0 +1,36 @@
+144
+      The model treats uniform leaching of the wasteform matrix, but permits 
+preferential leaching of nuclides which are not members of decay chains, or 
+preferential leaching of entire decay chains, by using average properties to 
+represent chain members.   This limitation derives from the fact that the 
+masses of radionuclides as a function of time are not modeled directly by 
+WAPPA but are taken from the results of an independent ORIGEN2 model run for 
+the type of waste being considered.  Thus there are no provisions in the Leach 
+Model for redistribution of mass due to production or decay of daughter 
+products of constituent radionuclides; nuclide masses are not considered to 
+decay during transport from the wasteform to the repository.
+       Seven properties are used to describe the mass transfer and mass 
+transport characteristics of the representative component of the matrix.  
+These are:
+      (1)  Mass transfer coefficient for diffusion to solution
+      (2)  Mass transfer coefficient for dissolution into solution
+      (3)  Activation energy
+      (4)  Saturation concentration
+      (5)  Diffusion coefficient in bulk water for transport through failed 
+           barriers
+      (6)  Diffusion coefficient for transport in the backfill
+      (7)  Adsorption coefficient (distribution coefficient) in the backfill
+      Of these seven properties, all but the activation energy are used to 
+describe the mass transfer and mass transport properties of the specified 
+radionuclides. (In the development of model equations, activation energy is 
+considered to be a characteristic of the wasteform).
+    Important coupling effects of other Process Models to leaching processes 
+are accounted for in the model equations.   These effects include leach rate 
+enhancement due to alpha-damage of the wasteform and radiolysis of fluid 
+(Radiation Model), changes in wasteform density due to radiation damage 
+(Radiation Model), increase in surface area of the wasteform due to fracturing 
+(Mechanical Model), resistances to outflow presented by partially degraded 
+barriers (Mechanical and Corrosion Models), and temperature dependence of 
+leach rate coefficients (Thermal Model).
+       Effects of the waste repository fluid environment on leaching processes 
+are accounted for both directly and indirectly through model data

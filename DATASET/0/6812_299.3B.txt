@@ -1,0 +1,68 @@
+Doc 0824r/012286						2.1.2.5-1/2
+
+
+2.1.2.5		UNSATURATED PROW PASS
+
+
+
+
+DEFINITION:
+
+
+The UNSATURATED PROW PASS is that portion of the 2.1.2 FAR FIELD made up of
+
+unsaturated Prow Pass welded tuff from thermal/mechanical unit PPw that lies
+
+below the repository underground facilities.
+
+
+
+
+FUNCTIONAL REQUIREMENTS:
+
+
+
+1.	To provide groundwater flow and radionuclide retardation characteristics
+
+	compatible with isolation of the radioactive waste emplaced in the Yucca
+
+	Mountain MGDS.
+
+
+2.	To provide a pre-waste-emplacement groundwater travel time compatible with
+
+	that of other 2.1.2 FAR FIELD components.
+
+
+
+
+PERFORMANCE CRITERIA:
+
+
+
+1.	Groundwater flow and radionuclide retardation in the UNSATURATED PROW PASS
+
+	shall combine with other 2.1.2 FAR FIELD components to meet the
+
+	radionuclide release, groundwater protection, and individual protection
+
+	requirements identified in 2.1.2 PC#1.
+
+
+2.	Groundwater flow in the UNSATURATED PROW PASS shall combine with other
+
+	2.1.2 FAR FIELD components to meet the groundwater travel time requirement
+
+	identified in 2.1.2 PC#2.
+
+
+
+
+CONSTRAINTS:
+
+
+
+None identified at this level.
+
+
+P-305

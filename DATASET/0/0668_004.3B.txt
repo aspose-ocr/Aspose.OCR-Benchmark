@@ -1,0 +1,19 @@
+Acknowledgments
+
+   Special thanks are extended to Joe R. Tillerson, 
+SNL, and F. Harvey Dove, PNL, for their suggestions 
+associated with the concepts or calculations presented 
+in this report. Also greatly appreciated are comments 
+received from numerous other people, including G. 
+Sam Wong, Al Buck, Ken Saucier, and John Boa, 
+WES; Rosemary Vidale, Clarence Duffy and Al Ogard, 
+LASL; Della Roy and Pat Licastro, PSU; Paul O'Bri-
+en, Elmer Klavetter, and John Stormont, SNL; Wal-
+lace Hammer and F. Don Waltman, F&S; and Glen-
+don Gee and Walter Enderlin, PNL. Thanks are also 
+extended to Ed Clarke, F&S; Jim Robison and Rick 
+Spengler, USGS; and Ken Beall, Jack Jackson, and 
+Clint Shirley, SNL, for providing information used to 
+compile the borehole conditions, geologic information, 
+mine layout, and glossary.
+4

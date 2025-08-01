@@ -1,0 +1,49 @@
+4.2 THE ISSUES HIERARCHY AND THE ISSUE-RESOLUTION STRATEGY
+
+  To ensure that all the required information will be available when
+needed, the DOE has developed two organizing principles for site character-
+ization--the issues hierarchy and a general strategy for issue resolution.
+This section briefly discusses these principles; a more detailed discussion is
+given in Section 8.1 of the SCP/CD. Section 4.3 explains how they have been
+applied to planning site characterization at Yucca Mountain.
+
+4.2.1 The issues hierarchy
+
+  The issues hierarchy is a three-tiered framework that lays out what must
+be known before a site can be selected and licensed. The highest tier con-
+sists of four "key issues," which are derived from the system guidelines in
+the DOE siting guidelines (see Appendix A); since the system guidelines are
+based on the EPA and NRC regulations in 40 CFR Part 191* and 10 CFR Part 60,
+respectively, the key issues embody the principal requirements of the regula-
+tions governing repositories.
+
+  There are four key issues. The first addresses the postclosure per-
+formance of the disposal system--that is, the general objectives discussed in
+Section 4.1. The second key issue addresses the safety of repository opera-
+tions before closure. The third key issue addresses environmental and socio-
+economic concerns. It is not considered in the SCP; plans for its resolution
+will be presented in other planning documents, with full opportunity at
+several stages for review and comment by interested parties. The fourth key
+issue addresses the ease and cost of repository construction, operation,
+closure, and decommissioning.
+
+  Each key issue is followed, in the second tier, by a group of issues
+related to performance and design. The performance issues generally address
+specific questions about compliance with regulatory requirements. They iden-
+tify the information on site characteristics and design that is needed to
+assess the performance of the disposal system. The design issues address the
+information needed for the design of the repository, seals, and the waste
+package in the area defined by the key issue. In constructing each group of
+  *The U.S. Court of Appeals for the First Circuit has vacated and remanded
+to the EPA for further proceedings the environmental standards for the dis-
+posal of spent fuel, high-level waste, and transuranic waste (Subpart B of 40
+CFR Part 191). Some of the plans described in the consultation draft of the
+SCP were specifically designed to furnish data needed for demonstrating com-
+pliance with those standards as promulgated by the EPA in 1985. The basic
+information needed to demonstrate compliance with any disposal standards even-
+tually promulgated by the EPA is expected to remain substantially the same,
+and therefore the approach to testing set forth in the SCP is expected to
+remain substantially the same. Nevertheless, any changes that may be made by
+the EPA to its standards will be evaluated by the DOE to ensure that the
+planned testing program will be adequate.
+-46-

@@ -1,0 +1,46 @@
+CONSULTATION DRAFT
+Springer, J. E., R. K. Thorpe, and H. L. McKague, 1984. Borehole
+	Elongation and Its Relation to Tectonic Stress at the Nevada
+	Test Site, UCRL-53528, Lawrence Livermore National
+	Laboratory, Livermore, Calif.
+
+Stock, J. M., J. H. Healy, and S. H. Hickman, 1984.  Report on
+	Televiewer Log and Stress Measurements in Core Hole USW G-2,
+	Nevada Test Site, October-November 1982, USGS-OFR-84-172,
+	U.S. Geological Survey, Menlo Park, Calif.
+
+Stock, J. M., J. H. Healy, S. H. Hickman, and M. D. Zoback,
+	1985.  "Hydraulic Fracturing Stress Measurements at Yucca
+	Mountain, Nevada, and Relationship to the Regional Stress
+	Field," Journal of Geophysical Research, Vol. 90, No. B10,
+	pp. 8691-8706.
+
+Sun, Z., C. Gerrard, and O. Stephansson, 1985.  "Rock Joint
+	Compliance Tests for Compression and Shear Loads,"
+	International Journal of Rock Mechanics, Mining Science, and
+	Geomechanical Abstracts, Vol. 22, No. 4, pp. 197-213.
+
+Svanholm, B. O., P. A. Persson, and B. Larsson, 1977.  "Smooth
+	Blasting for Reliable Underground Openings," Proceedings of
+	the First International Symposium Storage in Excavated Rock
+	Caverns, Stockholm, 5-8 September 1977, M. Bergman (ed.),
+	Vol. 3, pp. 573-579.
+
+Swolfs, H. S., and W. Z. Savage, 1985.  "Topography, Stresses,
+	and Stability at Yucca Mountain, Nevada," Proceedings of the
+	26th Symposium on Rock Mechanics, Rapid City, S.D.,
+	pp. 1121-1129.
+
+Teufel, L. W., 1981.  Frictional Properties of Jointed Welded
+	Tuff, SAND81-0212, Sandia National Laboratories, Albuquerque,
+	N. Mex.
+
+Teufel, L. W., and J. M. Logan, 1978.  "Effect of Displacement
+	Rate on the Real Area of Contact and Temperatures Generated
+	During Frictional Sliding of Tennessee Sandstone," Pageoph
+	(Pure and Applied Geophysics), Vol. 116, pp. 840-865.
+
+Thomas, R. K., 1982.  A Continuum Description for Jointed Media,
+	SAND81-2615, Sandia National Laboratories, Albuquerque,
+	N. Mex.
+2R-16

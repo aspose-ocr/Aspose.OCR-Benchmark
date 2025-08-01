@@ -1,0 +1,11 @@
+The tuff mineralogy used is given in Table D-4~ along with the
+specific heats of the relevant phases. Notice that Figure D-2
+is representative only and should not be used for tuff units
+that have significantly different mineralogy than that listed
+in Table D-4.
+
+Suggested Range: 0.2 - 0.5 cal/gm~C at T = 25~C~
+                 increasing slightly with temperature.
+
+
+-161-

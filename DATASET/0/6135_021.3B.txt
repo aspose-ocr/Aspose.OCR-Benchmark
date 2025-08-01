@@ -1,0 +1,45 @@
+waste-emplacement rooms that shows the location, spacing, and size of
+
+emplacement holes.
+
+     For mining, the narrative will identify and describe the proposed mining
+
+techniques, including the major equipment needed for each technique, the
+
+expected rate of advance, maintenance requirements, and the flexibility of the
+
+mining method.  Also discussed will be muck handling from the face of the rock
+
+to the muck-handling facility, with a listing of equipment requirements.
+
+Schematic drawings of the mining and muck-handling operations will be included.
+
+     Other construction activities to be addressed in this section will
+
+include the installation of utilities and ventilation structures and
+
+equipment.  The utilities outside the shaft pillar will be addressed only to
+
+the extent of identifying the utilities, both temporary and permanent, that
+
+will be provided in various areas of the facility.
+
+     For the ventilation and cooling design, the narrative will include (1)
+
+the functions; (2) the design philosophy, explaining how the mine-development
+
+air system is separated from the emplacement ventilation system; (3) the
+
+differential pressure that will exist between the two systems at various
+
+strategic locations underground; (4) air temperatures at all underground
+
+locations; (5) both temporary and permanent stopping, as well as their use;
+
+and (6) methods of changing a room from the mining ventilation system to the
+
+emplacement ventilation system.
+
+
+DRAFT   Repdev 139              18               4/9/85
+

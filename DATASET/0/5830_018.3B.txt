@@ -1,0 +1,27 @@
+Plate 21.  Basin Parameters - B1 - Central Surface Facility Without Tuff Pile  
+Plate 22.  Basin Parameters - B2 - Central Surface Facility With Tuff Pile  
+Plate 23.  Basin Parameters - B3 - Central Surface Facility East Arm  
+Plate 24.  Basin Parameters - C - Tuff Ramp  
+Plate 25.  Basin Parameters - D - Waste Decline Delivery Portal  
+Plate 26.  Basin Parameters - E - Emplacement Exhaust Shaft  
+Plate 27.  Basin Parameters - F - Men and Materials Shaft  
+Plate 28.  Basin Parameters - G1 - Finished Tuff Ramp West Drainage  
+Plate 29.  Basin Parameters - G2 - Finished Tuff Ramp East Drainage  
+Plate 30.  Exploratory Shaft-Main Location - A1 - Thunderstorm PMF  
+Plate 31.  Exploratory Shaft-Auxiliary Location - A2 - Thunderstorm PMF  
+Plate 32.  Exploratory Shaft-Main and Auxiliary Location - A3 - Thunderstorm 
+           PMF  
+Plate 33.  Central Surface Facility Without Tuff Pile - B1 - Thunderstorm PMF  
+Plate 34.  Central Surface Facility With Tuff Pile - B2 - Thunderstorm PMF  
+Plate 35.  Central Surface Facility East Arm - B3 - Thunderstorm PMF  
+Plate 36.  Central Surface Facility Without Tuff Pile and East Arm - B4 -
+           Thunderstorm PMF  
+Plate 37.  Central Surface Facility With Tuff Pile and East Arm - B5 -
+           Thunderstorm PMF  
+Plate 38.  Tuff Ramp - C - Thunderstorm PMF  
+Plate 39.  Waste Delivery Decline Portal - D - Thunderstorm PMF  
+Plate 40.  Emplacement Exhaust Shaft - E - Thunderstorm PMF  
+Plate 41.  Men and Materials Shaft - F - Thunderstorm PMF
+Plate 42.  Finished Tuff Pile West Drainage - G1 - Thunderstorm PMF  
+Plate 43.  Finished Tuff Pile East Drainage - G2 - Thunderstorm PMF  
+Plate 44.  Finished Tuff Pile East and West Drainages - G3 - Thunderstorm PMF

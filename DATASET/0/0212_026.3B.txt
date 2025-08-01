@@ -1,0 +1,60 @@
+CONSULTATION DRAFT
+
+
+  The NRC has issued at least four regulatory guides that either refer-
+ence, provide examples of, or suggest the use of models to determine ~~~
+values, but none of them were developed specifically for geologic reposi-
+tories. However, some of the information in these guidelines will be appli-
+cable to a repository. These guides are (1) Regulatory Guide 1.109--
+Calculation of Annual Doses to Man from Routine Releases of Reactor Effluents
+for the Purpose of Evaluating Compliance with 10 CFR Part 50, Appendix I
+(NRC, 1977a); (2) Regulatory Guide 1.111--Methods for Estimating Atmospheric
+Transport and Dispersion of Gaseous Effluents in Routine Releases from
+Light-Water-Cooled Reactors (NRC, 1977d); (3) Regulatory Guide 1.145--
+Atmospheric Dispersion Models for Potential Accident Consequence Assessments
+at Nuclear Power Plants (NRC, 1982a); and (4) Regulatory Guide 3.8--
+Preparation of Environmental Reports for Uranium Mills (NRC, 1982c). These
+documents will be reviewed to ensure that the dispersion analysis done for
+Yucca Mountain is comprehensive enough to satisfy typical NRC requirements.
+
+  The guidance for the EPA is contained within the guideline on air
+quality models (EPA, 1986). The EPA has also developed and provides a
+magnetic tape containing a variety of the approved and most frequently used
+models. Although the EPA models are aimed at assessing nonradiological
+impacts, ~~~ values can be calculated using these models as well.
+
+  The ~~~ values will be calculated at discrete locations, but the
+receptor grid is arbitrary in that no specific sites have been selected for
+evaluation. Instead, a radial receptor grid will be used and ~~~ values at
+distances of 4, 8, 16, 24, 32, 40, 48, 56, 64, 72, and 80 km from an assumed
+source will be calculated in each of the 16 cardinal directions for a total
+of 176 receptors.
+
+  To ensure responsiveness to the design and performance issues, ~~~s
+representing routine and accident release scenarios must be developed.
+Routine releases will be evaluated by calculating an annual average ~~~ value
+at each of the receptors. Because the accident scenarios must be evaluated
+under meteorologically worst-case conditions (in terms of dispersion),
+one-hour ~~~ values also will be required.
+
+  Other data needed as input to a dispersion model are one year of hourly
+sequential meteorological data (wind speed, wind direction, temperature,
+mixing height, and Pasquill stability class), receptor terrain heights and
+their Universal Transverse Mercator (UTM) coordinates, and source character-
+istics (UTM coordinates, stack height, stack diameter, exit gas velocity,
+exit gas temperature, and building-stack configuration). Once all these data
+have been put in the format required by the model, the model is run.
+Although the basic equations used in calculating an ~~~ value are not excep-
+tionally complex, the large number of calculations required for a year of
+hourly meteorological data dictates the use of a computer.
+
+  A report presenting the ~~~ values and the information used in calcu-
+lating those values will be prepared at annual intervals for up to 5 years.
+
+Methods and technical procedures
+
+  The method and procedure for Activity 8.3.1.12.2.1.2 is given in the
+following table.
+
+
+8.3.1.12-24

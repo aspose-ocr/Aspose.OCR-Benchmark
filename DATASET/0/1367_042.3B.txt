@@ -1,0 +1,56 @@
+I-22     DOE 6430.1
+
+
+12-12-83
+
+
+	5 Equipment manufacturers recommended operating and maintenance
+	  procedures;
+
+	6 Recommended spare parts lists;
+
+	7 Performance and acceptance test procedures and data;
+
+	8 Day-to-day operating instruction for all equipment and
+	  controls; and
+
+	9 Special energy conservation instructions.
+
+   (b)	Of particular importance for operation and maintenance is the
+	availability of accurate "as built" drawings. Procedures shall
+	be established for periodic revision of the "as-built" drawings.
+	"As built" drawings should clearly identify structural material
+	strengths, live loads, and lateral forces used in the design of
+	the facility. In addition, special attention needs to be given
+	to preparation of instructions for the day-to-day operation of
+	electrical and mechanical systems and controls (manual and auto-
+	matic); and to reduce energy consumption in buildings and achieve
+	the energy-use design goals.
+
+   (c)	During development of O&M manuals, consultation with those
+	responsible for facility operation and maintenance is required
+	to assure the resulting manuals are complete and adequate.
+
+   (d)	The number of required copies of O&M instructions will vary
+	depending upon the operating and maintenance complexities for
+	each facility project and the operating and maintenance organi-
+	zations' requirements. Because these instructions (manuals)
+	will need to be revised from time-to-time to properly reflect
+	system and equipment changes, it is important to keep their
+	number to the minimum necessary for effective operating and
+	maintenance purposes. As a general rule, no less than 6 copies
+	should be prepared. At least one copy will need to be made a
+	part of the project files or otherwise assigned to a non-use
+	location (stored) for permanent retention for the life of the
+	facility.
+
+n. Decontamination and Decommissioning.
+
+   (1)	Design of facilities where radioactive or other hazardous
+	contaminating materials will be utilized in, or result from facility
+	operation, shall incorporate measures to limit dispersion and
+	simplify decontamination and ultimate facility decommissioning and
+	disposal or reuse. It is important that careful consideration be
+	given to both the decontamination requirements that may be needed
+	from time-to-time during the operating life of the facility and to
+	the ultimate decontamination requirements prior to decommissioning

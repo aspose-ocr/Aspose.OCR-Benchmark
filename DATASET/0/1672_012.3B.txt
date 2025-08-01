@@ -1,0 +1,38 @@
+3. CANDIDATE MATERIALS FOR WASTE PACKAGE CONTAINERS
+
+  The set of materials selected as candidates for waste package containers in the tuff
+repository has undergone some evolution over the course of the NNWSI Project, and it is helpful
+to review the history of selection.
+
+  Initially, the NNWSI Project selected AISI 304L stainless steel as its reference
+material and a relatively thin-walled design for its containers. A number of factors contributed
+to these choices. First of all, it was known that there would be no significant lithostatic or
+hydrostatic pressure on the containers if emplaced in tuff above the water table. Therefore,
+thick walls would not be necessary for the prevention of buckling, as is the case for most other
+proposed deep geologic sites. This situation seemed to lend itself to use of a thin, corrosion-
+resistant material rather than a thicker, corrosion-allowance material. Secondly, the
+Savannah River Plant had already selected AISI 304L stainless steel as the reference material
+for borosilicate glass pour canisters for its defense waste. It appeared likely at that time (and
+has since been established as policy by the Federal government) that defense waste and
+commercial waste would be emplaced in the same repository. NNWSI's initial proposal was
+thus to use the pour canisters as the containment barriers for defense waste, and to fabricate
+containers of the same material (AISI 304L stainless steel) for the spent fuel. Past experience
+with austenitic stainless steels in hot air and dry steam environments had been very
+satisfactory, and it appeared that this material would serve well in the unsaturated tuff
+environment at temperatures above the boiling point.
+
+  The process by which AISI 304L stainless steel was selected as the reference material
+also resulted in the selection of three other alternatives: AISI 321, AISI 316L, and Alloy 825.
+These were chosen for their increased resistance to particular types of corrosion, should this be
+found necessary after more detailed testing, particularly if extensive contact with an aqueous
+phase was found to be likely, or if the environment turned out to be more severe than
+anticipated. We also selected AISI 1020 carbon steel as a candidate for borehole liners, should
+they be found to be necessary to enhance retrievability.
+
+  Initially, the selection process involved the evaluation of 17 commercial alloys
+(Russell et al., 1983) according to the criteria of mechanical properties, weldability, corrosion
+resistance, and cost. We considered all four to be equally important. Using projections of
+available corrosion data to the repository environment as we understood it, we ranked the 17
+
+
+5

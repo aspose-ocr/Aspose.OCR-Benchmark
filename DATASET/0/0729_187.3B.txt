@@ -1,0 +1,55 @@
+8.0 REFERENCES
+
+Anderson, L. A., 1981. "Rock Property Analysis of Core Samples from the
+     Yucca Mountain UE25a-1 Borehole, Nevada Test Site, Nevada," U.S.
+     Geological Survey Open-File Report 81-1338, Denver, CO.
+
+Anderson, L. A., 1984. "Rock Property Measurements on Large-Volume Core
+     Samples from Yucca Mountain USW GU-3/G-3 and USW G-4 Boreholes,
+     Nevada Test Site, Nevada," U.S. Geological Survey Open-File Report 
+     84-552, Denver, CO.
+
+American Society for Testing and Materials, 1985a. "Standard Test
+     Methods for Absorption and Bulk Specific Gravity of Natural Building
+     Stone," ASTM C 97-83.
+
+American Society for Testing and Materials, 1985b. "Standard Test Method
+     for Triaxial Compressive Strength of Undrained Rock Core Specimens 
+     Without Pore Pressure Measurements," ASTM D 2664-80.
+
+American Society for Testing and Materials, 1985c. "Standard Method for 
+     Laboratory Determination of Pulse Velocities and Ultrasonic Elastic 
+     Constants of Rock," ASTM D 2845-83.
+
+American Society for Testing and Materials, 1985d. "Standard Test Method 
+     for Direct Tensile Strength of Intact Rock Core Specimens," ASTM D 
+     2936-84.
+
+American Society for Testing and Materials, 1985e. "Standard Test Method 
+     for Unconfined Compressive Strength of Intact Rock Core Specimens," 
+     ASTM D 2938-79.
+
+American Society for Testing and Materials, 1985f. "Standard Test Method 
+     for Elastic Moduli of Intact Rock Core Specimens in Uniaxial 
+     Compression," ASTM D 3148-80.
+
+American Society for Testing and Materials, 1985g. "Standard Test Method 
+     for Splitting Tensile Strength of Intact Rock Core Specimens," ASTM 
+     D 3967-81.
+
+American Society for Testing and Materials, 1985h. "Standard Test Method 
+     for Linear Thermal Expansion of Rigid Solids with a Vitreous Silica 
+     Dilatometer," ASTM E 228-71 (Reapproved 1979).
+
+American Society for Testing and Materials, 1985i. "Standard Test Method 
+     for Linear Thermal Expansion of Solid Materials by 
+     Thermodilatometry," ASTM E 831-81.
+
+Bauer, S. J., and J. Handin, 1983. "Thermal Expansion and Cracking of
+     Three Confined, Water-Saturated Igneous Rocks to 800~C," Rock
+     Mechanics and Rock Engineering, v. 16, p. 181-198.
+
+Bish, D. L., and D. T. Vaniman, 1985. "Mineralogic Summary of Yucca
+     Mountain, Nevada," LA-10543-MS, Los Alamos National Laboratories,
+     Los Alamos, NM.
+-173-

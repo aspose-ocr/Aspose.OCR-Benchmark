@@ -1,0 +1,37 @@
+Under reducing conditions (up to Eh = 0.27-0.06pH), a reduction
+to metallic Tc(s) is feasible. Dominating species in solution
+would be TcO(OH)2, and possibly also TcO+ at low pH and highly
+reducing conditions (Eh < 0.2-0.06pH), Fig. 1a.
+
+Under mildly reducing conditions (Eh > 0.27-0.06pH) the solubi-
+lity limiting phase would be TcO2(s), with TcO(OH)2 as domi-
+nating soluble species up to Eh = 0.5-0.06pH, Fig. 1b.
+
+The heptavalent state (TcO4-) would dominate at Eh > 0.5-0.06pH,
+still with TcO2(s) as solubility limiting phase.
+
+The total solubility under highly reducing conditions would be
+as low as 10-9 M or below (less than ~g/l) and would increase to
+10-4-10-5 M (mg/l-level) with increasing Eh (cf. Fig. 2). This
+concentration, which would be constant at Eh between 0.27 and
+0.45 V, is related to the choice of solubility product for
+TcO2(s) and should be considered as a maximum value. By using
+log Ks = -31, which was previously suggested (2), instead of
+log Ks = -28.9 (Table 1) which is an assessed maximum value, the
+resulting total technetium solubility at Eh between 0.27 and
+0.45 V would be less than 10-6 M.
+
+At Eh above 0.45-0.50 V the solubility is increasing up to at
+least 10-1-10-2 M, which would be the solubility limit set by a
+MTcO4(s)-species, assuming a concentration of monovalent cations
+M+ of 0.1 M (g/l-level). This could possibly be achieved in very
+saline waters, but rarely under groundwater conditions.
+
+4 CONCLUSIONS
+
+The following conclusions can be made concerning the solubility
+of technetium in natural waters, particularly deep groundwaters.
+
+o Under highly reducing conditions the solubility can be as low
+as 10-9 M or below; a reduction to elementary technetium is
+feasible.

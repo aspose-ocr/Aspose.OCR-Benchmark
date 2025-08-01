@@ -1,0 +1,66 @@
+
+CONSULTATION DRAFT
+
+
+
+
+models that will be the means by which these data pass from site character-
+ization investigations to design and performance assessment studies. Because
+the rock characteristics data and the geologic framework information both
+will be represented as three-dimensional computer-based models that are
+closely linked to the NNWSI Project Technical Data Base, representations of
+the model may take many forms depending upon the use to which the information
+will be put. For example, information from the model may be represented on
+contour (isopleth) maps, cross sections, level plans, "3-D" perspective
+illustrations, statistical distributions (histograms, means, variances), and
+as numerical data files for direct input to computer codes used for perform-
+ance assessment or design analyses. The primary requirement of input data
+for the three-dimensional rock property models is systematic and statis-
+tically valid (unbiased) sampling at scales adequate to allow quantitative
+characterization of the spatial variability of the parameters of interest at
+Yucca Mountain. Characterization of spatial variability will depend heavily
+upon geostatistical techniques. Determination of sampling intervals and
+parameters will rely upon geostatistical analysis in conjunction with
+sensitivity studies conducted by the associated performance assessment or
+design information needs.
+
+  Much of the analysis of the spatial variability will depend upon
+detailed knowledge of a few selected rock characteristics (e.g., porosity,
+saturated hydraulic conductivity, saturation) that will be obtained as part
+of the integrated drilling program described by Investigation 8.3.1.4.1.
+These parameters will serve as surrogates in determining the spatial
+variability of several other parameters needed by performance assessment and
+design issues in preliminary stages of the analyses. Because the basic
+spatial distribution of properties of the rock mass at Yucca Mountain is that
+produced by the processes of volcanic eruption, transport, deposition, and
+post-depositional alteration (including welding and devitrification), the
+quantitative description of the distribution should correspond to parameters
+that derive their distribution from some part of those emplacement and
+alteration processes.
+
+  The measured values of parameters from which the final modeling
+activities will be conducted, will come largely from Site Programs 8.3.1.2
+(geohydrology), 8.3.1.3 (geochemistry), and 8.3.1.15 (thermal and mechanical
+properties).
+
+  The models typically will be constructed as follows. First, measured
+values of the hydrogeologic, geochemical, or thermal/mechanical parameters of
+interest (from drillholes and the exploratory shaft facilities) will be
+mapped into their proper three-dimensional location in model space. Second,
+geologic framework information (the altitude of geologic contacts, fault
+locations and offsets, etc.), from Investigation 8.3.1.4.2 also will be
+mapped into three-dimensional model space. The spatial structure of the
+observed values (actual measurements) will be determined by geostatistical
+techniques (variogram or covariance analysis). The spatial structure of a
+group of related parameters may be further refined by study of the cross-
+covariances among those quantities. Conflicts between the observed spatial
+structure of quantitative data and the structure implied by the geologic
+framework will be resolved (for example, identification of a concealed fault,
+reinterpretation of volcanic source area or flow path, or identification of
+some previously unknown alteration phenomenon). Surface-based and borehole
+
+
+
+
+8.3.1.4-96
+

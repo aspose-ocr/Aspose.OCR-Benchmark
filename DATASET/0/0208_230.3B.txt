@@ -1,0 +1,59 @@
+CONSULTATION DRAFT
+
+
+aspect of the setting on postclosure performance. Each guideline has a qual-
+ifying condition that must be met for a site to be acceptable. In addition,
+five of the technical guidelines have at least one disqualifying condition.
+A site is unacceptable if any one of the disqualifying conditions is found
+present. The technical guidelines also identify favorable conditions and
+potentially adverse conditions that describe characteristics of the setting
+that, if present, could contribute to or detract from the postclosure per-
+formance of a site.
+
+  The Implementation Guidelines require that the qualifying and disquali-
+fying conditions of the system and technical guidelines be evaluated and that
+specific findings be made for each condition at principal decision points in
+the siting process. These findings are stated in 10 CFR Part 960, Appendix
+III. There are four levels of findings (Table 8.2-14). Lower-level findings
+(Levels 1 and 3) must be made to determine if a site may be nominated as
+suitable for characterization or recommended as a candidate site for charac-
+terization. Higher-level findings (Levels 2 and 4) must be made to determine
+if a site may be recommended for the development of a repository. Disquali-
+fying conditions require Level 1 and Level 2 findings, and qualifying
+conditions require Level 3 and Level 4 findings. Each level has both a
+positive finding and a negative finding associated with it.
+
+  The findings that have already been made and the evidence supporting
+these findings are given in the NNWSI Project environmental assessment (DOE,
+1986b). The available evidence was sufficient to support positive higher-
+level findings for the qualifying and disqualifying conditions of the disso-
+lution technical guideline and positive lower-level findings for the quali-
+fying and disqualifying conditions of the other technical guidelines and the
+postclosure system guideline. To determine if the Yucca Mountain site is
+suitable for the development of a repository, therefore, higher-level
+findings must be made for the the remaining qualifying and disqualifying
+conditions.
+
+  The DOE Siting Guidelines do not require any findings similar to lower-
+level or higher-level findings to be made for the favorable or potentially
+adverse conditions of the technical guidelines. As stated in the Overview of
+the Guidelines section of the Supplementary Information (DOE, 1984c) for
+10 CFR Part 960, these conditions were intended to be used to predict the
+suitability of a site and provide a preliminary indication of system
+performance before the start of detailed site characterization studies.
+These conditions were considered and used in the identification of
+potentially acceptable sites and in the nomination and recommendation of
+sites as suitable for characterization. By the completion of site
+characterization, however, sufficient data will be available to directly
+evaluate site performance against the qualifying conditions of the system and
+technical guidelines. Therefore, the favorable and potentially adverse
+conditions will not be considered in specific terms as they were for the
+environmental assessment.
+
+Technical background and issue resolution strategy (Issue 1.9(a))
+
+  To resolve Issue 1.9(a), sufficient evidence must be available to sup-
+port either a positive or negative higher-level finding for each qualifying
+
+
+8.2-92

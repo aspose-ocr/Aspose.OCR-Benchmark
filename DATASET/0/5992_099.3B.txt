@@ -1,0 +1,42 @@
+79
+(2) Retardation. The retardation factor, R, is the ratio of the
+velocity of the moving solution to that of the particles, and is defined
+as
+where Kd is the distribution coefficient (g/l), Pb is the bulk density of
+the rock column, and ~ is the column porosity. R > 1 means that particles
+lag behind the mobilizing solution. Such a lag reflects sorption of clay
+particles onto the substrate. Wahlig (1980) found the R for kaolinite
+movement through columns of crushed basalt varied between 1.0 to 11.0.
+Neretnieks (1978) found that R = 1.0 for montmorillonite transport through
+columns of crushed granite, which indicated no sorption of clay particles.
+The effluent had essentially the same concentration as feed suspension.
+
+These retardation values can be compared to values due to sorption
+of many aqueous radionuclides on stationary substrates with Kd ranges of
+between 1 x 102 to 1 x 106. Therefore, radionuclides in experimental
+systems with high clay concentrations would be expected to move more
+readily than radionuclides in systems without clay particles.
+
+(3) Occurrence of Particulates in Natural Groundwater Systems. The
+literature provides very little information on the type and concentrations
+of colloid-size particles suspended in deep groundwaters. Such information
+could indicate the far-field conditions of a potential repository. Two
+studies, however, were found. In the first, Neretnieks (1978) measured
+groundwater particle concentrations in a 500 m borehole in a granite
+aquifer associated with the Swedish nuclear disposal program. The con-
+centration was found by light-scattering techniques to be 0.6 ppb. The
+largest particle measured was 0.6 ~m. No information is available on their
+composition.
+
+In the second study, Barnes (1976) collected 39 natural groundwater
+samples from deep wells. Using a solvent extraction method, he compared
+aluminum concentrations with samples that had been filtered through 0.1 ~m
+filters and then acidified. Barnes found that the filtered acidified samples
+produced consistently higher concentrations, with an average difference
+between the two methods of 3.0 ppb. This difference presumably results from
+the difference between dissolved Al measured in the extraction method and
+particulate or colloidal Al that passed through the 0.1 ~m filter and was
+then dissolved by acidification. The 3.0 ppb difference, therefore, is the
+concentration of particulate aluminum less than 0.1 ~m in size. The data of
+both Neretnieks and Barnes suggest that particulate concentrations in unper-
+turbed groundwater may be exceedingly low, ~ 1 ppb.

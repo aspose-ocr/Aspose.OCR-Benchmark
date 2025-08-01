@@ -1,0 +1,41 @@
+292		LAKE BONNEVILLE.
+
+
+these corrections to the diagram would lower the curve C D E in the im-
+mediate vicinity of D, smoothing out the angle at that point, would leave it
+unchanged where it intersects the ordinate of 0~, and would carry the point
+E farther to the right. It would raise the curve A B at A, and lower it at
+B, leaving the central portion unchanged. The point A, or the intersection
+with the horizontal axis, would be thrown to the left.
+  Fifthly, in the construction of the curves no allowance was made for
+evaporation during summer. The curve D E includes only winter evapora-
+tion, the curve A B only summer melting. The rate of evaporation for
+snow and ice has its maximum at 0~, its law changing at that point. In
+the general law for aqueous evaporation, the rate of evaporation is a func-
+tion of the difference between the saturation tension corresponding to the
+temperature of the evaporated substance and the actual vapor tension of
+the evaporating air. Since snow and ice can not rise in temperature above
+0~, they can only be evaporated when the aqueous tension of the air in
+contact with them is less than the saturation tension for 0~. If it rises above
+that, moisture is deposited on the ice as dew, instead of being abstracted
+from it. In all but very exceptional cases the range of summer tempera-
+tures under which n~~v~~ can evaporate is small-~from 0~ to 5~ or 6~. The
+effect of the evaporation is to retard the wasting of the ice, for the energy
+consumed by it is deducted from that available for melting, and a unit of
+solar heat can melt seven times as much ice as it can evaporate.1 The cor-
+rection, if applied to the curve of melting, would slightly increase its upward
+concavity.
+  Sixthly, the winter evaporation embodied with the winter precipitation
+in the curve D E is tacitly assumed to have a rate corresponding to the
+mean annual temperature; its rate is really less, being a function of the
+mean winter temperature. An error is thus manifestly introduced, and this
+error is greatest for the annual temperatures corresponding to short winters.
+A corresponding correction of the diagram would raise the line D E by
+amounts increasing progressively from D to E.
+
+
+  1The conditions determining the evaporation of ice and the formation of dew on glaciers are
+clearly set forth by Heim, who cites experimental verifications by Dufour and Forel. See "Handbuch
+der Gletscherkunde," by Dr. Albrecht Heim, p. 238-241, and Bull. Soc. vaudoise des sc. nat. 1871, pp.
+4 9-410.
+

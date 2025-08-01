@@ -1,0 +1,63 @@
+References:
+
+Butkovich, T. R. and D. N. Montan, 1980, "A Method for
+Calculating Internal Radiation and Ventilation with ADINA Heat
+Flow Code", UCRL-52918, Lawrence Livermore National Laboratory,
+Livermore CA
+
+Eaton, R. R. and D. C. Reda, 1982, "The Influence of
+Convective-Energy Transfer on Calculated Temperature
+Distributions in Proposed Hard-Rock Nuclear Waste Repositories",
+Radioactive Waste Management Vol 2(4) June 1982 pp.343-361
+
+Gregg, D. W. and W. C. O'Neal, 1983, "Initial Specifications for
+Nuclear Waste Package External Dimensions and Materials",
+UCID-19926, Lawrence Livermore Laboratory, Livermore CA
+
+Johnstone, J. K., R. R. Peters, and P. F. Gnirk, 1984, "Unit
+Evaluation at Yucca Mountain, Nevada Test Site: Summary Report
+and Recommendation", SAND83- 0372, Sandia National Laboratory,
+Albuquerque NM
+
+Klett, R. D., E. S. Hertel, and M. A. Ellis, 1981, "Systems
+Engineering Programs for Geologic Nuclear Waste Disposal,"
+SAND80-0440, Sandia National Laboratory, Albuquerque NM
+
+Langkopf, B. S., 1982, "Thermal Analysis of Nuclear Waste
+Emplacement in Welded Tuff," SAND80-2639
+
+Nimick, F. B., S. J. Bauer, and J. R. Tillerson, 1984
+"Recommended Matrix and Rock-Mass Bulk, Mechanical and Thermal
+Properties for Thermomechanical Stratigraphy of Yucca Mountain,"
+Keystone Document 6310-85-1, Sandia National Laboratory,
+Albuquerque NM
+
+O'Brien, P. D., 1984, "Preliminary Reference Waste Descriptions
+for a Repository at Yucca Mountain, Nevada", SAND83-1805, Sandia
+National Laboratory, Albuquerque NM
+
+O'Brien, P. D., 1985, "Reference Nuclear Waste Descriptions for
+a Geologic Repository at Yucca Mountain, Nevada", SAND84-1848,
+Sandia National Laboratory, Albuquerque NM
+
+Shirley, C. G., 1983a, "Reference Commercial Nuclear Waste
+Thermal Power and Energy Functions," Keystone Memorandum
+6310-83-2, Sandia National Laboratory, Albuquerque NM
+
+Shirley, C.G., 1983b, "Reference Waste Emplacement Geometries,"
+Keystone Memorandum 6310-83-1, Sandia National Laboratories,
+Albuquerque, NM
+
+St. John, C., 1985, "Thermal Analysis of Spent Fuel Disposal in
+Vertical Emplacement Boreholes in a Welded Tuff Repository,"
+SAND84-7207, Sandia National Laboratory, Albuquerque, NM
+
+Stein, W., J.N. Hockman, and W.C. O'Neal, 1984, "Thermal
+Conceptual Waste Package Designs," UCID-20091, Lawrence
+Livermore National Laboratory, Livermore CA
+
+
+- 9 -
+
+
+A-11

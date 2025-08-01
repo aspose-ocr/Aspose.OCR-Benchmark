@@ -1,0 +1,8 @@
+ACKNOWLEDGMENTS
+
+  Recent ground motion measurements were made by Henry
+Stuckert and John Dickinson. J. W. Long was responsible for
+automated data processing.
+
+
+4

@@ -1,0 +1,33 @@
+USGS-SP-~, R0
+
+
+For example, 10CFR960.4-2-1(d) states that "A site shall be dis-
+qualified if the pre-waste-emplacement ground-water travel time
+from the disturbed zone to the accessible environment is
+expected to be less than 1,000 years along any pathway of likely
+and significant radionuclide travel."
+
+1.1.2 Relationship to Site Characterization Plan
+
+  The proposed study is needed in part to fulfil information
+need 1.17.2 -- Potential Effects of Future Climatic Conditions
+on Hydrologic Characteristics, and it is specifically requested
+under study 1.17.2.1 -- Characterization of the Quaternary
+Regional Hydrology as activity 1.17.2.1.6 -- Studies of Calcite-
+Opaline Silica Vein Deposits. Some of the data obtained during
+this study will fulfil part of information need 1.20.2 -- Nature
+and Rate of Tectonic Processes, Including Faulting, Folding,
+Uplift and Subsidence, and Seismic Activity.
+
+1.1.3 Relation to other programmatic requirements
+
+  A NRC memo of Jan 16, 1986 by John Bradbury and Charlotte
+Abrams notes that the origin of the calcite and opaline silica
+deposit of Trench 14 "will have direct bearing on the suitabil-
+ity of the site for burial of HLW". Representatives of the NRC
+and the State of Nevada expressed concerns about the origin of
+the deposit at workshops held in Las Vegas, Nevada on Feb. 28,
+and April 28, 1986. At the April meeting, representatives of
+
+
+3

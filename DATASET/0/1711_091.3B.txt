@@ -1,0 +1,53 @@
+REFERENCES
+
+1. R. M. Wallace, H. L. Hull and R. F. Bradley. Solid Forms for
+   Savannah River Plant High-Level Waste. USAEC Report DP-1335,
+   E. I. du Pont de Nemours & Co., Savannah River Laboratory,
+   Aiken, SC (1973).
+
+2. J. A. Stone, J. A. Kelley and T. S. McMillan. Sampling and
+   Analyses of SRP High-Level Waste Sludges. USERDA Report DP-
+   1399, E. I. du Pont de Nemours & Co., Savannah River
+   Laboratory, Aiken, SC (1976).
+
+3. J. A. Stone. Separation of SRP Waste Sludge and Supernate.
+   USERDA Report DP-1441, E. I. du Pont de Nemours & Co.,
+   Savannah River Laboratory, Aiken, SC (1976).
+
+4. R. S. Ondrejcin. Chemical Compositions of Supernates Stored
+   in SRP High-Level Waste Tanks. USAEC Report DP-1347, E. I.
+   du Pont de Nemours & Co., Savannah River Laboratory, Aiken, SC
+   (1974).
+
+5. R. G. Baxter. Description of DWPF Reference Waste Form and
+   Canister. USDOE Report DP-1606, E. I. du Pont de Nemours
+   & Co., Savannah River Laboratory, Aiken, SC (1981).
+
+6. J. A. Kelley. Evaluation of Glass as a Matrix for Solidifi-
+   cation of SRP Waste: Nonradioactive and Tracer Studies.
+   USERDA Report DP-1382, E. I. du Pont de Nemours & Co.,
+   Savannah River Laboratory, Aiken, SC (1975).
+
+7. J. A. Kelley. Evaluation of Glass as a Matrix for Solidifi-
+   cation of SRP Waste - Radioactive Studies. USERDA Report
+   DP-1397, E. I. du Pont de Nemours & Co., Savannah River
+   Laboratory, Aiken, SC (1975).
+
+8. M. J. Plodinec and J. R. Wiley. Evaluation of Glass as a
+   Matrix for Solidifying SRP Waste: Properties of Glasses
+   Containing Li2O. USDOE Report DP-1498, E. I. du Pont
+   de Nemours & Co., Savannah River Laboratory, Aiken, SC
+   (1979).
+
+9. M. J. Plodinec. Development of Glass Compositions for Immobi-
+   lization of SRP Waste. USDOE Report DP-1517, E. I. du Pont
+   de Nemours & Co., Savannah River Laboratory, Aiken, SC
+   (1979).
+
+10. M. J. Plodinec. "Development of Glass Compositions for Immobi-
+    lization of SRP Waste." pp. 31-35 in Scientific Basis for
+    Nuclear Waste Management, I, G. J. McCarthy, Ed., Plenum, NY
+    (1979).
+
+
+- 93 -

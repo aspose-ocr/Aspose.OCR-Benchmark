@@ -1,0 +1,45 @@
+Somatic Effects: Cancer				353
+
+
+malignant lymphoma has been identified in the followup of infants given
+radiation therapy for thymic enlargement.9 Two new cases were observed
+in the treated infants in the fourth survey (bringing the total to eight, com-
+pared with 3.97 expected). The highest dose group contained two cases,
+with 0.49 expected. No increase was observed in the sibling control
+groups. Thus, from all the evidence reviewed, it seems highly probable
+that malignant lymphoma is increased in children after high levels of
+radiation exposure. The appearance of increased risk comes later than for
+leukemia and may last longer.
+
+Multiple Myeloma  Since the 1973 study,32 a more extensive study of
+multiple myeloma12 has identified 22 confirmed cases among survivors in
+the LSS sample: 14 in Hiroshima and eight in Nagasaki. With the data of
+the two cities pooled for analysis, those exposed to 100+ rads kerma have
+a significantly increased risk relative to that of those exposed to less than 1
+rad (relative risk, 4-7). Excess mortality was estimated at 0.45 death per
+million persons per rad of marrow dose for the mixed neutron and gamma
+radiation.12
+
+Summary
+
+Extensive information has been accumulated on hematologic malignan-
+cies (especially leukemia) after whole-body radiation exposure. Because of
+the low natural occurrence of leukemia, the high radiosensitivity of stem
+cells, and the short minimal latent period (2-3 yr), leukemia was recog-
+nized early as a potential consequence of high-level radiation exposure in
+man.31 To understand the pathophysiology of these diseases and the
+mechanisms by which radiation exerts its effects, many experimental
+studies have been conducted in a large number of animal strains. These
+have led to several important conclusions that bear on the interpretation
+of dose-response curves derived from epidemiologic studies in man. Given
+the body of knowledge derived from controlled animal studies and parallel
+(but uncontrolled) studies in persons exposed to high doses (where
+statistically valid observations can be made), we have been led to fit the
+observed data to models that are consistent with animal and human data.
+  Leukemia induction after low doses of low-LET radiation in experi-
+mental studies in mammals is curvilinear, with decreasing effectiveness
+per rad at the lowest doses. Also, a decrease in effect is seen at pro-
+gressively diminished dose rates. The data indicate that small amounts of
+radiation-induced damage can be repaired to a substantial extent. Similar
+repair mechanisms are believed to operate in man, inasmuch as they occur
+in so many different organisms.

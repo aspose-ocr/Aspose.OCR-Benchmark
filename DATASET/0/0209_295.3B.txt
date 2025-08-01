@@ -1,0 +1,60 @@
+CONSULTATION DRAFT
+
+
+  Whether the Solitario Canyon fault zone is a hydraulic barrier or a con-
+duit will be investigated by pumping from one or more holes and observing
+responses in nearby holes. Investigation of probable reasons for a steep
+gradient immediately north of the repository block may indicate the hydraulic
+nature of faults located in that area.
+
+  Hydraulic and water-chemistry data from proposed drillholes USW WT-8 and
+USW H-7, both located east of drillhole USW H-6, will be used principally to
+help determine (1) if the ground-water flow paths in the vicinity are from
+west to east across the Solitario Canyon fault, as suggested by differences
+in water levels in holes on either side of the canyon, and (2) the nature and
+degree of any hydraulic connection across the fault zone. If there is no
+significant eastward movement across the fault, this would have a major
+impact on both conceptual and computer models. The models have assumed that
+ground-water flow in the saturated zone beneath the repository block gen-
+erally is toward the south and southeast (e.g., from drillhole USW H-4 toward
+well J-13), even though present resolution of water-level data from south or
+east of the block is not enough to determine with high assurance the magni-
+tude or direction of apparent gradients.
+
+Hydraulic gradients
+
+  At drillhole UE-25 p#1, the hydraulic potential is 20 m higher in the
+Paleozoic carbonate rocks and the lowest 134 m of the Tertiary rocks than in
+the overlying volcanic rocks (Craig and Robison, 1984). Higher heads were
+observed at a depth of 1,800 m in drillhole USW H-1, where the level is about
+773 m, whereas the water table is about 730 m above sea level. Data from
+Robison (1984, 1986) show that within the upper 500 m of the saturated zone,
+there is no upward gradient (drillholes UE-25b#1, USW H-1, USW H-3, USW H-4,
+USW H-5, and USW H-6) (Figure 8.3.1.2-23).
+
+  In the vicinity of the repository block at Yucca Mountain and eastward
+into Jackass Flats for 5 km or more, the potentiometric surface is nearly
+flat (730 m above sea level). Water-level altitudes in nearby drillholes are
+higher to the west of the block (775 m) and to the north (778 to 1,031 m).
+
+  Beneath the repository block and downgradient from it, the water table
+is so flat that periodic water-level measurements (every several weeks), even
+when made with very high accuracy and precision, cannot be used to determine
+average water-level differences and gradients among wells. The reason for
+this, based on preliminary measurements, is that in many drillholes the
+short-term water-level variations due to barometric changes, earth tides and
+possibly other phenomena, although they are small, are greater than apparent
+differences among nearby drillholes. Therefore, water-level averages of
+months or perhaps years are necessary to determine gradients and probable
+flow paths near the repository. The present and planned expansion of contin-
+uous water-level measurements in observation drillholes will provide the data
+for determining the needed average water levels.
+
+  Continuous water-level data, in addition to being used for calculating
+average levels, may be helpful for evaluating the general hydraulic character
+of intervals penetrated by observation drillholes, and for estimating hydrau-
+lic parameters from responses to short-term stresses, such as earth tides,
+barometric changes, seismic events, or pumping of nearby wells. For those
+
+
+8.3.1.2-293

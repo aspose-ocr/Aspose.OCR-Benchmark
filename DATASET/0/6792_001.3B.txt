@@ -1,0 +1,116 @@
+General Description of Lake Hefner
+
+		by G. Earl Harbeck, Jr.*
+
+
+BASIS FOR CHOICE
+OF LAKE HEFNER
+
+
+	The selection of a reservoir or lake suitable for
+a comprehensive study of the exchange of energy
+between the atmosphere and a water surface is not
+a simple matter. It was planned to determine evap-
+oration by three methods: (1) water budget, (2) en-
+ergy budget, and (3) mass transfer. Since the water
+budget was to be the control for evaluating the other
+two methods, it was imperative that the water budget
+be accurate. This was the paramount consideration
+in selecting the lake (Harbeck et al., 1951).
+	The energy-budget and mass-transfer methods
+also imposed restrictions on the choice of the lake.
+It was desired, for example, to minimize the effects
+of mechanically induced turbulence on the wind struc-
+ture, and for that reason canyon reservoirs were
+deemed unsatisfactory. A deep lake was desired to
+avoid the problem connected with the penetration of
+solar radiation to the lake bottom.
+	The requirements established for the lake were
+as follows, in order of importance:
+
+
+	1. Water Budget
+
+	a. The error in the monthly difference between
+total inflow and outflow, including both surface and
+subsurface flows, and allowing for changes in storage
+(including bank storage), must be less than 5 per cent
+of the best existing estimate of the mean monthly
+evaporation loss. Inflow and outflow preferably should
+be as small as possible during the period of high
+evaporation.
+	b. Infrequent short periods of storm inflow, dur-
+ing which the water budget cannot be determined
+with the accuracy required under 1a, can be tolerated.
+	c. Subsurface inflow and outflow must be neg-
+ligible compared with evaporation, unless it is known
+that they can be measured accurately.
+	d. Substantial bank storage is undesirable.
+	e. Transpiration losses must be small.
+	f. An accurate area-capacity curve is needed,
+but if not available, a hydrographic survey can
+be made.
+
+
+	2. Size
+
+	a. The minimum desirable dimensions are 3 miles
+in width and 5 miles in length, or the area should not
+be less than 10 square miles if the water body is
+nearly circular or if the longer dimension is in the
+direction of the prevailing summer winds.
+	b. The maximum desirable size is 50 square
+miles if the lake is nearly circular, and otherwise 30
+square miles.
+
+
+	3. Shape
+
+	a. A circular shape is ideal. A very irregular
+shore line is unsatisfactory; an irregular shore line
+downwind is not so objectionable as one upwind.
+A long, narrow lake is not satisfactory.
+	b. An unobstructed expanse of water (few or no
+islands) extending 5 miles in the direction of the pre-
+vailing summer winds is desirable.
+
+
+	4. Depth
+
+	a. At least 80 per cent of the lake should be
+more than 5 feet deep (and preferably more than 10
+feet). A deep lake is desirable.
+	b. Playa lakes should be considered if they
+meet all requirements except depth.
+
+
+	5. Topographic Setting
+
+	a. Low relief is preferable; lakes in canyons are
+not satisfactory.
+	b. The drainage area preferably should be small.
+
+
+	6. Location and Climate
+
+	a. An arid region is preferable.
+	b. There should be fairly long periods of no
+rainfall during the season of high evaporation, but
+infrequent storms are not objectionable.
+	c. It is preferable, but not essential, that the
+lake remain unfrozen in the winter.
+	The search for a lake suitable for the study has
+already been discussed (Harbeck et al., 1951). The
+Geological Survey district offices in the western states
+and the Bureau of Reclamation regional offices were
+furnished copies of the specifications and were asked
+for recommendations. Their comments were also solic-
+ited on the suitability of lakes that appeared, on the
+maps available, to approach the desired size and
+
+
+	* Hydraulic Engineer, Water Resources Division, U.S.
+Geological Survey.
+
+
+302520 O - 54 - 2       5

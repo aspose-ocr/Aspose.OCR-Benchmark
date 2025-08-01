@@ -1,0 +1,33 @@
+7.  EFFECTS OF UNES ON FAULTS
+
+UNEs have been known to trigger release of natural tectonic strain, partic-
+ularly for large tests (1 Mt).   Since the Buckboard area is reserved for 
+future weapons tests as large as 700 kt, and since the southern end of that 
+test area is about 23 km from the reference site for the surface facili-
+ties, concerns naturally arise about the potential for inducing displace-
+ment on faults in the site vicinity due to future testing in the Buckboard 
+area.
+
+This topic was addressed in a previous report by URS/Blume (1985).  Seismic 
+fault rupture and aftershocks triggered by UNEs were the subject of some of 
+the literature on UNEs at the NTS and in the central Nevada testing area 
+(Aki et al., 1969; Bucknam, 1969; Dickey, 1968; Hamilton and Healy, 1969; 
+McKeown and Dickey, 1969; Wallace et al., 1983).   A brief review of this 
+literature indicates that, beyond 5 to 10 km from surface ground zero, no 
+significant seismic strain releases or related effects are likely to be 
+induced by even the largest UNEs (about 1 Mt).  Since the nearest active or 
+proposed UNE testing area is more than 23 km from the site, induced fault-
+ing or fracturing is not a credible threat to the proposed underground re-
+pository or its surface facilities (URS/Blume, 1985).
+
+This subject was also addressed at a workshop convened by Science Applica-
+tions International Corporation (SAIC) for the purpose of discussing tec-
+tonic stability and expected ground motion at Yucca Mountain (SAIC, 1985).
+The workshop participants reviewed much of the same literature reviewed by 
+URS/Blume (1985) and noted similar observations regarding the confinement 
+of induced strain release to the near vicinity of ground zero.   Recordings 
+of explosions at distances beyond a few kilometers from ground zero some-
+times reveal waves induced by tectonic releases; however, the participants 
+concluded that such effects were unlikely to be significant in recordings 
+for a 700 kt explosion at a distance of 23 km.
+73-74

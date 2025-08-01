@@ -1,0 +1,53 @@
+2.4.1 ROCK MECHANICS  
+
+The rock-mechanics task is concerned with obtaining field and laboratory 
+data on the thermal and mechanical properties of the host rock (see issue 
+1.3 in Chapter 1 of Part II) and developing mathematical models for predicting 
+the response of the host rock to the construction of shafts, the excavation of 
+the repository, and the emplacement of heat-generating radioactive waste.   
+
+Basalt  
+
+In basalt, a heated-block test has been conducted.  The results will be 
+used to analyze the modes in which underground openings can fail.  In parallel 
+with a continuing laboratory testing program, hydrofracture field tests on 
+candidate basalt flows are being conducted to measure in-situ stress.  In ad-
+dition, tests of thermal expansion and rock-mass strength are being conducted 
+to amplify the geotechnical data base.   
+
+Before starting the exploratory-shaft program (see Section 2.3), sensi-
+tivity studies of stress and displacement around underground openings will be 
+conducted to select geotechnical design parameters.  The results of these 
+studies will be used in defining laboratory and field test programs for the 
+exploratory shafts.   
+
+Salt  
+
+The material properties of salt are being obtained from testing rock 
+cores in the laboratory and from field tests.  Studies of ongoing deformation 
+processes have been undertaken and are in progress.  Diapiric evolution of 
+salt domes has been studied by both physical and numerical modeling techni-
+ques.  In addition, the instability due to more dense liquid overlying a less 
+dense liquid in a gravity field is being studied.  This instability is an ana-
+log of a more dense rock overlying a salt bed.  A study of this type, known as 
+a Rayleigh-Taylor instability study, is being conducted.  In addition to these 
+modeling efforts, field data have also been used.  Thermomechanical testing 
+has determined the strength and deformational characteristics of salt from 
+proposed repository horizons and of various rock units above and below the 
+horizons.  Constitutive models that treat the thermomechanical response of 
+materials under expected repository conditions have been formulated.  Specifi-
+cally, the parameters for salt creep, the compressive and tensile strengths of 
+salt, and the elastic properties of salt have been determined.   
+
+At present, the salt studies are developing an adequate data base of 
+physical properties to compare the seven salt sites from a geoengineering 
+perspective.  The rates of room closure, the quantities of brine transported 
+to the waste packages, rock stresses acting on the package, and similar quan-
+tities are being estimated by means of predictive models that use physical 
+properties determined in the laboratory and in the field.   
+
+Data on rock-mass properties will be investigated in FY85 and future 
+years.  The impact of bedding planes, interbeds, inclusions, jointing, faults, 
+and folds on the response of the rock mass can control the design of the 
+underground facilities.  The results of field tests (e.g., heated-core jack
+-219-

@@ -1,0 +1,41 @@
+Need for Thermal Analysis
+
+  Many aspects of waste package design and testing depend in part on the
+temperature environment to which the emplaced packages will be exposed.
+Information produced by thermal analysis is needed for the following reasons.
+
+~	To demonstrate that designs will not exceed maximum temperature
+	criteria for the various waste forms: 773 K (500~C) for Defense High
+	Level Waste (DHLW) glass, 673 K (400~C) for Commercial High Level
+	Waste (CHLW) glass, and 623 K (350~C) for Spent Fuel (SF);
+
+~	To provide projected temperature ~istories for materials selection;
+
+~	To assist in the verification of the performance analysis code, WAPPA
+	[1];*
+
+~	To provide temperature boundary conditions for the performance
+	analysis code;
+
+~	To provide the temperature environment for transportation, handling,
+	storage and retrieval analyses;
+
+~	To calculate approximate time periods of steam/water contact with
+	waste package;
+
+~	To provide temperature histories for corrosion testing;
+
+~	To provide temperature ~istories for waste form leach testing;
+
+~	To provide temperature histories and boundary conditions for very
+	near field steam/air/water porous flow calculations;
+
+
+* (WAPPA is a one-dimensional code designed to calculate the corrosion and
+leaching of the various waste package components and to calculate the eventual
+~reaching and the release rate to the repository. WAPPA consists of five
+process submodels including the radiation, thermal, mechanical, corrosion and
+leach submodels).
+
+
+- 2 -

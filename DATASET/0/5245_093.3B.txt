@@ -1,0 +1,36 @@
+Health Effects Incidence Rates
+
+The health effects incidence rates are used in AMRAW-B to convert
+population dose rates by organ to health effects by organ, which are then 
+totaled. Health effects are generally synonomous with hypothetical
+cancer deaths.
+
+Table 6-8 tabulates the health effects incidence rates used in
+AMRAW-B. The lower and upper range values are taken from the DOE Generic
+Environmental Impact Statement [DOE, 1979b]. The lower values are
+"considered appropriate for comparison with the estimated risks of other
+energy technologies..." while the upper values may be more appropriate
+for radiation protection considerations. Leukemia values are taken from
+the United Nations Scientific Committee on the Effects of Atomic
+Radiation (UNSCEAR) report to the U.N. General Assembly [United Nations,
+1977] but are incorporated under bone because the dose commitment factors
+for bone and bone marrow are almost identical for most nuclides.
+Incidence rates for the gastrointestinal tract are calculated as 20% of 
+all nonleukemic cancers, according to the BEIR report of the National
+Academy of Sciences [NAS, 1980]. Total body incidence rates account for
+other cancers, such as liver and breast, not specifically identified by
+organ. An approximate overall incidence rate which has been used for
+guidance for many years is 200 health effects per 106 man-rem. The lower
+range used in this study represents about one-half the guidance value and
+the upper range represents about four times the guidance value.
+
+6.4.3 Results
+
+The total activity, in curies, released in the airborne volcanism
+component is listed in Table 6-9 for each of the two release times and
+for each of the two types of repository inventories. This activity is
+dispersed in accordance with the deposition contours for a unit release
+in Figure 6-4. Also listed in Table 6-9 are corresponding volume and
+mass concentrations in the airborne particles. As described earlier, it
+is assumed that the inventory fraction in the airborne component is in
+77

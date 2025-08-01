@@ -1,0 +1,50 @@
+76
+REFERENCES
+
+1.   F. Press, chairman, A Study of the Isolation System for Geologic
+     Disposal of Radioactive Wastes, Nat. Res. Council, Nat. Acad. 
+     Press, Washington, D.C., 122-138 (1983).  
+
+2.   B. Allard, "Solubilities of Actinides in Neutral or Basic Solu-
+     tions", Actinides in Perspective, N. Edelstein, ed., Pergamon 
+     Press, London, 553-580 (1982).   
+
+3.   J. D. Moody, Radionuclide Migration/Retardation, Research and 
+     Development Technology Status Report ONWI-321, Office of Nuclear 
+     Waste Isolation, Battelle Memorial Institute, Columbus, Ohio, 
+     1982.   
+
+4.   J. Fuger and F. L. Oetting, The Chemical Thermodynamics of Acti-   
+     nide Elements and Compounds, Part 2, the Actinide Aqueous Ions, 
+     Int. Atomic Energ. Agency, Vienna, 1976.   
+
+5.   C. F. Baes, Jr. and R. E. Mesmer, The Hydrolysis of Cations, 
+     Wiley, New York, 1976.   
+
+6.   C. F. Baes, Jr. and R. E. Mesmer, "The Thermodynamics of Cation 
+     Hydrolysis", Amer. J. Science, 281, 935-962 (1981).   
+
+7.   H. C. Helgeson, "Thermodynamics of Hydrothermal Systems at Ele-
+     vated Temperatures and Pressures", Amer. J. Science, 267, 729-804 
+     (1969).   
+
+8.   C. M. Criss and J. W. Cobble, "The Thermodynamic Properties of  
+     High Temperature Aqueous Solutions. V.  The Calculation of Ionic 
+     Heat Capacities up to 200~C", J. Am. Chem. Soc., 86, 5390-5393 
+     (1964).   
+
+9.   C. M. Criss and J. W. Cobble, "The Thermodynamic Properties of 
+     High Temperature Aqueous Solutions. IV.  Entropies of Ions Up to 
+     200~ and the Correspondence Principle", J. Am. Chem. Soc., 86, 
+     5385-5390 (1964).   
+
+10.  W. M. Latimer, Oxidation Potentials, Prentice-Hall, Englewood 
+     Cliffs, N. J., 359-369 (1952).   
+
+11.  G. N. Lewis and M. Randall, Thermodynamics and the Free Energy 
+     of Chemical Substances, McGraw-Hill, New York, 71-82 (1923).   
+
+12.  J. C. Westall, J. L. Zachary and F. M. M. Morel, MINEQL, A 
+     Computer Program for the Calculation of Chemical Equilibrium 
+     Composition of Aqueous Systems, Techn. Note 18, Dept. Civil Eng., 
+     Mass. Inst. Techn., Cambridge, 1976.

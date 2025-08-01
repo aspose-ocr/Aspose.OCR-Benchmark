@@ -1,0 +1,55 @@
+XII-2   DOE 6430.1
+
+
+12-12-83
+
+
+  (1)	Chapter I, "Environmental Protection, Safety and Health Protection
+	Standards," for specific regulations, standards, and guides appli-
+	cable to design of pollution control systems and facilities.
+
+  (2)	Chapter XI, "Requirements for Radiation Protection."
+
+  (3)	Chapter XII, "Prevention, Control, and Abatement of Environmental
+	Pollution."
+
+g. DOE 5481.1A, SAFETY ANALYSIS AND REVIEW SYSTEM, of 8-13-81.
+
+h. DOE 5700.6A, QUALITY ASSURANCE, of 8-13-81.
+
+3. PLANNING. The following should receive early attention in the planning phase
+   in order to provide an overall cost-effective solution to the protection of
+   the aquatic environment and water supply sources, both surface and underground:
+
+   a.	Alternate Production Flow methods. In the case of new DOE production/
+	manufacturing facilities, there may be alternate production flow methods
+	which may have different effects on the waste stream characteristics.
+	Waste treatment costs, manpower requirements, and so forth should be
+	factored into production method decisions in the planning stage. Water
+	use management principles shall be applied to reduce water consumption
+	(and volume of wastes) whenever technologically feasible.
+
+   b.	Recycle and/or Recovery of Waste Streams. Zero discharge of pollutants
+	is the Congressional goal expressed in the Federal Water Pollution
+	Control Act. In order to meet Congressional intent, it is necessary
+	to consider recycle/recovery techniques for the entire waste stream
+	or for constituent parts.
+
+   c.	Alternative Waste Treatment Techniques. In those instances where effluent
+	treatment is required prior to discharge to receiving streams, alternate
+	treatment systems should be evaluated. The Federal Water Pollution
+	Control Act requires "best available" treatment by 1983, as determined by
+	the Environmental Protection Agency (EPA). Factors to be evaluated and
+	negotiated with EPA include capital costs, operating costs, simplicity of
+	facility operations, facility compatibility with site, and sludge
+	generation and disposal.
+
+   d.	Disposal of Solids Generated During Liquid Effluent Treatment. Since
+	effluent treatment in many cases consists of converting liquid waste
+	into solid waste, careful consideration shall be given to sludge disposal.
+	Sludge toxicity, solubility, and so forth may make ordinary landfill
+	disposal unsuitable. Therefore, techniques such as stabilization, biode-
+	gradation or biosphere isolation may be required. Protection of ground and
+	surface water is particularly important in these evaluations and is
+	required pursuant to the Clean Water Act, Safe Drinking Water Act, and the
+	Resource Conservation and Recovery Act.

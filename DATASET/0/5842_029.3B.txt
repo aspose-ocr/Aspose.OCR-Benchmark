@@ -1,0 +1,49 @@
+18                ADSORPTION, ~~RFACE AR~A AND POROSITY
+
+
+double layer formed between the free electrons at the metal surface and a
+corresponding inner positive charge. This contribution to the potential
+energy may again be written
+
+
+where F and ~ have the same meanings as before.
+  It seems likely that with certain adsorbates (e.g. saturated hydrocarbons)
+on metals, the electrostatic contribution may actually constitute the major
+portion of the total adsorption energy (ca 5~00 kcal mole-1); but with non-
+polar molecules adsorbed on insulators it is probably quite small (e.g. for
+argon on potassium chloride, U(~) is probably about 0~250 kcal mole-1)
+except on particularly active spots such as the edges or corners of crystals,
+or regions of crystal imperfection.
+  From consideration of equation (1.7) it is clear that if adsorption involves
+predominantly dispersion forces, the adsorption energy will be numerically
+high in crevices and pores of the solid, where each adsorbate molecule is
+close to an enhanced number of atoms of the solid. Calculations by de Boer
+and Custers(29) showed that the maximum enhancement is to be expected
+in long and narrow capillaries and in small spherical cavities; and that the
+interaction potential has its lowest value for a molecule situated on the top
+of a projection. Adsorption should therefore occur preferentially in the
+smallest pores of the solid.
+  The picture is different, however, if the electrostatic contribution is
+considerable and the face of the crystal is heterionic (i.e. if positive and
+negative ions alternate there, as in the 100 face of potassium chloride). Within
+a narrow pore the alternating positive and negative charges will tend to
+compensate each other so that the electrostatic field will be weakened
+whereas on a prominence the cancellation effect will be much less~. Thus
+the dispersion and electrostatic potentials will be affected in opposite senses
+by the prominences and depressions, so that the force field over the surface
+as a whole will tend to be smoothed out: the tendency of the adsorbate
+molecules to seek out the fine pores and to shun the prominences will be
+diminished.
+
+Adsorption Forces-~Conclusion
+
+The general picture which emerges from our consideration of physical
+adsorption forces acting between a solid and a molecule of adsorbate gas or
+vapour, is somewhat as follows: dispersion forces are always present and,
+unless the adsorbate molecule possesses a strong dipole moment, will
+represent the major contribution to the total energy of adsorption. Their
+dependence on distance is such that the first layer of adsorbed molecules will
+be strongly held, and higher layers more weakly so with an energy not much
+
+
+~ See footnote on opposite page.

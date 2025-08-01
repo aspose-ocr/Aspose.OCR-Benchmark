@@ -1,0 +1,57 @@
+	Conservative assumptions were used in all of the computer analyses
+reported here.  The characteristics of fractures are difficult to model; for
+these analyses the fractures were modeled as planar, ubiquitous, and non-
+intersecting.  Models are being developed to better understand the influence
+of fractures.  The current models also rely on sequential, rather than fully
+coupled, calculations.  Often, averaged properties were used in the evalua-
+tions.  Whenever possible, average and bounding properties were determined by
+statistical analysis.
+
+	Some geologic uncertainty arises because the data are derived from
+surface mapping and a limited number of boreholes.  Nevertheless, the three-
+dimensional geologic model of Yucca Mountain is reasonably complete (Nimick
+and Williams, 1984).  The material properties of the stratigraphic units are
+determined from cores typically 5 centimeters (2 inches) or less in diameter.
+Because the sample size is small, the known properties are mainly limited to
+those of the matrix rather than the rock mass.  Also because of the small
+sample size, discontinuities present in the rock mass are not necessarily
+included in the sample.  Some of the thermal and mechanical matrix properties
+are relatively well known because a large number of samples have been
+measured.  In these instances, the data have been statistically analyzed to
+yield average values and standard deviations.
+
+	Quantitative and qualitative analyses are used in the discussion of the
+favorable and potentially adverse conditions.  The quantitative analyses used
+computer models to predict the thermal and thermomechanical behavior of the
+rock units.  Qualitative and semiquantitative analyses were used to predict
+mineralogical responses to the heat emitted by the waste decay, the thickness
+and lateral extent of the host rock, and the relation of rock characteristics
+to engineering requirements.
+
+	The uncertainty introduced by the computer models is poorly known at
+present.  Evaluations are under way to investigate this uncertainty by com-
+paring the results of different models solving the same problem.  The models
+are also being used to predict and compare the results of specific experi-
+ments and field tests.
+
+	The preliminary assessment of possible halide concentrations in the
+repository environment are based on incomplete investigations that will be
+continued during site characterization, as will the early investigations of
+radiation-related phenomena.
+
+
+
+6.3.1.3.3	Favorable conditions
+
+	(1)  A host rock that is sufficiently thick and laterally extensive
+	to allow significant flexibility in selecting the depth, configura-
+	tion, and location of the underground facility to ensure isolation.
+
+Evaluation
+
+	Four potential emplacement horizons in Yucca Mountain have been evaluated
+(Johnstone et al., 1984), and the unsaturated densely welded devitrified
+portion of the Topopah Spring Member has been selected as the preferred
+
+
+				6-211

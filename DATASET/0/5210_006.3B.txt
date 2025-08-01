@@ -1,0 +1,23 @@
+130	NEVADA TEST SITE
+
+
+  Figure 3. Static Young's modulus as a function of sonic log traveltime for volcanic
+rocks at a site in Alaska.
+
+
+obtained, they were recorded over relatively long intervals. Comparisons with
+core values such as shown in Figures 2 and 3 were not appropriate because
+of the large volumes of rock involved. However, full-wave acoustic logs permit
+examination of shear velocities and dynamic moduli on a much smaller scale.
+This enables comparisons of small-interval in situ readings with core values
+obtained in the laboratory.
+  Although data obtained from the 3-D log yield sufficient information on
+elastic constants without resorting to logs other than density, it is desirable
+for several reasons to attempt to relate these data to another log or less elabo-
+rate combination of logs. This arises from the difficulty at times in obtaining
+a shear velocity. To obtain the dynamic moduli, a shear velocity is needed.
+Occasionally in the borehole the attenuation characteristics of the medium are
+such that a shear wave is hard to discern on a 3-D log. In addition, the density
+log is not always easily obtained due to borehole effects.
+  Of the three variables -~ shear and compressional wave velocity and den-
+sity -~ required to calculate dynamic moduli, the measurement most easily

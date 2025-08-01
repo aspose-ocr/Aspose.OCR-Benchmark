@@ -1,0 +1,50 @@
+
+3.6 Regional Hydrologic Reconnaissance of Candidate Area and Site
+Describe the regional hydrogeologic framework and regional ground-water
+flow systems and their boundaries.*
+3.6.1 Hydrogeologic Units
+Present a hydrogeologic column of the region in a form as detailed as the
+information allows. Include the principal hydrogeologic units (includes both
+confining units and aquifers), their stratigraphic relationships, lithology,
+generalized potentiometric levels for a given time and location, and hydrologic
+characteristics. The terminology should be consistent with the terminology
+used in the regional stratigraphic column presented in Section 1.2. A hydro-
+geologic map of the candidate area should be presented indicating areal extent
+of the regional hydrogeologic units and unit interfaces and data points.**
+Cross sections should be provided where appropriate.
+3.6.2 Relationships Among Hydrogeologic Units
+Describe the relationships among the regional hydrogeologic units. The
+principal relationships sought are potentiometric levels, recharge-discharge
+and leakage, hydrochemical facies, hydrologic interconnection between units
+(fractures, faults, etc.) and ground-water residence times. References should
+be made to the hydrogeologic map and to the cross sections presented in
+Section 3.6.1.
+3.6.3 Potentiometric Level
+Define the time history and areal distribution of measured potentiometric
+levels of each principal hydrogeologic unit. The method of presenting the
+data can include hydrographs, potentiometric contour maps, and graphs to
+identify the characteristic fluctuations resulting from the various types of
+recharge-discharge (i.e., seasonal precipitation and evaporation fluctuations,
+seasonal pumping variations, seasonal response to surface-water bodies, etc.).
+Potentiometric surface maps should include such information as the location of
+the monitoring wells, hydrogeologic unit boundaries, surface-water bodies, and
+specific well information (i.e., perforation interval and elevations, total
+depth history, casing, method of well completion, etc.).
+3.6.4 Hydraulic Characteristics of Principal Hydrogeologic Units
+For each of the principal hydrogeologic units, provide the ranges, mean
+values, and methods for determining the principal hydraulic characteristics
+such as horizontal and vertical hydraulic conductivity, storage coefficient,
+effective porosity, and saturated thickness. Also include a discussion of the
+appropriateness of assuming Darcian flow conditions in the various hydrogeologic
+units.
+
+
+*Definitions of ground-water terminology used in this chapter are consistent
+with U.S. Geological Survey Water Supply Paper No. 1988, "Definitions of
+Selected Ground-Water Terms - Revisions and Conceptual Refinements" (1972).
+**Use, where practicable, internationally recognized map symbols (UNESCO,
+International Legend for Hydrologic Maps, Paris, France, 1970).
+
+
+17
+

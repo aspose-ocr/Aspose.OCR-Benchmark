@@ -1,0 +1,50 @@
+REFERENCES CITED
+
+Albers, J. P., 1967, Belt of sigmoidal bending and right lateral faulting in
+     the western Great Basin: Geological Society of America Bulletin, v. 78, 
+     no. 2, p. 143-156.  
+Barnes, D. F., Oliver, H. W., and Robbins, S. L., 1969, Standardization of
+     gravimeter calibrations in the Geological Survey:   Eos (American
+     Geophysical Union Transactions), v. 50, p. 526-527.  
+Boynton, G. R., and Vargo, J. L., 1963, Aeromagnetic map of the Topopah Spring
+     quadrangle and part of the Bare Mountain quadrangle, Nye County,
+     Nevada:  U.S. Geological Survey Geophysical Investigations Map GP-440,
+     scale 1:62,500.  
+Byers, F. M., Jr., Carr, W. J., Orkild, P. P., Quinlivan, W. D., and Sargent, 
+     K. A., 1976, Volcanic suites and related cauldrons of Timber Mountain-
+     Oasis Valley caldera complex, southern Nevada: U.S. Geological Survey 
+     Professional Paper 919, 70 p. 
+Cady, J. W., 1980, Calculations of gravity and magnetic anomalies of finite- 
+     length right-polygonal prisms:  Geophysics, v. 45, p. 1507-1512.  
+Carr, W. J., and Quinlivan, W. D., 1968, Structure of Timber Mountain
+     resurgent dome, Nevada Test Site, in Eckel, E. B., ed., Nevada Test
+     Site: Geological Society of America Memoir 110, p. 99-108.  
+Carr, W. J., 1974, Summary of Tectonic and structural evidence for stress
+     orientation at the Nevada Test Site: U.S. Geological Survey Open-File
+     Report 74-176, 53 p. 
+Christiansen, R. L., Lipman, P. W., Carr, W. J., Byers, F. M., Jr., Orkild, P.
+     P., and Sargent, K. A., 1977, Timber Mountain-Oasis Valley caldera
+     complex of southern Nevada: Geological Society of America Bulletin, v.
+     88, p. 943-959.  
+Cornwall, H. R., and Kleinhampl, F. J., 1961, Geology of the Bare Mountain
+     quadrangle, Nevada:  U.S. Geological Survey Quadrangle Map GQ-157, scale
+     1:62,500.  
+Healey, D. L., Wahl, R. R., and Oliver, H. W., 1980, Death Valley sheet of
+     Complete Bouguer gravity map of Nevada: Nevada Bureau of Mines and
+     Geology Map 68, scale 1:250,000.  
+International Association of Geodesy, 1971, Geodetic references system 1967:
+     Special Publication 3, 116 p. 
+Jachens, R. C., and Roberts, C. W., 1981, Documentation of a FORTRAN program,
+     'isocomp', for computing isostatic residual gravity: U.S. Geological
+     Survey Open-File Report 81-574, 26 p. 
+Johnson, L.F., 1965, Crustal structure between Lake Mead, Nevada, and Mono
+     Lake, California: Journal of Geophys.  Research, v. 70, p. 2963-2872.  
+Kane, M. F., and Webring, M. W., 1981, A preliminary analysis of gravity and
+     aeromagnetic surveys of the Timber Mountain area, southern Nevada: U.S.
+     Geological Survey Open-File Report 81-189, 43 p. 
+Lipman, P. W., and McKay, E. J., 1965, Geologic map of the Tonopah Spring SW
+     quadrangle, Nye County, Nevada:  U.S. Geological Survey Geologic
+     Quadrangle Map GQ-439, scale 1:24,000.  
+Mabey, D. R., 1960, Gravity survey of the western Mojave Desert, California:
+     U.S. Geological Survey Professional Paper 316-D, p. 51-73.
+34

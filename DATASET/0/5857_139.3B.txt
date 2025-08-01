@@ -1,0 +1,51 @@
+137
+
+
+likely to be affected by radioactivity resulting from the
+peaceful uses of nuclear explosives. At the Nevada Test Site
+this section has developed a farming facility which is located
+approximately two miles downwind from the nuclear crater re-
+sulting from the July 1962 detonation of the 100 kiloton thermo-
+nuclear device, Project Sedan. This report presents results
+of a study to evaluate the uptake of tritium by selected crops
+which are important to Nevada's agricultural economy. To deter-
+mine the distribution of tritium from this detonation, a four-
+station transect was located along the axis from the Sedan crater
+to the farm facility. A graph of the 1968 tritium profile in
+the soil indicates a maximum concentration at a depth of approxi-
+mately 70 cm. This depth is closely correlated with the depth
+of the maximum desert rainfall penetration for this area. Prior
+to cultivation, the tritium concentration in the soil surface
+plow layer of the farm ranged from 11.4 to 26.5 pCi/ml of soil
+water or 0.21 to 0.42 pCi/g of dry soil. Comparisons made be-
+between radishes (Raphanus sativus), potatoes (Solanum tuberosum),
+sweet corn (Zea mays), bush beans (Phaseolus vulgaris), watermelons
+(Citrullus vulgaris), and onions (Allium cepa) grown on the Nevada
+Test Site farm and similar produce purchased in the local markets
+indicated a significant difference between the tritium concentra-
+tions at the 99~~~ confidence level. Many of the items purchased
+in the local markets were below the minimum sensitivity of the
+analytical system used in this study. The levels in the Nevada
+Test Site crops ranged from 2.0 to 3.0 pCi/g of dry tissue, or
+3.00 to 4.87 pCi/m of tissue water. Although the concentrations
+found are of little significance as far as total dose to humans
+is concerned, this study has indicated that tritium is available
+over considerable periods of time and does not leave the environ-
+ment via evaporation as has been suggested.
+
+188 MASON, B. J., K. W. BROWN, H. W. HOP and C. L. MILLER. 1973. Desert
+  vegetation uptake of tritium from Project Gasbuggy effluent. In:
+  (Nelson, D. J., ed.) Radionuclides in Ecosystems, Proc. Third
+  National Symp. on Radioecology (CONF-710501), p. 177-182. (NTIS,
+  Springfield, VA 22151)
+
+Tritiated water vapor released to the atmosphere by flaring of
+the natural gas taken from the Project Gasbuggy cavity provided
+a unique tracer for evaluating atmospheric distribution of the
+activity and its subsequent uptake by native desert plants.
+Maximum uptake in plants was related to the effects of major
+terrain features on wind flow patterns. The maximum concentra-
+tion of tritium was found to be in plants collected in the drain-
+age wind pattern at 10 miles from the release points, and activity
+was from 5-10 times background levels found in vegetation col-
+lected elsewhere in the Southwest. (TPO)

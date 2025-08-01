@@ -1,0 +1,54 @@
+the people living near the site will be most significantly affected, but they 
+also recognize that the hazards and impacts of transporting wastes are 
+national in scope.  Because the DOE's main goal in transportation is safety, 
+and the guidelines emphasize the role of safety, transportation safety is the 
+most important consideration in evaluating the sites. 
+  
+   The transportation of radioactive materials during the past 40 years has 
+been accomplished with an exemplary record of safety.  Models that are used to 
+estimate the radiological risks of transportation tend to generate extremely 
+low expected-risk values for the public because they rely on historical data.  
+When relative terms like "high" or "moderate" are used in this evaluation, 
+they must be considered in the context of the low overall radiological risk 
+from transportation.  The nonradiological risk is calculated under the 
+assumption that the probability of accidents for radioactive-waste shipments 
+can be represented by accident statistics for general commerce.  The DOE 
+believes that these accident statistics will overestimate the actual number of 
+deaths and injuries.  Other factors being equal, the site with the smallest 
+radiological hazard will also have the smallest nonradiological hazard. 
+  
+   Since the principal contributing factor in determining risk is the 
+distance traveled, a better site for this consideration is one that is close 
+to the sources of spent fuel and high-level waste.  Other contributing factors 
+that increase the favorability of sites are access and local routes that avoid 
+population centers, flat local terrain with good visibility, and regional 
+weather conditions that rarely cause hazardous road conditions.  It should be 
+noted that, regarding weather conditions, the DOE needs additional information 
+before determining the comparative favorability of the sites.  In contrast, 
+less favorable sites are distant from waste sources, must be reached by routes 
+that pass through population centers or rugged terrain, and are located in 
+regions where weather conditions often cause hazardous road conditions.  A 
+summary of transportation risk and cost calculations is presented in Table 
+7-16; the reader is referred to Appendix A for more-extensive analytical 
+results.  Table 7-17 presents the factors used to evaluate disruptions of the 
+environment and the cost of infrastructure.  A summary of the evaluation for 
+each site follows. 
+  
+   Davis Canyon is centrally located in the large region defined by the five 
+nominated sites, but it is more difficult to reach because of its remote and 
+rugged setting.  Access from existing highways and railroads is extremely 
+difficult, and there is a potential for landslides that could interrupt or 
+jeopardize shipments.  A long stretch of noninterstate highway must be 
+traversed before reaching the site.  From a national perspective, the relative 
+risk of transporting to Davis Canyon is moderate to high, but that risk has to 
+be considered along with the potential hazards near the site that could 
+further reduce the overall level of safety.  However, the added risk 
+associated with hazardous local access to the site is somewhat offset by the 
+remoteness of the site and the low population density in the area. 
+
+     The Deaf Smith site is convenient to major national highways.  The 
+distance from sources of spent fuel is low to moderate, and, as shown in Table 
+7-16, the level of relative safety is therefore moderate to high.  The terrain 
+surrounding the site is generally flat and poses no safety hazard.  The 
+population density around the site is low to moderate. 
+7-95

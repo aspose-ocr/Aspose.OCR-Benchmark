@@ -1,0 +1,41 @@
+5.0 APPLICATION OF THE CSIR AND NGI ROCK-MASS-
+    CLASSIFICATION SYSTEMS TO THE TUFF UNITS
+
+  This section describes the information available to rate the tuff
+units and discusses how a value was chosen for each of the parameters in
+the CSIR and NGI rock-mass-classification systems. Each subsection in
+this section discusses a particular classification parameter and is
+followed by a "Ratings" table (see List of Tables). The tables summarize
+the information available and list the numerical rating chosen for the
+particular parameter for each tuff unit. In this section, the parameters
+from both systems are ordered in three basic categories: strength-related
+parameters, joint-related parameters*, and groundwater-related parameters.
+Strength-related parameters are presented first and groundwater-related
+parameters last.
+
+  The CSIR and NGI systems each have one strength-related parameter.
+The CSIR system groups values for strength of intact rock to associate
+each group with a numerical rating. The uniaxial compressive strength
+for each of the tuff units and the CSIR rating chosen for each unit are
+described in Subsection 5.1.1. To rate competent rock, the NGI system
+uses a ratio of the uniaxial compressive strength to the in situ stress.
+The ratios are grouped and associated with a numerical rating called the
+Stress Reduction Factor (SRF). The strength-to-stress ratio and the
+associated SRF value of each of the tuff units are discussed in Sub-
+section 5.1.2.
+
+  Both the CSIR and NGI systems have numerous parameters for joint-
+related properties. These parameters are discussed in Subsection 5.2.
+In this subsection, the RQD values for the tuff units and the ratings
+chosen are discussed first (Subsection 5.2.1). Both classification
+systems use RQD. The CSIR system groups values for RQD and associates
+each group with a numerical rating. The NGI system uses the actual value
+
+
+* In this study, there is no differentiation between fractures and
+joints. "Joint" is the term most commonly used in both the NGI and
+CSIR systems to describe breaks in the rock. In this report, the two
+terms are used interchangeably.
+
+
+19

@@ -1,0 +1,41 @@
+traceable to the NBS) just prior to the test series. Calibration data for the load cell, axial
+LVDT and ring LVDT's are listed in Table D-1 (Appendix D, Table 1).
+
+  Calibrations of the experimental methods and the entire instrumentation setup were
+obtained prior to and following the experiments by testing a 6061-T651 aluminum cylinder
+(266.7 by 533.4 mm) of known mechanical properties (Young's modulus, E, of 69.7 GPa
+and a Poisson's ratio, ~, of .33). The aluminum calibration test data are listed in Table
+D-2 and plotted in Figure D-1. The limited amount of lateral strain data in the pretest
+series calibration (Table D-2) is due to a failure in the computer data-collection system,
+resulting in the acquisition of lateral and axial strain data on different backup time-based
+plotters.
+  
+  The test samples were water saturated by the method described in Appendix C. Each
+saturated sample weighed approximately 580 N; consequently, they were carefully lifted
+out of the saturation tank and carried over to the test apparatus with an overhead crane.
+Each sample was then positioned between steel end pieces (caps), the sample assembly
+placed between the loading ram and the load cell, the axial LVDT and ring gages mounted,
+and the mechanical experiment begun.
+
+Experimental Results
+
+  Summaries of the mechanical property results are given in Table 6. The ranges of
+Young's moduli, Poisson's ratios, unconfined strengths and axial strains at failure are 10.9
+to 21.5 GPa, 0.13 to 0.21, 10.3 to 27.8 MPa and .0010 to .0015, respectively.
+
+  The differential stress-axial strain curves are presented in Figure D-2. The general
+shapes of the stress-strain curves are very similar to previously reported unconfined test
+results on samples of welded, nonlithophysal Topopah Spring Tuff (Price, Nimick and
+Zirzow, 1982; Price, Spence and Jones, 1984) and on samples of other Yucca Mountain
+silicic tuffs (Price, Jones and Nimick, 1982; Price and Nimick, 1982; Price and Jones,
+1982). In general, the curves exhibit an initial concave-upward portion, a linear region,
+a concave-downward portion and a downward break. These curve characteristics are
+interpreted to reflect crack closure and/or pore collapse, elastic deformation, material
+yield and macroscopic failure of the test specimen, respectively. Stress-strain results from
+all of the lithophysal samples (this report) and higher porosity nonlithophysal samples
+(earlier reports listed above) tend to reflect macroscopic sample failure by a gradual
+decrease in the slope of the stress-strain curve beginning at approximately 75-90 percent
+of ultimate stress, and then strain soften sharply following the ultimate stress. This is in
+
+
+24

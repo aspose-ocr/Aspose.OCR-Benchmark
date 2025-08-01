@@ -1,0 +1,47 @@
+7.5.48
+For the long rooms, extendible conveyors in each room transfer the mined salt to 
+roofsuspended main line conveyor systems that transport the salt to an underground bin.   
+A reclaim conveyor beneath the storage bins is fed by vibratory feeders that are auto-
+matically controlled.   The salt is held in a surge bin before being conveyed to skip 
+hoists for removal to the surface.    
+
+In the short room system, the constraints on mine geometry require that a loader and 
+truck method that is more flexible be used for the mining operation.   Trucks transport the 
+mined salt from the rear of the continuous mining machine to the branch corridor conveyors, 
+which are frequently extended so that truck haulage distances are kept as short as 
+possible.   The branch corridor conveyors then transfer the salt to the main line conveyor.    
+
+Electrically-operated trucks could be used in the rooms, but the haulage distances 
+are fairly long for trailing cables, and trolley wire systems are not practical for 
+continuous mining systems.   Therefore, diesel trucks are used for this operation.  Normally, 
+two trucks operate behind one mining unit, but often in restricted areas, only one truck 
+can operate efficiently.   On very long hauls three or more trucks may be used.   
+
+~ Conventional drilling and blasting techniques are used to mine all corridors, rooms, 
+service areas and ventilation corridors for repositories located in shale, basalt and
+granite.   A mining cycle consists of drilling the drift face, loading the holes with 
+explosives, blasting, and after allowing time for fumes to clear, muck removal.   Drilling 
+is performed by jumbos equipped with electric hydraulic drills.   The drilling crew drills 
+between 60 and 90 5-cm (2-in.) diameter holes per face, depending on the size of each 
+face.   The hole length is 3.3 m (11 ft) which allows the breaking of 3 m (10 ft) of 
+ground.   When the drilling of a face is completed, the drill crew moves to a second 
+face and commences work while preparations for blasting are being made at the first face.    
+
+At the first face drilled, a blasting crew loads the holes with a round of explosives 
+and the round is blasted.   While the fumes clear, the blasting crew moves on to another 
+face that already has been drilled.    
+
+After the fumes have cleared, a mucking crew begins removing the blasted rock. The 
+mucking crew uses a rubber-tired front-end loader equipped with a 4.6-m3 (6-yd3) rock 
+bucket to load the broken rock into 32-MT (35-ton) 17-m3 (22-yd3) dump-trucks and when 
+the rooms are being mined, the rock is sent down the branch corridor toward the main 
+corridor system.   A grizzly located at the end of the branch corridor (just off to the 
+side of the main corridor) uses a hydraulic breaker to reduce the size of the material.   
+All the broken rock passing through the grizzly is dropped through a vertical opening 
+excavated in the rock.   When mining corridors and ventilation drifts, the broken rock 
+is dropped into the nearest chute.    
+
+From the control chute, the broken rock is fed into rail cars and transported to a 
+centrally located rock crusher.   The crushed rock (maximum 0.2-m (8-in.) material) is fed 
+onto a conveyor located below the crusher discharge.   The conveyor carries the crushed 
+rock up a 25% incline slope and discharges it into a storage bin which acts as a surge

@@ -1,0 +1,6 @@
+atmospheric pressure and room temperature. All of the samples exhibited 
+an axial stress-axial strain behavior resulting in macroscopic brittle 
+failure. The resultant unconfined compressive strengths, axial strains to 
+failure, Young's moduli and Poisson's ratio ranged from 14.5 to 69.2 MPa, 
+.0029 to .0052, 5.17 to 22.5 GPa and .09 to .38, respectively.
+11

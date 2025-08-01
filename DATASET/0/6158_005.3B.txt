@@ -1,0 +1,44 @@
+R. M. Zimmerman         -5-            December 11, 1985
+
+
+Zimmerman and Vollendorf (1982) observed that the relationship between
+~Qh and ~D approached linearity only at higher values of Qh.
+They chose to use the range of Qh of 48 to 65.5 MPa (7000 to 9500 psi)
+to calculate ~Qh/~D.  If the same pressure range is used to
+calculate corrected values of Et, the result is Et = 17.56 ~~
+8.13 GPa.  This mean value is 65 percent higher than the uncorrected 
+mean from Zimmerman and Vollendorf (1982).
+
+Historically, the test data to be used in calculating Ec have been
+selected to be those comprising the most linear portion of the
+~Qh-versus-~D curve.  Patrick et al. (1985) chose to use the
+criterion of linearity to define a range of ~Qh rather than the
+~Qhmin procedure advocated by Heuze and Amadei (1985) because the
+latter seemed to accept or reject data on a random basis and was
+therefore ineffective.  The preceding paragraphs indicate that the mean
+value of Et for the Grouse Canyon Member varies from 14.7 to 17.6 GPa,
+depending on which choice of ~Qh data is made.  For the tests on the
+Grouse Canyon Member, the data were no more or less linear using the
+48-65.5 MPa pressure range than they were using the pressure range
+determined using the ~Qhmin procedure.  Therefore, because a strong
+case cannot be made for preferential use of either the criterion of
+linearity or the ~Qhmin procedure to select the appropriate range of
+~Qh, the conclusion is made that the mean value of Et lies in the
+range of 14.7 to 17.6 GPa.
+
+FBN:6313:1298k:mjs
+
+Copy to:
+6310  T. O. Hunter
+6313  T. E. Blejwas
+6314  J. R. Tillerson
+6314  S. Bauer
+6313  F. B. Nimick
+6310  64-12421-1.7/QIII
+6310  DRMS F01.A-01/01/81
+
+
+33
+
+
+

@@ -1,0 +1,39 @@
+repetition of these events at the same locations could conceivably result in
+local salt build-up. When the container surface temperature has cooled to
+below the boiling point, further wetting at locations of salt build-up could
+lead to a concentrated electrolyte. This concentrated electrolyte could only
+result from a sequence of low probability events; however, observing the
+performance of candidate container materials under such environmental
+conditions is instructive and is also necessary for selection of a successful
+candidate material that will meet regulatory requirements for long-term
+integrity of the container.
+
+  In this paper, initial results are reported on the in-situ electrochemical
+characterization of the response of 304L and 316L to gamma-irradiated
+groundwater that is regional to the potential tuff repository site.
+Open-circuit potential measurements and anodic polarization curves were
+obtained under gamma irradiation. The major species responsible for the
+observed electrochemical changes is shown to be radiolytically-generated
+H2O2. Initial assessment of the effect of radiolysis on corrosion
+mechanisms (e.g., pitting resistance) of 316L is given. The electrochemical
+mechanisms leading to the observed corrosion potential behavior under gamma
+irradiation are explored. Despite the fact that this study was site-specific,
+the principal mechanisms and the general results should be applicable to any
+near-neutral (or somewhat alkaline) aqueous system with low concentrations of
+solute species.
+
+Experimental
+
+  Austenitic stainless steels 304L and 316L were used in the solution
+annealed condition. The compositions of the alloys used are given in Table
+1. Rods of these materials 0.318 cm in diameter by 15.2 cm in length were
+used as working electrodes. All samples were polished with the sequence 600
+grit SiC, 5~, 1~, 0.3~ and ending in 0.05~ Al2O3 slurries prior to
+use.
+
+  The groundwater used in these experiments was obtained from well J-13,
+which is located near the repository site. The J-13 well penetrates the water
+table at a lower elevation than that of the proposed repository site. Water
+
+
+- 4 -

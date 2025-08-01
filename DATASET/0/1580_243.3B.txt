@@ -1,0 +1,40 @@
+learn to use. It is expected that applications of interest are pri-
+marily in the buckling capabilities.
+
+Sensitivity Analysis - None in available documentation.
+
+Code Verification - None in available documentation.
+
+Code Validation - None in available documentation.
+
+III. General Characteristics
+
+Operating Characteristics - The STAGS program comprises three separate
+executable programs, STAGS1, STAGS2, and STAPL. STAGS1 reads the input
+data cards prepared by the user and prepares files required to plot the
+discrete model and execute STAGS2. The STAGS2 program executes the
+numerical computations for static or dynamic analysis. The STAPL pro-
+gram prepares plots of the model geometry and solution data using files
+created by STAGS1 or STAGS2. Operating experience indicated that the
+local files created by STAGS1 containing model data were too bulky to be
+conveniently retained on disk-type permanent files. Accordingly, each
+execution of STAGS2 is preceded by an execution of STAGS1 with card
+format input. The program is written in FORTRAN.
+
+Inputs - The input quantities are very extensive because six analysis
+types are available. Over 120 pages are used to specify the input re-
+quirements from cards. In addition to the cards, STAGS can accept input
+in the form of user-written subroutines that extend the generality and
+complexity of the program. Those subroutines are described in 65 pages
+of the user's instructions volume.
+
+The input cards are in the following categories:
+
+~ Summary and control parameters
+
+~ Computational strategy parameters
+
+~ Data tables
+
+
+235

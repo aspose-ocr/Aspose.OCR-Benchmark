@@ -1,0 +1,58 @@
+	There are no permanent residents within 10 kilometers (6 miles) of the
+site and all land within this radius is currently federally controlled and
+not open to settlement.  Access to the NAFR and NTS is restricted.  Nye
+County, where the Yucca Mountain site is located, had a 1980 population
+density of 0.5 person per square mile (Table 3-26).  The nearest population
+center is located in the unincorporated Town of Amargosa Valley, whose
+residents are spread out in numerous small settlements within its estimated
+1,036 square kilometers (400 square miles) (Section 3.6.4.1.1).  Major
+population concentrations are located in the community formerly called
+Lathrop Wells, and now also called Amargosa Valley, approximately
+23 kilometers (14 miles) to the south; the Amargosa Farm Area, approximately
+37 kilometers (23 miles) to the south and the American Borate housing com-
+plex, roughly 45 kilometers (28 miles) to the south.  Population of these
+areas in 1984 was estimated to be 45, 1500, and 280 respectively (Smith and
+Coogan, 1984).  An estimate of the total population of the unincorporated
+Town of Amaragosa Valley is not available.
+
+	Beatty, located about 31 kilometers (19 miles) to the northwest had an
+1984 estimated population of 800 (Smith and Coogan, 1984).  Pahrump's 1984
+population was estimated to 5,500 (Smith and Coogan, 1984).  It is located
+slightly more than 80 kilometers (50 miles) to the southeast.  The nearest
+highly populated area is in the Las Vegas Valley area about 137 kilometers
+(85 miles) by air southeast of Yucca Mountain.  This is also the nearest
+1 mile by 1 mile area having a population of at least 1,000 individuals
+(Clark County Department of Comprehensive Planning, 1983).  All of the
+distances cited above are straight-line distances, not road distances.
+
+	Calculations for worst-case accident scenarios at Yucca Mountain have
+been completed.  Preliminary results of a safety assessment study are avail-
+able (Jackson et al., 1984).  This study assumes that a person could be
+temporarily in an area 4 kilometers (2.5 miles) from the surface facilities.
+Assuming this person to be the maximally exposed individual, preliminary cal-
+culations for an extremely severe and unlikely accident at the repository
+estimate that the worst-case maximum individual total-body equivalent dose
+would be 0.055 rem, (0.068 rem 50-year dose commitment).  For comparsion, the
+limit specified in 10 CFR Part 20 (1984) for normal operations is 0.5 rem per
+year for an individual in an unrestricted area.  The worst-case accident-
+related radiation exposure of the 19,908 people conservatively assumed, for
+purposes of estimating worst-case dose, to live within 80 kilometers (50
+miles) of the repository site at Yucca Mountain, is 110 man-rem, which is
+much less than the annual background-radiation external dose commitment of
+about 1,790 man-rem to the same number of people.
+
+	Radionuclides released to the environment can potentially be transported
+by both liquid and gaseous transport mechanisms.  At the Yucca Mountain site,
+surface-water transport mechanisms are not considered likely, because of the
+aridity of the climate and the absence of surface water.  The Yucca Mountain
+site is located in one of the most arid regions of the United States, with an
+average annual rainfall in the region of less than 150 millimeters (6 inches)
+(Quiring, 1965; Bowen and Egami, 1983).  The arid conditions allow very
+limited infiltration and recharge (Winograd and Thordarson, 1975; Montazer
+and Wilson, 1984).  Ground-water transport is not a reasonable release mecha-
+nism during the operation of the repository owing to the long ground-water
+travel  time that is expected in the unsaturated zone (Section 6.3.1.1.5).
+
+
+					6-114
+

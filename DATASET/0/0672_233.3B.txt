@@ -1,0 +1,39 @@
+Horizontally Layered Rock   223
+performed on cylinders with height (h) equal to twice the diameter; and hcrit is the 
+minimum height of a cubical specimen of pillar material such that an increase in
+the specimen dimension will produce no further reduction in strength. In experi-
+ments conducted by Bieniawski (1968), hcrit was 1 m (Figure 3.2.1). Equation 7.4 
+applies only for h ~~ hcrit.
+  Using square pillars in a room and pillar panel presents a long roof span at the
+intersections of rooms. If roof stability is a problem, then long pillars will be 
+warranted. Roof stability generally controls the width of rooms, whereas pillar 
+strength controls the relative separation of rooms. Roof stability can be critical in 
+horizontally layered rock.
+
+7.3 HORIZONTALLY LAYERED ROCK
+
+When horizontally bedded rock lies above the roof, the thinner strata near the 
+opening will tend to detach from the main rock mass and form separated beams. 
+The stability of such beams is great if there is a horizontal stress and the span-to-
+thickness ratio is fairly small. Thin beds just above the opening will tend to fall 
+down unless there is immediate support in the form of rock bolts or sets.
+  Figure 7.6 shows models of progressive failure of the roof of an opening with 
+horizontally bedded rock. First, a relatively thinner beam in the immediate roof
+separates from the rock above, flexes downward, and cracks on its upper surface 
+at the ends, and on the lower surface in the middle. The end cracks occur first but 
+are invisible underground. The inclined stress trajectories in the ends of the beam 
+direct the crack propagation diagonally. Collapse of the first beam leaves canti-
+levers as abutments for the next beam so each layer above the roof has, in effect, 
+a progressively smaller span. Continued failure and fall of beams eventually 
+produces a stable, trapezoidal opening, a shape which could be selected for civil 
+engineering applications in such rock. The beams are greatly strengthened by 
+horizontal stress, up to about one-twentieth of the Euler buckling stress (~2Et2)/
+(3L2) in which E is Young's modulus, t is the thickness of the beam, and L is the 
+span (Duvall, 1976). Assuming the roof acts like a clamped beam, the maximum 
+tensile stress occurs at the top surface near the ends.
+with the above constraint that ~h < ~2Et2/60L2. The maximum tensile stress in 
+the center, at the bottom of the beam, is half the value given by Equation 7.5. To be 
+conservative, ~h can be assumed to be zero.
+  Visible deflection of the roof warns that a detached beam may have formed. 
+Miners have been known to force a stick into a bow between the roof and floor, 
+drawing a string taut between the ends so that any relaxation of the tension in the

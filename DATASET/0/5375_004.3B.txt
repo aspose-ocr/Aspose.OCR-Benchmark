@@ -1,0 +1,28 @@
+Introduction
+
+Sandia Laboratories operates a seismic network of six stations
+around the Nevada Test Site (NTS). Station locations are as follows:
+STATION            LATITUDE      LONGITUDE     ELEVATION
+
+Nelson, Nev.       35~42' 44.6"   114~50' 36.5"    3280'
+Tonopah, Nev.      38~04' 29.6"   117~13' 20.8"    6180'
+Leeds, Utah        37~14' 35.4"   113~22' 35.9"    3512'
+Darwin, Calif.     36~16' 36.7"   117~35' 37.0"    5950'
+Battle Mtn., Nev.  40~25' 53.3"   117~13' 18.4"    5230'
+Ely, Nev.          39~07' 53.8"   114~53' 31.5"    7600'
+Staions are in tunnels with concrete seismometer pads poured
+on bedrock. All stations are remotely controlled from and recorded
+at a control point on NTS with Irig Time Code recorded on tape at
+the recording point. Thus all stations have a common and accurate
+time base. Signal transit time via telephone link to the stations is
+below the resolution of a signal onset.
+  Signals from these stations are ordinarily recorded only for
+scheduled NTS events. On August 5, 1971 an earthquake occurred at
+about 17:58:17 GMT with an epicenter located in NTS. When the earth-
+quake was felt at the control point, recorders were turned on in time
+to receive the signal at all stations. Paper records were generated
+at 10 mm/sec, the normal shot recording speed.
+  Arrival time for the quake was read at each of the six stations
+to a hundreth or tenth of a second depending on the amplitude of the
+arrival. Arrival time differences at the various stations were noted
+3

@@ -1,0 +1,53 @@
+   The second series of tests (T4 through T6) was designed similarly to the
+first series; however, prior to the tests, the bottom string of casing was
+perforated from 86.9 to 213.4 m, using approximately 33 shots per 10 m. To
+determine if water moved around a bridge plug to be installed near the bottom
+of the casing, a wireline tool containing sodium bromide was lowered to a
+depth of 260 m and signaled to release the salt; discharge water subsequently
+was analyzed for bromide. A removable bridge plug, with a pressure recorder
+mounted below the bridge plug, was set at a depth of 245.4 m (center of plug).
+The pump and a perforated (92 to 220 m) access line then were installed.
+
+   Details of the tests are presented in table 5; drawdown, recovery, and
+discharge data are presented in figure 9; temperature and tracejector logs
+during T6 are presented in figure 10. The logging tools were run inside 
+perforated tubing adjacent to the discharge line; because of the constriction, 
+measured rates are less than pump discharge. Bromide appeared in the dis-
+charge water shortly after pumping started.
+
+   During T6, the generator supplying power to the pump failed and had to be
+replaced. During rewiring, two wires were inadvertently switched, so the
+pump ran backwards. The first tracejector log was run during this period of 
+low discharge; when upward flow in the borehole was discovered, the trace-
+jector test was aborted; at this time, water levels in UE-29a#1 were rising
+rather than declining. Later, the pump leads were correctly wired, causing 
+an increase in the discharge rate; a new tracejector log then was obtained.
+
+   Throughout the second series of tests, maximum discharge rates always
+were less than during the first series, even though power consumption was the
+same. When the pump was removed, pieces of the perforating charges and wiring
+were found in the pump intake and pump. These pieces probably were caught in
+the perforations and subsequently were sucked into the pump intake, clogging
+it; therefore, the efficiency of the pump was decreased. In future tests 
+where extensive perforating is performed, it may be advisable to clean the 
+hole with a casing scraper before installing the pump.
+
+   Samples for determination of water chemistry were collected at the ends  
+of T3 and T6. Data for these analyses are presented in table 4.  
+
+   After the pump and bridge plug were removed, a wireline sample was used
+to obtain samples from four different depths. These samples were analyzed for
+temperature, dissolved-oxygen concentration, pH, and bromide concentration.
+Results are given in table 6.
+
+      Data Collected After Testing Was Completed
+
+Unperforated tubing with an inside diameter of 3.5-cm was worked a few
+meters into the material at the bottom of UE-29a#2 to provide future access in
+case the hole caved, and to obtain hydraulic-head information in the fill to
+compare with heads measured in the open hole (annulus). Results of water-
+level measurements in UE-29a#1 and the open hole and tubing in UE-29a#2 are
+presented in table 7.
+
+
+18

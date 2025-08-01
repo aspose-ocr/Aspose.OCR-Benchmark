@@ -1,0 +1,51 @@
+IV-12                                               
+                                                    DOE 6430.1
+                                                    12-12-83
+d. Exterior Walls.
+
+(1) Materials. Foundation walls should be constructed of poured concrete. 
+    The use of masonry walls below grade should be avoided, except where 
+    deemed suitable for existing site conditions and project requirements. 
+    For exposed exterior walls, consideration should be given to masonry 
+    composite walls, insulated metal or concrete panels and other prefab-
+    ricated wall construction. Where the lower portion of exterior 
+    wall(s) is subject to damage from vehicle traffic, material handling 
+    or other activities, care shall be taken in selecting a proper 
+    material and material thickness, or possibly providing a protective 
+    wainscot. Exposed insulation, light metal construction, or frangible 
+    materials shall be protected from activities which could cause 
+    damage. Building facades should reflect an honest representation of 
+    building function and materials of construction. However, the 
+    relationship of new buildings to the surrounding site and to existing 
+    buildings need to be considered. Clashes between existing and new 
+    architectural styles should be avoided, but older less suitable 
+    styles of architecture should not be copied, with the possible 
+    exception of additions to existing buildings.
+
+(2) Insulation and Vapor Barriers.
+
+    (a) Where composite walls are used, consideration shall be given to 
+        the compatibility of the insulating and facing materials. Vapor 
+        barriers and fibrous insulation shall be noncombustible or 
+        labeled by a nationally recognized testing laboratory as meeting 
+        a flame spread rating of 25 or less and a smoke developed rating 
+        of 50 or less. For cavity walls, use of treated (water repel-
+        lent) granular fill may be appropriate. Rigid board insulation 
+        of cellular materials generally retain their insulating values 
+        longer than do fibrous materials that are more vulnerable to 
+        moisture. Foamed-in-place insulations should be carefully 
+        evaluated due to possible problems in shrinkage of the foam and 
+        their resistance to high temperature and humidity.
+
+        1 Where foamed plastic insulations such as urethane are used, 
+          care shall be given to effectively seal the insulation within 
+          the sandwich wall construction or panel assembly to protect 
+          against release of toxic gases under fire conditions. See 
+          Chapter X, for additional criteria.
+
+        2 Where blown-in or foamed-in-place insulating media applica-
+          tions are planned for hollow walls, the effects on electrical 
+          wiring within the walls needs to be evaluated and assurance 
+          given that the operating temperature of the wiring will not 
+          exceed that designated for the type of insulated conductor 
+          involved (see Article 310 of the National Electrical Code).

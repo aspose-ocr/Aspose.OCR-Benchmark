@@ -1,0 +1,57 @@
+DOE 6430.1  XXI-29
+
+
+12-12-83
+
+
+b. Accountability of Plutonium.
+
+   (1)	Material Balance Areas. Design of the facility, where the process
+	permits, shall provide physically separate material balance areas
+	(MBA) so that transfers from one MBA account to another correspond
+	to a physical transfer of plutonium. The boundary of the MBA
+	shall be chosen to coincide with points in the process where
+	determination of plutonium transfers to other MBAs can be made.
+	The measurement capability shall be provided so that the components
+	of the material balance formed across the process will be composed
+	entirely of measured quantities. Common nondestructive assay
+	(NDA) equipment can be used for more that one MBA. The selection
+	of MBAs shall be based on the requirements in DOE 5630.2, CONTROL
+	AND ACCOUNTABILITY OF NUCLEAR MATERIALS, BASIC PRINCIPLES, of
+	8-21-80. Where the process permits, the following shall be
+	complied with:
+
+	(a)	Equipment Layout. The layout of the equipment within the
+		facility shall be designed to permit segregation of material
+		balance areas to the maximum extent possible recognizing the
+		primary importance of process requirements.
+
+	(b)	Equipment Design. Measurement equipment, appropriate to the
+		process, shall be integrated with process equipment to permit
+		quantitative determinations of plutonium in transfers between
+		MBAs, including receipts, shipments, and materials on inven-
+		tory.
+
+	(c)	Data Processing. Provisions for data processing shall be made
+		which are commensurate with information processing requirements
+		of DOE 5630.1.
+
+   (2)	Inventory Capability of Plutonium in Process. Design of the process
+	and measurement equipment shall provide for minimizing scrap inven-
+	tory and shall provide a capability for measuring the in process
+	inventory, including scrap, at the end of the accounting period in
+	accordance with the basic requirements in DOE 5630.2. Equipment,
+	such as process equipment, storage containers, tankage, and filters,
+	should be designed and arranged to facilitate access for the deter-
+	mination of plutonium content and provide a means of minimizing
+	holdup in the equipment. Process piping and ductwork should be
+	designed to facilitate detection of plutonium holdup.
+
+   (3)	Inventory Capability of Plutonium in Storage. Design of the storage
+	area and equipment shall provide a capability for accomplishing a
+	physical inventory. Storage areas in the facility shall be designed
+	with features that facilitate identification and retrieval of items
+	containing plutonium, preferably through an automated system.
+	Consideration should be given to segregating plutonium from other
+	materials in the storage area. See paragraph 12, above, for addi-
+	tional storage facilities design criteria.

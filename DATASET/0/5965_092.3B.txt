@@ -1,0 +1,49 @@
+Proc~dure No  3.2    Rev 0   ~ssued 8/24/87   Page 4 of 7
+     6.7  Comments shall be legible, concise and specific in nature. Document
+          references should be used whenever appropriate. Suggested wording
+          or clarifications should be made, if possible.
+
+     6.8  Comments may be documented by any of the following methods:
+
+          6.8.1 The comments can be noted on the Technical Review Comment and
+                Resolution Sheet (Appendix A).
+
+          6.8.2 Comments sheets, with adequate instructions, supplied by the
+                originator of the document, such as, the Project Office or a
+                contractor.
+
+          6.8.3 Any other documented and approved method, for example, review
+                of documents controlled by the Program Baseline Procedures
+                Notebook-OGR/B-1 (Reference 3.10).
+
+     6.9  All comments, generated in accordance with Section 6.8.1, shall be
+          forwarded to the Branch Chief, or his designee, who will review the
+          comments for clarity and appropriateness. The commenter shall be
+          contacted to clarify and comments.
+
+     6.10 The Branch Chief, with concurrence of the Division Director, shall
+          transmit the accummulated comments with a cover letter to the
+          originator of the document for comment resolution.
+
+     6.11 The originator is required to address each comment. Any comment
+          which is not totally incorporated into the technical document shall
+          be reviewed with the Branch Chief and commenter. Disputes
+          concerning interpretation shall be elevated to the next higher level
+          of management until resolution is obtained.
+
+     6.12 When the comments have been incorporated or otherwise resolved, the
+          technical document shall be resubmitted to the Branch Chief for
+          verification.
+
+     6.13 Changes to documents that originally received a technical review
+          shall undergo another review when submitted to HQ-OGR.
+
+     6.14 A Technical Review Check List (Appendix B) shall be initiated by the
+          Branch Chief to document the technical review process.
+
+7.0  Records
+
+     7.1  Technical Review records are lifetime records and as such will be
+          maintained in accordance with reference 3.6.
+
+          7.1.1 As a minimum, the following records shall be maintained:

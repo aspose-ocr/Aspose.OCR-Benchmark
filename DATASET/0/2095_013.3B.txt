@@ -1,0 +1,28 @@
+infrequent and of short duration, atmospheric dispersion models and meteorological data 
+applicable to the time of release should be considered. Use of annual average conditions for 
+consideration of intermittent releases will be acceptable only if it is established that 
+releases will be random in time.   Otherwise the method of evaluation of intermittent releases 
+should follow the methodology outlined in Section 2.3.4 of NUREG-75/087 (Ref. 16).   This method 
+uses an appropriate ~/Q probability level, as well as the annual average ~/Q, for the direction 
+and point of interest being evaluated to provide the basis for adjustments reflecting more 
+adverse diffusion conditions than indicated by the annual average.   These adjustments are 
+applied to the annual average ~/Q and D/Q for the total number of hours associated with in-
+termittent releases per year.   Detailed information for this calculation is given by Sagendorf 
+and Goll (Ref.  17).   However, if intermittent releases are limited by technical specifications 
+to periods when atmospheric conditions are more favorable than average for the site, annual 
+average data and annual average dispersion models could be used.   For calculations of doses 
+through ingestion pathways, particularly through the cow-milk pathway, meteorological data for 
+only the grazing or growing season should be used.
+
+D.   IMPLEMENTATION
+
+The purpose of this section is to provide information to license applicants and licensees 
+regarding the NRC staff's plans for implementing this regulatory guide.
+
+This guide reflects current NRC staff practice.   Therefore, except in those cases in which 
+the license applicant or licensee proposes an acceptable alternative method, the method described 
+herein for complying with specified portions of the Commission's regulations will continue to be 
+used in the evaluation of submittals for operating license or construction permit applications 
+until this guide is revised as a result of suggestions from the public or additional staff 
+review.
+1.111-14

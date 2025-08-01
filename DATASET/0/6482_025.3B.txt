@@ -1,0 +1,57 @@
+	Remember, this is the way we took account of the radiation phenomena and
+these data do contain additional iodine.
+
+	MR.  REISENWEAVER:  If I have a spent fuel rod.
+
+	DR.  CHIN:  Yes.
+
+	MR.  REISENWEAVER:  What curve do I use?
+
+	DR.  CHIN:  If you have a spent fuel rod--
+
+	DR.  JOHNSON:  I have an answer for him, I think.
+
+	DR.  CHIN:  Okay, Burt.
+
+	DR.  JOHNSON:  If you take that rod and heat it up above the annealing
+temperature, it is spent fuel, it is irradiated.  You heat it up above the
+annealing temperature.  You essentially have unirradiated cladding.  So maybe
+that is the answer, that if you leave all the radiation damage in, you use the
+irradiated curve.  If you anneal it out, you use the unirradiated curve.
+
+	MR.  REISENWEAVER:  Does this heating occur after it comes out of the
+reactor?
+
+	DR.  JOHNSON:  It could occur during a cask evacuation, for example.
+
+	MR.  REISENWEAVER:  But it is after it comes out of the reactor.
+
+	MR.  WHEELER:  What is the temperature level for annealing, then, Burt?
+
+	DR.  JOHNSON:  That depends on who you talk to and it depends a lot on how
+the radiation was done and so forth.  But we regard that you could get a fair
+amount of annealing at 400~C; some below 400~C, depending on how the radiation
+damage was injected.  Certainly, the work that HEDL had done at 480~C to 570~C
+suggests that they got almost complete annealing under those conditions.
+
+	DR.  EINZIGER:  It is a function of time at temperature.  As Burt said,
+when you are at 400~C, you start within hours to anneal it out.  If you wanted
+to go down to 320~C or lower, you have to wait on the order of years before you
+have annealed all of the irradiation out.  If you want to stay, say, at 320~C
+and store fuel, you would go through a time period where the cladding would be
+constantly changing its condition.  But eventually you would get to an annealed
+condition where you wipe out the irradiation damage.  In-reactor, of course,
+while you are down in the 350~C range or so, you are adding the damage at the
+same time that you are annealing it out, so you are accumulating a steady-state
+damage.
+
+	MR.  REISENWEAVER:  So instead of irradiated and unirradiated, it would be
+better if it were annealed vs. unannealed.  Is that what you are saying on
+these charts?
+
+	DR.  JOHNSON:  Well, the point is that there is a lot of unirradiated data.
+It is not from cladding that was annealed, but it is an important data base
+
+
+					255
+

@@ -1,0 +1,16 @@
+STEP 7:  DEFINE TESTS TO OBTAIN VALUES FOR PARAMETERS
+
+
+TEST DEFINITIONS CONSIST OF:
+
+	~ Relation between parameters needed and measured properties
+
+	~ Sample location
+
+	~ Number of measurements
+
+	~ Scale of measurements
+
+	~ Measurement precision and accuracy
+
+

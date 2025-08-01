@@ -1,0 +1,23 @@
+37
+    In the single vertical fracture models, fluid enters the fracture from the 
+fracture faces and no fluid enters from the ends.   However, for the case when 
+a pumping well intersects a natural fracture or an artificial fracture which is 
+part of an interconnected network of fractures, which is significantly more 
+permeable than the matrix, the fluid enters the fracture primarily from inter-
+sections with other fractures, i.e., the ends, rather than from the faces.  The
+fluid then flows linearly into the well (Figure 3.1).   Moreover, the formation 
+linear flow period (Gringarten and Ramey, 1974; Gringarten et al., 1975; 
+Cinco-Ley et al., 1976) provides evidence that the fluid entering the fracture 
+flows linearly.   Therefore, it seems plausible to construct a model which 
+assumes a linear flow region around the well that intersects vertical fractures.
+
+   The proposed model is a composite system with two concentric regions.
+The inner region contains a finite number of fractures and flow is assumed to 
+be linear.   The outer region is the classical porous medium where only radial 
+flow takes place.   Similar composite models have been examined previously 
+(Larkin, 1963; Bixel and van Poollen, 1967; Ramey, 1970) but none has con-
+sidered a linear-radial flow combination.  The solution is presented in a series
+of type curves, so that the flow properties of the fracture system can be 
+determined by curve matching.   A field example is presented to demonstrate 
+the type curve matching technique that can be used to characterize the frac-
+ture as well as the average system parameters.

@@ -1,0 +1,53 @@
+9.4.8.1 Inhalation Factors
+
+  Among the data files in CRAC2 is one containing dose-conversion fac-
+tors for the inhalation pathway, F~~,k(t). Here (n,i) identifies the radio-
+nuclide in question (i.e., the ith daughter of the nth radionuclide-decay
+chain). As already mentioned, there are 54 such nuclides. The subscript k
+identifies the organ, of which there are 13: lung, bone marrow, skeletal
+bone, endosteal cells, stomach wall, small intestine, upper large intestine
+and lower large intestine, thyroid, whole body, testes, ovaries, and "other"
+tissues.
+
+  The variable t identifies the time periods, of which there are seven:
+(1) period for acute exposure (1 year for the lung; 7 days for the marrow,
+skeletal bone, endosteal cells, stomach wall, small intestine, upper large
+intestine and lower large intestine; 2 days for the thyroid, whole body,
+testes, ovaries, and other tissues); (2) 1 year; (3) 1 to 10 years; (4) 10
+to 20 years; (5) 20 to 30 years; (6) 30 to 40 years; and (7) 40 to 50
+years.
+
+  All of the above quantities are required in various dose-response re-
+lationships. (See Section 9.4.2.5 for a discussion of inhalation factors
+and particle sizes.)
+
+9.4.8.2 Dose-Conversion Factors: External Irradiation
+
+  CRAC2 contains the quantity G~~,k(t), which is an array containing
+the dose-conversion factors (rem/Ci-m2) for exposure to contaminated ground.
+As before, (n,i) identifies the radionuclide and k the organ; t is a vari-
+able specifying (1) the 8-hour integrated dose delivered to organ k by iso-
+tope (n,i); and (2) the 7-day integrated dose. Also contained in this array
+are dose-rate-conversion factors (rem~m2/Ci~yr). These factors are used
+for calculating chronic groundshine doses. The doses are obtained by multi-
+plying the initial deposited activity of each radionuclide by the corre-
+sponding element of G~~,k(t).*
+
+  CRAC2 also contains a quantity, C~~,k, giving the radiation dose accu-
+mulated by organ k as a result of exposure to 1 Ci-sec/m3 of radionuclide
+(n,i), that is, the dose-conversion factor for cloudshine.
+
+  Note that the elements of G~~,k(t) are calculated with an infinite-
+plane approximation and the elements of C~~,k are calculated with a
+semiinfinite-cloud approximation. As explained in Section 9.3.3.2, cloud-
+shape correction factors must subsequently be applied.
+
+  *Care must be taken to treat daughter buildup correctly. If, as
+stated above, the doses are obtained by multiplying the initial deposited
+activities by G~~,k(t), then radioactive decay is not explicitly calculated.
+The quantity G~~,k(t) should implicitly take account of daughter buildup
+over the time t. If this is not done, some radiation doses can be signifi-
+cantly underestimated.
+
+
+9-72

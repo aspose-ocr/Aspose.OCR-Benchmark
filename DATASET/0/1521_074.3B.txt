@@ -1,0 +1,31 @@
+that will be useful for later discussions in Chapter 9.0. Figure 5.3 is
+a graph showing the relationship. The figure shows a representation of
+results for the Grouse Canyon Member in G-Tunnel as presented by Lankopf
+and Gnirk (1986). They established a range for the RMR of 43 to 80.
+Data from the Heated Block Experiment were described by a range in the
+modulus of deformation from 9.2 to 19.1 GPa and are also represented on
+the figure. The two ranges identify a shaded area in Figure 5.3.
+
+  The figure shows that the extremes of the RMR would not relate well
+with the functional relationship. Using the recommended Ed of 16 GPa,
+the equation in the figure would predict a RMR of 58, which is near the
+mean of the range (61.5) defined by Lankopf and Gnirk (1986). The
+conclusion in this comparison is that there is no reason to preclude
+welded tuff from being included in such comparisons.
+
+5.4 Numerical Model Comparisons
+
+  A jointed rock continuum model, called the Joint Empirical Model
+(JEM), has been formulated for use in modeling jointed rock response to
+mechanical and thermomechanical loading (Blanford and Key, in prepara-
+tion). This is an outgrowth of an earlier development called the Crack
+and Void Strain (CAVS) model (Maxwell and Dial, 1981). Currently JEM is
+embodied in SANCHO, a two-dimensional dynamic relaxation code developed
+at SNL (Stone et al., 1985). The JEM model can account for the effects
+of up to four arbitrarily oriented joint sets.
+
+  The JEM model includes joint-shear and normal compliance equations
+that are coupled. These equations are referenced to the analyses and
+
+
+5-16

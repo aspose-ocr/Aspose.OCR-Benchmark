@@ -1,0 +1,54 @@
+used for both the NRC and the Sandia liquid-pathway studies. These models
+are based on the solution of the advection-diffusion equation with the
+assumption that tidally induced advection can be sufficiently described by
+longitudinal dispersion. Regulatory Guide 1.113 (USNRC, 1977) contains
+additional solutions to the advection-diffusion equation.
+
+River models, such as that by White and Gloyna (1969), may also be ap-
+plicable for estuaries. In these models, advective transport is considered
+to be a result of spatially averaged stream velocity. The advective effects
+of the estuarine tidal cycle are accounted for in the diffusion term. An
+alternative to this approach is a model that lumps the tidal hydraulics into
+the advective transport term. Such a model, which in effect is a transient
+estuary model applicable to instantaneous or accidental releases, was de-
+veloped as part of the radionuclide studies for the Columbia River estuary
+(Daniels et al., 1970).
+
+Coastal Systems and Great Lakes
+
+The effect of sediment transport on radionuclide migration will gener-
+ally be less important in the sea than in rivers or estuaries. Most radio-
+nuclides would be expected to remain in the dissolved phase. Near the
+shore, coastal dispersion is complex and may require more complicated
+models. Coastal currents, irregular bathymetry, and tidal oscillation com-
+plicate the flow field and invalidate simple models that are applicable fur-
+ther off the shore. In the open sea, the phenomenological patch-spreading
+model based on the dispersion of tracers has been widely used and appears to
+be adequate for instantaneous releases. Some numerical models (see, for ex-
+ample, Eraslan, 1975) are useful close to shore. Semianalytical models like
+the MIT transit-plume model (Adams et al., 1975) are appropriate if the
+receiving-water geometry is sufficiently open. Coastal models for the Great
+Lakes are similar in many respects to oceanic models, especially in the
+nearshore zone and for the spreading of instantaneously released patches.
+Contamination can be spread throughout the entire lake on the order of
+weeks. Because Great Lakes flushing times are on the order of years,
+mixed-tank models may be useful for time scales longer than a month. Al-
+though the time scale for sedimentation is long, sedimentation in lakes is
+recognized as an important mechanism for the removal of some elements, such
+as cesium. Stratification can limit the depth of effective mixing in both
+oceanic and Great Lakes models (Gloyna, 1977). Seasonal turnovers, up-
+welling, and other stratification phenomena can complicate the analysis.
+
+Critical parameters for modeling coastal systems include (1) coastal
+current patterns with regard to winds and tides, (2) turbulent-transport
+coefficients, (3) diffusion-transport coefficients, and (4) sediment-trans-
+port coefficients. Parameters important for Great Lakes include (1) current
+fields, (2) turbulent-transport coefficients, (3) diffusion-transport coef-
+ficients, and (4) sediment-transport coefficients.
+
+Two-dimensional solutions of the advection-diffusion equation were
+used to approximate the nearshore transport of radionuclides for the NRC
+and the Sandia liquid-pathway studies. Analytical solutions were obtained
+by assuming that the nearshore region has a constant depth d, a straight
+shoreline, and a constant alongshore water velocity. Both studies also
+F-11

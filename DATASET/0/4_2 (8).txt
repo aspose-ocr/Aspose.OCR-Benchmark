@@ -1,0 +1,63 @@
+
+UE-25b #1
+Hydrologic Test Hole
+Hole History
+Page 10
+
+
+
+
+07-24-81	indicator log to 3800', unable to get through crossover subs. Ran
+(Cont.)		Dialog freepoint indicator and collar locator log on Birdwell
+		equipment. Checked pipe free at 3740' and stuck at 3760'.
+
+07-25-81	Shot pipe at 3500', unable to back off pipe at 3734'. On fifth
+		attempt using 300 grains/ft. string shot, pipe was backed off at
+		3731'. Made trip out with backed off 4-1/2" drill pipe. Pipe
+		tight and bent, laid down.
+
+07-26-81	Made trip in with 8" shoe, 7-5/8" washover pipe, bumper sub and
+		jars on 4-1/2" O.D., FH drill pipe. Broke circulation at 2245',
+		2921', and 3234'. Conditioned hole. Cleaned out fill from 3635'
+		to 3737'. Washed over top of fish at 3737'.
+
+07-27-81	Washed over fish at 3761'. Washed hole to 3863'. Conditioned hole
+		2-1/2 hours. Made trip out and laid down wash pipe. Made trip in
+		with 7-7/8" overshot, jars and bumper sub. On third attempt,
+		pulled fish free. Made trip out, recovered all of fish.
+
+07-28-81	Made trip in with 8-1/2" bit on 4-1/2", FH drill pipe. Conditioned
+		hole 11-1/2 hours. Cleaned out 8' fill at 3900'. Opened 3.937"
+		hole to 8-1/2" from 3908' to 4002'. Conditioned hole.
+
+07-29-81	Made trip to bottom, no fill. Made trip out, laid down tools. Ran
+		Birdwell caliper log to 3982' and vibroseis survey to 3993' on 25'
+		stations.
+
+07-30-81	Ran fluid density log to 1560', checked fluid at 1540'. Ran
+		Birdwell compensated density and simultaneous gamma ray logs, no
+		logs. Ran Dresser Atlas compensated acoustic and gamma ray logs to
+		4002'. Ran Dresser Atlas compensated neutron log and spectralog to
+		4000'.
+
+07-31-81	Ran Birdwell NCTL log to 1750'. Ran compensated density and gamma
+		ray logs to T.D. of 3994'. Ran epithermal neutron to T.D. of
+		3993', no log. Ran fluid density log, checked fluid level at
+		1546'. Ran perforation gun and perforated casing from 1644' to
+		1572' with 2 shots per foot.
+
+08-01-81	Completed perforating casing from 1572' to 1564'. Ran Simplec
+		televiewer to T.D. at 3987'. Ran Birdwell compensated density and
+		gamma ray logs to T.D. at 3990'. Ran Birdwell epithermal neutron
+		log to T.D. at 3989'.
+
+08-02-81	Made trip in hole with 8-1/2" bit on 4-1/2" FH drill pipe to 3994'.
+		Ran Eastman gyro survey on Birdwell equipment to 3950' on 25'
+		stations. Made trip out. Ran Centrilift submersible pump on
+		4-1/2" tubing along with 2-3/8" tubing monitor line in the hole.
+
+
+
+
+14
+

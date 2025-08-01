@@ -1,0 +1,24 @@
+
+FIGURE B.5. Moisture Retention Characteristics of Materials
+	    Simulated as Backfill (Source: Mualem 1976a)
+
+
+
+
+  The moisture retention characteristic of clay for the vertical shaft anal-
+ysis in Figure B.5 has a different shape than the original moisture charac-
+teristic for clay. The moisture characteristics for clay and samples S-14 and
+S-4 (see Fig. B.3), with total porosity increased for the vertical shaft analy-
+sis, were least squares fit with with a functional relationship developed by
+Haverkamp and described by McKeon et al. (1983). The unsaturated permeability
+relationships for samples S-4 and S-14 in Figure B.4 and clay (for the vertical
+shaft analysis) in Figure B.6 were derived from the functional fit of moisture
+retention characteristics. The computer code for fitting moisture characteris-
+tics with Haverkamp's functional relationship was not available for most of the
+repository sealing investigations so it was not used for all samples. However,
+
+
+
+
+31
+

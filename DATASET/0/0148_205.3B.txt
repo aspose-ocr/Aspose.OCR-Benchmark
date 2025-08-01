@@ -1,0 +1,51 @@
+5.5.4
+
+
+  The following assumptions were made in the design of the reference facility:
+
+~ The plutonium product used in this analysis will contain high-exposure plutonium.
+  The reference composition is shown in Table 3.3.16.
+
+~ All required functions, such as cooling, ventilation, and power, will be ensured
+  by back-up systems to maintain acceptable operating conditions at all times.
+
+~ The design of the three IPSFs is based on safety considerations, ease of storage,
+  and ease of retrieval when required.
+
+~ Plutonium will be contained by multiple barriers that are designed for minimum
+  dependence on people and devices.
+
+~ The storage container will be the pressure vessel of the AGNS PPP-1 shipping con-
+  tainer. Use of a shipping container component eliminates the need for a separate
+  storage container and simplifies storage facility operations.
+
+~ The reference design will be a vault type of storage similar in design to the
+  plutonium oxide storage for the BPPF.
+
+~ IPSF design will be shown to be adequate from a safety standpoint. Optimization
+  of parameters such as container storage spacing, cooling annulus spacing, and
+  radiation shielding thickness are desirable from a cost standpoint but will not
+  be considered in this analysis.
+
+~ The range of all safety-related instrumentation will be wide enough to include system
+  safety setpoints (error conditions) as well as normal operating ranges.
+
+~ The facility shall have the necessary people and equipment to defend against a
+  terrorist attack.
+
+  5.5.1.3 Operation of the Interim Plutonium Oxide Storage Facility
+
+  An operations flow diagram is shown in Figure 5.5.1. Upon arrival at the IPSF, the
+PPP-1 shipping container (pressure vessel and overpack) is removed from the carrier truck by an
+electric fork-lift truck. The shipping container is brought into the IPSF via the transfer air
+lock and placed in the entrance chamber to the inspection and transfer cell. Operating person-
+nel remove the overpack lid, and the container is lifted to the entrance port. A power manipu-
+lator, remotely controlled from outside the cell, removes the entrance port plug and lifts
+the PPP-1 pressure vessel into the inspection and transfer cell. The pressure vessel is then
+placed in the maintenance rack for inspection. This same rack is used for all pressure vessel
+maintenance (inspections, repairs, venting, etc.).
+
+  The PPP-1 pressure vessel (now the IPSF storage container) is inspected and decontaminated
+as necessary. The power manipulator is then used to remove the exit port plug and transfer
+the container to the shielded transfer cask positioned below the exit port. Another electric
+fork-lift truck moves the container in the transfer cask to the cask transfer gallery.

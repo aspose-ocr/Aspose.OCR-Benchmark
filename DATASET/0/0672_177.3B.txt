@@ -1,0 +1,42 @@
+References					167
+
+
+Barton, N. et al. (1978) Suggested methods for the quantitative description of
+  discontinuities in rock masses, for ISRM Commission on Standardization of
+  Lab and Field Tests, Int. J. Rock Mech. Min. Sci., Vol. 15, No. 6, pp. 319-368.
+Barton, N. R. and Choubey, V. (1977). The shear strength of rock joints in theory
+  and practice, Rock Mech., Vol. 10, Nos. 1, 2, pp. 1-54.
+Bray, J. W. (1967) A study of jointed and fractured rock, Part I: Fracture patterns
+  and their failure characteristics, Rock Mech. Eng. Geol., Vol. V, Nos., 2, 3, pp.
+  117-136.
+Byerlee, J. (1978) Friction of rocks, Pure and Applied Geophysics, American Geo-
+  physical Union.
+Fecker, E. and Rengers, N. (1971) Measurement of large scale roughness of rock
+  planes by means of profilograph and geological compass, Proceedings Inter-
+  national Symposium on Rock Fracture, Nancy(ISRM), paper 1-18.
+Fisher, R. A. (1953) Dispersion on a sphere, Proceedings Royal Society of London,
+  Ser. A, Vol. 217, p. 295.
+Goodman, R. E. (1970) The deformability of joints, ASTM Spec. Tech. Publ. 477,
+  pp. 174-196.
+Goodman, R. E. (1976) reference given in Chapter 1.
+Healy, J. H., Rubey, W. W., Griggs, D. T., and ~aleigh, C. B. (1968) The Denver
+  earthquake, Science, Vol. 161, No. 3848, pp. 1301-1310.
+Jaeger, J. C. (1971) Friction of rocks and the stability of rock slopes-~Rankine
+  Lecture, Geotechnique, Vol. 21, pp. 97-134.
+Ladanyi, B. and Archambault, G. (1970) Simulation of the shear behavior of a
+  jointed rock mass, Proc. 11th Symposium on Rock Mechanics (AIME), pp. 105-
+  125.
+Patton, F. D. (1966) Multiple modes of shear failure in rock, Proc. 1st Cong. ISRM
+  (Lisbon), Vol. 1, pp. 509-513.
+Raleigh, C. B., Healy, J. H., Bredehoeft, J. D., and Bohn, J. P. (1971) Earthquake
+  control at Rangely, Colorado, Trans AGU, Vol. 52, p. 344.
+Rengers, N. (1970) Influence of surface roughness on the friction properties of
+  rock planes, Proc. 2nd Cong. ISRM (Belgrade), Vol. 1, pp. 229-234.
+Schneider, B. (1967) Reference given in Chapter 6.
+Schneider, H. J. (1976) Comment in Proceedings of International Symposium on
+  Numerical Methods in Soil Mechanics and Rock Mechanics, G. Borm and H.
+  Meissner, eds., pp. 220-223 (Inst. f~~~r Bodenmechanik und Felsmechanik of
+  Karlsruhe University, D-7500, Karlsruhe 1, Germany).
+Terzaghi, R. (1965) Sources of error in joint surveys, Geotechnique, Vol. 15,
+  p. 287.
+

@@ -1,0 +1,15 @@
+                                                        OGR/B-2
+                                                        1.2.3.2-3
+
+
+1.2.3.2 Non-Radiological (Cont'd)
+
+   7. Alarm systems will be provided to indicate when the various monitored
+      conditions exceed predetermined, specified limits. In most cases,
+      redundant systems will be required as per the applicable regulations.
+
+CONSTRAINTS
+   None specified at this level.
+
+
+Revision 3

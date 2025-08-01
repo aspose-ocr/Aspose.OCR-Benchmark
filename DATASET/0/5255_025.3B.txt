@@ -1,0 +1,37 @@
+3.0 VIBRATORY GROUND MOTION HAZARD
+
+The probability that the peak acceleration (A) is greater than some specified
+value (a) can be fundamentally represented by the total probability theorem
+
+
+where P indicates probability, A > a is the event whose probability is sought, and
+M and R are the continuous, independent random variables of magnitude and
+distance which influence A. The probability that A > a will occur can be
+calculated by multiplying the conditional probability of A > a (given m and r)
+times the probabilities of m and r, and integrating over all the possible values of
+m and r.
+
+In describing the seismicity of the sources, we are hindered by incomplete and
+inaccurate historical data that are limited to a short time span. Reliance on
+frequency data alone can result in erroneous conclusions. For this reason, we
+base our analysis on geological and seismological data in order to increase the
+reliability and predictability of the seismicity.
+
+In the overall approach, each fault system is divided into a series of segments of
+equal seismicity. Within each segment, earthquakes are assumed to occur at
+random as a Poisson process. The distribution of these events, with respect to
+magnitude, is consistent with a truncated exponential distribution. Fault rupture
+is taken into account through an empirical relationship between magnitude and
+fault length. The random occurrence of all events from all fault segments, when
+combined with an attenuation model, is used to develop a probability distribution
+of peak acceleration at the site. The next section presents a theoretical
+development of the earthquake occurrence model used in the analysis. The
+following section describes how the contributions to the seismic hazard from
+several distinct source regions are combined. Finally, the last section presents
+the application of these models to the experiment site.
+
+
+3-1
+
+
+TERA CORPORATION

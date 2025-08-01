@@ -1,0 +1,68 @@
+                           4. GEOCHEMISTRY
+
+   In this chapter, present pertinent descriptions of the geochemical proper-
+ties of the rocks, minerals, sediments, and water of the candidate area and
+site. Include the anticipated radionuclide transport mechanisms (i.e., liquid
+water, vapor, gas) from the canister to the accessible environment and expected
+geochemical reactions that have influenced the conceptual design of a repository
+appropriate to the site. Also include generic data from similar rock types and
+site-specific information, if available. The information should be presented
+in sufficient detail to (1) permit an understanding of the geochemical factors
+of the candidate area and site based on available literature and site-screening
+studies and (2) support the planned site characterization program.
+
+   For each of the following sections, include the rationale for the values
+chosen. For natural variables (e.g., rock compositions and ground-water chem-
+istry), indicate expected ranges of values and by what process these were assume~
+For engineering variables (e.g., composition of backfill, waste form, canister,
+temperature, and pressure), indicate why these particular values were assumed
+and what is the reasonable range of expected values. For chemical and geo-
+chemical reactions (e.g., any of the reactions among the waste, water, vapor,
+gas, rock, barrier, canister), indicate the rationale for the identification of
+these reactions (e.g., theoretical, laboratory experimental, observed in nature)
+and to what extent the nature of the reactions would be expected to change
+because of changing conditions at the site (e.g., changes in solubility of
+constituents in ground water resulting from heating the ground water).
+
+                       4.1 Host Rock Geochemistry
+
+   For rocks and fracture fill materials along credible pathways to the
+accessible environment, describe the petrology and mineralogy of the rocks and
+material in the fractures. Describe the inferred and measured distribution
+and abundance of mineral phases that will affect radionuclide migration, and
+identify inferred and measured mineral assemblages and amorphous components
+that buffer pH and Eh of ground water. This description should consider
+(1) baseline conditions, (2) the period prior to closure, (3) the period
+between closure and release, (4) release and (5) transport.
+
+
+   For the proposed host rock unit and other rock units along credible pathway~
+to the accessible environment, provide the following information when available.
+
+1. Supporting data and analyses determining the geochemical baseline site
+   conditions. To the extent reasonable in light of the geologic record, it
+   should be assumed that processes operating in the geologic setting during
+   the Quaternary Period continue to operate. For example:
+
+   a. Petrology, mineralogy,
+   b. Major, minor, and trace-element composition of ground water, including
+      organic and inorganic species, dissolved and suspended (i.e., colloids),
+   c. Ionic strength of ground water,
+   d. Complexing agents (organic and inorganic),
+
+
+23
+
+
+
+
+
+
+
+
+
+
+
+
+
+

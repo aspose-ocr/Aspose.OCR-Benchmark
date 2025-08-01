@@ -1,0 +1,36 @@
+parentheses corresponds to the sample depth in drill hole USW G-4 on the NTS
+from which the matrix hydrologic properties were determined). All of the 
+units in the list below are above the water table at Yucca Mountain.
+
+1) Topopah Spring Welded Unit [Non-Lithophysal Zone] (1158 ft)
+2) Basal Vitrophyre of the Topopah Spring Welded Unit (1299 ft)
+3) Calico Hills Nonwelded Unit (1548 ft) 
+
+The pore-size distribution data for samples of tuff matrix were obtained from
+mercury intrusion tests. A distribution of pore radii was obtained, along 
+with the percent volume of the sample associated with each pore radius. A
+frequency plot of incremental volume versus pore diameter for a matrix sample
+obtained from drill hole USW G-4, 1158 ft, is shown in Figure 13 as an
+example. For most tuff samples for which mercury-intrusion data were
+available, there was little or no pore volume for pore radii above 1-5
+micrometers, with the average, volume-based pore diameter for tuffs determined 
+to be generally less than 0.1 micrometer.
+   Because no field information is available on the general distribution of
+fracture apertures in the various stratigraphic units in Yucca Mountain, a
+lognormal distribution was assumed. Snow (1970) notes that many arguments 
+indicate the suitability of a lognormal distribution for describing
+fracture-aperture frequencies in rock. He has studied joints in granite
+outcrop and found that mean apertures were distributed approximately 
+lognormally and suggests that apertures are similarly distributed at depth.
+Sharp (1970) measured apertures in a single fracture in the laboratory. The
+data showed a lognormal form, with a truncated tail due to the small area 
+available for sampling. The two-parameter lognormal distribution (Aitchison,
+1957) is defined by
+
+
+where f(b) is the frequency at between aperture b and b + db, ~ is the mean
+aperture, and ~ is the variance.
+
+
+-34-
+

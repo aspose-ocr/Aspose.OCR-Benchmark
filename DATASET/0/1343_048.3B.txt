@@ -1,0 +1,45 @@
+28	THE EFFECTS OF IONIZING RADIATION
+
+
+creases in human mutations due to the action of any environmental agent
+is still difficult. For somatic abnormalities induced in utero by radiation,
+the position is somewhat intermediate-~that is, some human data have
+been obtained, but we also depend on animal data.
+  The emphasis on human studies for determining the somatic effects of
+ionizing radiation remains valid, although theoretical and experimental
+studies continue to be important in extending our basic knowledge. For
+most types of health effects occurring in those exposed to radiation, we
+now have considerable human experience, as the balance of this report
+shows. Moreover, in terms of establishing human risk estimates, it is a
+well-recognized principle in the field of environmental toxicology that
+results obtained in animal experiments are not necessarily translatable
+directly to human populations. For example, the fact that the human pop-
+ulation is genetically heterogeneous, with widely varying individual
+physiologic and biochemical characteristics, makes it likely that there are
+subpopulations at special risk from radiation exposure. It is difficult to
+simulate this kind of heterogeneity in animal populations, other than by
+inferences drawn from species variation in responses or from differences
+in susceptibility between strains of a given species.
+  We lack adequate information on the effects of low radiation doses in
+human populations, and in this regard we still depend on concepts that
+have been developed on the basis of experimental studies. In this report,
+these studies are discussed in some detail.
+  Although epidemiologic studies constitute our principal source of infor-
+mation on somatic effects of ionizing radiation in human populations, one
+must recognize that there are problems in their use. The first problem
+arises from the fact that generally the group has been exposed to radiation
+because of some particular characteristic and thus may not be represen-
+tative of the population at large. The reasons why those exposed to radia-
+tion are not typical of the general population may not affect radiation sen-
+sitivity, but an appropriate comparison group is nonetheless required.
+  The epidemiologic technique to deal with the scientific problem of a
+potentially biased sample is to obtain a control group matched as nearly as
+possible to the exposed persons. In radiation epidemiology, considerable
+effort has been made to deal with the question of the suitability of a con-
+trol group. For example, in the Japanese atomic-bomb survivors, the zero-
+dose groups (those in the cities at the time of the bombing, but so far away
+from the bomb detonation that they were not exposed) are useful controls,
+although in the Nagasaki sample they are comparatively few. An alter-
+native method has been to consider the regression of effects (such as
+cancer rates) on radiation dose. Systematic differences in rates of cancer
+not related to radiation exposure, for example, might be expected to be

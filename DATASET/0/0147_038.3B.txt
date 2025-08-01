@@ -1,0 +1,47 @@
+4.1
+4.0 WASTE TREATMENT TECHNOLOGY
+
+This section describes conceptual processes and facilities for treating gaseous and
+various transuranium (TRU) wastes produced during the postfission portion of the LWR fuel
+cycle. The goal of the treatment process for TRU wastes and for long-lived radionuclides
+removed from the gaseous waste streams is to convert these wastes to stable products suitable
+for placement in geologic isolation repositories. The treatment concepts are based on
+available technology. They do not necessarily represent an optimum design but are represen-
+tative of what could be achieved with current technology. In actual applications it is 
+reasonable to expect that there could be some improvement over these concepts that might be
+reflected in either lower costs or lower environmental impacts or both. These conceptual
+descriptions do provide a reasonable basis for cost analysis and for development of estimates
+of environmental impacts.
+
+The waste treatment technologies considered here include:
+
+Section 4.1  High Level Waste Solidification
+Section 4.2  Packaging of Fuel Residue
+Section 4.3  Failed Equipment and Noncombustible Waste Treatment
+Section 4.4  General Trash and Combustible Waste Treatment
+Section 4.5  Degraded Solvent Treatment
+Section 4.6  Dilute Aqueous Waste Pretreatment
+Section 4.7  Immobilization of Wet and Solid Wastes
+Section 4.8  Off-gas Particle Removal Systems
+Section 4.9  Fuel Reprocessing Plant Dissolver Off-gas Treatment
+Section 4.10 Process Off-gas Treatment
+Section 4.11 Fuel Reprocessing Plant Atmospheric Protection System
+
+Treatment alternatives considered in this document have been selected primarily on the
+basis of available technology as identified in the ERDA report, Alternatives for Managing
+Wastes from Reactors and Post-fission Operations in the LWR Fuel Cycle. Where possible at
+least two available technology alternative concepts are described for treatment of each waste
+type. However, in two cases, failed equipment and noncombustible waste treatment (Section 4.3)
+and degraded solvent treatment (Section 4.5), only one concept is described since there are no
+significant alternative concepts available. In two cases, Packaging of Fuel Residues 
+(Section 4.2) and the Atmospheric Protection System (Section 4.11), three alternatives are
+described.
+
+In two sections, Section 4.6 and 4.8, the descriptions are limited to generic discussions
+of facilities; no specific facilities are described. The processes presented in Section 4.6
+for dilute aqueous waste pretreatment are often more closely related to the main recycle pro-
+cess flowsheet than to treated waste requirements. The concentrated waste streams produced
+by these processes are subject to further treatment described in other sections. Section 4.8
+discusses off-gas particle removal through the application of high-efficiency air filtration
+systems. Such systems are used throughout a reprocessing or mixed oxide fuel fabrication
+plant and description of specific individual facilities is inappropriate here. Treatment

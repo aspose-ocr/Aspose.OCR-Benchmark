@@ -1,0 +1,38 @@
+Revision 3                                               November 1978
+                         TABLE 6-5 (Continued)
+
+V.    General Information
+
+      A.   External Design Pressure, psig
+      B.   Internal Design Pressure, psig
+      C.   Design Leak Rate, %/day @ psig
+
+VI.   Initial Conditions
+
+      A.   Reactor Coolant System  (at design overpower of 102% and at
+           normal liquid levels)
+
+           1.   Reactor Power Level, MWt
+           2.   Average Coolant Temperature, ~F
+           3.   Mass of Reactor Coolant System Liquid, lbm
+           4.   Mass of Reactor Coolant System Steam, lbm
+           5.   Liquid plus Steam Energy,* Btu
+
+      B.   Containment
+
+           1.   Pressure, psig
+           2.   Temperature, ~F (upper compartment, lower compartment,
+                and ice condenser)
+           3.   Relative Humidity, % (upper compartment, lower compart-
+                ment, and ice condenser)
+           4.   Service Water Temperature, ~F
+           5.   Refueling Water Temperature, ~F
+           6.   Outside Temperature, ~F
+
+      C.   Stored Water (as applicable)
+
+           1.   Borated Water Storage Tank, ft3
+           2.   All Accumulators (safety injection tanks), ft3
+           3.   Condensate Storage Tanks, ft3
+~~All energies are relative to 32~F.
+6-73

@@ -1,0 +1,53 @@
+IV.  B.  Water Behavior
+
+	Before turning the heater on, enough tuff equilibrated water was added 
+to each of the water collection cavities to fill the "dead space" below the 
+depth gages and activate the first pin of the gage.  This was done so the 
+gages would be the most sensitive to the influx of water if it occurred.  By 
+the time the heater was turned on, the water ballast had leaked out of WM-3.  
+The depth gage responses in WM-1, WM-2, and HH-1 are shown in Figures 21, 22, 
+and 23, respectively.  Because of the rate that water was collected in HH-1, 
+the details of the gage response are not apparent in Figure 23.  Figures 24 
+and 25 provide expanded time views of the gage response.  Increasing voltage 
+corresponds to increased water accumulation in the collection cavities.  The 
+step-like nature of the voltage increases reflects the discrete pin design of 
+the gage.  The sharp decline in the voltage readings occurred when a water 
+sample was withdrawn from the cavity.  Each gage was individually built; con-
+sequently, each delivers a unique output.
+
+	It is apparent from these figures that water began to collect in each of
+the cavities soon after the heater was turned on.  The first water sample was 
+removed from the heater hole 7 hr 20 min after turn-on.  As discussed earlier, 
+we were unable to quantitatively calibrate the depth gages either pretest or 
+while the experiment was in progress.  Considerable posttest effort was 
+expended to again try to quantitatively calibrate the gages in light of 
+knowing the water collection rates in each of the holes and the individual 
+stabilized gage characteristics, but without success.  Consequently, the water 
+generation rate in each of the holes was quantitatively determined by dividing 
+the amount of water removed from the cavity by the time interval since the 
+last withdrawal.  The results are shown in Figure 26.  The data points are 
+positioned at the midpoint of the time interval.
+
+	Initially, the water accumulated so rapidly in HH-1 and WM-2 that they 
+required around-the-clock attention.  The water generation rate in WM-2 even-
+tually slowed to the point that it only required servicing on a daily basis, 
+but such was never the case in HH-1.  As mentioned earlier, HH-1 was fitted 
+with an automatic sampling system combined with periodic manual sampling, 
+which accounts for the depth gage response in Figure 23 after about J-Day = 58 
+and the increased intervals in Figure 26.
+
+	Examination of the depth gage responses during cool down in Figures   
+21-23 reveals a gradual increase in voltage for HH-1 and WM-2 while WM-1 
+remained level.  We attempted to remove water from the HH-1 and WM-2 cavities 
+several times during cool down, but without success.  The same behavior was 
+noticed during the pretest background determinations with the same results, no 
+water.  The behavior was apparently a gage characteristic or a minor response 
+to atmospheric conditions in the cavities.
+
+	After the experiment was completed, the leak rate for each of the water 
+collection cavities was carefully measured.  The values were 0.97 ml/hr,   
+0.49 ml/hr, and 0.26 ml/hr for HH-1, WM-2, and WM-1, respectively.  The cavity 
+in WM-3 leaked too rapidly for a unique value to be measured.  The total 
+amount of water collected during the experiment is listed in Table 7.  The 
+quantities corrected for the cavity leakage are also in Table 7, assuming that
+-20-

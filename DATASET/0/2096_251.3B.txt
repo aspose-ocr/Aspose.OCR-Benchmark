@@ -1,0 +1,57 @@
+Revision 3			November 1978
+
+
+	The analyses should also discuss the need for and method of changing
+to more restrictive trip setpoints during abnormal operating conditions
+such as operation with fewer than all reactor coolant loops operating.
+Reference may be made to other sections of the SAR for supporting systems.
+
+	7.3 Engineered-Safety-Feature Systems
+
+	For standardized systems, it is preferred that the information listed
+be supplied in a topical report and that the topical report be referenced
+in the appropriate place in the SAR.
+
+7.3.1 Description
+
+	7.3.1.1 System Description. Provide a description of the instru-
+mentation and controls associated with the engineered safety features
+(ESF), including initiating circuits, logic, bypasses, interlocks,
+sequencing, redundancy, diversity, and actuated devices. Any supporting
+systems should be identified and described. Those parts of any system
+not required for safety should be identified.
+
+	7.3.1.2 Design Basis Information. Provide the design basis infor-
+mation required by Section 3 of IEEE Std 279-1971. For the PSAR review,
+provide preliminary electrical schematic diagrams, logic diagrams, piping
+and instrumentation diagrams, and location layout drawings of all engineered-
+safety-feature instrumentation, control systems, and supporting systems.
+
+	7.3.1.3 Final System Drawings. In the FSAR, provide electrical
+schematic diagrams for all ESF circuits and supporting systems, and final
+logic diagrams, piping and instrumentation diagrams, and location layout
+drawings. Describe the differences, if any, between the logic diagrams
+and schematics submitted in the PSAR and those in the FSAR and the effects
+on safety-related systems.
+
+7.3.2 Analysis
+
+	Provide analyses, including a failure mode and effects analysis, to
+demonstrate how the requirements of the General Design Criteria and IEEE
+Std 279-1971 are satisfied and the extent to which applicable regulatory
+guides and other appropriate criteria and standards are satisfied. In
+addition to postulated accidents and failures, these analyses should
+include considerations of (1) loss of plant instrument air systems and
+(2) loss of cooling water to vital equipment. The method for periodic
+testing of engineered-safety-feature instrumentation and control equip-
+ment and the effects on system integrity during testing should be
+described.
+
+	7.4 Systems Required for Safe Shutdown
+
+	For standardized systems, it is preferred that the information listed
+be supplied in a topical report and that the topical report be referenced
+in the appropriate place in the SAR.
+
+
+7-4

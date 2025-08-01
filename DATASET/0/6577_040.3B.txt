@@ -1,0 +1,53 @@
+separate analyses, 15 relatively distinct locations were identified (Figure 
+2-13).  In this manner alternative locations for a repository were estab-
+lished by the analyses.
+ 
+    In Figure 2-14 the 15 locations are ranked according to the number of 
+analyses for which all or most of the grid cells within each location rated 
+high, medium, or low.  The objective and attribute subsets shown in Figure 
+2-14 are convenient representations of the most important bases for ranking 
+the potential sites; the figure also shows the relative weights assigned by 
+the experts to each of these subsets.  To quantify the basis for the rank-
+ings, the weights associated with each of the rating categories shown on 
+Figure 2-14 were summed for each location for the 12 analyses that considered 
+different combinations of objectives (Table 2-6).
+ 
+    As is apparent from figures 2-11a, 2-12, and 2-14 and from Table 2-6, 
+northern Yucca Mountain (location J, Figure 2-13) ranked highest, mainly 
+because of high ratings for objectives related to long-term isolation; its 
+ratings for near-term objectives, including the cost of constructing surface 
+facilities and the environmental impacts of construction and operation, were 
+lower than those of some of the other locations (Figure 2-14).  Three rock 
+types at this location rated high enough to merit consideration as potential 
+repository host rocks: the saturated and unsaturated Calico Hills unit, the 
+unsaturated Topopah Spring Member, and the saturated Crater Flat Tuff (lower 
+half of Figure 2-11b).
+ 
+    Two other locations, northeastern Jackass Flats and Calico Hills-Upper 
+Topopah Wash (locations L and N, respectively, Figure 2-13), also rated 
+generally high.  High ratings at northeastern Jackass Flats are primarily due 
+to favorable environmental, terrain, and hydrologic attributes.  However, 
+this location is not underlain by any of the host rocks considered.  Less 
+favorable tectonic attributes also detracted from its ratings.
+ 
+    The third location, Calico Hills-Upper Topopah Wash, in contrast to 
+northeastern Jackass Flats, rated low for geographical attributes and high 
+only when host-rock attributes were considered.  Argillite and perhaps 
+granite occur beneath Calico Hills and Upper Topopah Wash, though the granite 
+may be too deep for repository use.  Argillite was rated first and granite 
+second for both saturated and unsaturated conditions, and their presence 
+strongly contributed to the high ratings at this location (compare maps from 
+figures 2-11a and 2-12).  Hydrologic attributes at Calico Hills-Upper Topopah 
+Wash also rated very high, whereas tectonic, terrain, and human-disturbance 
+attributes generally rated low.  The other 12 locations rated significantly 
+lower than those discussed above.
+ 
+    Yucca Mountain emerged from the formal screening, in agreement with the 
+less formal siting activities described in Section 2.2.3, as the location on 
+or near the NTS that offers the most attributes considered to be favorable 
+for a repository site.  The screening systematically compared only the rela-
+tive merits of alternative locations considered in the study.  The site-
+specific data needed for quantitative predictions of site suitability will be 
+collected during site characterization if Yucca Mountain is recommended for 
+characterization.
+2-40

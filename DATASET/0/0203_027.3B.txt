@@ -1,0 +1,53 @@
+CONSULTATION DRAFT
+       Chapter 3
+
+       HYDROLOGY
+
+	This chapter summarizes present knowledge of the regional and site 
+hydrologic systems.  The purpose of the information presented is to (1) des-
+cribe the hydrology based on available literature and preliminary site-    
+exploration activities that have been or are being performed and (2) provide 
+information to be used to develop the hydrologic aspects of the planned site 
+characterization program.
+
+   INTRODUCTION
+
+	An understanding of the hydrologic regime is required for many of the 
+issues in the Nevada Nuclear Waste Storage Investigations (NNWSI) Project 
+Issues Hierarchy (Section 8.2).  In particular, the nine Performance Issues 
+(1.1 through 1.9) of Key Issue 1 (related to the postclosure environment); 
+the Characterization Programs 8.3.1.2 (geohydrology), 8.3.1.3 (geochemistry),
+and 8.3.1.9 (water resources); the Performance Issue (4.1) of Key Issue 4 
+(preclosure); and the Characterization Program 8.3.1.16 (hydrology) all per-
+tain directly to hydrology.  In addition, other programs are indirectly 
+related to hydrology, (e.g., Programs 8.3.1.5, 8.3.1.6, and 8.3.1.8 question 
+the effects that climatic change, erosional processes, and tectonic processes  
+exert on the hydrologic characteristics at the site).  Furthermore, issues 
+related to design (both in the preclosure and postclosure time frames) 
+require a knowledge of the emplacement environment, a major component of 
+which is moisture.  Therefore, an understanding of the hydrologic system in 
+and around Yucca Mountain is paramount to satisfying many of the issues in 
+the issues hierarchy.
+
+	One of the primary advantages of the proposed Yucca Mountain repository 
+site is that it is intended to be located in the unsaturated zone, approxi- 
+mately 300 m above the saturated zone.  This chapter discusses in detail the 
+present understanding of hydrologic conditions within the unsaturated zone, 
+as well as conditions in the saturated zone and in the surface hydrologic 
+systems; the last two act as boundaries to the unsaturated zone.
+
+	For convenience in describing the hydrologic regime, two types of study 
+areas are defined in this chapter:  (1) a hydrographic study area  (Figure  
+3-1) that delineates the regional surface water system that encompasses Yucca 
+Mountain and (2) a hydrogeologic study area (Figure 3-2), the boundaries of 
+which approximate the regional ground-water flow system surrounding Yucca 
+Mountain.  These study areas represent the areas from which published data 
+were compiled to describe the hydrology of the region and site; additional 
+investigations are planned for parts of these study areas, as described in 
+Section 8.3.1.2.
+
+	The hydrographic study area is composed of eight smaller hydrographic 
+areas as described by Waddell et al. (1984) (Figure 3-1).  Yucca Mountain 
+lies on the boundary of the Crater Flat and Fortymile Canyon-Jackass Flats 
+hydrographic areas.  Detailed discussions of the surface-water system within
+3-1

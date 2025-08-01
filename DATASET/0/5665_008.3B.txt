@@ -1,0 +1,42 @@
+A2  TECHNIQUES IN UNSATURATED-ZONE HYDROLOGY
+used different soil parametric equations. They demonstrated the useful-
+ness of dimensionless curves in solving problems of the type under con-
+sideration.
+  The above treatments stressed the cases in which soil properties were
+the determining factor of evaporation. Cases of evaporation in which the
+atmospheric conditions play the decisive role can be treated by means of
+several purely meteorological equations (for example, Slatyer and
+McIlroy, 1961).
+  Philip (1957a, b) showed how the effects of the soil factors on bare-soil
+evaporation interacted with the effects of the atmospheric parameters
+on bare-soil evaporation. Owing to his utilization of numerical methods,
+Philip's approach to soil influences was more general but mathematically
+less convenient than Gardner's approach.
+  All the studies quoted above concerned themselves with homogeneous
+soils and mainly with cases involving liquid transfer. Gardner indicated
+how to include the vapor-transfer effects, but only for selected circum-
+stances. Philip's approach to vapor effects is more general, but again
+mathematically less convenient.
+  The purpose of this paper is to integrate and extend the above approaches
+for estimating steady-state evaporation from bare soils under high
+water-table conditions. The past approaches are unified, modified, and
+supplemented when necessary to improve their practicability as a general
+(though approximate) method.
+  Stress has been placed on use of readily available data, simple parameter-
+determination techniques, dimensionless variables, and simple graphical
+or algebraic treatments. Numerical integrations have been avoided.
+The older approaches are generalized so as to make them applicable to
+layered as well as homogeneous soils. In addition, analysis of the multi-
+layer case is modified to allow for the treatment of evaporation affected
+by water-vapor transfer. Examples of the results obtained with the
+suggested method are presented, discussed, and utilized for demonstrating
+the role of some of the relevant factors.
+
+THEORY
+
+  The steady-state evaporative fluxes across the boundary between any
+given soil-atmosphere system may be described by two functional rela-
+tions. The first deals with the fluxes leaving the soil surface and entering
+the atmosphere. It may be represented by the meteorological equation
+The second described the fluxes between the water table and the soil
+surface and may be expressed by the soil equation

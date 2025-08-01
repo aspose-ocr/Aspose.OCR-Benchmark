@@ -1,0 +1,29 @@
+Results
+
+      The location of the Forty Mile Wash survey site is shown in Figure 3. 
+The transmitter wire forms a broad "V" shape with the electrodes roughly on 
+strike with the mapped fault labelled "A", which runs in a general north-south 
+direction (Lipman and McKay, 1965).   The field site is covered by Quaternary 
+alluvium and colluvium and underlain by various members of Paintbrush Tuff 
+which is a Tertiary bedded tuff interlayered with ash-flow tuffs.
+       The survey was made along two lines, the more northerly being called NTS-
+1 and the more southerly NTS-2.   The lines run roughly perpendicular to the 
+strike direction.   Figures 4 and 5 show the NTS-1 and NTS-2 results 
+respectively.   The normalized primary (P), measured (M), and secondary (S) 
+fields are shown as functions of y. The MMR anomaly (%) is also shown.   The 
+vertical scale for the primary and measured fields are the same, while the 
+secondary field scale is to the left and the MMR anomaly scale is to the 
+right.   The minimum and maximum values for the scales are displayed.   The 
+squares refer to the left-hand scale, and the x's refer to the right-hand 
+scale.   There is a separate display for each field component.
+       The z-component MMR anomalies are characterized by a positive peak near 
+y=470 m on line NTS-1 and near y=330 m on line NTS-2 indicating a conductivity 
+boundary.   The y-component MMR anomaly shows an asymmetric transition from a 
+small negative value to a larger positive value in the direction of decreasing 
+y.  From these two curves, we can determine that the region to the west of 
+this boundary is more conductive. (See Figure 6 for a schematic 
+representation of the excess currents and the resulting MMR anomaly.)
+      The west edge of this conductive zone is not seen because the line was 
+not continued far enough.   However, based on the continued decrease of the z-
+anomaly on line NTS-1, we can estimate the conductor to be at least 800 m 
+6

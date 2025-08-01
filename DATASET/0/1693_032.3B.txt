@@ -1,0 +1,33 @@
+- 24 -
+           Although the factors of importance to SCC are well known 
+qualitatively, there are no models available which allow a reliable 
+quantitative prediction of the possibility of SCC or time of failure.  
+Moreover, it has been stated that even the considerable amount of 
+empirical data available is generally inadequate in attempting to esti-
+mate the probability of failure(45).   On the other hand, there are many 
+successful practical applications of ~ stainless steels where both 
+chlorides and stresses near the yield stress are present.   It is diffi-
+cult therefore to define upper limits of the various parameters below 
+which safe operation can be assumed.
+
+            Truman has pointed out in a survey of service failures that 
+most failures occurred at temperatures > 70~C, although the same author 
+has clearly demonstrated SCC in 304 stainless steel at 60~C in an 
+aqueous solution of 10 000 ~g/g NaCl at a pH of 2(45).  Other results 
+indicate that SCC can occur with very low chloride levels (< 2 ~g/g) in 
+aerated water, although deaerated water is considerably less aggres-
+sive(41).   However, even in relatively pure environments, concentrating 
+effects due to reflux mechanisms,or at crevices,can further promote and 
+accelerate SCC.  Stress levels often approach the yield stress in many 
+as-fabricated components, but it is also known that SCC can occur at 
+lower stress levels, with the possibility of a threshold value, for 
+given conditions, below which SCC will not occur.  Experimentally 
+measured values of this stress for specific conditions are difficult to 
+apply generally, and, moreover, the levels of stress involved in a 
+practical situation cannot be determined simply.
+
+            Finally, it is interesting to note that Sandia workers have 
+eliminated the 300 series type stainless steels from their list of 
+candidate alloys for waste and fuel immobilization containers for the 
+Waste Isolation Pilot Plant because of the likelihood of SCC in the salt 
+environment(46).

@@ -1,0 +1,56 @@
+CONSULTATION DRAFT
+predominate.  Temperatures range from 22 to 56~C, and pH values are 6.6 to 
+9.2.  Although plots of relative cation and anion concentrations indicate a 
+general description of sodium bicarbonate water, the ground water at Yucca 
+Mountain is not chemically homogeneous.  The differences in ionic composition 
+among the wells is outlined and the authors conclude that ground water from 
+the wells in the Yucca Mountain area has a significant degree of lateral and 
+vertical chemical variability. 
+
+	Claassen (1973) reports chemical data from eight wells drawing water 
+from the tuff strata in the north, southeast, and southwest areas of the 
+(NTS).  The analyses are in good agreement with the previously reported data.
+
+	The chemical composition of 15 ground-water samples from Pahute Mesa 
+were reported by Blankennagel and Weir (1973).  As with other waters from the 
+tuff aquifer, the ground water of Pahute Mesa is of a sodium potassium 
+bicarbonate type.  Sodium plus potassium ranged from 58 to 99 percent of the 
+total cations, with 8 of the samples having the alkali ions present at more 
+than 90 percent.  Bicarbonate is the most abundant anion with bicarbonate 
+plus carbonate making up more than 50 percent of the total anions in 12 of 
+the samples.  Water from the western side of the mesa has dissolved solids 
+concentrations ranging from 206 to 336 mg/L, and averaging 280 mg/L.  In the 
+eastern part of the mesa, the dissolved solids range from 117 to 248 mg/L, 
+and average 200 mg/L.  Blankennagel and Weir (1973) consider that the lesser 
+concentrated water in the east may be due to its nearness to areas of 
+recharge.
+
+	Chemical analyses for 12 ground-water samples primarily from the north-
+ern area of the NTS are presented by Claassen (1985).  Claassen (1985) recog-
+nized that some of the samples were atypical of the regional tuffaceous 
+aquifer.  These samples "all represent very young, generally perched ground 
+water," thus not having evolved chemically to the extent of the waters repre-
+sentative of the regional aquifer.  Specifically, the decrease in calcium 
+relative to sodium is presumed to result from greater quantities of clinopti-
+lolite precipitated from a ground-water composition evolved by reaction with 
+vitric tuff and, therefore represents a trend of increasing maturity of 
+ground water.
+
+	Figure 3-12 provides a graphical description of water in the tuffaceous 
+aquifer in the form of a Piper diagram.
+
+Lower carbonate aquifer
+
+	Schoff and Moore (1964) recognized two varieties of water in the 
+regional carbonate aquifer:  a calcium magnesium bicarbonate type and a mixed 
+type.  Winograd and Pearson (1976) determined that the variation in composi-
+tion corresponded to the distance from recharge area.  The authors found that 
+ground water in close proximity to the Spring Mountains recharge area was 
+typical of water moving through an upland carbonate; that is, calcium (45 to 
+69 mg/L), magnesium (10 to 16 mg/L) and bicarbonate (180 to 290 mg/L) occur-
+red as primary constituents, and sodium, potassium, chloride and sulfate were 
+present in negligible quantities.  Water that is primarily calcium magnesium 
+bicarbonate is still found at intermediate points along the flow system; 
+however, concentrations of sodium and sulfate are increased.  Finally, near 
+the Ash Meadows discharge area sodium, sulfate, and chloride are present as
+3-83

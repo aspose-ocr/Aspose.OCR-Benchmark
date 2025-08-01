@@ -1,0 +1,37 @@
+2
+
+
+(1)	All Candidate Geologic Media: Chemistry-specific leach and
+	corrosion rates, medium-specific repository stresses, and
+	appropriate fluid fluxes are input into the data base.
+(2)	Any Waste Type: The model is generally applicable to solidified
+	nuclear wastes, including commercial and defense high-level waste,
+	TRU waste and spent fuel. The theoretical basis for the thermal,
+	mechanical, and leach models is valid for homogeneous, brittle and
+	uniformly leachable solid wasteforms (with limited ability to model
+	preferential leaching, see Section 7.1.4). Spent fuel clad
+	assemblies and cermet wasteforms may not be accurately described by
+	the model approximations, due to structural inhomogeneity and
+	deviations from cylindrical symmetry. The leaching equations
+	adopted in WAPPA, as well as special degradation mechanisms (e.g.,
+	radiation damage, wasteform fracturing) are known to apply to glassy
+	wasteforms, as well as to SYNROC and spent fuel ceramics.
+(3)	Conventional Waste Package Designs and Geometry: The present logic
+	of the model constrains the waste package states and configurations
+	which can be handled. A conventional waste package configuration
+	consists of a solid wasteform in a metal canister, an overpack
+	separated from the canister by a gas gap or a stabilizer, and an
+	outer flow and nuclide migration retardation barrier, such as a
+	backfill. The metal canisters are considered to serve both as
+	mechanical and corrosion barriers. Air or gas gaps present can be
+	closed by mechanical large-scale deformation, or can become
+	fluid-filled. The outer backfill can be a porous crushed-rock fill,
+	but it cannot be an air gap (which does not transfer boundary
+	stresses from the repository to the waste package). Also, two
+	contiguous gas or fluid barriers are not permitted in the model.
+	Other constraints on barrier configurations which the present WAPPA
+	logic can treat are detailed in Section 2.1.2. The leach model
+	solution logic (Section 7.2.7) permits treatment of special-case
+	waste packages, e.g., without any metal barriers or backfill present
+	at emplacement. A backfill, if present, is always assumed to be the
+	outermost barrier. Thus, hole-sleeves placed outside the backfill,

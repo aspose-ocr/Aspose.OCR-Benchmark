@@ -1,0 +1,28 @@
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+AnyCPU/
+x86/
+x64/
+bld/
+[Bb]in/
+[Oo]bj/
+artefacts/
+.sonarqube/
+package/
+LocalAssemblyTest/packages/
+
+# Visual Studio cache/options directory
+.vs/
+Brutal.Dev.StrongNameSigner.2.8.0/
+
+#submodules
+DlibDotNet/

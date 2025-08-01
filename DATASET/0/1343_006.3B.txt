@@ -1,0 +1,43 @@
+NOTICE: The project that is the subject of this report was approved by the Governing
+Board of the National Research Council, whose members are drawn from the Councils of
+the National Academy of Sciences, the National Academy of Engineering, and the Institute
+of Medicine. The members of the committee responsible for the report were chosen for
+their special competences and with regard for appropriate balance.
+  This report has been reviewed by a group other than the authors according to procedures
+approved by a Report Review Committee consisting of members of the National Academy
+of Sciences, the National Academy of Engineering, and the Institute of Medicine.
+
+  The National Research Council was established by the National Academy of Sciences in
+1916 to associate the broad community of science and technology with the Academy's
+purposes of furthering knowledge and of advising the federal government. The Council
+operates in accordance with general policies determined by the Academy under the author-
+ity of its Congressional charter of 1863, which established the Academy as a private, non-
+profit, self-governing membership corporation. The Council has become the principal
+operating agency of both the National Academy of Sciences and the National Academy of
+Engineering in the conduct of their services to the government, the public, and the scien-
+tific and engineering communities. It is administered jointly by both Academies and the
+Institute of Medicine. The National Academy of Engineering and the Institute of Medicine
+were established in 1964 and 1970, respectively, under the charter of the National Academy
+of Sciences.
+
+  The work presented in this report was supported by the Office of Radiation Programs,
+Environmental Protection Agency, under contract 68-01-4301.
+
+PUBLISHER'S NOTE: This edition differs from the typescript edition that was released in
+July 1980 in that a number of changes made by the Committee (necessitated chiefly by cor-
+rection of a programming error) have been incorporated.
+
+Library of Congress Catalog Card Number 80-81659
+
+International Standard Book Number 0-309-03095-1
+
+First Printing, November 1980
+Second Printing, March 1981
+Third Printing, June 1984
+
+Available from:
+NATIONAL ACADEMY PRESS
+2101 Constitution Avenue, N.W.
+Washington, D.C. 20418
+
+Printed in the United States of America

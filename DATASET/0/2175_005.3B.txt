@@ -1,0 +1,39 @@
+Acknowledgments
+  The author is grateful to W. C. Carr, T. M. Cronin, J. W. Harden, J. W.
+Hawley, D. L. Hoover, G. M. Huestis, M. N. Machette, D. L. Marchand, L.
+McCarten, D. R. Muhs, J. P. Owens, K. L. Pierce, G. M. Richmond, R. R. Shroba,
+and W. C. Swadley for providing suggestions and samples from the many
+different areas covered in this investigation. A. J. Gude kindly provided
+samples from Lake Tecopa, and G. R. Scott and B. J. Szabo provided help in
+locating and sampling alluvial units in the Golden fault zone. J. R. Dooley,
+Jr., A. J. Bartel and C. R. McKinney helped with chemical separations on some
+of the glacial deposit samples from the Colorado, Wyoming, and northern
+Yellowstone National Park areas. C. A. Bush provided valuable help in
+operating the alpha spectrometers and programming the data acquisition
+system. K. R. Ludwig developed a computer program to obtain a York fit and
+automatic plot of the data.
+
+Purpose and Goals
+  The purpose of this investigation was to develop a model to describe that
+part of uranium migration whose end product was a predictable change of
+uranium and thorium isotopic ratios with time. The model was applied to
+deposits of known or inferred age. These deposits provide both the needed
+time calibration for the model as well as a basis for evaluating its
+reliability. If sufficient reliability can be demonstrated, an empirical
+radiometric dating technique, extending from a few thousand to almost a
+million years, would be available to aid in geologic investigation of
+surficial deposits.
+  For uranium-series dating, it would be useful to have a technique capable
+of dating the time of deposition of surficial deposits, rather than having to
+find fossil material suitable for dating by conventional closed-system
+uranium-series methods. The uranium-trend technique should date inception of
+migration of fluids through the deposit. Also, it would be useful to have a
+technique to estimate rates of formation of geochemical replacement deposits
+such as caliche, spring deposits, and dissolution residues.
+  If sufficient reliability can be demonstrated, this dating technique can
+be applied to some important geologic problems: (1) establishing fault
+chronologies and age of last movement, (2) rates of seismotectonic processes,
+(3) correlation of the marine record with that of deposits in the continental
+
+
+4

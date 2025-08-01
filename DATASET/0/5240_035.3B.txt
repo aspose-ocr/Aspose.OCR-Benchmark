@@ -1,0 +1,36 @@
+  As a second approach, a vent count of Holocene centers ( 10,000 years
+old) for a selected 2.6 ~ 104 km2 area (Figures 5 and 6) was completed.
+Eighty-five vents were counted, yielding a rate of :
+	8.5 ~ 10-3 events per year (Rate)
+assuming each vent can be counted as one event (clearly invalid). Making the
+same assumptions concerning the disruption zone as were made in the previous
+section yields two cases:
+
+	P = (8.5 ~ 10 -3/yr)(50.3 km2/2.6 ~ 104 km2) CASE ONE: Large Disrup-
+								tion Zone
+	  = 1.6 ~ 10-5/yr;
+
+	P = (8.5 ~ 10-3yr)(10 km2/2.6 ~ 104) CASE TWO: Small Disruption Zone
+	= 3.3 ~ 10-6/yr.
+
+  As a final approach the dike surface area was calculated for 85 events in
+10,000 years. Making the same areal assumptions for the dike area and disrup-
+tion zone as were made in the previous section (2.1 km2) yields the follow-
+ing rate:
+
+	= (85 events)(2.1 km2) per 10,000 years
+	= 1.8 ~ 10-2 km2 events per year. (Rate)
+
+Using this approach, the probability is:
+
+	P = (1.8 ~ 10-2)(10 km2/2.6 ~ 104 km2)
+	  = 6.9 ~ 10-6/year.
+
+DISCUSSION
+  This paper represents a "first stab" at assessing the threat posed by vol-
+canic activity to the long-term geologic storage of radioactive waste. The
+approach taken is general and represents a necessarily oversimplified view of
+volcanic hazards. The general cases that are considered in the worst case
+
+
+23

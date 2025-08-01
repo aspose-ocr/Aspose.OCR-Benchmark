@@ -1,0 +1,39 @@
+conditions. Applicable requirements developed for licensed nuclear
+facilities, such as Regulatory Guide 1.23, shall be used in designing the
+system for collecting meteorological data. (This system is currently designed
+and operating at Yucca Mountain.)
+
+8.2.23.3 Environmental Monitoring
+
+Environmental monitoring shall adhere to the requirements of DOE Order
+5480.4, "Environmental Protection, Safety and Health Protection Standards."
+Environmental monitoring equipment shall be provided to acquire baseline data
+for site characterization and performance confirmation. TLDs shall be
+provided as radiation monitors for monitoring radiation levels at various
+locations surrounding the site.
+
+Wells provided for monitoring underground water quality for radioactive
+contamination shall be provided as required.
+
+8.2.23.4 Seismic Monitoring
+
+A seismic monitoring system shall be provided to detect seismic events
+and record associated ground motions. The regional and local detection
+provisions will be satisfied by an array of continuously recording, high-gain
+instruments distributed regionally at the ground surface and locally at both
+the ground surface and depths below the anticipated repository levels. These
+instruments will provide microseismic coverage, both regionally and locally.
+Seismic monitoring shall also be provided for structures, systems, and
+components important to safety to determine structural response of these
+facilities to ground motion.
+
+Adequate instrumentation shall be provided to monitor ground motions due
+to earthquakes and UNEs at surface and at depth.
+
+8.2.24 Concrete Batch Plant
+ 
+A concrete batch plant shall be provided near the men and materials shaft
+to supply concrete for underground development. Adequate space shall be
+provided for the storage of cement and aggregates.
+1484Y       8-25          02/24/86
+                                        P-507

@@ -1,0 +1,67 @@
+
+ORE GENESIS IN THE NORTH PENNINE OREFIELD     393
+
+
+
+
+   Salinity Studies.-~Salinity measurements of the fluid inclusions in Pennine
+minerals were made on a freezing stage consisting of a hexagonal aluminum
+cell with a circular inner wall, around which were placed six thermomodules 
+connected in series. The heat generated on the hot side of the thermomodules
+was removed by circulating pre-cooled tap water through copper plates
+clamped to the thermomodules. The aluminum cell was fitted with quartz
+windows at top and bottom and a thermocouple placed in the cell in close
+proximity to the sample, which was supported in the center of the cell. The
+entire system was insulated and the cell filled with acetone. It was found that
+~pplication of a current of 10 amps to the thermomodules resulted in a tempera-
+ture of -18~ C within the cell, and that above -18~ C it was possible to
+adjust the temperature in the cell within ~~ 1~ C by varying the current fed
+to the thermomodules. Unfortunately it was not possible to obtain tempera-
+tures lower than about -18~ C with this freezing stage. The stage was
+calibrated by measuring the melting temperature of n-dodecane (M.P.
+
+
+
+
+-9.6~ C) sealed in glass capillary tubes, and by placing the bulb of a ther-
+mometer adjacent to the thermocouple in the cell.
+   Fluid inclusions generally exhibit considerable super-cooling before freez-
+ing (33), consequently each specimen was pre-cooled in a mixture of dry ice 
+and acetone for 30 minutes and then rapidly transferred to the cooling stage
+which was at a temperature of -18~ C. By gradually increasing the tem-
+perature within the cell, the temperature at which the last ice crystal in an
+~~clusion melted could be obtained. These last melting temperatures have 
+~~en interpreted in terms of the system NaCl-H2O (Table 3). In some 
+~~stances it was found that the ice crystals in inclusions had already melted
+at -18~ C. In such cases it has only been possible to place a minimum value 
+on the salinity of the inclusion contents.
+   Investigation of the Na/K ratios of Fluid Inclusions.-~In order to measure 
+the relative amounts of Na and K in Pennine fluid inclusions samples of
+quartz, fluorite, sphalerite and barite exceeding 100 grams in weight were
+carefully cleaned and then crushed in a clean tungsten-carbide mixer mill for
+
+
+
+
+Table 2. Iron content of Pennine Sphalerites
+
+
+
+
+Sample No.              Locality                      % Fe in ZnS
+
+63-S-12		Settlingstones Mines          		0.63
+63-S-18		Nenthead                                0.83
+63-S-40		Killhope				1.05
+63-S-55		Swinhope Mine				1.42
+64-S-21		Whiteheaps Mine				3.37
+64-S-30		Nentsbury Mine 				0.33
+64-S-1		Rookhope B.H. 688'			0.90
+64-S-2		Rookhope B.H. 940'                      0.37 light bands
+  	                                                2.31 dark bands
+
+
+
+
+Analyst R. Lambert
+

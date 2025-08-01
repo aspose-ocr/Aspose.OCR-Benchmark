@@ -1,0 +1,51 @@
+188
+
+
+Topopah Spring Member of the Paintbrush Tuff
+
+Advantages
+
+	~ Situated in the unsaturated zone some 230 m above the water
+table, resulting in limited flux.
+	~ Thick unit of devitrified welded tuff (approximately 350 m thick).
+	~ High matrix thermal conductivity of about 1.6 W/m~C.
+	~ Highest mechanical strength (100 MPa unconfined uniaxial
+compressive strength).
+	~ Rock relatively free of zeolites or clay minerals, with a
+positive linear thermal expansion and a minimal release of water during
+heating.
+	~ Transport barrier to downward flux of nuclides, supplied by about
+115 m of highly zeolitized rocks lying between this unit and the water
+table.
+	~ The shallowest of the four potential horizons, providing easiest
+access, lowest thermal background, and least overburden pressure.
+
+Disadvantages
+
+	~ Highly jointed or fractured rock, making vertical hydraulic
+permeability probably high and gas permeability high.
+	~ Abundant lithopysae in some zones, resulting in reduced strength
+and potentially increased lateral permeability (though the latter has
+minimum consequence in the unsaturated zone).
+	~ Limited knowledge of lateral variability of properties.
+	~ Limited knowledge of hydrologic mechanisms and flow of water in
+the unsaturated zone, especially in fractured tuff.
+
+Tuffaceous Beds of Calico Hills
+
+Advantages 
+
+	~ Limited water flux, since throughout most of the repository block
+these strata lie within the unsaturated zone from 30 to 150 m above the
+water table in USW G-1 (Figure 7-10).
+	~ Highly zeolitized, so highly sorptive and probably low in
+permeability.
+	~ Low frequency of fractures compared with the other horizons in
+welded tuff.
+	~ Easily mined by use of continuous mining machines.
+
+Disadvantages
+
+	~ Repository space with less lateral extent than for other
+candidate horizons due to unit's thinning southward within the Yucca
+Mountain block.

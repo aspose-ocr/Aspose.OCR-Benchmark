@@ -1,0 +1,53 @@
+Revision 3  November 1978
+of chloride, fluoride, and oxygen and permissible content of hydrogen
+and soluble poisons.  Discuss methods to control water chemistry, including 
+pH.
+
+     2.  BWR reactor coolant chemistry (for BWRs only).  Describe the   
+chemistry of the reactor coolant and the methods for maintaining coolant
+chemistry.  Provide sufficient information about allowable range and maxi-
+mum allowable chloride and fluoride contents, maximum allowable conductiv-
+ity, pH range, location of conductivity meters, performance monitoring, 
+and other details of the coolant chemistry program to indicate whether 
+coolant chemistry will be maintained at a level comparable to the recom-
+mendations in Regulatory Guide 1.56, "Maintenance of Water Purity in 
+Boiling Water Reactors."
+
+     3.  Compatibility of construction materials with reactor coolant.  
+Provide a list of the materials of construction exposed to the reactor  
+coolant and a description of material compatibility with the coolant,   
+contaminants, and radiolytic products to which the materials may be     
+exposed.  If nonmetallics are exposed to the reactor coolant, include a 
+description of the compatibility of these materials with the coolant.
+
+     4.  Compatibility of construction materials with external insula-
+tion and reactor coolant.  Provide a list of the materials of construction 
+of the RCPB and a description of their compatibility with the external 
+insulation, especially in the event of a coolant leakage.  Provide suffi-
+cient information about the selection, procurement, testing, storage, 
+and installation of any nonmetallic thermal insulation for austenitic 
+stainless steel to indicate whether the concentrations of chloride, fluoride,
+sodium, and silicate in thermal insulation will be within the ranges recom-
+mended in Regulatory Guide 1.36, "Nonmetallic Thermal Insulation for Aus-
+tenitic Stainless Steel."  Provide information on the leachable contaminants 
+in insulation on nonaustenitic piping.
+
+     5.2.3.3  Fabrication and Processing of Ferritic Materials.  Provide
+the following information relative to fabrication and processing of ferritic 
+materials used for components of the RCPB:
+
+     1.  Fracture toughness.  In regard to fracture toughness of the    
+ferritic materials, including bolting materials for components (e.g.,   
+vessels, piping, pumps, and valves) of the RCPB, indicate how compliance
+with the test and acceptance requirements of Appendix G to 10 CFR Part  
+50 and with Section NB-2300 and Appendix G of the ASME Code, Section III,
+is achieved.  Submit the fracture toughness data in tabular form, including 
+information regarding the calibration of instruments and equipment (FSAR).
+
+     2.  Control of welding.  Provide the following information relative
+to control of welding of ferritic materials used for components of the  
+RCPB:
+
+          a.  Sufficient information regarding the avoidance of cold     
+cracking during welding of low-alloy steel components of the RCPB to
+5-5

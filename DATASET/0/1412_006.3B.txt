@@ -1,0 +1,125 @@
+Table 2 Some common explosives used for tunnelling in Sweden
+
+
+Explosive			Dynamex B		ANFO	NABIT	GURIT
+
+Hole diameter, mm		45	45	45	45	45	45
+Charge diameter, mm		45	40	32	45	22	17
+Explosive density, kg/dm3	1.15	1.45	1.45	0.95	1.1	1.2
+Weight strength			1.14	1.14	1.14	1.0	1.09	0.83
+Charge concentration
+  real, kg/m			2.0	1.6	1.12	1.5	0.40	0.24
+  kg ANFO/m			2.3	1.82	1.28	1.5	0.44	0.20
+Borehole pressure
+  bar				55 000	32 000	13 000	21 000	3 300	900
+  MPa				5 500	3 200	1 300	2 100	330	90
+
+Drill-hole	Charge concentration,	Charge type	Burden, m	Hole spacing,
+diameter, mm	kg ANFO/m		and size			m
+
+25-32		0.08			11-mm GURIT	0.30-0.45	0.25-0.35
+25-48		0.20			17-mm GURIT	0.70-0.90	0.50-0.70
+51-64		0.44			22-mm NABIT	1.00-1.10	0.80-0.90
+
+
+Blast planning
+It is not unusual for tunnel constructors to fail to
+consider the effects of the charges in the rows
+adjacent to the often well-planned smooth blasted
+contour row. Charging the adjacent rows with a
+heavy charge results in cracks spreading further
+into the remaining rock than from the smooth
+blasted row. It is better to optimize the charge
+calculations such that the damage zone from any
+hole in the round will not exceed the damage zone
+from the contour holes. This can easily be done by
+use of Fig. 2(a), where the damage zone is given
+for different charge concentrations.
+  Table 2 contains recommended burdens for some
+Swedish explosives for use in smooth blasting. For
+a hole diameter of 48 mm and 17-mm GURIT pipe
+charges, a burden of 0.8 m is normal. From Fig.
+2(a) we find that this charge will result in a damage
+zone of about 0.3 m. Choosing a fully charged hole
+of ANFO (/ = 1.6 kg/m) in the next row with a
+damage zone of 1.5 m is of no value because this
+results in a damage zone that extends 0.4 m further
+into the rock (1.5-0.8-0.3 = 0.4 m) than the
+damage zone from the GURIT charges. It would be
+better to use a charge concentration that results in
+a damage zone equal to that caused by the GURIT
+plus the burden, i.e. 1.2 m (Fig. 5) - such a charge
+should have / = 0.8-1.2 kg/m.
+
+
+It is apparent from this example that a reduction
+of the damage zone can be obtained by a reduction
+of the charge concentration per metre borehole.
+This obviously results in increased costs for drill and
+blast operation, but these are balanced by the
+advantage of a safer roof and decreased costs for
+grouting and maintenance.
+
+Acknowledgment
+This work is a part of the rock blasting programme
+of the Swedish Detonic Research Foundation,
+
+
+with the Swedish Board for Technical Development
+(STU).
+
+Bibliography
+1. Persson P. A. Holmberg R. and Persson G. Careful blasting of
+slopes in open pit mines. Rep. Swedish Detonic Res. Foundation
+DS 1977:4, 1977. (Swedish text)
+2. Ambraseys N. N. and Hendron A. J. Jr. Dynamic behaviour of
+rock masses. In Rock mechanics in engineering practice Stagg K. G.
+and Zienkiewicz O. C. eds (London, etc.: Wiley, 1968), 203-36.
+3. Vorob'ev I. T. et al. Features of the development and
+propagation of the Rayleigh surface wave in the Dzhezkazgan
+deposit. Fiz.-Tekh. Probl. Raz. Polez. Isk., 8, no 6 1972, 36-43;
+Soviet Min. Sci., 8, 1972, 634-9.
+4. D'Andrea D. V. Fischer R. L. and Hendrickson A. D. Crater
+scaling in granite for small charges. Rep. Invest. U.S. Bur. Mines
+7409, 1970, 28 p.
+5. Olson J. J. et al. Rock damage from small charge blasting in
+granite. Rep. Invest. U.S. Bur. Mines 7751, 1973, 44 p.
+6. Siskind D. E. Steckley R. C. and Olson J. J. Fracturing in the
+zone around a blasthole, White Pine, Mich. Rep. Invest. U.S. Bur.
+Mines 7753, 1973, 20 p.
+7. Siskind D. E. and Fumanti R. R. Blast-produced fractures in
+Lithonia granite. Rep. Invest. U.S. Bur. Mines 7901, 1974, 38 p.
+8. Nicholls H. R. Johnson C. F. and Duvall W. I. Blasting vibrations
+and their effects on structures. Bull. U.S. Bur. Mines 656, 1971,
+105 p.
+9. Holmberg R. and Persson P. A. The Swedish approach to
+contour blasting. Paper presented to Conference on explosives and
+blasting technique, Society of Explosives Engineers, New Orleans,
+Louisiana, U.S.A., February 1 to 3, 1978.
+10. Svanholm B. O. Persson P. A. and Larsson B. Smooth blasting
+for reliable underground openings. In Rockstore 77: Storage in
+excavated rock caverns, proceedings of the first international
+symposium, Stockholm, 1977 Bergman M. ed. (Oxford, etc.:
+Pergamon, 1977), vol. 3, 573-9.
+11. Persson P. A. The influence of blasting on the remaining rock.
+Rep. Swedish Detonic Res. Foundation DS 1973:15, 1973. (Swedish
+text)
+12. Holmberg R. Computer calculations of drilling patterns for
+surface and underground blastings. In Design methods in rock
+mechanics Fairhurst C. and Crough S. eds (New York: American
+Society of Civil Engineers, 1977), 357-64. (Proc. 16th Symp. Rock
+Mechanics, 1975)
+13. Holmberg R. and Kraula~~ ~. Examination of the crack
+frequency before and after a bla~~ with ~ 250 mm holes in the Aitik
+open pit mine. Rep. Swedish Detonic Res. Foundation DS 1977:12,
+1977. (Swedish text)
+14. Lundborg N. Holmberg R. and Persson P. A. Relation between
+vibration, distance and charge weight. Rep. Swedish Council for
+Building Res. R ~1:1978, 1978. (Swedish text)
+1~. Holmberg R. Results from s~ngle shot ground vibration
+measurements. Rep. Swedish Det~nic Res. Foundation DS 1977:9,
+1977. (Swedish text)
+
+
+Fig. 5
+ 

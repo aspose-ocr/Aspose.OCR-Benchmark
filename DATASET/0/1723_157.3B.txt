@@ -1,0 +1,48 @@
+tungsten carbide jet plates.  No wear was visible on the blasted
+plates after 59 hours of blasting.  However, the blasting
+efficiency of the slurry decreased rapidly after a new slurry batch
+was introduced and it leveled out at less than 10% of the original
+efficiency.  These effects are shown in Figure 65.  Because of this
+deterioration of blasting efficiency, the 158 hours of testing was
+equivalent to 44 hours of blasting with virgin slurry.  Each blast-
+ing nozzle will be slurry blasting for ~15 minutes per canister.
+Therefore, this test is equivalent to more than 4-1/2 months of
+canister decontamination in the DWPF, if one canister decontami-
+nation chamber is used exclusively.
+
+     The throat of the tungsten carbide nozzle was measured with a
+hole gauge before, during, and after the test.  The throat remained
+at 0.381 inches throughout the test.  The weight of the nozzle was
+1393.9 grams before the test and 1389.4 grams after the test.  This
+is a loss of only 0.3%.  Therefore, the life of a tungsten carbide 
+nozzle in the DWPF should be measured in years.  Boride Products, 
+Inc., manufacturers a boron carbide nozzle, No. BLV-E6, that is
+supposed to have 3X the life of tungsten carbide.  However, because
+of the success of the tungsten carbide nozzle, the boron carbide 
+nozzle was not tested.
+
+     A total of 28 points were marked on the test pipe as shown in
+Figure 64.  These points were checked with an automation industries
+ultrasonic digital thickness meter, Model UTM 110 before, during, 
+and after the test.  The average wall thickness was about 0.090
+inch, but the readings varied about 0.006 inch during the test.
+There was no apparent trend to the drift, so it was assumed that if
+there was any pipe wear, it was less than 0.006 inch.  If further
+pipe wear tests are conducted, it is recommended that a standard
+close to the pipe wall thickness be used as well as the zero
+standard for calibration.  Pipe wear due to frit/water slurries at
+DWPF velocities appears not to be a major problem.  Life should be
+years.  However, additional tests will be required to determine
+pipe wear more closely.
+
+Decontamination of Canyon Cranes
+
+     Introduction and Summary
+     
+     Decontamination techniques for canyon cranes have been
+surveyed.  High-pressure Freon~~ (Du Pont) blasting is the most
+attractive process available for this application.  Laboratory-
+scale tests with radioactive specimens have demonstrated its
+effectiveness.  Large-scale SRP testing of this technique is
+recommended.
+- 155 -

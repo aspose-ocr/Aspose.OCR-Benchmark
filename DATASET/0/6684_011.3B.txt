@@ -1,0 +1,52 @@
+						8
+
+
+Comments that appear nearly identical for the different sites reflect
+information that was presented in the final EA's that was very similar among
+sites.  Similar comments do, however, take into consideration differences
+resulting from site-specific information.
+
+CONCLUSIONS AND RECOMMENDATIONS
+
+It is apparent that significant efforts were made by DOE to respond to the NRC
+staff major comments on the draft EA's, and in fact many of these comments have
+been resolved.  however, for each of the final EA's our review identified
+remaining concerns many of which are the same type of concerns identified in
+our review of the draft EA's such as 1) not identifying the range of
+uncertainties associated with the existing limited data base, 2) not
+identifying the range of alternative interpretations and assumptions that can
+be reasonably supported by existing data, and 3) not incorporating a reasonable
+range of uncertainties and alternative interpretations into evaluations and
+conclusions.  Based on the above we believe that some conclusions in the final
+EA's are still overly favorable or optimistic for the areas of comment.
+
+In accordance with our review plan, the NRC staff also reviewed aspects of the
+Methodology Document.  As mentioned earlier the NRC staff did not evaluate the
+ranking of the sites or the ranking methodology itself.  Just as was done for
+the draft EA's, the review focused on the existing data and how that data was
+used in the evaluations in the final EA's and the Methodology Document.  From
+this review it was clear that evaluations and conclusions regarding site
+conditions presented in the final EA's were factored into the evaluations of
+scenarios and their consequences presented in the Methodology Document.
+Therefore, conclusions on repository performance in the Methodology Document
+that were derived from evaluations and conclusions in the final EA's, that are
+considered in our comments to be overly optimistic, are likewise considered to
+be overly optimistic.  Some examples for the Hanford Site are 1) insufficient
+consideration of flow along large, discrete faults and fracture zones that may
+exist within dense flow interiors, including consideration of fracture flow as
+an "unexpected" feature rather than an "expected" one, and 2) inadequate
+consideration of alternative assumptions regarding pumping for the small-scale
+exploratory drilling scenario.  Some factors which were not given sufficient
+consideration for the salt sites are 1) effects of host rock mass
+heterogeneities and 2) shaft and repository sealing concerns related to
+thermally inducted salt creep and differential uplift.  An example from the
+Yucca Mountain Site is the lack of consideration that hydrothermal activity
+could be a future source of fluid important to waste package corrosion.  For
+all sites, the effects of alternative corrosion mechanisms were not factored
+into waste package lifetime analyses.  Finally, considering the examples noted
+above, it is overly optimistic to state on p. 3-41 of the Methodology Document
+that "When placed on a scale where a zero can be interpreted as performance at
+the minimum level required by the primary-containment requirements of the EPA
+standards and 1~~ is perfection, all of the sites have expected utilities of
+99.7 or higher."
+

@@ -1,0 +1,53 @@
+					- 4 -
+
+
+In conjunction with developing this level of detail, the
+phased timing for release of supporting test descriptions and
+procedures was discussed and clarified.  Any test descriptions
+and procedures which were available at the time the SCP was
+issued and which supported the investigation level discussion of
+testing contained in SCP could be released for review with the
+SCP.  Other test descriptions and procedures would be prepared as
+required by test schedules to allow for review by DOE, NRC and
+States prior to starting any test. Again, inherent in this agree-
+ment is the understanding that detailed test descriptions and
+procedures for all testing to be conducted in the exploratory
+shaft must be available and reviewed before beginning construc-
+tion of the shaft.  Presentation of such phased groupings of test
+descriptions and procedures could be included in periodic
+progress reports, but need not necessarily be tied to these
+progress reports.  Figure 6 was developed to represent the
+results of this dicussion.
+
+Further definition of an overall issue resolution strategy was
+held pending Tuesday's discussion of performance allocation.  To
+initiate this discussion, Felton Bingham presented NNWSI's
+approach for implementing performance allocation.  This approach
+had previously been presented to DOE HQ staff and endorsed as a
+effective method for implementing performance allocation.
+NNWSI's presentation raised a number of concerns from the group,
+such as concern over the difficulty in changing the performance
+goals that might be set initially, and objections to the use of
+such terms as "allocation," "goal," and "confidence", which have
+standard statistical meanings.  On the subject of revising
+initial performance allocations, the group was referred to the
+Summary of NRC/DOE Meeting on Subsystem Performance Allocation,
+signed and dated on September 27, 1986 (see Attachment C).
+Because presentation of NNWSI's approach was more detailed than
+that of SRPO or BWIP, detailed interactive discussions and com-
+parisons were difficult and there were many questions on assump-
+tions and process.  However, BWIP and SRPO both saw merit in the
+NNWSI approach.  They believed that it was complimentary and
+consistent with their evolving approaches.  They indicated that
+they wished to review the approach critically and discuss with
+NNWSI both details of the approach and the success that NNWSI was
+having in implementing it.  Project representatives agreed in
+concept with HQ that the site-specific performance allocation
+strategies should be as consistent as possible.  They agreed to
+work toward extensive commonality, but emphasized that it was
+important not to over-constrain the performance allocation
+approaches at this early stage of their development, as the
+approaches were new and would be changing as they were refined.
+
+
+

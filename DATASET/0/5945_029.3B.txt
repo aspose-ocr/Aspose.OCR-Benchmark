@@ -1,0 +1,56 @@
+2.3.2 Geoengineering
+   
+   Geoengineering properties are important in predicting the mechanical and
+thermal behavior of the host rock; they include strength and deformability,
+porosity, density, the frequency of fractures, heat conductivity, and in-situ
+stress. A detailed discussion of the geoengineering properties of the Yucca
+Mountain site can be found in Chapter 2 of the SCP/CD.
+   
+   The current data base for the geoengineering properties of the Topopah
+Spring Member consists of the results of laboratory tests on core samples from
+Yucca Mountain and both field and laboratory tests on similar tuff units in
+the region. In particular, a field testing program in G-Tunnel at Rainier
+Mesa on the Nevada Test Site (see Figure 2-2) has provided valuable informa-
+tion. The G-Tunnel data came from a tuff that is considered a reasonable
+analog for the proposed repository horizon at Yucca Mountain in many aspects,
+including similar bulk, thermal, and mechanical properties. The current data
+base was derived mainly from tests performed on small-diameter cores (about
+2.5 inches). It consists of approximately 100 tests of thermal conductivity,
+300 tests of thermal expansion, 75 mineralogical-petrological analyses, 700
+measurements of bulk properties (porosity, density), and 350 tests of mech-
+anical properties.
+   
+   The stratigraphic section at Yucca Mountain is composed of a sequence of
+welded and nonwelded tuffs. Some units are devitrified, and some are vitric.
+The portion of the Topopah Spring Member that has been selected as the poten-
+tial host rock is moderately to densely welded and devitrified, with minor
+amounts of lithophysal cavities. This unit is expected to have high strength,
+to have adequate thermal conductivity, and to be relatively easy to excavate.
+However, the characteristics that affect thermal and mechanical properties,
+such as porosity, degree of saturation, and stress state are known to vary
+both laterally and vertically. Consequently, the thermal and mechanical prop-
+erties are also likely to vary. This variability must be taken into account
+in evaluating the thickness and lateral extent of the potential host rock as
+well as in designing the underground repository and the seals for shafts and
+boreholes (see Chapter 3).
+   
+   The in-situ stresses measured at the Nevada Test Site and at Yucca Moun-
+tain are low in comparison with the generally high strength of the host rock.
+The stresses measured at Yucca Mountain are consistent with those of other
+measurements in the region. Tunnels excavated in similar layered tuffs at the
+Nevada Test Site remain stable with minimal ground support, requiring only
+rock bolts and wire mesh; these tunnels are similar to the planned excavations
+at Yucca Mountain in terms of overburden loadings, dimensions of openings, and
+methods of excavation.
+
+2.3.3 Hydrology
+
+   An important feature of a repository at Yucca Mountain is its location in
+the unsaturated zone--the zone between the surface of the land and the water
+table. Generally, any water that is present in this zone is under less than
+atmospheric pressure, and some of the voids in the rocks may contain air or
+other gases at atmospheric pressure. At Yucca Mountain, this unsaturated zone
+
+
+-17-
+

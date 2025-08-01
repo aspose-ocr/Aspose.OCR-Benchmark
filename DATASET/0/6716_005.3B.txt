@@ -1,0 +1,49 @@
+2. The time-dependent function representing the process may be approxi-
+   mated by an analytical expression involving a few deterministic
+   functions of time and a few scalar random variables.
+For example, the spatially averaged percolation flux at the level of the
+repository might be most simply approximated by
+where q0 is a random variable representing the spatially averaged percolation
+flux at closure time (t = 0), and ~ is a random variable representing the
+rate of change of the spatially averaged flux owing to future climatic
+changes. Other approximations might be justified, depending upon expert
+judgments in the areas of future climatology and unsaturated-zone hydrology.
+
+The U.S. Department of Energy approach to constructing the complementary
+cumulative distribution function
+
+In calculating the CCDF, the DOE intends to take into account all those
+natural processes and events that are sufficiently credible to warrant
+consideration. Generally, categories of natural processes and events that
+can be shown to have a likelihood of less than one chance in 10,000 of
+occurring in the first 10,000 yr after permanent closure would not be taken
+into account in CCDF. Furthermore, categories of natural processes and
+events whose contribution to the overall probability distribution can other-
+wise be shown to be insignificant would not be included in the detailed
+assessments. Likewise, any particular combinations of categories of natural
+processes and events that meet either of these two criteria would not be 
+incorporated into the CCDF. That is, particular scenario classes involving a
+sequence of categories of events or processes that, in combination, can be
+shown to have a probability of occurrence in the 10,000-yr period following
+permanent closure of less than one chance in 10,000 or that otherwise can be
+shown to make a negligible contribution to the overall probability
+distribution would not be evaluated in detail.
+
+Impacts of processes and events initiated by human activities will also
+be considered in the system performance assessments with regard to this
+issue. Repository construction and waste emplacement, as they affect the
+conditions in the geologic repository, will be taken into account in the
+evaluating of the CCDF for normalized releases. The treatment of such events
+and processes will follow an approach similar to that used for the natural
+processes and events. To address the effects of human activities (such as
+direct intrusion), the DOE will (1) evaluate the effects of potentially
+adverse human activities, such as those identified in the examination of the
+potentially adverse conditions of 10 CFR 60.122; (2) develop scenario classes
+of categories of processes and events that are initiated by human activities
+and that result in potentially significant impacts on normalized releases;
+and (3) estimate relative probabilities and consequences for these scenarios,
+taking into account the factors and the assumptions given previously in the
+regulatory basis for this issue. The scenarios and scenario classes associ-
+ated with human activities are often highly speculative and often do not
+involve significant impacts on the variables important to waste isolation.
+8.3.5.13-23

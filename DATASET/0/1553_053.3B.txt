@@ -1,0 +1,53 @@
+46
+    The sides of the glass samples were all similar.  The extent of glass 
+reaction was investigated with SIMS.  In general, there was a depletion of Li
+and Na from the glass, with the depth of depletion increasing with reaction 
+time.  The profiles of other elements showed little change.  This was prelim-
+inary evidence that diffusionally controlled hydration of the glass had 
+occurred in these regions.  During such a hydration process, the more mobile 
+elements would be released from the glass, but the matrix itself would 
+remain intact [BATES-5].                                                     
+
+    The bottom sections of the glass, in general, showed the greatest 
+reaction of all surfaces.  The reacted areas of the glass corresponded exactly 
+to the areas of the metal that showed evidence of strong interaction.  The 
+same types of reaction products were found on the glass (Figs. 15-17) as were 
+observed on the sensitized canister sections.  These included Fe, Cr, and Ni 
+silicate phases, Fe-rich phases, and a U-containing phase.  The U phase either 
+had a crystalline appearance (Fig. 17) or accumulated as an amorphous-appearing 
+clump.  The composition of both forms was similar, but no XRD pattern could be  
+obtained. 
+
+    In tests F-1 through F-5, the sections of bottom glass that were in 
+contact with the weld-affected regions of the canister had a similar appearance.
+The circular, nonmetal contact areas were not always apparent, and they were 
+never as clearly defined as for the top sections.  The reason for this finding 
+is probably that standing water always covered the entire bottom surface of 
+the waste package assemblage, which tended to normalize (even out) the reaction 
+process across the bottom surface of the glass.  Such normalization was evident 
+in the SIMS profiles, where there was little difference in the depth of reac-
+tion between the glass contact and noncontact areas.  Both areas showed Li and 
+Na depletion, followed by a smaller amount of B depletion.   
+
+    The SIMS profiles were used only for those surfaces that were dis-
+tantly removed from the regions of strong interaction.  The interaction regions 
+were profiled by mounting the glass section in epoxy and cutting through the 
+reacted region.  The cross section was polished and investigated with SEM/EDS.  
+A cross section from F-5 is shown in Fig. 18.  A reaction layer ~2 ~m thick 
+was tentatively indentified in the region of strong interaction.  Otherwise, 
+no layers were found on the glass samples. 
+
+    The bottom sections of glass from the tests that underwent little 
+interaction with the metal showed some evidence of reaction, as evidenced by 
+the cross-hatched appearance of the surface, but most of the original surface 
+features were still evident.  In a few places, isolated reaction products were 
+found, and in test F-8 there was a hole in the surface (originally a bubble 
+that had been sectioned), around which some Fe/Cr silicate phases formed.
+
+    The surface analyses of the glass suggest that two processes are 
+controlling the glass reaction.  The first is the hydration of the glass, 
+which occurs on all surfaces.  This is suggested by the selective release of 
+alkali ions without the release of matrix elements (Si, B), and is a process 
+where water exchanges with the mobile alkali elements (Na, Li) in the glass, 
+but leaves the glass matrix relatively undisturbed.  This type of reaction 
+process appears to control the reaction of the sides and top surfaces of the 

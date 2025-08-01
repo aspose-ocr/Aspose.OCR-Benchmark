@@ -1,0 +1,40 @@
+I. INTRODUCTION
+
+  This report details the technical contributions of Los Alamos National
+Laboratory to the Nevada Nuclear Waste Storage Investigations (NNWSI) project
+since the time of its inception in FY 1977 (as the NTS Terminal Waste Storage
+project) until March of 1982. The NNWSI project is managed by the Nevada
+Operations Office of the Department of Energy. Efforts have been devoted
+primarily to resolving geochemistry issues pertinent to siting a nuclear waste
+repository in tuff at the Nevada Test Site (NTS).
+  The Los Alamos National Laboratory studies of the sorptive behavior of
+tuff and transport of radionuclides through tuff have been partly generic in
+nature (to understand the sorptive behavior of tuff as a function of many
+variables) and partly site specific (to obtain data for a possible repository
+site in tuff). It is necessary to have an understanding of the mechanisms of
+radionuclide transport and retardation in tuff, as well as to have a data base
+of sorptive behavior, to perform the required safety assessment dealing with
+possible releases from a repository in tuff. Previous reports in this series
+are Refs. 1, 2, and 3.
+  When the work was initiated, the only appropriate tuff samples for this
+study were from drill hole (later well) J-13 (Ref. 4) in western Jackass Flats
+at the NTS. When the NNWSI identified Yucca Mountain as a possible repository
+location and undertook an exploratory drilling program, samples from additional
+drill holes became available.
+  Tuffaceous groundwater used in these studies has been obtained from well
+J-13 in Jackass Flats except for studies of the Yucca Mountain groundwaters
+themselves. To better simulate water in contact with the rocks under investi-
+gation, the water from well J-13 is pretreated with the particular rock of
+interest. Analyses of the water before and after such treatment have indicated
+only minor changes in composition.
+  Perhaps a more critical problem is simulation of the redox conditions
+that exist in the actual rock/groundwater systems. If the underground conditions
+are reducing, as is postulated for many deep geologic systems, then the sorptive
+behavior of elements such as technetium, uranium, neptunium, and plutonium
+will be different from that under the normal, mildly oxidizing conditions in
+air. In their lower oxidation states, these elements are generally more insolu-
+ble or sorb better on geologic media and, consequently, should be retarded
+more than in the higher states. However, at the present time, there is no
+
+
+17

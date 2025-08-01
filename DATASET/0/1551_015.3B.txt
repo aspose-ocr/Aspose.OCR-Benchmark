@@ -1,0 +1,23 @@
+The last two characterization items have not yet been conducted. Results for 
+these items will be published as they become available.
+
+    The detailed characterization plan and sampling matrix for the nine fuel 
+rods that comprise ATM-101 are listed in Table 3.1.  Fuel rod N-9 was used to 
+obtain several ceramography/metallography, burnup, and chemical samples.  The 
+locations of these groups of samples were selected to cover the wide range in 
+burnup levels present in any of the fuel rods.  The selected burnup analyses 
+and the gamma scan results from each individual rod can be combined to assign 
+the burnup and a resultant radionuclide inventory for any ATM specimen that 
+will be provided from the lot of fuel rods.
+
+    In addition to the characterizations planned for the ATM-101 material, 
+special characterizations were conducted on some processed specimens distri-
+buted to experimenters.  The results from these special characterizations are 
+described in the appropriate subsection of Section 5.0 of this report that 
+describes the distribution of ATM-101 specimens, e.g., results from the special 
+examination of crushed ATM-101 material for the Basalt Waste Isolation Project 
+(BWIP) are described in Section 5.1.
+
+    Five to ten percent of the ATM-101 spent fuel will be retained by the MCC 
+as archive material for future use.
+3.2
